@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg025_sec001_p5">
+<meta name="page-section-id" content="43">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+body:has(#content[data-source-page="25"]),body:has(#content[data-source-page="25"]) :is(button,input,textarea,select){font-family:BookPoppins,Poppins,sans-serif}
+#content.bk[data-source-page="25"]{padding-top:24px;overflow:visible}
+#content[data-source-page="25"] p{margin:0}
+#content[data-source-page="25"] em{font-style:normal;font-weight:600}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main><div id="content" class="bk" data-family="lesson-discussion" data-source-page="25">
+<section class="bk-stack" data-section-type="text_and_single_image" data-section-id="pg025_sec001_p5">
+<h2 class="bk-heading">Ndihem i/e barabartë</h2>
+<div class="bk-card bk-card--outline">
+<p class="bk-body"><em><span data-id="pg025_n0015">Fëmijëve, që kanë vështirësi të ndryshme, duhet t’u jepen të njëjtat mundësi, për të bërë një jetë dinjitoze, si gjithë të tjerët.</span> <span data-id="pg025_n0016">Fëmijët me vështirësi në të nxënë kanë nevojë për kujdes dhe arsimim të veçantë për mirërritjen e tyre.</span> <span data-id="pg025_n0017">Mësuesi duhet t’u ofrojë besim dhe mbështetje për zhvillim të plotë.</span> <span data-id="pg025_n0018">Ata janë pjesë e rëndësishme e shoqërisë.</span> <span data-id="pg025_n0019">Secili prej tyre duhet të ndihmohet për të qenë i pavarur dhe t’i sigurohet pjesëmarrje aktive në komunitetin e tij.</span></em></p>
+</div>
+<p class="bk-body" data-id="pg025_n0020"><strong>Fjalët kyçe:</strong> aftësi e kufizuar, vështirësi, nevojë e veçantë.</p>
+<p class="bk-caption" aria-label="Faqja e burimit 25">25</p>
+</section></div></main>
+<script>window.activityAnswerTextIds=JSON.parse('{}');</script>
+<div id="interface-container"></div><div id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

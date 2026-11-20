@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg031_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="49">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk">
+  <section data-section-type="text_and_single_image" data-section-id="pg031_sec001" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5">
+    <div class="mb-8 border-b-4 border-purple-400 pb-3">
+      <h1 class="adt-h2 font-semibold text-gray-800" data-id="pg031_n0003">Vlerat</h1>
+    </div>
+
+    <div class="mb-8 rounded-2xl bg-white">
+      <div class="mb-3">
+        <h3 class="adt-h3 inline-block rounded-md bg-amber-300 px-3 py-1 font-semibold text-gray-900" data-id="pg031_n0005">Situata 2.</h3>
+      </div>
+      <p class="adt-body text-left leading-relaxed text-gray-800">
+        <span data-id="pg031_n0006">Mësimi në distancë shkaktoi disa probleme, të cilave nuk mund t'u gjenim zgjidhje.</span>
+        <span data-id="pg031_n0007">Për shembull, shoku ynë i klasës nuk kishte telefon për të komunikuar.</span>
+        <span data-id="pg031_n0008">Çdo gjë në këtë kohë ishte e lidhur me teknologjinë.</span>
+        <span data-id="pg031_n0009">U kujtova që gjyshes sime i kishin dhuruar një telefon.</span>
+        <span data-id="pg031_n0010">Mendova se Besmirit në këto momente do t’i shërbente më shumë</span>
+      </p>
+    </div>
+
+    <div class="mb-8 overflow-hidden rounded-3xl bg-amber-50 p-4 shadow-sm">
+      <img data-id="pg031_im001" src="images/pg031_im001.png" alt="Djali rri pranë gjyshes së ulur në kolltuk, ndërsa ajo mban telefonin në dorë për ta ndihmuar." class="mx-auto w-full h-auto max-w-4xl">
+    </div>
+
+    <div class="mb-10 rounded-2xl bg-purple-200 p-5 shadow-sm">
+      <div class="space-y-5">
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg031_n0014">Çfarë mendon se bëri djali?</span></p>
+          <label for="item-1" class="sr-only">Çfarë mendon se bëri djali?</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="Çfarë mendon se bëri djali?" class="mt-2 min-h-11 w-full rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-500"></textarea>
+        </div>
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg031_n0016">Vazhdoje tregimin ashtu siç mendon ti se do të zhvillohet më tutje.</span></p>
+          <label for="item-2" class="sr-only">Vazhdoje tregimin ashtu siç mendon ti se do të zhvillohet më tutje.</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="Vazhdoje tregimin ashtu siç mendon ti se do të zhvillohet më tutje." class="mt-2 min-h-11 w-full rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-500"></textarea>
+        </div>
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg031_n0018">Po ti, si do të veproje në një situatë të tillë?</span></p>
+          <label for="item-3" class="sr-only">Po ti, si do të veproje në një situatë të tillë?</label>
+          <textarea id="item-3" data-activity-item="item-3" aria-label="Po ti, si do të veproje në një situatë të tillë?" class="mt-2 min-h-11 w-full rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-500"></textarea>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-8 rounded-2xl border-2 border-purple-300 bg-white p-5 shadow-sm">
+      <p class="adt-body text-left italic leading-relaxed text-gray-800">
+        <span data-id="pg031_n0021">Njerëz të ndryshëm kanë nevoja të ndryshme, prandaj duhet t’u qëndrojmë atyre pranë, duke u dhënë ndihmën tonë.</span>
+        <span data-id="pg031_n0022">Një njeri që nuk dëgjon apo një i verbër, ka nevojë që të shoqërohet nga dikush, pra për më shumë kujdes.</span>
+        <span data-id="pg031_n0023">Dikush që ka vështirësi në mësime, ka nevojë që të ndihmohet nga shoqet ose shokët që kanë rezultate më të mira në mësime.</span>
+        <span data-id="pg031_n0024">Motra apo vëllai më i vogël ka nevojë për më shumë kujdes.</span>
+        <span data-id="pg031_n0025">Në një situatë të tillë, kur ne u ofrojmë atyre mbështetje, kemi treguar vlerat tona të vërteta.</span>
+        <span data-id="pg031_n0026">Respekti duhet të ekzistojë te të gjithë dhe për të gjithë pa dallim race, gjinie dhe moshe.</span>
+        <span data-id="pg031_n0027">Është e rëndësishme që njerëzit kanë nevojë ta dinë se mund të mbështeten tek të tjerët.</span>
+        <span data-id="pg031_n0028">Ata duhet të trajtohen në mënyrë të barabartë dhe me dinjitet.</span>
+      </p>
+    </div>
+
+    <p class="adt-body text-left text-gray-900">
+      <span data-id="pg031_n0030" class="font-semibold">Fjalët kyçe:</span>
+      <span data-id="pg031_n0031">liri, paqe, respekt, tolerancë, barazi.</span>
+    </p>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

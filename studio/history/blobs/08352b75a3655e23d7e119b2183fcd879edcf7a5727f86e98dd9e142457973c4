@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg095_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="120" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-4 py-8 bg-white opacity-0">
+  <section data-section-type="text_and_single_image" data-section-id="pg095_sec001" class="space-y-8 text-left text-zinc-800">
+    <div class="px-4">
+      <div class="bg-purple-500/20 rounded-[1.75rem] border-l-8 border-purple-500 px-6 py-5 max-sm:px-5 max-sm:py-4 max-sm:max-w-[18rem]">
+        <h1 data-id="pg095_n0003" class="adt-h2 font-bold text-zinc-900">Shfryt&#xeb;zimi i pasurive n&#xeb;ntok&#xeb;sore</h1>
+      </div>
+      <div class="mt-3 h-1 w-56 bg-purple-400 max-sm:w-40"></div>
+    </div>
+
+    <aside class="mx-4 bg-purple-200/70 px-5 py-5 max-sm:px-4 rounded-none shadow-sm relative">
+      <div class="absolute right-0 top-0 h-16 w-24 bg-purple-500/80 max-sm:w-20"></div>
+      <div class="relative z-10 space-y-5">
+        <ul class="space-y-5 list-none">
+          <li>
+            <p class="adt-body"><span data-id="pg095_n0007">Bisedoni p&#xeb;r situat&#xeb;n e dh&#xeb;n&#xeb;.</span></p>
+            <label for="item-1" class="sr-only">Bisedoni p&#xeb;r situat&#xeb;n e dh&#xeb;n&#xeb;.</label>
+            <textarea id="item-1" data-activity-item="item-1" aria-label="Bisedoni p&#xeb;r situat&#xeb;n e dh&#xeb;n&#xeb;." class="mt-2 w-full min-h-11 h-24 rounded-xl border-2 border-purple-300 bg-white/95 px-4 py-3 outline-none focus:border-purple-500"></textarea>
+          </li>
+          <li>
+            <p class="adt-body"><span data-id="pg095_n0009">Cilat jan&#xeb; pasurit&#xeb; n&#xeb;ntok&#xeb;sore t&#xeb; Kosov&#xeb;s?</span></p>
+            <label for="item-2" class="sr-only">Cilat jan&#xeb; pasurit&#xeb; n&#xeb;ntok&#xeb;sore t&#xeb; Kosov&#xeb;s?</label>
+            <textarea id="item-2" data-activity-item="item-2" aria-label="Cilat jan&#xeb; pasurit&#xeb; n&#xeb;ntok&#xeb;sore t&#xeb; Kosov&#xeb;s?" class="mt-2 w-full min-h-11 h-24 rounded-xl border-2 border-purple-300 bg-white/95 px-4 py-3 outline-none focus:border-purple-500"></textarea>
+          </li>
+          <li>
+            <p class="adt-body"><span data-id="pg095_n0011">P&#xeb;rse p&#xeb;rdoren ato?</span></p>
+            <label for="item-3" class="sr-only">P&#xeb;rse p&#xeb;rdoren ato?</label>
+            <textarea id="item-3" data-activity-item="item-3" aria-label="P&#xeb;rse p&#xeb;rdoren ato?" class="mt-2 w-full min-h-11 h-24 rounded-xl border-2 border-purple-300 bg-white/95 px-4 py-3 outline-none focus:border-purple-500"></textarea>
+          </li>
+          <li>
+            <p class="adt-body"><span data-id="pg095_n0013">A duhet t&#xeb; kemi kujdes n&#xeb; shfryt&#xeb;zimin e tyre?</span> <span data-id="pg095_n0014">Pse?</span></p>
+            <label for="item-4" class="sr-only">A duhet t&#xeb; kemi kujdes n&#xeb; shfryt&#xeb;zimin e tyre? Pse?</label>
+            <textarea id="item-4" data-activity-item="item-4" aria-label="A duhet t&#xeb; kemi kujdes n&#xeb; shfryt&#xeb;zimin e tyre? Pse?" class="mt-2 w-full min-h-11 h-24 rounded-xl border-2 border-purple-300 bg-white/95 px-4 py-3 outline-none focus:border-purple-500"></textarea>
+          </li>
+          <li>
+            <p class="adt-body"><span data-id="pg095_n0016">A mendon edhe ti se me gjith&#xeb; k&#xeb;to pasuri n&#xeb;ntok&#xeb;sore mund t&#xeb; zhvillohet m&#xeb; shum&#xeb; ekonomia e vendit ton&#xeb;?</span></p>
+            <label for="item-5" class="sr-only">A mendon edhe ti se me gjith&#xeb; k&#xeb;to pasuri n&#xeb;ntok&#xeb;sore mund t&#xeb; zhvillohet m&#xeb; shum&#xeb; ekonomia e vendit ton&#xeb;?</label>
+            <textarea id="item-5" data-activity-item="item-5" aria-label="A mendon edhe ti se me gjith&#xeb; k&#xeb;to pasuri n&#xeb;ntok&#xeb;sore mund t&#xeb; zhvillohet m&#xeb; shum&#xeb; ekonomia e vendit ton&#xeb;?" class="mt-2 w-full min-h-11 h-24 rounded-xl border-2 border-purple-300 bg-white/95 px-4 py-3 outline-none focus:border-purple-500"></textarea>
+          </li>
+        </ul>
+      </div>
+    </aside>
+
+    <div class="mx-3 border-2 border-purple-400 bg-white px-5 py-4 relative overflow-hidden">
+      <div class="absolute right-0 top-0 h-16 w-28 bg-purple-500/80 z-0 max-sm:h-14 max-sm:w-20"></div>
+      <p class="adt-body italic leading-relaxed text-zinc-800 relative z-10 pr-32 max-sm:pr-0 max-sm:pt-12"><span data-id="pg095_n0019">Kosova ka shum&#xeb; pasuri natyrore.</span> <span data-id="pg095_n0020">Pasurit&#xeb; natyrore q&#xeb; nxirren nga toka quhen pasuri n&#xeb;ntok&#xeb;sore.</span> <span data-id="pg095_n0021">Zbulimi, shfryt&#xeb;zimi dhe p&#xeb;rpunimi i tyre jan&#xeb; shum&#xeb; t&#xeb; r&#xeb;nd&#xeb;sishme p&#xeb;r ekonomin&#xeb; e vendit.</span> <span data-id="pg095_n0022">Pasurit&#xeb; n&#xeb;ntok&#xeb;sore jan&#xeb;: shk&#xeb;mbinjt&#xeb;, mineralet, xehet dhe l&#xeb;nd&#xeb;t djeg&#xeb;se.</span> <span data-id="pg095_n0023">L&#xeb;nd&#xeb;t djeg&#xeb;se jan&#xeb;: th&#xeb;ngjilli, nafta dhe gazi natyror.</span> <span data-id="pg095_n0024">Kosova &#xeb;sht&#xeb; e pasur me th&#xeb;ngjill, nga i cili prodhohet energjia elektrike n&#xeb; Termocentralin e Kosov&#xeb;s.</span> <span data-id="pg095_n0025">Ka shum&#xeb; minerale e m&#xeb; s&#xeb; shumti plumb, q&#xeb; nxirret nga minierat e Trep&#xe7;&#xeb;s n&#xeb; Mitrovic&#xeb;.</span> <span data-id="pg095_n0026">Tregohet interesim i madh p&#xeb;r gjetjen e gazit natyror n&#xeb; Kosov&#xeb; dhe shfryt&#xeb;zimin e tij p&#xeb;r prodhimin e energjis&#xeb;.</span> <span data-id="pg095_n0027">K&#xeb;to pasuri duhen shfryt&#xeb;zuar sa m&#xeb; arsyesh&#xeb;m, sepse harxhimi i pakontrolluar i tyre shkakton humbje, duke qen&#xeb; se k&#xeb;to pasuri jan&#xeb; t&#xeb; parip&#xeb;rt&#xeb;ritshme.</span></p>
+    </div>
+
+    <figure class="space-y-0">
+      <img data-id="pg095_im002" src="images/pg095_im002.png" alt="Termocentrali n&#xeb; Obiliq me oxhaqe t&#xeb; larta q&#xeb; nxjerrin tym gjat&#xeb; prodhimit t&#xeb; energjis&#xeb; elektrike nga th&#xeb;ngjilli." class="w-full h-auto object-cover">
+      <figcaption data-id="pg095_n0029" class="adt-caption bg-white/90 text-zinc-700 px-4 py-3">Prodhimi i energjis&#xeb; elektrike me th&#xeb;ngjill n&#xeb; termocentrale, Obiliq</figcaption>
+    </figure>
+
+    <div class="px-4 pb-2">
+      <p class="adt-body"><span data-id="pg095_n0031" class="font-semibold">Fjal&#xeb;t ky&#xe7;e:</span> <span data-id="pg095_n0032">pasuri n&#xeb;ntok&#xeb;sore, minerale, minier&#xeb;, l&#xeb;nd&#xeb; djeg&#xeb;se, th&#xeb;ngjill.</span></p>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg019_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="24">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto opacity-0 bk">
+  <section data-section-type="text_and_single_image" data-section-id="pg019_sec001" class="bg-white text-slate-800">
+    <div class="w-full bg-purple-500">
+      <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-6 flex items-center justify-between gap-6 max-lg:flex-col max-lg:items-start">
+        <h1 class="adt-h1 font-bold text-white" data-id="pg019_n0002">Secili ka të drejta dhe përgjegjësi</h1>
+        <div aria-hidden="true" class="shrink-0 w-24 h-24 rounded-2xl bg-purple-400 flex items-center justify-center text-white">⚖</div>
+      </div>
+    </div>
+
+    <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-6 space-y-8">
+      <div>
+        <h2 class="adt-h2 font-semibold text-slate-900" data-id="pg019_n0004">Institucionet që na mbrojnë</h2>
+        <div aria-hidden="true" class="mt-2 h-1 w-72 bg-purple-400 rounded-full"></div>
+      </div>
+
+      <div class="space-y-4">
+        <div class="flex items-start gap-4 max-sm:flex-col max-sm:gap-3">
+          <div class="bg-amber-300 px-4 py-2 rounded-sm shadow-sm">
+            <span class="adt-body font-semibold text-slate-900" data-id="pg019_n0006">Situata 2.</span>
+          </div>
+          <p class="adt-body leading-relaxed text-left flex-1">
+            <span data-id="pg019_n0008">Në qytetin tonë të zhurmshëm, vijon tradita e bashkëpunimit me policinë rrugore.</span>
+            <span data-id="pg019_n0009">Ka kohë që, në oraret kur ne hyjmë e dalim nga shkolla, polici bllokon qarkullimin dhe qëndron te vijat e bardha.</span>
+            <span data-id="pg019_n0010">Kështu, ndihemi të sigurt ndaj çdo rreziku.</span>
+          </p>
+        </div>
+
+        <div class="rounded-3xl overflow-hidden bg-slate-100 border border-slate-200 shadow-sm">
+          <img src="images/pg019_im001.png" alt="Polici rrugor ndalon veturat te vijat e bardha, ndërsa dy nxënës me çanta kalojnë rrugën të sigurt." data-id="pg019_im001" class="w-full h-auto block">
+        </div>
+      </div>
+
+      <div class="bg-purple-100 border-l-8 border-purple-300 rounded-2xl p-5 max-sm:p-4">
+        <div class="space-y-5">
+          <div class="space-y-2">
+            <p class="adt-body text-left" data-id="pg019_n0014">Për çfarë shërbejnë vijat e bardha?</p>
+            <label for="item-1" class="sr-only">Për çfarë shërbejnë vijat e bardha?</label>
+            <textarea id="item-1" data-activity-item="item-1" aria-label="Për çfarë shërbejnë vijat e bardha?" class="w-full min-h-11 rounded-xl border-2 border-purple-200 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-400"></textarea>
+          </div>
+          <div class="space-y-2">
+            <p class="adt-body text-left" data-id="pg019_n0016">Pse polici bllokon qarkullimin e mjeteve në vijat e bardha?</p>
+            <label for="item-2" class="sr-only">Pse polici bllokon qarkullimin e mjeteve në vijat e bardha?</label>
+            <textarea id="item-2" data-activity-item="item-2" aria-label="Pse polici bllokon qarkullimin e mjeteve në vijat e bardha?" class="w-full min-h-11 rounded-xl border-2 border-purple-200 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-400"></textarea>
+          </div>
+          <div class="space-y-2">
+            <p class="adt-body text-left" data-id="pg019_n0018">A ndiheni ju të sigurt? Pse?</p>
+            <label for="item-3" class="sr-only">A ndiheni ju të sigurt? Pse?</label>
+            <textarea id="item-3" data-activity-item="item-3" aria-label="A ndiheni ju të sigurt? Pse?" class="w-full min-h-11 rounded-xl border-2 border-purple-200 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-400"></textarea>
+          </div>
+        </div>
+      </div>
+
+      <div class="border-2 border-purple-300 rounded-2xl p-5 max-sm:p-4 bg-white">
+        <p class="adt-body leading-relaxed italic text-left">
+          <span data-id="pg019_n0021">Shteti ka për detyrë të mbrojë të drejtat e njerëzve.</span>
+          <span data-id="pg019_n0022">Ai e bën këtë përmes ligjeve dhe institucioneve që kujdesen që të gjithë të sillen në mënyrë të drejtë dhe me respekt.</span>
+          <span data-id="pg019_n0023">Institucioni është një organizatë ose vend ku njerëzit punojnë së bashku, për të kryer një punë në një fushë të caktuar, si p.sh.: në arsim, në shkencë, në shëndetësi, në kulturë, në ekonomi etj.</span>
+          <span data-id="pg019_n0024">Ka shumë organizata ndërkombëtare që mbrojnë të drejtat e njeriut e të fëmijëve.</span>
+          <span data-id="pg019_n0025">Organizata e Kombeve të Bashkuara (OKB), mbron liritë dhe të drejtat e njeriut, si dhe ka rol të rëndësishëm për sigurimin e paqes në botë.</span>
+          <span data-id="pg019_n0026">Organizata për Sigurimin dhe Bashkëpunimin në Evropë (OSBE) ndihmon në mbrojtjen e të drejtave të njeriut dhe përfshin të gjitha shtetet evropiane.</span>
+          <span data-id="pg019_n0027">Avokati i Popullit mbron të drejtat e njeriut, si dhe shqyrton ankesat e personave që mendojnë se u është shkelur një e drejtë.</span>
+        </p>
+      </div>
+
+      <div class="pt-2">
+        <p class="adt-body text-left">
+          <span class="font-semibold" data-id="pg019_n0029">Fjalët kyçe:</span>
+          <span data-id="pg019_n0030">Institucion, ligj, polici rrugore.</span>
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title><meta name="title-id" content="pg077_sec001"><meta name="page-section-id" content="101">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="bk" data-family="lesson-discussion">
+<section data-section-type="text_and_single_image" data-section-id="pg077_sec001">
+<header class="bk-banner"><div class="bk-row"><h1 class="bk-title">Jeta në Kosovë dikur dhe sot</h1><img src="studio/assets/pg077_sec001-hourglass.png" alt="" width="25" height="48"></div></header>
+<div class="bk-stack">
+<h2 data-id="pg077_n0003" class="bk-heading">Njerëzit që nuk harrohen</h2>
+<div class="bk-body"><span data-id="pg077_n0005" class="bk-chip" style="background:var(--bk-accent3)">Situata 2.</span>
+<p><span data-id="pg077_n0008">Mali shkon rregullisht te dentisti.</span> <span data-id="pg077_n0009">Shumë i pëlqen kur i sheh gjithë ato mjete, me të cilat ndreqen dhëmbët.</span> <span data-id="pg077_n0010">Edhe butësia e dentistit ka bërë që Mali të kujdeset për shëndetin e dhëmbëve me shumë dëshirë.</span> <span data-id="pg077_n0011">Një ditë, ai e pyeti gjyshin:</span></p>
+<p><span data-id="pg077_n0012">- Gjysh, si ka qenë mjekësia në kohën tënde?</span></p></div>
+</div></section></div></main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');</script><div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+</body></html>

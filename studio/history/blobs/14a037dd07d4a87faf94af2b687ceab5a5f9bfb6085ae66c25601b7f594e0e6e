@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg106_sec001_p3">
+<meta name="page-section-id" content="142">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>
+#content.bk.bk.bk .bk-card{background:var(--bk-surface2);border-color:var(--bk-surface2);max-width:720px}
+#content.bk.bk.bk .bk-card p{margin:0}
+#content.bk.bk.bk .bk-card p+p{margin-top:12px}
+#interface-container,#interface-container *,#nav-container,#nav-container *{font-family:BookPoppins,Poppins,Arial,sans-serif!important}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full"><div data-family="illustrated-reading" id="content" class="container mx-auto opacity-0 bk">
+<section data-section-type="text_and_single_image" data-section-id="pg106_sec001_p3" class="bk-stack"><div class="bk-card">
+<p class="bk-body"><span data-id="pg106_n0013">Dea: Uji është i çmueshëm, kështu që duhet ta ruajmë.</span> <span data-id="pg106_n0014">Të mos hedhim mbeturina në lumenj!</span> <span data-id="pg106_n0015">Të mos e lëmë çezmën hapur pa nevojë!</span> <span data-id="pg106_n0016">Të kujdesemi për ruajtjen e energjisë.</span></p>
+<p class="bk-body"><span data-id="pg106_n0017">Mali: Ne mund të mbjellim drurë, shumë drurë, së paku një gjatë jetës sonë.</span> <span data-id="pg106_n0018">Ne së bashku mund ta bëjmë ndryshimin për një ambient sa më të pastër dhe një jetë të shëndetshme.</span></p>
+</div></section></div></main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+</body></html>

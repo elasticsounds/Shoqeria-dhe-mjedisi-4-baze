@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg113_sec001">
+    <meta name="page-section-id" content="151">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+      body, #nav-container, #interface-container { font-family: BookPoppins, Poppins, Arial, sans-serif; }
+      #nav-container :not(i):not([class*="fa-"]), #interface-container :not(i):not([class*="fa-"]) { font-family: BookPoppins, Poppins, Arial, sans-serif !important; }
+      #content.bk.bk.bk { padding-top: 24px; overflow-x: visible; }
+      #content.bk.bk.bk .bk-banner { margin: 0 0 24px; padding: 16px 20px; border-radius: var(--bk-r-card); }
+      #pg113-header { justify-content: space-between; flex-wrap: nowrap; }
+      #pg113-emblem { width: 48px; height: 48px; flex: none; object-fit: contain; }
+      #content.bk.bk.bk #pg113-subtitle { width: min(100%, 420px); border-bottom: 2px solid var(--bk-primary); padding-bottom: 12px; }
+      #content.bk.bk.bk #pg113-view { display: flex; flex-direction: column; align-items: center; gap: 8px; padding: 0; margin: 0 auto; max-width: 100%; background: transparent; border: 0; color: var(--bk-ink); cursor: zoom-in; }
+      #content.bk.bk.bk #pg113-view img { width: auto; height: auto; max-width: 100%; max-height: 440px; border-radius: 0; }
+      #content.bk.bk.bk #pg113-view span { text-decoration: underline; text-underline-offset: 3px; }
+      #content.bk.bk.bk #pg113-folio { text-align: right; }
+      #content.bk.bk.bk #pg113-dialog { box-sizing: border-box; width: min(1000px, calc(100% - 32px)); max-width: none; max-height: calc(100% - 32px); margin: auto; padding: 20px; border: 2px solid var(--bk-primary); border-radius: var(--bk-r-card); color: var(--bk-ink); background: var(--bk-paper); overflow: auto; }
+      #pg113-dialog::backdrop { background: rgba(40, 40, 60, .75); }
+      #content.bk.bk.bk #pg113-dialog img { width: 100%; height: auto; border-radius: 0; }
+      #content.bk.bk.bk #pg113-dialog .bk-row { justify-content: space-between; }
+      #content.bk.bk.bk #pg113-dialog a { color: var(--bk-ink); }
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-opener" id="content" class="container opacity-0 bk">
+        <section data-section-type="separator" data-section-id="pg113_sec001">
+          <header class="bk-banner">
+            <div class="bk-row" id="pg113-header">
+              <h1 class="bk-title" data-id="pg113_n0003">Mjedisi i vendit tim</h1>
+              <img id="pg113-emblem" src="studio/assets/pg113_sec001-emblem.png" alt="">
+            </div>
+          </header>
+          <div class="bk-stack">
+            <h2 class="bk-heading" id="pg113-subtitle" data-id="pg113_n0005">Ndotja e ujërave</h2>
+            <figure class="bk-figure">
+              <button id="pg113-view" type="button" aria-haspopup="dialog" aria-controls="pg113-dialog">
+                <img data-id="pg113_im001" src="images/pg113_im001.png" alt="Tre fëmijë pranë një lumi pastrojnë bregun duke mbledhur shishe plastike dhe mbeturina në një qese të madhe, me fusha dhe shtëpi në sfond.">
+                <span>Shiko figurën të zmadhuar</span>
+              </button>
+            </figure>
+            <p id="pg113-folio" class="bk-caption">113</p>
+          </div>
+          <dialog id="pg113-dialog" aria-labelledby="pg113-dialog-title">
+            <div class="bk-stack">
+              <div class="bk-row">
+                <h2 class="bk-heading" id="pg113-dialog-title">Figura e zmadhuar</h2>
+                <button id="pg113-close" class="bk-btn bk-btn--secondary" type="button">Mbyll</button>
+              </div>
+              <img src="images/pg113_im001.png" alt="Tre fëmijë pranë një lumi pastrojnë bregun duke mbledhur shishe plastike dhe mbeturina në një qese të madhe, me fusha dhe shtëpi në sfond.">
+              <a href="images/pg113_im001.png" target="_blank" rel="noopener">Hap figurën në madhësi origjinale (hapet në skedë të re)</a>
+            </div>
+          </dialog>
+        </section>
+      </div>
+    </main>
+    <script type="text/javascript">
+      window.activityAnswerTextIds = JSON.parse('{}');
+      (function () {
+        var trigger = document.getElementById('pg113-view');
+        var dialog = document.getElementById('pg113-dialog');
+        var close = document.getElementById('pg113-close');
+        trigger.addEventListener('click', function () { dialog.showModal(); close.focus(); });
+        close.addEventListener('click', function () { dialog.close(); });
+        dialog.addEventListener('close', function () { trigger.focus(); });
+      }());
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

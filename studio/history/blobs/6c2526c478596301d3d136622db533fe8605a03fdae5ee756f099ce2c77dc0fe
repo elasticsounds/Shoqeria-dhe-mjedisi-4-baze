@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg106_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="135">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto opacity-0 bk">
+  <section data-section-type="text_and_single_image" data-section-id="pg106_sec001" class="bg-[#f3cfb1]">
+    <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 pt-8 pb-2">
+      <div class="flex items-start gap-0 max-sm:flex-col max-sm:gap-4">
+        <div class="shrink-0 w-36 h-56 max-sm:w-28 max-sm:h-32 bg-[#a96bb1] rounded-tl-xl rounded-bl-xl rounded-br-xl flex items-center justify-center max-sm:rounded-xl">
+          <svg viewBox="0 0 64 64" class="w-16 h-16 fill-white max-sm:w-12 max-sm:h-12" aria-hidden="true">
+            <path d="M31 10c3 4 5 9 5 15s-2 11-5 15c-3-4-5-9-5-15s2-11 5-15Zm0 30c3 3 5 7 5 12s-2 9-5 12c-3-3-5-7-5-12s2-9 5-12Zm-9-19c-4 0-9-2-14-7 5-2 10-2 14 0 4 2 7 6 9 11-4 0-7-1-9-4Zm18 0c4 0 9-2 14-7-5-2-10-2-14 0-4 2-7 6-9 11 4 0 7-1 9-4ZM22 33c-4 0-9-2-14-7 5-2 10-2 14 0 4 2 7 6 9 11-4 0-7-1-9-4Zm18 0c4 0 9-2 14-7-5-2-10-2-14 0-4 2-7 6-9 11 4 0 7-1 9-4ZM22 45c-4 0-9-2-14-7 5-2 10-2 14 0 4 2 7 6 9 11-4 0-7-1-9-4Zm18 0c4 0 9-2 14-7-5-2-10-2-14 0-4 2-7 6-9 11 4 0 7-1 9-4Z" />
+          </svg>
+        </div>
+        <div class="flex-1 pt-14 max-sm:pt-0">
+          <div class="bg-[#a96bb1] px-6 py-3 w-[calc(100%+5rem)] -ml-2 max-sm:w-full max-sm:ml-0 max-sm:px-4 max-sm:py-3">
+            <h1 class="adt-h1 font-bold text-white leading-tight"><span data-id="pg106_n0002">Resurset dhe trashëgimia e vendit tim</span></h1>
+          </div>
+          <div class="pt-4 max-sm:pt-3">
+            <h2 class="adt-h2 text-[#2d2a2e] font-semibold inline-block border-b-4 border-[#a96bb1] pb-2 pr-20 max-sm:pr-0"><span data-id="pg106_n0003">Ndihmojmë për një mjedis të pastër</span></h2>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 pt-4 pb-0">
+      <h3 class="adt-h3 inline-block bg-[#63b96e] text-[#1d1d1d] font-semibold px-5 py-2 mb-6"><span data-id="pg106_n0004">Situata 1.</span></h3>
+
+      <p class="adt-body text-[#3a2a22] leading-relaxed text-left">
+        <span data-id="pg106_n0006">Mësuesi: Nxënës, sot do të flasim për ambientin, pandaj ajo çka kërkoj nga ju është që secili nga ju të tregoni se si mund të ndihmoni për një mjedis të pastër.</span>
+        <span data-id="pg106_n0007">Arsimi: Mësues, duke qenë se makinat ndotin ajrin, nëpër qytet duhet të ecim, të shfrytëzojmë biçikletën ose transportin publik - autobusin.</span>
+        <span data-id="pg106_n0008">Ema: Për jetë të shëndetshme në planetin tonë, në të ardhmen, një rol të rëndësishëm do të luajë menaxhimi i mbeturinave.</span>
+        <span data-id="pg106_n0009">Ato duhet të riciklohen.</span>
+        <span data-id="pg106_n0010">Riciklimi i tyre është shumë i rëndësishëm.</span>
+        <span data-id="pg106_n0011">Prodhimi i sendeve nga riciklimi i mbeturinave harxhon më pak energji se prodhimi i tyre nga materiale të reja.</span>
+        <span data-id="pg106_n0012">Mbeturinat nuk duhet të hidhen në tokë, por në shportat përkatëse.</span>
+        <span data-id="pg106_n0013">Dea: Uji është i çmueshëm, kështu që duhet ta ruajmë.</span>
+        <span data-id="pg106_n0014">Të mos hedhim mbeturina në lumenj!</span>
+        <span data-id="pg106_n0015">Të mos e lëmë çezmën hapur pa nevojë!</span>
+        <span data-id="pg106_n0016">Të kujdesemi për ruajtjen e energjisë.</span>
+        <span data-id="pg106_n0017">Mali: Ne mund të mbjellim drurë, shumë drurë, së paku një gjatë jetës sonë.</span>
+        <span data-id="pg106_n0018">Ne së bashku mund ta bëjmë ndryshimin për një ambient sa më të pastër dhe një jetë të shëndetshme.</span>
+        <span data-id="pg106_n0019">Mësuesi: Ju lumtë, nxënës!</span>
+        <span data-id="pg106_n0020">Ne duhet të kujdesemi për ambientin, që edhe vetë të jemi të shëndetshëm.</span>
+      </p>
+
+      <div class="mt-8 max-sm:mt-6 rounded-t-3xl overflow-hidden bg-[#efc9a9]">
+        <img data-id="pg106_im001" src="images/pg106_im001.png" alt="Mësuesi po u shpjegon nxënësve në klasë për kujdesin ndaj ambientit, pranë tabelës me një pamje të natyrës." class="w-full h-auto block">
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

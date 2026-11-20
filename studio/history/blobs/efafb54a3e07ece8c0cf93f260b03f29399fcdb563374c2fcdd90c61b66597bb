@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg079_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="107">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-reading" id="content" class="container bg-white opacity-0 bk">
+  <section data-section-type="text_and_images" data-section-id="pg079_sec001" class="pb-12">
+    <div class="w-full bg-[#b06ab3]">
+      <div class="mx-auto flex w-full max-w-5xl items-center justify-between px-8 py-6 max-sm:px-5">
+        <h1 class="adt-h1 font-bold text-white" data-id="pg079_n0002">Jeta në Kosovë dikur dhe sot</h1>
+        <div aria-hidden="true" class="ml-6 flex h-24 w-24 items-center justify-center rounded-2xl bg-[#a261ab] text-white max-sm:h-20 max-sm:w-20">
+          <div>⌛</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mx-auto w-full max-w-5xl px-8 pt-5 max-sm:px-5">
+      <h2 class="adt-h2 border-b-4 border-[#b06ab3] pb-3 font-semibold text-neutral-800" data-id="pg079_n0004">Kultura – pasuri kombëtare</h2>
+
+      <div class="mt-10 grid grid-cols-12 gap-0 border-2 border-[#c78bc9] max-lg:grid-cols-1">
+        <div class="col-span-6 border-r-2 border-[#c78bc9] p-5 max-lg:border-r-0 max-lg:border-b-2">
+          <h3 class="adt-h3 mb-3 font-bold text-neutral-800" data-id="pg079_n0007">Grupi i tretë: Muzika në Kosovë</h3>
+          <p class="adt-body leading-relaxed text-neutral-800">
+            <span data-id="pg079_n0009">Muzika është pjesë e kulturës së një populli.</span> <span data-id="pg079_n0010">Në Kosovë fillimisht ishte e zhvilluar muzika folklorike, popullore e më pas u zhvilluan edhe zhanret e tjera, si: muzika klasike, moderne e të tjera.</span>
+          </p>
+        </div>
+        <div class="col-span-6 flex gap-4 p-5 max-sm:flex-col">
+          <img src="images/pg079_im008_seg001_v1_crop_v1.png" alt="Ymer Riza i ulur me çifteli në duar, në një fotografi bardhë e zi." data-id="pg079_im008_seg001_v1_crop_v1" class="h-56 w-48 flex-none border border-[#c78bc9] object-cover max-sm:h-auto max-sm:w-full">
+          <p class="adt-body z-10 leading-relaxed text-neutral-800">
+            <span data-id="pg079_n0013">Ymer Riza ishte njëri prej këngëtarëve të parë shqiptarë të muzikës popullore me sharki e çifteli.</span> <span data-id="pg079_n0014">Ai u konsiderua si legjenda e folklorit shqiptar.</span>
+          </p>
+        </div>
+      </div>
+
+      <div class="grid grid-cols-12 gap-0 border-x-2 border-b-2 border-[#c78bc9] max-lg:grid-cols-1">
+        <div class="col-span-7 border-r-2 border-[#c78bc9] p-5 max-lg:border-r-0 max-lg:border-b-2">
+          <div class="flex gap-4 max-sm:flex-col">
+            <img src="images/pg079_im008_seg002_v1_crop_v1.png" alt="Nexhmije Pagarusha e buzëqeshur, e veshur me kostum tradicional, në një fotografi bardhë e zi." data-id="pg079_im008_seg002_v1_crop_v1" class="h-72 w-52 flex-none border border-[#c78bc9] object-cover max-sm:h-auto max-sm:w-full">
+            <p class="adt-body z-10 leading-relaxed text-neutral-800">
+              <span data-id="pg079_n0017">Nexhmije Pagarusha, këngëtare e muzikës popullore dhe e operës.</span> <span data-id="pg079_n0018">Ajo ishte edhe aktore e suksesshme në film dhe në teatër.</span> <span data-id="pg079_n0019">Njihet si Bilbili i Kosovës dhe Mbretëresha e muzikës shqiptare.</span>
+            </p>
+          </div>
+        </div>
+        <div class="col-span-5 p-5">
+          <p class="adt-body mb-5 leading-relaxed text-neutral-800">
+            <span data-id="pg079_n0022">Këngëtaret me prejardhje nga vendi ynë, që janë bërë shumë të famshme dhe kanë arritur sukses të madh nëpër botë, janë Rita Ora dhe Dua Lipa.</span>
+          </p>
+          <div class="grid grid-cols-2 gap-3 max-sm:grid-cols-1">
+            <div class="flex flex-col items-center border-2 border-[#c78bc9] p-2">
+              <img src="images/pg079_im008_seg003_v1_crop_v1.png" alt="Rita Ora duke buzëqeshur, me flokë të drejta bionde dhe xhaketë të kaltër të çelët." data-id="pg079_im008_seg003_v1_crop_v1" class="h-44 w-full object-cover">
+              <div class="adt-caption mt-3 text-center text-neutral-800" data-id="pg079_n0024">Rita Ora</div>
+            </div>
+            <div class="flex flex-col items-center border-2 border-[#c78bc9] p-2">
+              <img src="images/pg079_im002.png" alt="Dua Lipa në portret me sfond të zi, me flokë të lidhura lart dhe bluzë të gjelbër të ndezur." data-id="pg079_im002" class="h-44 w-full object-cover">
+              <div class="adt-caption mt-3 text-center text-neutral-800" data-id="pg079_n0026">Dua Lipa</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-5 grid grid-cols-12 gap-0 border-2 border-[#c78bc9] max-lg:grid-cols-1">
+        <div class="col-span-6 border-r-2 border-[#c78bc9] max-lg:border-r-0 max-lg:border-b-2">
+          <div class="border-b-2 border-[#c78bc9] p-5">
+            <h3 class="adt-h3 font-bold text-neutral-800" data-id="pg079_n0029">Grupi i katërt: Filmi, drama e piktura në Kosovë</h3>
+          </div>
+          <div class="flex gap-4 p-5 max-sm:flex-col">
+            <img src="images/pg079_im009_seg001_v1_crop_v1.png" alt="Bekim Fehmiu në portret bardhë e zi, i veshur me kostum dhe papijon." data-id="pg079_im009_seg001_v1_crop_v1" class="h-64 w-52 flex-none border border-[#c78bc9] object-cover max-sm:h-auto max-sm:w-full">
+            <p class="adt-body z-10 leading-relaxed text-neutral-800">
+              <span data-id="pg079_n0032">Bekim Fehmiu ishte aktori i parë kosovar i teatrit dhe i filmit.</span> <span data-id="pg079_n0033">Ai luajti në më shumë se 40 filma.</span>
+            </p>
+          </div>
+        </div>
+        <div class="col-span-6 p-5">
+          <div class="flex gap-4 max-sm:flex-col">
+            <img src="images/pg079_im009_seg002_v1_crop_v1.png" alt="Zake Prelvukaj me penela në dorë, para një pikture me ngjyra të gjalla." data-id="pg079_im009_seg002_v1_crop_v1" class="h-52 w-44 flex-none border border-[#c78bc9] object-cover max-sm:h-auto max-sm:w-full">
+            <p class="adt-body z-10 leading-relaxed text-neutral-800">
+              <span data-id="pg079_n0036">Zake Prelvukaj është piktore e njohur kosovare.</span> <span data-id="pg079_n0037">Ajo njihet për:</span> <span data-id="pg079_n0038">piktura me ngjyra të forta dhe të gjalla; trajtimin e figurës së gruas shqiptare; elemente nga tradita dhe kultura kombëtare.</span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg018_sec001">
+    <meta name="page-section-id" content="26">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+      #content.bk.bk.bk[data-family] {padding-top:24px; overflow:visible;}
+      #content.bk.bk.bk p {margin:0;}
+      #content.bk.bk.bk[data-family] .bk-banner {margin:0; padding:16px 20px; border-radius:var(--bk-r-card); flex-wrap:nowrap;}
+      #content.bk.bk.bk .bk-banner svg {width:48px; height:48px; flex:none;}
+      #content.bk.bk.bk .bk-title {min-width:0;}
+      #content.bk.bk.bk[data-family] .bk-figure {gap:12px;}
+      #content.bk.bk.bk[data-family] .bk-activity {gap:24px;}
+      #content.bk.bk.bk .bk-grid .bk-figure img {width:220px; height:220px; object-fit:contain; object-position:center bottom; margin-inline:auto; border-radius:0;}
+      #content.bk.bk.bk figcaption {justify-content:center;}
+      #content.bk.bk.bk figcaption > span[role="img"] {display:inline-block; width:88px; border-bottom:2px solid var(--bk-primary);}
+      body:has(#content.bk) :is(#nav-container,#interface-container),
+      body:has(#content.bk) :is(#nav-container,#interface-container) :is(div,span,a,button,label,input,select,option,p):not([class*="fa-"]) {font-family:BookPoppins, Poppins, sans-serif !important;}
+      @media (min-width:641px) and (max-width:767px) {
+        #content.bk.bk.bk[data-family] {padding-inline:16px;}
+        #content.bk.bk.bk[data-family] .bk-grid--3 {grid-template-columns:minmax(0,1fr);}
+      }
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+    <main>
+      <div data-family="illustrated-reading" id="content" class="bk">
+        <section data-section-type="text_and_images" data-section-id="pg018_sec001" class="bk-stack">
+          <header class="bk-banner bk-row">
+            <svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M32 8v44" />
+              <path d="M18 16h28" />
+              <path d="M24 16l-7 18h14l-7-18Z" fill="currentColor" stroke="none" />
+              <path d="M47 16l-7 18h14l-7-18Z" fill="currentColor" stroke="none" />
+              <path d="M22 52h20" />
+            </svg>
+            <h1 data-id="pg018_n0002" class="bk-title">Secili ka të drejta dhe përgjegjësi</h1>
+          </header>
+          <h2 data-id="pg018_n0003" class="bk-heading">Institucionet që na mbrojnë</h2>
+          <div class="bk-stack bk-activity" data-activity-variant="physical-offline" aria-labelledby="recall-instruction">
+            <p id="recall-instruction" class="bk-body">
+              <span data-id="pg018_n0005">Rikujtojmë njohuritë që kemi marrë nga klasa e tretë.</span>
+              <span data-id="pg018_n0006">Në rast nevoje, duhet të telefonohen:</span>
+            </p>
+            <div class="bk-grid bk-grid--3">
+              <figure class="bk-figure">
+                <img data-id="pg018_im002_seg001_v1" src="images/pg018_im002_seg001_v1.png" alt="Police me uniformë.">
+                <figcaption class="bk-label bk-row"><span data-id="pg018_n0009">Policia</span><span role="img" aria-label="Numri i telefonit: vijë bosh për plotësim jashtë pajisjes."></span></figcaption>
+              </figure>
+              <figure class="bk-figure">
+                <img data-id="pg018_im002_seg002_v1" src="images/pg018_im002_seg002_v1.png" alt="Punonjëse e urgjencës me maskë dhe mburojë fytyre.">
+                <figcaption class="bk-label bk-row"><span data-id="pg018_n0011">Urgjenca</span><span role="img" aria-label="Numri i telefonit: vijë bosh për plotësim jashtë pajisjes."></span></figcaption>
+              </figure>
+              <figure class="bk-figure">
+                <img data-id="pg018_im002_seg003_v1" src="images/pg018_im002_seg003_v1.png" alt="Zjarrfikës me helmetë të kuqe dhe maskë.">
+                <figcaption class="bk-label bk-row"><span data-id="pg018_n0013">Zjarrfikësit</span><span role="img" aria-label="Numri i telefonit: vijë bosh për plotësim jashtë pajisjes."></span></figcaption>
+              </figure>
+            </div>
+          </div>
+          <footer class="bk-caption" aria-label="Faqja e shtypur 18">18</footer>
+        </section>
+      </div>
+    </main>
+    <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+    <div id="interface-container"></div>
+    <div id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

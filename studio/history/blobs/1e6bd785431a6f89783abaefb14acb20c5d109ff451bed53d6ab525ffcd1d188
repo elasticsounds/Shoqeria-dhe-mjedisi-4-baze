@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg013_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="16" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0"><section data-section-type="text_and_single_image" data-section-id="pg013_sec001" class="mx-auto w-full max-w-5xl px-8 max-sm:px-4 py-8 bg-white text-slate-800">
+  <div class="-mx-8 max-sm:-mx-4 bg-gradient-to-r from-purple-700 via-fuchsia-600 to-purple-500">
+    <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-4 py-6 max-sm:py-4 flex items-center justify-between gap-6 max-sm:flex-col max-sm:items-start">
+      <div class="min-w-0 flex-1">
+        <h1 data-id="pg013_n0002" class="adt-h1 font-bold text-white">Lidhjet dhe bashk&#xeb;punimi me t&#xeb; tjer&#xeb;t</h1>
+        <h2 data-id="pg013_n0003" class="adt-h2 text-slate-900 border-b-4 border-purple-200 inline-block pb-2 mt-4">S&#xeb; bashku ia dalim</h2>
+      </div>
+      <div aria-hidden="true" class="shrink-0 w-32 h-32 max-lg:w-28 max-lg:h-28 max-sm:w-20 max-sm:h-20 rounded-2xl bg-purple-400/80 flex items-center justify-center self-start">
+        <div class="relative w-14 h-10 max-sm:w-10 max-sm:h-8">
+          <span class="absolute left-1/2 top-0 -translate-x-1/2 w-4 h-4 max-sm:w-3 max-sm:h-3 rounded-full bg-white"></span>
+          <span class="absolute left-1 top-1 w-3.5 h-3.5 max-sm:w-2.5 max-sm:h-2.5 rounded-full bg-white"></span>
+          <span class="absolute right-1 top-1 w-3.5 h-3.5 max-sm:w-2.5 max-sm:h-2.5 rounded-full bg-white"></span>
+          <span class="absolute left-1/2 bottom-0 -translate-x-1/2 w-9 h-6 max-sm:w-7 max-sm:h-5 rounded-t-full bg-white"></span>
+          <span class="absolute left-0 bottom-0 w-5 h-4 max-sm:w-4 max-sm:h-3 rounded-t-full bg-white"></span>
+          <span class="absolute right-0 bottom-0 w-5 h-4 max-sm:w-4 max-sm:h-3 rounded-t-full bg-white"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mt-8">
+    <h3 data-id="pg013_n0005" class="adt-h3 inline-block bg-green-400 text-slate-900 px-4 py-2 font-semibold rounded-sm">Situata 1.</h3>
+    <p class="adt-body mt-4 leading-relaxed text-left">
+      <span data-id="pg013_n0007">Ishin dit&#xeb;t e fundit t&#xeb; gushtit, kur Lisi po rregullonte dhom&#xeb;n e tij t&#xeb; gjumit para fillimit t&#xeb; vitit shkollor.</span>
+      <span data-id="pg013_n0008">Do ta fillonte klas&#xeb;n e kat&#xeb;rt dhe kjo e b&#xeb;nte m&#xeb; p&#xeb;rgjegj&#xeb;s ndaj gj&#xeb;rave t&#xeb; tij.</span>
+      <span data-id="pg013_n0009">Lisi &#xeb;sht&#xeb; idhtar i rip&#xeb;rdorimit dhe i riciklimit dhe ai &#xe7;do vit shikon se &#xe7;far&#xeb; i ka mbetur nga viti i kaluar shkollor p&#xeb;r t&#x2019;i p&#xeb;rdorur n&#xeb; vitin e ardhsh&#xeb;m.</span>
+      <span data-id="pg013_n0010">Mir&#xeb;po, di&#xe7;ka q&#xeb; nuk i duhej m&#xeb;, por q&#xeb; kishin shum&#xeb; vler&#xeb; p&#xeb;r t&#xeb;, ishin librat e tij t&#xeb; par&#xeb;.</span>
+      <span data-id="pg013_n0011">Mendoi t&#x2019;i vendoste diku n&#xeb; sht&#xeb;pi p&#xeb;r t&#x2019;i ruajtur, por e dinte q&#xeb; k&#xeb;shtu nuk b&#xeb;nte mir&#xeb; p&#xeb;r ask&#xeb;nd.</span>
+      <span data-id="pg013_n0012">Kur bisedoi me prind&#xeb;rit p&#xeb;r k&#xeb;t&#xeb; &#xe7;&#xeb;shtje, ata i dhan&#xeb; nj&#xeb; ide t&#xeb; shk&#xeb;lqyeshme.</span>
+      <span data-id="pg013_n0013">- Pse nuk mbledh libra edhe nga shok&#xeb;t e klas&#xeb;s dhe t&#xeb; krijoni bibliotek&#xeb;n e klas&#xeb;s? - ishte ideja e p&#xeb;rbashk&#xeb;t e prind&#xeb;rve.</span>
+      <span data-id="pg013_n0014">Lisi u lumturua shum&#xeb; nga kjo ide.</span>
+      <span data-id="pg013_n0015">E mendonte sa mir&#xeb; do t&#xeb; b&#xeb;hej kur t&#xeb; gjith&#xeb; f&#xeb;mij&#xeb;t e klas&#xeb;s do t&#xeb; mblidhnin librat e tyre dhe t&#x2019;i shk&#xeb;mbenin me nj&#xeb;ri-tjetrin.</span>
+    </p>
+  </div>
+
+  <div class="mt-6 rounded-xl overflow-hidden shadow-sm border border-slate-200 bg-slate-50">
+    <img data-id="pg013_im002" src="images/pg013_im002.png" alt="Lisi mban n&#xeb; duar nj&#xeb; grumbull librash pran&#xeb; rafteve t&#xeb; mbushura me libra, nd&#xeb;rsa prind&#xeb;rit e tij shihen n&#xeb; sfond n&#xeb; sht&#xeb;pi." class="w-full h-auto block">
+  </div>
+
+  <aside class="mt-6 bg-purple-100 border-l-8 border-purple-400 p-4 max-sm:p-3 rounded-r-xl">
+    <div class="flex items-start justify-between gap-4 max-lg:flex-col">
+      <div class="flex-1 space-y-4 w-full order-1">
+        <div class="space-y-2">
+          <div data-id="pg013_n0019" class="adt-body">Sa e vler&#xeb;son bashk&#xeb;punimin me t&#xeb; tjer&#xeb;t p&#xeb;r t&#xeb; b&#xeb;r&#xeb; nj&#xeb; veprim t&#xeb; mir&#xeb; p&#xeb;r komunitetin?</div>
+          <label for="item-1" class="sr-only">Sa e vler&#xeb;son bashk&#xeb;punimin me t&#xeb; tjer&#xeb;t p&#xeb;r t&#xeb; b&#xeb;r&#xeb; nj&#xeb; veprim t&#xeb; mir&#xeb; p&#xeb;r komunitetin?</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="Sa e vler&#xeb;son bashk&#xeb;punimin me t&#xeb; tjer&#xeb;t p&#xeb;r t&#xeb; b&#xeb;r&#xeb; nj&#xeb; veprim t&#xeb; mir&#xeb; p&#xeb;r komunitetin?" class="w-full min-h-11 rounded-lg border border-purple-300 bg-white px-3 py-3 text-slate-800 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+        </div>
+        <div class="space-y-2">
+          <div data-id="pg013_n0021" class="adt-body">Si p&#xeb;rfiton komuniteti nga veprimi i Lisit me shok&#xeb;t?</div>
+          <label for="item-2" class="sr-only">Si p&#xeb;rfiton komuniteti nga veprimi i Lisit me shok&#xeb;t?</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="Si p&#xeb;rfiton komuniteti nga veprimi i Lisit me shok&#xeb;t?" class="w-full min-h-11 rounded-lg border border-purple-300 bg-white px-3 py-3 text-slate-800 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+        </div>
+        <div class="space-y-2">
+          <div data-id="pg013_n0023" class="adt-body">A ke b&#xeb;r&#xeb; ndonj&#xeb;her&#xeb; ndonj&#xeb; aktivitet/veprim p&#xeb;r t&#xeb; mir&#xeb;n e t&#xeb; tjer&#xeb;ve?</div>
+          <label for="item-3" class="sr-only">A ke b&#xeb;r&#xeb; ndonj&#xeb;her&#xeb; ndonj&#xeb; aktivitet/veprim p&#xeb;r t&#xeb; mir&#xeb;n e t&#xeb; tjer&#xeb;ve?</label>
+          <textarea id="item-3" data-activity-item="item-3" aria-label="A ke b&#xeb;r&#xeb; ndonj&#xeb;her&#xeb; ndonj&#xeb; aktivitet/veprim p&#xeb;r t&#xeb; mir&#xeb;n e t&#xeb; tjer&#xeb;ve?" class="w-full min-h-11 rounded-lg border border-purple-300 bg-white px-3 py-3 text-slate-800 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+        </div>
+        <div class="space-y-2">
+          <div data-id="pg013_n0025" class="adt-body">Si e vler&#xeb;son iden&#xeb; e prind&#xeb;rve t&#xeb; Lisit p&#xeb;r krijimin e bibliotek&#xeb;s s&#xeb; klas&#xeb;s?</div>
+          <label for="item-4" class="sr-only">Si e vler&#xeb;son iden&#xeb; e prind&#xeb;rve t&#xeb; Lisit p&#xeb;r krijimin e bibliotek&#xeb;s s&#xeb; klas&#xeb;s?</label>
+          <textarea id="item-4" data-activity-item="item-4" aria-label="Si e vler&#xeb;son iden&#xeb; e prind&#xeb;rve t&#xeb; Lisit p&#xeb;r krijimin e bibliotek&#xeb;s s&#xeb; klas&#xeb;s?" class="w-full min-h-11 rounded-lg border border-purple-300 bg-white px-3 py-3 text-slate-800 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+        </div>
+        <div class="space-y-2">
+          <div data-id="pg013_n0027" class="adt-body">Sa &#xeb;sht&#xeb; e r&#xeb;nd&#xeb;sishme q&#xeb; shkollat t&#xeb; ken&#xeb; biblioteka?</div>
+          <label for="item-5" class="sr-only">Sa &#xeb;sht&#xeb; e r&#xeb;nd&#xeb;sishme q&#xeb; shkollat t&#xeb; ken&#xeb; biblioteka?</label>
+          <textarea id="item-5" data-activity-item="item-5" aria-label="Sa &#xeb;sht&#xeb; e r&#xeb;nd&#xeb;sishme q&#xeb; shkollat t&#xeb; ken&#xeb; biblioteka?" class="w-full min-h-11 rounded-lg border border-purple-300 bg-white px-3 py-3 text-slate-800 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+        </div>
+      </div>
+      <div aria-hidden="true" class="order-2 shrink-0 w-16 h-16 rounded-xl bg-purple-400 flex items-center justify-center relative overflow-hidden max-lg:self-start">
+        <span class="absolute left-1/2 top-2 -translate-x-1/2 w-1.5 h-1.5 rounded-full bg-white"></span>
+        <span class="absolute left-1/2 top-4 -translate-x-1/2 w-4 h-6 border-2 border-white border-b-0 rounded-t-full"></span>
+        <span class="absolute left-1/2 bottom-3 -translate-x-1/2 w-1.5 h-1.5 rounded-full bg-white"></span>
+      </div>
+    </div>
+  </aside>
+
+  <div class="mt-6 border-2 border-purple-300 bg-white p-4 rounded-xl shadow-sm">
+    <div class="flex items-start justify-between gap-4 max-sm:flex-col">
+      <p class="adt-body leading-relaxed italic text-left flex-1">
+        <span data-id="pg013_n0030">Njer&#xeb;zit dallojn&#xeb; nga nj&#xeb;ri-tjetri.</span>
+        <span data-id="pg013_n0031">Ata jetojn&#xeb; n&#xeb; familje, mjedise t&#xeb; ndryshme, kan&#xeb; edukat&#xeb; dhe kultura t&#xeb; ndryshme.</span>
+        <span data-id="pg013_n0032">K&#xeb;shtu q&#xeb;, secili njeri ka mendimet e veta.</span>
+        <span data-id="pg013_n0033">N&#xeb;se respektojm&#xeb; kulturat dhe mendimet e t&#xeb; tjer&#xeb;ve dhe i shk&#xeb;mbejm&#xeb; ato n&#xeb; mes nesh, at&#xeb;her&#xeb; &#xe7;do pun&#xeb; b&#xeb;het m&#xeb; mir&#xeb; dhe ne b&#xeb;hemi m&#xeb; t&#xeb; ditur, pasi p&#xeb;rfitojm&#xeb; shum&#xeb; nga t&#xeb; tjer&#xeb;t.</span>
+        <span data-id="pg013_n0034">Pun&#xeb; n&#xeb; ekip do t&#xeb; thot&#xeb; kur disa persona punojn&#xeb; s&#xeb; bashku p&#xeb;r t&#xeb; arritur nj&#xeb; q&#xeb;llim t&#xeb; p&#xeb;rbashk&#xeb;t ose p&#xeb;r t&#xeb; kryer nj&#xeb; detyr&#xeb; sa m&#xeb; mir&#xeb;.</span>
+        <span data-id="pg013_n0035">Puna n&#xeb; ekip nuk njeh mosh&#xeb;.</span>
+        <span data-id="pg013_n0036">Ajo &#xeb;sht&#xeb; e nj&#xeb;jt&#xeb; p&#xeb;r t&#xeb; gjitha moshat.</span>
+        <span data-id="pg013_n0037">An&#xeb;tar&#xeb;t e grupit ndajn&#xeb; n&#xeb; m&#xeb;nyr&#xeb; t&#xeb; barabart&#xeb; p&#xeb;rgjegj&#xeb;sit&#xeb; dhe detyrat e tyre.</span>
+      </p>
+      <div aria-hidden="true" class="shrink-0 w-16 h-12 rounded-sm bg-purple-500 relative max-sm:self-end">
+        <div class="absolute top-2 right-2 w-9 h-8 border-2 border-white rounded-sm"></div>
+        <div class="absolute top-1 right-4 w-9 h-8 border-2 border-white rounded-sm"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mt-5">
+    <p data-id="pg013_n0038" class="adt-body font-semibold text-left">Fjal&#xeb;t ky&#xe7;e: bashk&#xeb;punim, kujdes, nd&#xeb;rveprim, vler&#xeb;sim.</p>
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

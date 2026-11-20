@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="sq-XK"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Shoqëria dhe Mjedisi 4</title><meta name="title-id" content="pg038_sec001"><meta name="page-section-id" content="52">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet">
+<style>#nav-container :is(a,button,span,p,div),#interface-container :is(a,button,span,p,div){font-family:BookPoppins,Poppins,Arial,sans-serif!important} #content .bk-banner img{width:48px;height:auto;flex:none} #content .bk-banner h1{flex:1 1 200px} #content .bk-body{max-width:720px} #content .bk-chip{background:var(--bk-accent2)}</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head><body class="min-h-screen flex items-center justify-center"><main class="w-full"><div id="content" class="bk" data-family="lesson-discussion"><section data-section-id="pg038_sec001" role="region">
+<div class="bk-banner"><div class="bk-row"><img src="studio/assets/pg038_sec001-emblem.png" alt=""><h1 class="bk-title">Mirëkuptimi, solidariteti, empatia dhe respekti ndaj të tjerëve</h1></div></div>
+<div class="bk-stack"><h2 class="bk-heading" data-id="pg038_n0003">Mbështesim njëri-tjetrin</h2><div><span class="bk-chip bk-label" data-id="pg038_n0004">Situata 1.</span><p class="bk-body"><span data-id="pg038_n0006">Në familje gjithkush jep kontributin e vet.</span> <span data-id="pg038_n0007">Disa nga pjesëtarët e familjes japin edhe kontribut financiar.</span> <span data-id="pg038_n0008">Vëllai im i madh punon në një televizion dhe paguhet sipas orëve që punon.</span> <span data-id="pg038_n0009">Muajin e kaluar, ai ishte i ngarkuar me lyerjen e shtëpisë dhe pothuajse nuk punoi.</span> <span data-id="pg038_n0010">E kuptova edhe nga frutat e zakonshme që më munguan.</span> <span data-id="pg038_n0011">Kur ai paguhej, më blinte frutat e preferuara.</span> <span data-id="pg038_n0012">Ndihej në siklet që nuk m’i bleu, ndërkohë unë bëra sikur harrova.</span> <span data-id="pg038_n0013">Në mbrëmje nëna erdhi në shtëpi me disa fruta dhe një ëmbëlsirë të madhe.</span> <span data-id="pg038_n0014">"Këto i keni nga unë sot", - tha duke buzëqeshur.</span></p></div><p class="bk-caption">Faqe 38</p></div>
+</section></div></main>
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{"item-1":"pg038_sec001_ans_item-1","item-2":"pg038_sec001_ans_item-2","item-3":"pg038_sec001_ans_item-3"}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"Po, të gjithë kontribuuan në familje.","item-2":"Financiarisht kontribuuan nëna dhe vëllai i madh.","item-3":"Vëllai i madh kontribuoi duke punuar në televizion dhe, kur paguhej, blinte frutat e mia të preferuara."}');
+    </script>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div><script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script></body></html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg034_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="49">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" class="container mx-auto max-w-5xl bg-white px-16 max-lg:px-10 max-sm:px-6 pt-10 pb-12 opacity-0 bk" id="content"><section data-section-type="activity_open_ended_answer" data-section-id="pg034_sec001" class="mx-auto max-w-4xl"><h1 class="adt-h2 mb-4 text-amber-700 font-bold" data-id="pg034_n0003">Barazi për të gjithë</h1><h3 class="adt-h3 mb-5 text-black" data-id="pg034_n0005">Situata 1.</h3><div class="mb-8 rounded-2xl bg-amber-50 px-5 py-4"><p class="adt-body leading-relaxed text-gray-900"><span data-id="pg034_n0007">Aktiviteti fizik është i shëndetshëm për të gjithë.</span> <span data-id="pg034_n0008">Fëmijët zakonisht pëlqejnë lojërat në natyrë.</span></p><p class="adt-body mt-2 leading-relaxed text-gray-900"><span data-id="pg034_n0009">Në shkollë do ta zhvillonim turneun e futbollit.</span> <span data-id="pg034_n0010">Secili, sipas interesave, shprehu dëshirën për të qenë pjesëmarrës në ekip.</span></p><p class="adt-body mt-2 leading-relaxed text-gray-900"><span data-id="pg034_n0011">Ne luanim shpesh futboll në kohën e lirë.</span> <span data-id="pg034_n0012">Blerta nuk u përfshi në ekipin e shkollës</span></p></div><div class="mb-0 overflow-hidden rounded-t-sm"><img data-id="pg034_im001" src="images/pg034_im001.png" alt="Tre fëmijë luajnë futboll në park, ndërsa një vajzë e ulur anash i shikon, e papërfshirë në lojë." class="block w-full h-auto"></div><div class="bg-purple-100 px-6 py-5 max-sm:px-4"><div class="space-y-6"><div><p class="adt-body mb-2 text-gray-900"><span data-id="pg034_n0013">Vazhdoni tregimin dhe bëjeni një zgjidhje të drejtë për Blertën.</span></p><label for="activity-item-1" class="sr-only">Vazhdoni tregimin dhe bëjeni një zgjidhje të drejtë për Blertën.</label><textarea id="activity-item-1" data-activity-item="item-1" aria-label="Vazhdoni tregimin dhe bëjeni një zgjidhje të drejtë për Blertën." class="w-full min-h-11 h-28 rounded border border-gray-400 bg-white px-3 py-3 resize-none"></textarea></div><div><p class="adt-body mb-2 text-gray-900"><span data-id="pg034_n0014">Cilat mund të jenë arsyet e mospërfshirjes së Blertës në ekip?</span></p><label for="activity-item-2" class="sr-only">Cilat mund të jenë arsyet e mospërfshirjes së Blertës në ekip?</label><textarea id="activity-item-2" data-activity-item="item-2" aria-label="Cilat mund të jenë arsyet e mospërfshirjes së Blertës në ekip?" class="w-full min-h-11 h-24 rounded border border-gray-400 bg-white px-3 py-3 resize-none"></textarea></div><div><p class="adt-body mb-2 text-gray-900"><span data-id="pg034_n0015">Listoni një sërë veprimtarish që ju kufizojnë të merrni pjesë.</span></p><label for="activity-item-3" class="sr-only">Listoni një sërë veprimtarish që ju kufizojnë të merrni pjesë.</label><textarea id="activity-item-3" data-activity-item="item-3" aria-label="Listoni një sërë veprimtarish që ju kufizojnë të merrni pjesë." class="w-full min-h-11 h-28 rounded border border-gray-400 bg-white px-3 py-3 resize-none"></textarea></div><div><p class="adt-body mb-2 text-gray-900"><span data-id="pg034_n0016">A duhet që edhe vlerësimi në mësime të bëhet mbi bazën e barazisë?</span></p><label for="activity-item-4" class="sr-only">A duhet që edhe vlerësimi në mësime të bëhet mbi bazën e barazisë?</label><textarea id="activity-item-4" data-activity-item="item-4" aria-label="A duhet që edhe vlerësimi në mësime të bëhet mbi bazën e barazisë?" class="w-full min-h-11 h-24 rounded border border-gray-400 bg-white px-3 py-3 resize-none"></textarea></div></div></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg048_sec001">
+    <meta name="page-section-id" content="62">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    <style>
+      body,button,input,textarea,select{font-family:BookPoppins,Poppins,sans-serif}
+      #content.bk.bk.bk{padding-top:24px;overflow-x:visible}
+      #content.bk.bk.bk.bk .bk-banner{margin:0 0 24px;padding:16px 20px;border-radius:20px}
+      #content.bk.bk.bk .bk-banner img{width:64px;height:auto}
+      #content.bk.bk.bk .bk-banner h1{flex:1;min-width:0}
+      #content.bk.bk.bk .bk-stack>p{max-width:720px;margin:0}
+      @media(min-width:768px){#content.bk.bk.bk{padding-inline:32px}}
+      @media(max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+      #interface-container :not(i):not([class*="fa-"]),#nav-container :not(i):not([class*="fa-"]){font-family:BookPoppins,Poppins,sans-serif!important;font-size:18px}
+      :is(#interface-container,#nav-container) :is(button,a,input,select){min-height:48px;min-width:48px}
+      :is(#interface-container,#nav-container) :focus-visible{outline:3px solid #143C78;outline-offset:3px}
+      @media(prefers-reduced-motion:reduce){body *,body *::before,body *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+    </style>
+    
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+<div data-family="illustrated-reading" data-source-page="48" id="content" class="bk">
+<section data-section-type="text_and_single_image" data-section-id="pg048_sec001">
+  <div class="bk-banner">
+    <div class="bk-row"><img src="studio/assets/pg048_sec001-emblem.png" alt=""><h1 data-id="pg048_n0002" class="bk-title">Mendime të ndryshme, vendime të përbashkëta</h1></div>
+  </div>
+  <div class="bk-stack">
+    <h2 data-id="pg048_n0004" class="bk-heading">Eja të vendosim së bashku</h2>
+    <p class="bk-body"><span data-id="pg048_n0006" class="bk-label">Situata 1.</span> <span data-id="pg048_n0008">Në fillim të çdo viti shkollor organizojmë takimin me prindër.</span> <span data-id="pg048_n0009">Tashmë dihet që, për të ecur mirë procesi edukativo-mësimor, bëhen zgjedhjet e këshillit të prindërve.</span> <span data-id="pg048_n0010">Isha kurioz të dija nëse edhe prindërit ndiqnin të njëjtat rregulla siç i ndiqnim ne në zgjedhje</span>…</p>
+  </div>
+</section>
+</div>
+</main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

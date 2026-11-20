@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg021_sec003">
+    <meta name="page-section-id" content="33">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+    #content.bk.bk.bk {padding-top:var(--bk-gap);overflow:visible}
+    #content[data-source-page="21"] ul {list-style-type:"–  ";padding-inline-start:var(--bk-pad);margin:0;display:flex;flex-direction:column;gap:calc(var(--bk-gap)/2)}
+    @media (min-width:641px) and (max-width:767px) {#content.bk.bk.bk {padding-inline:calc(var(--bk-gap)*2/3)}}
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+    <main>
+      <div data-family="lesson-discussion" data-source-page="21" id="content" class="bk">
+        <section data-section-type="boxed_text" data-section-id="pg021_sec003" class="bk-stack">
+          <aside class="bk-card bk-card--accent3 bk-stack" aria-labelledby="advice-heading">
+            <h2 id="advice-heading" class="bk-heading" data-id="pg021_n0025">Këshilla:</h2>
+            <ul class="bk-body" role="list">
+              <li><span data-id="pg021_n0028">Njihu me masat parandaluese ndaj sëmundjeve!</span></li>
+              <li><span data-id="pg021_n0030">Sigurohu që t’i marrësh të gjitha vaksinimet e nevojshme!</span></li>
+              <li><span data-id="pg021_n0032">Kujdesu që të pajisesh me librezë shëndetësore ose kartë shëndeti!</span></li>
+            </ul>
+          </aside>
+        </section>
+      </div>
+    </main>
+    <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

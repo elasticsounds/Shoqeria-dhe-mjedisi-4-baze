@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg112_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="153">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 opacity-0 bk"><section data-section-type="boxed_text" data-section-id="pg112_sec002" class="py-8"><div class="mx-auto max-w-4xl"><div class="flex items-stretch max-sm:flex-col"><div aria-hidden="true" class="flex w-24 shrink-0 items-center justify-center bg-purple-500 text-white max-sm:w-full max-sm:min-h-16"><div class="adt-h3 font-bold leading-none">?</div></div><div class="flex-1 border-2 border-purple-200 bg-purple-100 p-6 max-sm:p-4"><div class="space-y-5"><div><div class="adt-body leading-relaxed text-slate-800"><span data-id="pg112_n0023">- Çfarë i bënte përshtypje Malit në fshat?</span></div><label for="item-1" class="sr-only">- Çfarë i bënte përshtypje Malit në fshat?</label><textarea id="item-1" data-activity-item="item-1" aria-label="- Çfarë i bënte përshtypje Malit në fshat?" class="mt-2 min-h-24 w-full rounded-2xl border-2 border-purple-200 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-400 focus:ring-2 focus:ring-purple-200"></textarea></div><div><div class="adt-body leading-relaxed text-slate-800"><span data-id="pg112_n0024">- Pse Mali thotë që uji është element kyç i jetës së gjallesave?</span></div><label for="item-2" class="sr-only">- Pse Mali thotë që uji është element kyç i jetës së gjallesave?</label><textarea id="item-2" data-activity-item="item-2" aria-label="- Pse Mali thotë që uji është element kyç i jetës së gjallesave?" class="mt-2 min-h-24 w-full rounded-2xl border-2 border-purple-200 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-400 focus:ring-2 focus:ring-purple-200"></textarea></div><div><div class="adt-body leading-relaxed text-slate-800"><span data-id="pg112_n0025">- Pse është e rëndësishme ta kursejmë ujin?</span></div><label for="item-3" class="sr-only">- Pse është e rëndësishme ta kursejmë ujin?</label><textarea id="item-3" data-activity-item="item-3" aria-label="- Pse është e rëndësishme ta kursejmë ujin?" class="mt-2 min-h-24 w-full rounded-2xl border-2 border-purple-200 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-400 focus:ring-2 focus:ring-purple-200"></textarea></div><div><div class="adt-body leading-relaxed text-slate-800"><span data-id="pg112_n0026">- Imagjino se ti je një pikë uji në lumë.</span> <span data-id="pg112_n0027">Çfarë do të dëshiroje ti nga njerëzit që të mbajnë lumin të pastër?</span></div><label for="item-4" class="sr-only">- Imagjino se ti je një pikë uji në lumë. Çfarë do të dëshiroje ti nga njerëzit që të mbajnë lumin të pastër?</label><textarea id="item-4" data-activity-item="item-4" aria-label="- Imagjino se ti je një pikë uji në lumë. Çfarë do të dëshiroje ti nga njerëzit që të mbajnë lumin të pastër?" class="mt-2 min-h-24 w-full rounded-2xl border-2 border-purple-200 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-400 focus:ring-2 focus:ring-purple-200"></textarea></div></div></div></div></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

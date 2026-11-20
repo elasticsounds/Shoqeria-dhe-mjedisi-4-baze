@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg034_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="43" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div class="container mx-auto max-w-5xl bg-white px-16 max-lg:px-10 max-sm:px-6 pt-10 pb-12 opacity-0" id="content"><section data-section-type="activity_open_ended_answer" data-section-id="pg034_sec001" class="mx-auto max-w-4xl"><h1 class="adt-h2 mb-4 text-amber-700 font-bold" data-id="pg034_n0003">Barazi p&#xeb;r t&#xeb; gjith&#xeb;</h1><h3 class="adt-h3 mb-5 text-black" data-id="pg034_n0005">Situata 1.</h3><div class="mb-8 rounded-2xl bg-amber-50 px-5 py-4"><p class="adt-body leading-relaxed text-gray-900"><span data-id="pg034_n0007">Aktiviteti fizik &#xeb;sht&#xeb; i sh&#xeb;ndetsh&#xeb;m p&#xeb;r t&#xeb; gjith&#xeb;.</span> <span data-id="pg034_n0008">F&#xeb;mij&#xeb;t zakonisht p&#xeb;lqejn&#xeb; loj&#xeb;rat n&#xeb; natyr&#xeb;.</span></p><p class="adt-body mt-2 leading-relaxed text-gray-900"><span data-id="pg034_n0009">N&#xeb; shkoll&#xeb; do ta zhvillonim turneun e futbollit.</span> <span data-id="pg034_n0010">Secili, sipas interesave, shprehu d&#xeb;shir&#xeb;n p&#xeb;r t&#xeb; qen&#xeb; pjes&#xeb;marr&#xeb;s n&#xeb; ekip.</span></p><p class="adt-body mt-2 leading-relaxed text-gray-900"><span data-id="pg034_n0011">Ne luanim shpesh futboll n&#xeb; koh&#xeb;n e lir&#xeb;.</span> <span data-id="pg034_n0012">Blerta nuk u p&#xeb;rfshi n&#xeb; ekipin e shkoll&#xeb;s</span></p></div><div class="mb-0 overflow-hidden rounded-t-sm"><img data-id="pg034_im001" src="images/pg034_im001.png" alt="Tre f&#xeb;mij&#xeb; luajn&#xeb; futboll n&#xeb; park, nd&#xeb;rsa nj&#xeb; vajz&#xeb; e ulur anash i shikon, e pap&#xeb;rfshir&#xeb; n&#xeb; loj&#xeb;." class="block w-full h-auto"></div><div class="bg-purple-100 px-6 py-5 max-sm:px-4"><div class="space-y-6"><div><p class="adt-body mb-2 text-gray-900"><span data-id="pg034_n0013">Vazhdoni tregimin dhe b&#xeb;jeni nj&#xeb; zgjidhje t&#xeb; drejt&#xeb; p&#xeb;r Blert&#xeb;n.</span></p><label for="activity-item-1" class="sr-only">Vazhdoni tregimin dhe b&#xeb;jeni nj&#xeb; zgjidhje t&#xeb; drejt&#xeb; p&#xeb;r Blert&#xeb;n.</label><textarea id="activity-item-1" data-activity-item="item-1" aria-label="Vazhdoni tregimin dhe b&#xeb;jeni nj&#xeb; zgjidhje t&#xeb; drejt&#xeb; p&#xeb;r Blert&#xeb;n." class="w-full min-h-11 h-28 rounded border border-gray-400 bg-white px-3 py-3 resize-none"></textarea></div><div><p class="adt-body mb-2 text-gray-900"><span data-id="pg034_n0014">Cilat mund t&#xeb; jen&#xeb; arsyet e mosp&#xeb;rfshirjes s&#xeb; Blert&#xeb;s n&#xeb; ekip?</span></p><label for="activity-item-2" class="sr-only">Cilat mund t&#xeb; jen&#xeb; arsyet e mosp&#xeb;rfshirjes s&#xeb; Blert&#xeb;s n&#xeb; ekip?</label><textarea id="activity-item-2" data-activity-item="item-2" aria-label="Cilat mund t&#xeb; jen&#xeb; arsyet e mosp&#xeb;rfshirjes s&#xeb; Blert&#xeb;s n&#xeb; ekip?" class="w-full min-h-11 h-24 rounded border border-gray-400 bg-white px-3 py-3 resize-none"></textarea></div><div><p class="adt-body mb-2 text-gray-900"><span data-id="pg034_n0015">Listoni nj&#xeb; s&#xeb;r&#xeb; veprimtarish q&#xeb; ju kufizojn&#xeb; t&#xeb; merrni pjes&#xeb;.</span></p><label for="activity-item-3" class="sr-only">Listoni nj&#xeb; s&#xeb;r&#xeb; veprimtarish q&#xeb; ju kufizojn&#xeb; t&#xeb; merrni pjes&#xeb;.</label><textarea id="activity-item-3" data-activity-item="item-3" aria-label="Listoni nj&#xeb; s&#xeb;r&#xeb; veprimtarish q&#xeb; ju kufizojn&#xeb; t&#xeb; merrni pjes&#xeb;." class="w-full min-h-11 h-28 rounded border border-gray-400 bg-white px-3 py-3 resize-none"></textarea></div><div><p class="adt-body mb-2 text-gray-900"><span data-id="pg034_n0016">A duhet q&#xeb; edhe vler&#xeb;simi n&#xeb; m&#xeb;sime t&#xeb; b&#xeb;het mbi baz&#xeb;n e barazis&#xeb;?</span></p><label for="activity-item-4" class="sr-only">A duhet q&#xeb; edhe vler&#xeb;simi n&#xeb; m&#xeb;sime t&#xeb; b&#xeb;het mbi baz&#xeb;n e barazis&#xeb;?</label><textarea id="activity-item-4" data-activity-item="item-4" aria-label="A duhet q&#xeb; edhe vler&#xeb;simi n&#xeb; m&#xeb;sime t&#xeb; b&#xeb;het mbi baz&#xeb;n e barazis&#xeb;?" class="w-full min-h-11 h-24 rounded border border-gray-400 bg-white px-3 py-3 resize-none"></textarea></div></div></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg058_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="71" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 opacity-0">
+  <section data-section-type="text_and_images" data-section-id="pg058_sec001" class="bg-white text-slate-800">
+    <div class="w-full overflow-hidden rounded-3xl bg-purple-500">
+      <div class="mx-auto flex w-full max-w-5xl items-center gap-6 px-8 py-8 max-lg:flex-col max-lg:items-start max-sm:px-5 max-sm:py-6">
+        <div aria-hidden="true" class="flex h-28 w-28 shrink-0 items-center justify-center rounded-2xl bg-purple-400/70 max-sm:h-24 max-sm:w-24">
+          <div class="relative">
+            <div class="h-14 w-14 rounded-full bg-white"></div>
+            <div class="absolute -bottom-2 left-3 h-0 w-0 border-l-[10px] border-r-[2px] border-t-[12px] border-l-transparent border-r-transparent border-t-white"></div>
+            <div class="absolute left-10 top-3 h-12 w-12 rounded-full bg-white"></div>
+            <div class="absolute left-[52px] top-12 h-0 w-0 border-l-[8px] border-r-[2px] border-t-[10px] border-l-transparent border-r-transparent border-t-white"></div>
+            <div class="absolute left-[30px] top-[26px] flex gap-2">
+              <span class="h-2 w-2 rounded-full bg-purple-400"></span>
+              <span class="h-2 w-2 rounded-full bg-purple-400"></span>
+              <span class="h-2 w-2 rounded-full bg-purple-400"></span>
+            </div>
+          </div>
+        </div>
+        <div class="flex-1">
+          <h1 class="adt-h1 font-bold text-white" data-id="pg058_n0002">Mendime t&#xeb; ndryshme, vendime t&#xeb; p&#xeb;rbashk&#xeb;ta</h1>
+          <h2 class="adt-h2 mt-4 border-b-4 border-purple-300 pb-3 font-medium text-slate-900" data-id="pg058_n0003">Veprimtaria 4: &#x201c;Si t&#xeb; marr vendimin e duhur?&#x201d;</h2>
+        </div>
+      </div>
+    </div>
+
+    <p class="adt-body mt-10 leading-relaxed text-left text-slate-800">
+      <span data-id="pg058_n0005">Shikoni me kujdes fotografit&#xeb; e m&#xeb;poshtme.</span>
+      <span data-id="pg058_n0006">Lexoni fjalit&#xeb; e dh&#xeb;na.</span>
+    </p>
+
+    <div class="mt-10 grid grid-cols-2 gap-10 max-lg:grid-cols-1">
+      <figure class="rounded-3xl bg-purple-50 p-4 shadow-sm ring-1 ring-purple-100">
+        <img data-id="pg058_im001_seg001_v1" src="images/pg058_im001_seg001_v1.png" alt="Kat&#xeb;r nx&#xeb;n&#xeb;s diskutojn&#xeb; rreth nj&#xeb; tavoline, duke shprehur mendimet e tyre dhe duke krahasuar idet&#xeb; me nj&#xeb;ri-tjetrin." class="w-full h-auto rounded-2xl">
+        <figcaption class="adt-caption mt-4 leading-relaxed text-left text-slate-800" data-id="pg058_n0008">T&#xeb; diskutosh do t&#xeb; thot&#xeb; q&#xeb; t&#xeb; shpreh&#xeb;sh mendimin t&#xeb;nd, krahas mendimit t&#xeb; tjetrit.</figcaption>
+      </figure>
+
+      <figure class="rounded-3xl bg-purple-50 p-4 shadow-sm ring-1 ring-purple-100">
+        <img data-id="pg058_im001_seg002_v1" src="images/pg058_im001_seg002_v1.png" alt="Nj&#xeb; nx&#xeb;n&#xeb;se shpjegon mendimin e saj para shok&#xeb;ve, nd&#xeb;rsa ata e d&#xeb;gjojn&#xeb; gjat&#xeb; diskutimit." class="w-full h-auto rounded-2xl">
+        <figcaption class="adt-caption mt-4 leading-relaxed text-left text-slate-800" data-id="pg058_n0010">Kur jep mendimin t&#xeb;nd, &#xeb;sht&#xeb; mir&#xeb; t&#xeb; shpjegosh arsyen pse mendon ashtu duke dh&#xeb;n&#xeb; shembuj ose fakte q&#xeb; e mb&#xeb;shtesin mendimin t&#xeb;nd.</figcaption>
+      </figure>
+    </div>
+
+    <figure class="mt-10 rounded-[2rem] bg-purple-100 p-5 shadow-sm ring-1 ring-purple-200">
+      <img data-id="pg058_im001_seg003_v1_crop_v1" src="images/pg058_im001_seg003_v1_crop_v1.png" alt="Kat&#xeb;r nx&#xeb;n&#xeb;s bisedojn&#xeb;; nj&#xeb;ri ka ngritur dor&#xeb;n p&#xeb;r t&#xeb; folur, nd&#xeb;rsa t&#xeb; tjer&#xeb;t e d&#xeb;gjojn&#xeb; me kujdes." class="w-full h-auto rounded-3xl">
+      <figcaption class="adt-caption mt-4 text-center leading-relaxed text-slate-800" data-id="pg058_n0012">D&#xeb;gjo me kujdes edhe t&#xeb; tjer&#xeb;t kur flasin!</figcaption>
+    </figure>
+
+    <aside class="mt-12 rounded-3xl border-2 border-purple-300 bg-purple-50 shadow-sm overflow-hidden">
+      <div class="flex max-lg:flex-col">
+        <div aria-hidden="true" class="flex w-28 shrink-0 items-start justify-center bg-purple-500 p-4 max-lg:w-full max-lg:justify-start">
+          <div class="rounded-2xl bg-white/20 p-3">
+            <div class="h-14 w-10 rounded-sm border-4 border-white border-b-[6px] bg-white/10"></div>
+          </div>
+        </div>
+        <div class="flex-1 p-6">
+          <p class="adt-body leading-relaxed text-left italic text-slate-800">
+            <span data-id="pg058_n0015">N&#xeb; disa raste, ne jemi t&#xeb; p&#xeb;rqendruar tek interesat tan&#xeb; vetjak&#xeb; dhe kjo na b&#xeb;n q&#xeb; t&#xeb; harrojm&#xeb; t&#xeb; mir&#xeb;n ton&#xeb; t&#xeb; p&#xeb;rbashk&#xeb;t.</span>
+            <span data-id="pg058_n0016">P&#xeb;r k&#xeb;t&#xeb;, duhet t&#xeb; dim&#xeb; se si t&#xeb; marrim vendimin e duhur.</span>
+            <span data-id="pg058_n0017">Kjo do t&#xeb; na ndihmoj&#xeb; q&#xeb; t&#xeb; trajtojm&#xeb; nj&#xeb;ri-tjetrin me barazi dhe drejt&#xeb;si, t&#xeb; zgjidhim mosmarr&#xeb;veshjet pa l&#xeb;nduar njeri, t&#xeb; gjejm&#xeb; zgjidhjen m&#xeb; t&#xeb; mir&#xeb; p&#xeb;r t&#xeb; gjith&#xeb;.</span>
+            <span data-id="pg058_n0018">Pra, gjithsecili prej nesh do t&#xeb; ndihet i mir&#xeb;pritur dhe i vler&#xeb;suar.</span>
+            <span data-id="pg058_n0019">Gjat&#xeb; diskutimit, secili duhet t&#xeb; shpreh&#xeb; mendimin e vet.</span>
+            <span data-id="pg058_n0020">Argumentimi i mendimeve &#xeb;sht&#xeb; pik&#xeb; e fort&#xeb; q&#xeb; ndihmon n&#xeb; marrjen e vendimeve t&#xeb; drejta.</span>
+            <span data-id="pg058_n0021">T&#xeb; gjitha mendimet, sado t&#xeb; ndryshme t&#xeb; jen&#xeb;, jan&#xeb; t&#xeb; vlefshme dhe duhen d&#xeb;gjuar.</span>
+            <span data-id="pg058_n0022">N&#xeb;se ndodhesh n&#xeb; situat&#xeb; t&#xeb; v&#xeb;shtir&#xeb; dhe nuk gjen dot zgjidhjen e duhur, k&#xeb;rko ndihm&#xeb;n e shoqeve/shok&#xeb;ve t&#xeb; tu, t&#xeb; m&#xeb;suesit/es apo t&#xeb; prind&#xeb;rve.</span>
+          </p>
+        </div>
+      </div>
+    </aside>
+
+    <div class="mt-10 border-l-4 border-purple-400 pl-4">
+      <p class="adt-body leading-relaxed text-left text-slate-800">
+        <span class="font-semibold" data-id="pg058_n0025">Fjal&#xeb;t ky&#xe7;e:</span>
+        <span data-id="pg058_n0026">vendim, argument, mendim, marr.</span>
+      </p>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

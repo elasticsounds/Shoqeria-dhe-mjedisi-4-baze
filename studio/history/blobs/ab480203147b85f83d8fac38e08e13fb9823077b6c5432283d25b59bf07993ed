@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe Mjedisi 4</title>
+  <meta name="title-id" content="pg118_sec001">
+  <meta name="page-section-id" content="156">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  
+  <style>
+    #content .bk-body { max-width: 720px; }
+    #content .bk-banner img { width: 64px; height: 64px; object-fit: contain; }
+    #content .bk-banner .bk-title { flex: 1; min-width: 0; }
+    #nav-container, #nav-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands),
+    #interface-container, #interface-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands) { font-family: BookPoppins, Poppins, Arial, sans-serif; }
+  </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <div data-family="illustrated-reading" id="content" class="bk">
+      <section data-section-type="text_and_single_image" data-section-id="pg118_sec001">
+        <div class="bk-banner">
+          <div class="bk-row"><img src="studio/assets/pg118_sec001-emblem.png" alt="" aria-hidden="true"><h1 data-id="pg118_n0002" class="bk-title">Mjedisi i vendit tim</h1></div>
+        </div>
+        <div class="bk-stack">
+          <h2 data-id="pg118_n0003" class="bk-heading">Transporti publik dhe ai ekologjik</h2>
+          <p class="bk-body"><span data-id="pg118_n0005">Jona po fliste vazhdimisht për rëndësinë e ruajtjes së ambientit, për rëndësinë e hedhjes së mbeturinave në vendin e duhur, për mbjelljen e bimëve, për përdorimin sa më të paktë të makinave.</span></p>
+          <p class="bk-body"><span data-id="pg118_n0006">Nëna dhe babai i Jonës e dëgjonin me vëmendje dhe krenoheshin me vajzën e tyre që donte ta ruante ambientin.</span> <span data-id="pg118_n0007">Një ditë, teksa po udhëtonin për te gjyshërit në një qytet tjetër, Jonës i tërhoqi vëmendjen një autobus i gjatë me ngjyrë të verdhë.</span> <span data-id="pg118_n0008">Disa njerëz po rrinin në këmbë e të tjerë ishin të ulur në të.</span></p>
+        </div>
+      </section>
+    </div>
+  </main>
+  <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

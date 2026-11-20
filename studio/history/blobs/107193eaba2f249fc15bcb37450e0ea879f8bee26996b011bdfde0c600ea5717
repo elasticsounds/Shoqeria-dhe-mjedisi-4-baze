@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg110_sec001">
+    <meta name="page-section-id" content="146">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+      #content.bk .bk-body { max-width:720px; }
+      #content.bk .bk-banner img { width:48px; height:48px; object-fit:contain; flex:none; }
+      #content.bk .bk-banner h1 { min-width:0; flex:1 1 0; }
+      #content.bk.bk.bk section .bk-heading { font-weight:600; }
+      #interface-container, #interface-container *, #nav-container, #nav-container * { font-family:BookPoppins,Poppins,Arial,sans-serif !important; }
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <div data-family="illustrated-reading" id="content" class="container opacity-0 bk">
+      <section data-section-type="text_and_single_image" data-section-id="pg110_sec001">
+        <header class="bk-banner">
+          <div class="bk-row"><img src="studio/assets/pg110_sec001-emblem.png" alt="" aria-hidden="true"><h1 class="bk-title" data-id="pg110_n0003">Mjedisi i vendit tim</h1></div>
+        </header>
+        <div class="bk-stack">
+          <h2 class="bk-heading" data-id="pg110_n0004">Njeriu mbron natyrën</h2>
+          <p class="bk-body"><span data-id="pg110_n0006">Era po shfletonte fjalorin e gjuhës shqipe dhe po shikonte se sa fjalë i njihte.</span> <span data-id="pg110_n0007">U befasua kur pa një prej përkufizimeve për natyrën: “Natyra është mjedisi në të cilin rron njeriu në Tokë, me të gjitha qeniet e gjalla dhe sendet pa jetë”.</span> <span data-id="pg110_n0008">Ndaloi të reflektonte: si mundet njeriu të dëmtojë jo vetëm mjedisin që e rrethon, por edhe mjedisin ku jetojnë edhe gjallesat e tjera.</span></p>
+        </div>
+      </section>
+    </div>
+  </main>
+  <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

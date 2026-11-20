@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg107_sec002_p2">
+    <meta name="page-section-id" content="143">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+      #content.bk.bk.bk { padding-top: var(--bk-gap); }
+      #content.bk.bk.bk .bk-card--outline { border-color: var(--bk-primary); }
+      #content.bk p { max-width: 720px; }
+      #content.bk em { font-style: normal; font-weight: 600; }
+      #nav-container, #nav-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands),
+      #interface-container, #interface-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands) { font-family: BookPoppins, Poppins, sans-serif; }
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <div data-family="lesson-discussion" id="content" class="container bg-white opacity-0 bk">
+      <h1 class="bk-sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <section data-section-type="boxed_text" data-section-id="pg107_sec002_p2" class="bk-stack">
+        <div class="bk-card bk-card--outline bk-stack">
+          <p class="bk-body"><em><span data-id="pg107_n0038">Për një mjedis të pastër, ne duhet të kursejmë energjinë, të udhëtojmë me biçikletë apo me transport publik, t'i klasifikojmë mbeturinat dhe t’i hedhim ato në vendin e caktuar, ta kursejmë ujin, ta gjelbërojmë sa më shumë mjedisin, që të kemi ajër të pastër.</span></em></p>
+          <p class="bk-body"><em><span data-id="pg107_n0040">Njeriu duhet t’i vërë detyrë vetes që, nëse nuk mund të mbrojë natyrën, së paku të mos e shkatërrojë atë!</span></em></p>
+        </div>
+        <div class="bk-row">
+          <strong data-id="pg107_n0042">Fjalët kyçe:</strong>
+          <span data-id="pg107_n0043">mjedis, kujdes, mbrojtje, ujë, ajër, tokë.</span>
+        </div>
+      </section>
+    </div>
+  </main>
+  <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

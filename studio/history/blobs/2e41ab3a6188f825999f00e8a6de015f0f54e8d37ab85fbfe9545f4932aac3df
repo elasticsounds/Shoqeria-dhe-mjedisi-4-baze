@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg060_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="80">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk">
+  <section data-section-type="text_and_images" data-section-id="pg060_sec001" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5 bg-white text-slate-800">
+    <div class="mb-10 flex items-center gap-0 max-sm:items-stretch">
+      <div class="flex h-44 w-36 shrink-0 items-center justify-center rounded-l-[1.75rem] bg-purple-500 max-sm:h-auto max-sm:w-24">
+        <div aria-hidden="true" class="h-24 w-24 bg-white [clip-path:polygon(45%_0%,60%_12%,72%_10%,82%_22%,95%_32%,88%_48%,92%_62%,80%_70%,76%_84%,62%_82%,50%_100%,42%_82%,28%_78%,16%_64%,8%_48%,14%_30%,28%_20%,36%_8%)]"></div>
+      </div>
+      <div class="flex-1 pt-12 max-sm:pt-4">
+        <div class="bg-purple-500 px-4 py-3 text-white">
+          <h1 class="adt-h2 font-semibold" data-id="pg060_n0002">Vendi ku jetoj</h1>
+        </div>
+        <div class="max-w-[30rem] border-b-4 border-purple-400 px-4 py-4">
+          <h3 class="adt-h3 font-medium text-slate-800" data-id="pg060_n0003">Kosova – atdheu im</h3>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-8">
+      <div class="adt-body leading-relaxed text-left">
+        <h3 class="adt-h3 inline-block mr-4 min-w-[10rem] bg-green-500 px-4 py-1 text-right font-medium text-slate-900 align-top max-sm:mb-2 max-sm:min-w-0 max-sm:text-left" data-id="pg060_n0005">Situata 1.</h3>
+        <span data-id="pg060_n0006">Mësuesi kërkoi nga nxënësit të shkruajnë çfarë dinë për Kosovën.</span>
+        <span data-id="pg060_n0007">Nxënësit me shumë dëshirë thurën vargje, duke zgjedhur fjalët më të bukura për vendin tonë.</span>
+        <span data-id="pg060_n0008">Në klasë u organizua një garë për zgjedhjen e poezisë më të bukur.</span>
+        <span data-id="pg060_n0009">Ata i lexuan ato para klasës.</span>
+        <span data-id="pg060_n0010">Poezia më e bukur ishte ajo e Malit, të cilën vendosën ta dërgonin në redaksi për botim.</span>
+        <span data-id="pg060_n0011">Eja ta lexojmë edhe një herë së bashku</span>
+      </div>
+    </div>
+
+    <div class="grid grid-cols-[0.95fr_1.05fr] gap-8 items-start max-lg:grid-cols-1 mb-10">
+      <div class="pt-2">
+        <img data-id="pg060_im001_seg001_v1" src="images/pg060_im001_seg001_v1.png" alt="Djalë nxënës duke mbajtur një libër të hapur dhe duke recituar me buzëqeshje." class="w-full h-auto rounded-none">
+      </div>
+      <div class="relative min-h-[34rem] pt-8 max-lg:min-h-0 max-lg:pt-2">
+        <img data-id="pg060_im001_seg002_v1" src="images/pg060_im001_seg002_v1.png" alt="Harta e Kosovës e paraqitur me ngjyrë të gjelbër të çelët." class="absolute right-0 top-10 z-0 w-[90%] h-auto opacity-25 max-lg:relative max-lg:top-0 max-lg:mb-4 max-lg:w-full">
+        <div class="relative z-10 text-left">
+          <div class="mb-6">
+            <div class="adt-caption font-medium text-slate-800" data-id="pg060_n0013">Kosova</div>
+          </div>
+          <div class="adt-body space-y-1 leading-relaxed text-slate-800 max-sm:bg-white/70 max-sm:p-2">
+            <div data-id="pg060_n0015">E dua Kosovën e maleve të Sharrit</div>
+            <div data-id="pg060_n0016">E dua Kosovën e Adem Jasharit.</div>
+            <div data-id="pg060_n0017">E dua Kosovën, të fortë e trime</div>
+            <div data-id="pg060_n0018">Të luftëtarëve e nënave heroike.</div>
+            <div data-id="pg060_n0019">E dua Kosovën e qëndresës</div>
+            <div data-id="pg060_n0020">Të fjalës e të besës.</div>
+            <div data-id="pg060_n0021">E dua Kosovën e dashurisë</div>
+            <div data-id="pg060_n0022">E dua Kosovën e mirësisë.</div>
+            <div data-id="pg060_n0023">E dua për malet e gjelbëruara,</div>
+            <div data-id="pg060_n0024">E dua për pasuritë e bekuara.</div>
+            <div data-id="pg060_n0025">E dua Kosovën e Kushtetutës dhe të ligjit,</div>
+            <div data-id="pg060_n0026">Të dua ashtu si je</div>
+            <div data-id="pg060_n0027">Se për mua je më i bukuri ATDHE.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-12 rounded-[2rem] bg-purple-200/90 px-6 py-5 max-sm:px-3">
+      <div class="flex items-start gap-4 max-sm:flex-col">
+        <div aria-hidden="true" class="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl bg-purple-500 text-white max-sm:h-14 max-sm:w-14">?</div>
+        <div class="flex-1 space-y-5">
+          <div>
+            <div class="adt-body" data-id="pg060_n0031">Çfarë mendon për këtë poezi?</div>
+            <label for="item-1" class="sr-only">Çfarë mendon për këtë poezi?</label>
+            <textarea id="item-1" data-activity-item="item-1" aria-label="Çfarë mendon për këtë poezi?" class="mt-2 min-h-11 w-full rounded-xl border border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+          </div>
+          <div>
+            <div class="adt-body" data-id="pg060_n0033">Përse përmendet luftëtari Adem Jashari?</div>
+            <label for="item-2" class="sr-only">Përse përmendet luftëtari Adem Jashari?</label>
+            <textarea id="item-2" data-activity-item="item-2" aria-label="Përse përmendet luftëtari Adem Jashari?" class="mt-2 min-h-11 w-full rounded-xl border border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+          </div>
+          <div>
+            <div class="adt-body" data-id="pg060_n0035">Si e tregon ti dashurinë për vendin tënd?</div>
+            <label for="item-3" class="sr-only">Si e tregon ti dashurinë për vendin tënd?</label>
+            <textarea id="item-3" data-activity-item="item-3" aria-label="Si e tregon ti dashurinë për vendin tënd?" class="mt-2 min-h-11 w-full rounded-xl border border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+          </div>
+          <div>
+            <div class="adt-body" data-id="pg060_n0037">Përse ekzistojnë kushtetuta dhe ligji në një shtet?</div>
+            <label for="item-4" class="sr-only">Përse ekzistojnë kushtetuta dhe ligji në një shtet?</label>
+            <textarea id="item-4" data-activity-item="item-4" aria-label="Përse ekzistojnë kushtetuta dhe ligji në një shtet?" class="mt-2 min-h-11 w-full rounded-xl border border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+          </div>
+          <div>
+            <div class="adt-body" data-id="pg060_n0039">Çfarë ndodh nëse një njeri nuk i respekton ligjet?</div>
+            <label for="item-5" class="sr-only">Çfarë ndodh nëse një njeri nuk i respekton ligjet?</label>
+            <textarea id="item-5" data-activity-item="item-5" aria-label="Çfarë ndodh nëse një njeri nuk i respekton ligjet?" class="mt-2 min-h-11 w-full rounded-xl border border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-8 rounded-[2rem] border-2 border-purple-300 bg-white px-4 py-4">
+      <div class="flex items-start gap-4 max-sm:flex-col">
+        <div aria-hidden="true" class="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl bg-purple-500 text-white">📖</div>
+        <p class="adt-body text-left italic leading-relaxed text-slate-800">
+          <span data-id="pg060_n0042">Atdheu tregon rrënjët tona, vendin ku kemi lindur, tregon traditat dhe zakonet tona.</span>
+          <span data-id="pg060_n0043">Atdheu ynë është Kosova.</span>
+          <span data-id="pg060_n0044">Ne jemi krenarë për vendin tonë.</span>
+          <span data-id="pg060_n0045">Kosova ka trashëguar shumë bukuri natyrore.</span>
+          <span data-id="pg060_n0046">Ne krenohemi me historinë e Kosovës, e cila shërben si një udhërrëfyes për gjithë brezat e rinj.</span>
+          <span data-id="pg060_n0047">Kosova qeveriset me sistem demokratik, i cili përbëhet nga tri degë të pavarura të pushtetit: Parlamenti, Qeveria dhe Gjyqësori.</span>
+          <span data-id="pg060_n0048">Që të tria këto, punojnë në përputhje me Kushtetutën dhe ligjet, të cilat nxirren nga Parlamenti.</span>
+        </p>
+      </div>
+    </div>
+
+    <div class="border-l-4 border-purple-400 pl-3 pt-2">
+      <p class="adt-body text-left">
+        <span class="font-semibold" data-id="pg060_n0051">Fjalët kyçe:</span>
+        <span data-id="pg060_n0052">Kosovë, atdhe, shqiptar, kosovar.</span>
+      </p>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

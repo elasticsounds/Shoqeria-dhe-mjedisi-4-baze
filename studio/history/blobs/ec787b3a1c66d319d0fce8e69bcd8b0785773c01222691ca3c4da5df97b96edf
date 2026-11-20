@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg091_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="126">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="self-assessment" class="container mx-auto max-w-5xl bg-white px-10 max-lg:px-8 max-sm:px-5 pt-8 pb-12 opacity-0 bk" id="content">
+  <section class="section mb-8" data-section-type="activity_multiple_choice" data-section-id="pg091_sec001" role="region">
+    <div class="space-y-8">
+      <div class="rounded-t-lg bg-[#f3e7dc] px-6 pt-5 pb-4 max-sm:px-4">
+        <div class="-mx-10 max-lg:-mx-8 max-sm:-mx-5 mb-4 bg-[#ad69b0] px-10 max-lg:px-8 max-sm:px-5 py-3">
+          <h1 class="adt-h1 text-white" data-id="pg091_n0002">Traditat dhe trashëgimia jonë</h1>
+        </div>
+        <div class="max-w-2xl pl-1">
+          <h2 class="adt-h2 text-gray-900" data-id="pg091_n0003">Kulturat janë të shumëllojshme</h2>
+          <div class="mt-2 h-1 w-64 max-sm:w-40 bg-[#ad69b0]"></div>
+        </div>
+      </div>
+
+      <div class="overflow-hidden rounded-lg bg-[#f3e7dc]">
+        <img data-id="pg091_im001" src="images/pg091_im001.png" alt="Fëmijë dhe një grua duke festuar ditëlindjen rreth një tavoline me tortë, ëmbëlsira e pije, të rrethuar me balona dhe flamuj zbukurues." class="block w-full h-auto">
+      </div>
+
+      <div class="space-y-3 px-2 max-sm:px-0">
+        <h2 class="adt-h2 font-bold" data-id="pg091_n0006">Vetëvlerësim</h2>
+        <p class="adt-body" data-id="pg091_n0007">Zgjidh një ngjyrë dhe ngjyros sa më shumë katrorë, numri i të cilëve tregon më së miri se sa je i /e pajtimit me këto pohime.</p>
+        <p class="adt-body" data-id="pg091_n0008">Në fund të kësaj njësie mësimore arrij të tregoj se:</p>
+      </div>
+
+      <div class="space-y-6 px-2 max-sm:px-0" role="group" aria-label="Vetëvlerësim">
+        <div class="space-y-3">
+          <p class="adt-body" data-id="pg091_n0009">– Me zhvillimin e njeriut zhvillohet kultura.</p>
+          <div class="grid grid-cols-5 max-sm:grid-cols-1 gap-3">
+            <label for="q1o1" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">1</div>
+              <input id="q1o1" type="radio" name="question-group-1" value="item-1" data-activity-item="item-1" class="sr-only" aria-label="1 për Me zhvillimin e njeriut zhvillohet kultura.">
+              <span data-id="pg091_n0011">□</span>
+            </label>
+            <label for="q1o2" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">2</div>
+              <input id="q1o2" type="radio" name="question-group-1" value="item-2" data-activity-item="item-2" class="sr-only" aria-label="2 për Me zhvillimin e njeriut zhvillohet kultura.">
+              <span data-id="pg091_n0013">□</span>
+            </label>
+            <label for="q1o3" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">3</div>
+              <input id="q1o3" type="radio" name="question-group-1" value="item-3" data-activity-item="item-3" class="sr-only" aria-label="3 për Me zhvillimin e njeriut zhvillohet kultura.">
+              <span data-id="pg091_n0015">□</span>
+            </label>
+            <label for="q1o4" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">4</div>
+              <input id="q1o4" type="radio" name="question-group-1" value="item-4" data-activity-item="item-4" class="sr-only" aria-label="4 për Me zhvillimin e njeriut zhvillohet kultura.">
+              <span data-id="pg091_n0017">□</span>
+            </label>
+            <label for="q1o5" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">5</div>
+              <input id="q1o5" type="radio" name="question-group-1" value="item-5" data-activity-item="item-5" class="sr-only" aria-label="5 për Me zhvillimin e njeriut zhvillohet kultura.">
+              <span data-id="pg091_n0019">□</span>
+            </label>
+          </div>
+        </div>
+
+        <div class="space-y-3">
+          <p class="adt-body" data-id="pg091_n0020">– Kultura është trashëgimia kulturore e njerëzve.</p>
+          <div class="grid grid-cols-5 max-sm:grid-cols-1 gap-3">
+            <label for="q2o1" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">1</div>
+              <input id="q2o1" type="radio" name="question-group-2" value="item-6" data-activity-item="item-6" class="sr-only" aria-label="1 për Kultura është trashëgimia kulturore e njerëzve.">
+              <span data-id="pg091_n0022">□</span>
+            </label>
+            <label for="q2o2" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">2</div>
+              <input id="q2o2" type="radio" name="question-group-2" value="item-7" data-activity-item="item-7" class="sr-only" aria-label="2 për Kultura është trashëgimia kulturore e njerëzve.">
+              <span data-id="pg091_n0024">□</span>
+            </label>
+            <label for="q2o3" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">3</div>
+              <input id="q2o3" type="radio" name="question-group-2" value="item-8" data-activity-item="item-8" class="sr-only" aria-label="3 për Kultura është trashëgimia kulturore e njerëzve.">
+              <span data-id="pg091_n0026">□</span>
+            </label>
+            <label for="q2o4" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">4</div>
+              <input id="q2o4" type="radio" name="question-group-2" value="item-9" data-activity-item="item-9" class="sr-only" aria-label="4 për Kultura është trashëgimia kulturore e njerëzve.">
+              <span data-id="pg091_n0028">□</span>
+            </label>
+            <label for="q2o5" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">5</div>
+              <input id="q2o5" type="radio" name="question-group-2" value="item-10" data-activity-item="item-10" class="sr-only" aria-label="5 për Kultura është trashëgimia kulturore e njerëzve.">
+              <span data-id="pg091_n0030">□</span>
+            </label>
+          </div>
+        </div>
+
+        <div class="space-y-3">
+          <p class="adt-body" data-id="pg091_n0031">– Stili i jetës, mënyra e të menduarit, sjellja tregojnë kulturën e njeriut.</p>
+          <div class="grid grid-cols-5 max-sm:grid-cols-1 gap-3">
+            <label for="q3o1" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">1</div>
+              <input id="q3o1" type="radio" name="question-group-3" value="item-11" data-activity-item="item-11" class="sr-only" aria-label="1 për Stili i jetës, mënyra e të menduarit, sjellja tregojnë kulturën e njeriut.">
+              <span data-id="pg091_n0033">□</span>
+            </label>
+            <label for="q3o2" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">2</div>
+              <input id="q3o2" type="radio" name="question-group-3" value="item-12" data-activity-item="item-12" class="sr-only" aria-label="2 për Stili i jetës, mënyra e të menduarit, sjellja tregojnë kulturën e njeriut.">
+              <span data-id="pg091_n0035">□</span>
+            </label>
+            <label for="q3o3" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">3</div>
+              <input id="q3o3" type="radio" name="question-group-3" value="item-13" data-activity-item="item-13" class="sr-only" aria-label="3 për Stili i jetës, mënyra e të menduarit, sjellja tregojnë kulturën e njeriut.">
+              <span data-id="pg091_n0037">□</span>
+            </label>
+            <label for="q3o4" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">4</div>
+              <input id="q3o4" type="radio" name="question-group-3" value="item-14" data-activity-item="item-14" class="sr-only" aria-label="4 për Stili i jetës, mënyra e të menduarit, sjellja tregojnë kulturën e njeriut.">
+              <span data-id="pg091_n0039">□</span>
+            </label>
+            <label for="q3o5" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">5</div>
+              <input id="q3o5" type="radio" name="question-group-3" value="item-15" data-activity-item="item-15" class="sr-only" aria-label="5 për Stili i jetës, mënyra e të menduarit, sjellja tregojnë kulturën e njeriut.">
+              <span data-id="pg091_n0041">□</span>
+            </label>
+          </div>
+        </div>
+
+        <div class="space-y-3">
+          <p class="adt-body" data-id="pg091_n0042">– Kultura e një vendi shprehet me mënyrën e ndërtimit të objekteve, përgatitjen e ushqimit, mënyrën e veshjes dhe artin.</p>
+          <div class="grid grid-cols-5 max-sm:grid-cols-1 gap-3">
+            <label for="q4o1" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">1</div>
+              <input id="q4o1" type="radio" name="question-group-4" value="item-16" data-activity-item="item-16" class="sr-only" aria-label="1 për Kultura e një vendi shprehet me mënyrën e ndërtimit të objekteve, përgatitjen e ushqimit, mënyrën e veshjes dhe artin.">
+              <span data-id="pg091_n0044">□</span>
+            </label>
+            <label for="q4o2" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">2</div>
+              <input id="q4o2" type="radio" name="question-group-4" value="item-17" data-activity-item="item-17" class="sr-only" aria-label="2 për Kultura e një vendi shprehet me mënyrën e ndërtimit të objekteve, përgatitjen e ushqimit, mënyrën e veshjes dhe artin.">
+              <span data-id="pg091_n0046">□</span>
+            </label>
+            <label for="q4o3" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">3</div>
+              <input id="q4o3" type="radio" name="question-group-4" value="item-18" data-activity-item="item-18" class="sr-only" aria-label="3 për Kultura e një vendi shprehet me mënyrën e ndërtimit të objekteve, përgatitjen e ushqimit, mënyrën e veshjes dhe artin.">
+              <span data-id="pg091_n0048">□</span>
+            </label>
+            <label for="q4o4" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">4</div>
+              <input id="q4o4" type="radio" name="question-group-4" value="item-19" data-activity-item="item-19" class="sr-only" aria-label="4 për Kultura e një vendi shprehet me mënyrën e ndërtimit të objekteve, përgatitjen e ushqimit, mënyrën e veshjes dhe artin.">
+              <span data-id="pg091_n0050">□</span>
+            </label>
+            <label for="q4o5" class="activity-option min-h-11 rounded-xl border border-gray-200 bg-white px-3 py-3 flex items-center gap-3 cursor-pointer hover:bg-[#faf4fb]">
+              <div class="w-8 h-8 shrink-0 rounded-full border-2 border-gray-300 flex items-center justify-center text-gray-500">5</div>
+              <input id="q4o5" type="radio" name="question-group-4" value="item-20" data-activity-item="item-20" class="sr-only" aria-label="5 për Kultura e një vendi shprehet me mënyrën e ndërtimit të objekteve, përgatitjen e ushqimit, mënyrën e veshjes dhe artin.">
+              <span data-id="pg091_n0052">□</span>
+            </label>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":false,"item-2":false,"item-3":false,"item-4":false,"item-5":false,"item-6":false,"item-7":false,"item-8":false,"item-9":false,"item-10":false,"item-11":false,"item-12":false,"item-13":false,"item-14":false,"item-15":false,"item-16":false,"item-17":false,"item-18":false,"item-19":false,"item-20":false}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg017_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="22">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container mx-auto w-full max-w-5xl bg-[#f7eef6] px-8 py-8 max-sm:px-3 opacity-0 bk">
+  <section data-section-type="text_and_single_image" data-section-id="pg017_sec001" class="w-full text-left text-slate-800">
+    <div class="relative overflow-hidden bg-[#f7eef6] px-4 py-2 max-sm:px-0">
+      <div aria-hidden="true" class="absolute left-20 top-0 h-full w-1.5 bg-[#ddd0e6] max-sm:left-7"></div>
+
+      <div class="relative z-10 mx-auto max-w-[980px]">
+        <div class="flex items-start justify-between gap-4 max-sm:flex-col max-sm:gap-3">
+          <div class="flex-1 pt-3">
+            <div class="bg-[#ab6ab0] px-5 py-3 text-white">
+              <h1 class="adt-h1 font-bold text-white" data-id="pg017_n0002">Secili ka të drejta dhe përgjegjësi</h1>
+            </div>
+            <div class="pt-4 pl-5 max-sm:pl-0 max-sm:pt-3">
+              <h2 class="adt-h2 text-slate-900" data-id="pg017_n0003">Të drejtat dhe përgjegjësitë e mia</h2>
+              <div aria-hidden="true" class="mt-2 h-1 w-80 bg-[#ab6ab0] max-sm:w-44"></div>
+            </div>
+          </div>
+          <div aria-hidden="true" class="flex h-56 w-32 shrink-0 items-center justify-center rounded-b-2xl bg-[#ab6ab0] max-lg:h-44 max-lg:w-28 max-sm:ml-0 max-sm:h-24 max-sm:w-20">
+            <svg viewBox="0 0 120 120" class="h-24 w-24 max-sm:h-14 max-sm:w-14" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M60 18V92" stroke="white" stroke-width="8" stroke-linecap="round" />
+              <path d="M36 96H84" stroke="white" stroke-width="8" stroke-linecap="round" />
+              <path d="M25 26H95" stroke="white" stroke-width="4" stroke-linecap="round" />
+              <path d="M42 28L30 60H54L42 28Z" stroke="white" stroke-width="3" fill="none" />
+              <path d="M78 28L66 60H90L78 28Z" stroke="white" stroke-width="3" fill="none" />
+              <path d="M42 28V22" stroke="white" stroke-width="3" stroke-linecap="round" />
+              <path d="M78 28V22" stroke="white" stroke-width="3" stroke-linecap="round" />
+            </svg>
+          </div>
+        </div>
+
+        <div class="relative z-10 mt-5">
+          <img data-id="pg017_im001" src="images/pg017_im001.png" alt="Televizor në dhomë ndeje me një prezantuese lajmesh në ekran dhe mbishkrimin “LAJME”, pranë një rafti me libra dhe vazo me lule." class="block w-full h-auto">
+        </div>
+
+        <div class="relative z-10 -mt-2 px-16 max-lg:px-6 max-sm:mt-4 max-sm:px-0">
+          <div class="bg-[rgba(201,172,208,0.72)] p-5 max-sm:rounded-2xl max-sm:p-4">
+            <ul class="space-y-4">
+              <li class="adt-body">
+                <div class="flex flex-col gap-2">
+                  <span data-id="pg017_n0007">Çfarë këshille i jep nëna vajzës?</span>
+                  <label for="item-1" class="sr-only">Çfarë këshille i jep nëna vajzës?</label>
+                  <textarea id="item-1" data-activity-item="item-1" aria-label="Çfarë këshille i jep nëna vajzës?" class="w-full min-h-11 rounded-xl border-2 border-[#b36bb6] bg-white px-4 py-3 outline-none focus:ring-2 focus:ring-[#a968af]"></textarea>
+                </div>
+              </li>
+              <li class="adt-body">
+                <div class="flex flex-col gap-2">
+                  <span data-id="pg017_n0009">Pse është e rëndësishme që të marrësh informacione të ndryshme?</span>
+                  <label for="item-2" class="sr-only">Pse është e rëndësishme që të marrësh informacione të ndryshme?</label>
+                  <textarea id="item-2" data-activity-item="item-2" aria-label="Pse është e rëndësishme që të marrësh informacione të ndryshme?" class="w-full min-h-11 rounded-xl border-2 border-[#b36bb6] bg-white px-4 py-3 outline-none focus:ring-2 focus:ring-[#a968af]"></textarea>
+                </div>
+              </li>
+              <li class="adt-body">
+                <div class="flex flex-col gap-2">
+                  <span data-id="pg017_n0011">Po ju, a merrni informacione nga televizioni?</span>
+                  <label for="item-3" class="sr-only">Po ju, a merrni informacione nga televizioni?</label>
+                  <input id="item-3" type="text" data-activity-item="item-3" aria-label="Po ju, a merrni informacione nga televizioni?" class="w-full min-h-11 rounded-xl border-2 border-[#b36bb6] bg-white px-4 py-3 outline-none focus:ring-2 focus:ring-[#a968af]">
+                </div>
+              </li>
+              <li class="adt-body">
+                <div class="flex flex-col gap-2">
+                  <span data-id="pg017_n0013">Pse vajza duhej të mbante distancë?</span>
+                  <label for="item-4" class="sr-only">Pse vajza duhej të mbante distancë?</label>
+                  <textarea id="item-4" data-activity-item="item-4" aria-label="Pse vajza duhej të mbante distancë?" class="w-full min-h-11 rounded-xl border-2 border-[#b36bb6] bg-white px-4 py-3 outline-none focus:ring-2 focus:ring-[#a968af]"></textarea>
+                </div>
+              </li>
+              <li class="adt-body">
+                <div class="flex flex-col gap-2">
+                  <span data-id="pg017_n0015">Çfarë ndodh nëse nuk kujdeseni për shëndetin tuaj?</span>
+                  <label for="item-5" class="sr-only">Çfarë ndodh nëse nuk kujdeseni për shëndetin tuaj?</label>
+                  <textarea id="item-5" data-activity-item="item-5" aria-label="Çfarë ndodh nëse nuk kujdeseni për shëndetin tuaj?" class="w-full min-h-11 rounded-xl border-2 border-[#b36bb6] bg-white px-4 py-3 outline-none focus:ring-2 focus:ring-[#a968af]"></textarea>
+                </div>
+              </li>
+              <li class="adt-body">
+                <div class="flex flex-col gap-2">
+                  <span data-id="pg017_n0017">Pse është e rëndësishme që çdo fëmijë të ketë të drejtën për kujdes shëndetësor?</span>
+                  <label for="item-6" class="sr-only">Pse është e rëndësishme që çdo fëmijë të ketë të drejtën për kujdes shëndetësor?</label>
+                  <textarea id="item-6" data-activity-item="item-6" aria-label="Pse është e rëndësishme që çdo fëmijë të ketë të drejtën për kujdes shëndetësor?" class="w-full min-h-11 rounded-xl border-2 border-[#b36bb6] bg-white px-4 py-3 outline-none focus:ring-2 focus:ring-[#a968af]"></textarea>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="relative z-10 mt-10 px-14 max-lg:px-5 max-sm:px-0">
+          <div class="border-2 border-[#bf83c3] bg-white/20 p-4 max-sm:p-4">
+            <p class="adt-body italic leading-8 text-slate-800">
+              <span data-id="pg017_n0020">Dokumenti që mbron të drejtat e njeriut quhet Deklarata Universale mbi të Drejtat e Njeriut.</span>
+              <span data-id="pg017_n0021">Shtetet që e nënshkruajnë atë, janë të detyruara ta zbatojnë.</span>
+              <span data-id="pg017_n0022">Të drejtat e njeriut ndahen në të drejta civile dhe politike (e drejta për jetën, shprehja e lirë e mendimit, liria e besimit fetar, e drejta për të votuar etj.) dhe të drejtat sociale, ekonomike dhe kulturore (e drejta për arsimim, punësim, kujdes shëndetësor etj.).</span>
+              <span data-id="pg017_n0023">Fëmijët kanë të drejtat e tyre, të cilat mbrohen nëpërmjet 54 neneve të Konventës mbi të Drejtat e Fëmijës, miratuar më 20 nëntor 1989.</span>
+              <span data-id="pg017_n0024">Njohja e fëmijëve me të drejtat fillon në familje.</span>
+              <span data-id="pg017_n0025">Shkolla i aftëson ata që t'i njohin, t'i kuptojnë dhe t'i mbrojnë të drejtat e tyre.</span>
+              <span data-id="pg017_n0026">Në themel të të drejtave qëndrojnë respekti dhe dinjiteti njerëzor.</span>
+              <span data-id="pg017_n0027">Të drejtat dhe përgjegjësitë shkojnë bashkë.</span>
+              <span data-id="pg017_n0028">Duke marrë përgjegjësi, ne mësojmë kush jemi dhe si të sillemi me të tjerët.</span>
+              <span data-id="pg017_n0029">Përgjegjësia do të thotë të respektojmë veten dhe të tjerët, të mbrojmë të drejtat dhe të punojmë së bashku.</span>
+            </p>
+          </div>
+        </div>
+
+        <div class="relative z-10 mt-8 px-14 pb-4 max-lg:px-5 max-sm:px-0 adt-body">
+          <p class="inline font-semibold" data-id="pg017_n0031">Fjalët kyçe:</p>
+          <span class="ml-1 inline" data-id="pg017_n0032">e drejtë, përgjegjësi, informim, distancë.</span>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

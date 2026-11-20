@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg110_sec001_p2">
+    <meta name="page-section-id" content="147">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+      #content.bk .bk-body { max-width:720px; }
+      #interface-container, #interface-container *, #nav-container, #nav-container * { font-family:BookPoppins,Poppins,Arial,sans-serif !important; }
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <div data-family="illustrated-reading" id="content" class="container opacity-0 bk">
+      <section data-section-type="text_and_single_image" data-section-id="pg110_sec001_p2">
+        <div class="bk-stack">
+          <p class="bk-body"><span data-id="pg110_n0010">- Sa keq bëjmë kur e ndotim rrugën, pyjet e detin, - shtoi Era, me zë të lartë.</span> <span data-id="pg110_n0011">- Ja, për shembull, kur hedhim mbeturina në det apo breg, ne përveçqë e ndotim një peizazh aq mahnitës, edhe shkatërrojmë jetën e shumë gjallesave të detit.</span> <span data-id="pg110_n0012">Pse i bëjmë këto veprime ne njerëzit?</span> <span data-id="pg110_n0013">Pse duhet të hedhim mbeturina në tokë, në vend që t’i mbajmë ato dhe t’i hedhim në shportën e mbeturinave?</span> <span data-id="pg110_n0014">Pse të mos mbjellim drurë për gjelbërimin e mjedisit, por i presim ata?</span> <span data-id="pg110_n0015">Sa kushton të hedhim shishet e plastikës në shportën për riciklim?</span></p>
+        </div>
+      </section>
+    </div>
+  </main>
+  <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg012_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="15">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk"><section data-section-type="text_and_single_image" data-section-id="pg012_sec001" class="mx-auto w-full max-w-5xl px-8 max-sm:px-4 py-8 bg-white text-slate-800">
+  <div class="mb-10 flex items-stretch max-sm:mb-8">
+    <div class="w-36 shrink-0 rounded-l-2xl bg-[#a96ab0] flex items-center justify-center max-sm:w-24">
+      <div aria-hidden="true" class="w-16 h-16 max-sm:w-12 max-sm:h-12 rounded-full bg-white/10 flex items-center justify-center text-white">👥</div>
+    </div>
+    <div class="flex-1 min-w-0">
+      <div class="bg-[#a96ab0] px-6 py-4 max-sm:px-4 max-sm:py-3">
+        <h1 data-id="pg012_n0002" class="adt-h1 font-bold text-white">Lidhjet dhe bashkëpunimi me të tjerët</h1>
+      </div>
+      <div class="bg-white px-6 pt-3 pb-2 max-sm:px-4">
+        <h2 data-id="pg012_n0003" class="adt-h2 text-slate-900 border-b-4 border-[#b56bbb] pb-2 inline-block pr-12 max-sm:pr-0">E mira jonë e përbashkët</h2>
+      </div>
+    </div>
+  </div>
+
+  <div class="mb-8">
+    <div class="mb-5 flex items-start gap-5 max-lg:flex-col max-lg:gap-3">
+      <h3 data-id="pg012_n0005" class="adt-h3 shrink-0 inline-block bg-[#69bd79] text-slate-900 px-5 py-2">Situata 1.</h3>
+      <p class="adt-body flex-1 leading-relaxed">
+        <span data-id="pg012_n0007">Ishin festat e fundvitit.</span>
+        <span data-id="pg012_n0008">Moti i ftohtë i fundvitit nxiti fëmijët e shkollës që të mendonin për fëmijët në nevojë.</span>
+        <span data-id="pg012_n0009">Nën moton “Dhurojmë copëza lumturie”, nxënësit organizuan një aktivitet bamirësie.</span>
+        <span data-id="pg012_n0010">Secili fëmijë, sipas mundësive, do të sillte diçka që do t'u dhurohej fëmijëve në nevojë.</span>
+        <span data-id="pg012_n0011">Mund të ishin rroba që fëmijët nuk i përdornin më, mund të ishte ndonjë shall apo doreza, ndonjë fletore apo mjet tjetër shkollor, ndonjë produkt higjienik apo çfarëdo tjetër që do t'i lehtësonte ditët e ftohta të dimrit.</span>
+        <span data-id="pg012_n0012">Të gjithë kishin sjellë dhurata të bukura.</span>
+        <span data-id="pg012_n0013">Ata po diskutonin me njëri-tjetrin për dhuratat që i kishin përgatitur me shumë dashuri për fëmijët në nevojë.</span>
+      </p>
+    </div>
+
+    <div class="mx-auto mb-6 w-full max-w-4xl overflow-hidden rounded-2xl border-4 border-orange-100 bg-[#f9eddc] shadow-sm">
+      <img data-id="pg012_im001_crop_v1" src="images/pg012_im001_crop_v1.png" alt="Dy nxënëse në korridorin e shkollës po sjellin kuti me dhurata, ndërsa pako të tjera janë mbledhur për t’u dhuruar fëmijëve në nevojë." class="block w-full h-auto">
+    </div>
+  </div>
+
+  <aside class="mb-10 overflow-hidden rounded-2xl bg-[#e8d8f0] border border-[#dbc4e8] shadow-sm max-sm:mb-8">
+    <div class="flex items-stretch max-lg:flex-col">
+      <div aria-hidden="true" class="w-24 shrink-0 bg-[#a96ab0] text-white flex items-center justify-center max-lg:w-full max-lg:h-16">?</div>
+      <div class="flex-1 p-5 max-sm:p-4 space-y-4">
+        <div class="rounded-xl bg-white/55 p-4">
+          <div data-id="pg012_n0015" class="adt-body mb-3">– Çfarë kuptoni me shprehjen “Dhurojmë copëza lumturie”?</div>
+          <label for="item-1" class="sr-only">– Çfarë kuptoni me shprehjen “Dhurojmë copëza lumturie”?</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="– Çfarë kuptoni me shprehjen “Dhurojmë copëza lumturie”?" class="w-full min-h-11 h-24 rounded-xl border-2 border-[#e3c8ff] bg-white px-4 py-3 outline-none focus:border-[#a96ab0]"></textarea>
+        </div>
+        <div class="rounded-xl bg-white/55 p-4">
+          <div data-id="pg012_n0016" class="adt-body mb-3">– Cili ishte motivi i fëmijëve për të organizuar një aktivitet bamirësie?</div>
+          <label for="item-2" class="sr-only">– Cili ishte motivi i fëmijëve për të organizuar një aktivitet bamirësie?</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="– Cili ishte motivi i fëmijëve për të organizuar një aktivitet bamirësie?" class="w-full min-h-11 h-24 rounded-xl border-2 border-[#e3c8ff] bg-white px-4 py-3 outline-none focus:border-[#a96ab0]"></textarea>
+        </div>
+        <div class="rounded-xl bg-white/55 p-4">
+          <div data-id="pg012_n0017" class="adt-body mb-3">– Çfarë të bën ty të lumtur?</div>
+          <label for="item-3" class="sr-only">– Çfarë të bën ty të lumtur?</label>
+          <textarea id="item-3" data-activity-item="item-3" aria-label="– Çfarë të bën ty të lumtur?" class="w-full min-h-11 h-24 rounded-xl border-2 border-[#e3c8ff] bg-white px-4 py-3 outline-none focus:border-[#a96ab0]"></textarea>
+        </div>
+        <div class="rounded-xl bg-white/55 p-4">
+          <div data-id="pg012_n0018" class="adt-body mb-3">– A ke pasur mundësi ndonjëherë që ti ta bësh dikë të lumtur duke e ndihmuar?</div>
+          <label for="item-4" class="sr-only">– A ke pasur mundësi ndonjëherë që ti ta bësh dikë të lumtur duke e ndihmuar?</label>
+          <textarea id="item-4" data-activity-item="item-4" aria-label="– A ke pasur mundësi ndonjëherë që ti ta bësh dikë të lumtur duke e ndihmuar?" class="w-full min-h-11 h-24 rounded-xl border-2 border-[#e3c8ff] bg-white px-4 py-3 outline-none focus:border-[#a96ab0]"></textarea>
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <div class="mb-12 overflow-hidden rounded-2xl border-2 border-[#c883d1] bg-white shadow-sm">
+    <div class="flex items-stretch max-lg:flex-col">
+      <div aria-hidden="true" class="w-24 shrink-0 bg-[#a96ab0] text-white flex items-center justify-center max-lg:w-full max-lg:h-16">📖</div>
+      <div class="flex-1 p-5 space-y-5 max-sm:p-4">
+        <p class="adt-body italic leading-relaxed">
+          <span data-id="pg012_n0021">E mira jonë e përbashkët është fakti që ne kujdesemi dhe mendojmë për njëri-tjetrin.</span>
+          <span data-id="pg012_n0022">Këtë e quajmë humanizëm.</span>
+          <span data-id="pg012_n0023">Pra, humanizmi është kur mendojmë për nevojat e të tjerëve dhe duam t’i ndihmojmë, pa kërkuar shpërblim.</span>
+        </p>
+        <p class="adt-body italic leading-relaxed">
+          <span data-id="pg012_n0025">Ne tregojmë humanizëm kur jemi të sjellshëm, të durueshëm dhe kur ndihmojmë dikë që ka nevojë.</span>
+          <span data-id="pg012_n0026">Humanizëm do të thotë të vëmë njeriun dhe ndjenjat e tij në rend të parë.</span>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="border-l-4 border-[#c883d1] pl-4">
+    <p class="adt-body"><span data-id="pg012_n0029" class="font-bold">Fjalët kyçe:</span> <span data-id="pg012_n0030">dashuri, ndihmë, buzëqeshje, përkrahje.</span></p>
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

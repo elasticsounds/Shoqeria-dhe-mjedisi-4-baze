@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg022_sec001">
+<meta name="page-section-id" content="34">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>
+body:has(#content[data-source-page="22"]) {font-family:BookPoppins,Poppins,sans-serif;padding-bottom:0!important}
+#content.bk.bk.bk.bk[data-source-page="22"] .bk-heading {font-weight:600}
+#content.bk.bk.bk.bk[data-source-page="22"] :is(.bk-field,.bk-btn) {border-color:var(--bk-primary)}
+body:has(#content[data-source-page="22"]) :is(#interface-container,#nav-container),body:has(#content[data-source-page="22"]) :is(#interface-container,#nav-container) :not(i):not([class*="fa-"]) {font-family:BookPoppins,Poppins,sans-serif!important;font-size:var(--bk-caption)!important}
+#content.bk.bk.bk.bk[data-source-page="22"] {padding-top:24px;overflow:visible}
+#content.bk.bk.bk.bk[data-source-page="22"] .bk-banner {margin:0;padding:16px 20px;border-radius:var(--bk-r-card)}
+#content.bk.bk.bk.bk[data-source-page="22"] .bk-banner img {height:80px;width:auto;border-radius:0;flex:none}
+#content.bk.bk.bk.bk[data-source-page="22"] .bk-banner h1 {flex:1 1 400px;min-width:0}
+#content[data-source-page="22"] p {margin:0}
+#content.bk.bk.bk.bk[data-source-page="22"] [data-situation] {gap:12px}
+#content[data-source-page="22"] [data-id="pg022_n0005"] {align-self:flex-start;background:var(--bk-accent2);padding:4px 16px}
+#content[data-source-page="22"] .bk-figure {width:100%;max-width:720px;margin-inline:auto;gap:24px}
+#content[data-source-page="22"] .bk-figure img {width:100%;height:auto;border-radius:0}
+#content[data-source-page="22"] .bk-row a.bk-btn {color:var(--bk-primary);text-decoration:underline}
+#content[data-source-page="22"] .bk-feedback:empty {display:none}
+#content[data-source-page="22"] [hidden] {display:none!important}
+#content[data-source-page="22"] details>*+* {margin-top:12px}
+#content[data-source-page="22"] :is(a,button,summary,textarea) {scroll-margin-block:24px 120px}
+@media(min-width:641px) and (max-width:767px){#content.bk[data-source-page="22"]{padding-inline:16px}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div id="content" class="bk" data-family="lesson-discussion" data-source-page="22">
+<section class="bk-stack" data-section-type="text" data-section-id="pg022_sec001" aria-labelledby="pg022_n0002">
+<header class="bk-banner bk-row"><img src="studio/assets/pg022_sec001-emblem.png" alt="" width="108" height="80"><h1 class="bk-title" id="pg022_n0002" data-id="pg022_n0002">Mirëkuptimi, solidariteti, empatia dhe respekti ndaj të tjerëve</h1></header>
+<h2 class="bk-heading" data-id="pg022_n0003">Respektojmë diversitetin kulturor</h2>
+<div class="bk-stack" data-situation="">
+<h3 class="bk-subheading" data-id="pg022_n0005">Situata 1.</h3>
+<p class="bk-body"><span data-id="pg022_n0007">Motra ime e madhe ka tre vjet që jeton në Amerikë për studime dhe punë.</span> <span data-id="pg022_n0008">Ajo ka miq nga vende të ndryshme.</span> <span data-id="pg022_n0009">Në konvikt rri me një vajzë nga Kina, një nga Turqia dhe një nga Irani.</span> <span data-id="pg022_n0010">Një ditë, gjatë një bisede telefonike, na tregoi për zakonet e tyre.</span> <span data-id="pg022_n0011">Më shumë na bëri përshtypje se si në kulturën kineze orizi hahet me shkopinj dhe jo me pirun.</span> <span data-id="pg022_n0012">Kur vajza kineze e vizitoi motrën në Shqipëri, ne e pritëm me shumë gëzim.</span> <span data-id="pg022_n0013">Prindërit përgatitën oriz sipas recetës kineze dhe për herë të parë ne hëngrëm me shkopinj.</span> <span data-id="pg022_n0014">Motra ime i tregoi shoqes për dasmat shqiptare, vallet tona dhe ushqimet tradicionale.</span> <span data-id="pg022_n0015">Asaj i bëri shumë përshtypje se sa bukur vallëzojmë dhe sa të bashkuar jemi në festa.</span></p>
+</div>
+<p class="bk-caption" aria-label="Faqja e burimit 22">22</p>
+</section>
+</div>
+</main>
+<script>window.activityAnswerTextIds=JSON.parse('{}');
+(function(){
+if(window.pg022Drafts)return;
+const memory=window.pg022Drafts=Object.create(null);
+const prefix='shoqeria-mjedisi-4:pg022_sec001:';
+function save(field){const item=field.dataset.activityItem;memory[item]=field.value;const area=field.closest('[data-response]');if(!area)return;const status=area.querySelector('[role="status"]');const retry=area.querySelector('[data-action="retry-save"]');try{localStorage.setItem(prefix+item,field.value);status.textContent='✓ U ruajt.';retry.hidden=true;}catch(e){status.textContent='! Nuk u ruajt. Shënimi mbetet i hapur; provoni përsëri para se të mbyllni shfletuesin.';retry.hidden=false;}}
+function mount(){document.querySelectorAll('#content[data-source-page="22"] textarea[data-activity-item]').forEach(field=>{if(field.dataset.draftReady)return;field.dataset.draftReady='true';const item=field.dataset.activityItem;try{const value=Object.prototype.hasOwnProperty.call(memory,item)?memory[item]:localStorage.getItem(prefix+item);if(value!==null&&value!==undefined)field.value=value;}catch(e){} });}
+document.addEventListener('input',e=>{if(e.target.matches('#content[data-source-page="22"] textarea[data-activity-item]'))save(e.target);});
+document.addEventListener('click',e=>{const button=e.target.closest('[data-action="retry-save"]');if(button&&button.closest('#content[data-source-page="22"]'))save(button.closest('[data-response]').querySelector('textarea'));});
+document.addEventListener('adt:page-changed',mount);new MutationObserver(mount).observe(document.querySelector('main'),{childList:true,subtree:true});mount();
+})();</script>
+<div id="interface-container"></div><div id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+</body></html>

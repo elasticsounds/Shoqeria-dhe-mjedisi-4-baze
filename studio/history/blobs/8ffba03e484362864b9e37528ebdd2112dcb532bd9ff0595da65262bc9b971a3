@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg108_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="144">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+  #content.bk.bk.bk { padding-top: 24px; overflow: visible; }
+  #content.bk.bk.bk [data-section-id="pg108_sec002"] label { display: grid; grid-template-columns: auto minmax(0, 1fr); align-items: start; gap: 12px; }
+  #content.bk.bk.bk [data-section-id="pg108_sec002"] .bk-chip { background: var(--bk-accent2); border-color: var(--bk-accent2); }
+  #content.bk.bk.bk [data-section-id="pg108_sec002"] .bk-prompt { padding-top: 4px; }
+  #content.bk.bk.bk [data-section-id="pg108_sec002"] .bk-feedback:empty { display: none; }
+  #content.bk.bk.bk [data-section-id="pg108_sec002"] [hidden] { display: none; }
+  body:has([data-section-id="pg108_sec002"]) :is(#interface-container, #nav-container) :is(button, span, p, div) { font-family: BookPoppins, Poppins, sans-serif; }
+</style><link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="structured-response" id="content" class="bk">
+  <section data-section-type="activity_open_ended_answer" data-section-id="pg108_sec002" role="region" class="bk-activity bk-card bk-card--surface2" data-activity-pattern="extended-response" data-activity-variant="one-question">
+    <label for="activity-item-1"><span data-id="pg108_n0040" class="bk-chip">2.</span><span data-id="pg108_n0041" class="bk-prompt">Shkruani vendet që vendosët t’i vizitoni dhe tregoni arsyet pse.</span></label>
+    <span data-id="pg108_n0042" class="bk-sr-only"></span>
+    <textarea id="activity-item-1" data-activity-item="item-1" class="bk-field" rows="6" aria-describedby="pg108-save-status"></textarea>
+    <p class="bk-feedback" id="pg108-save-status" role="status" aria-live="polite"></p>
+    <button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+    <script>
+    (function () {
+      'use strict';
+      var key = 'Shoqeria-dhe-Mjedisi-4:pg108_sec002:extended-response:item-1';
+      function section() { return document.querySelector('[data-section-id="pg108_sec002"]'); }
+      function status(box, message, failed) {
+        box.querySelector('#pg108-save-status').textContent = message;
+        box.querySelector('[data-action="retry-save"]').hidden = !failed;
+      }
+      function save(box) {
+        var field = box.querySelector('#activity-item-1');
+        try {
+          localStorage.setItem(key, field.value);
+          status(box, '✓ U ruajt.', false);
+        } catch (e) { status(box, '! Nuk u ruajt.', true); }
+      }
+      function restore() {
+        var box = section();
+        if (!box || box.dataset.draftReady) return;
+        box.dataset.draftReady = 'true';
+        var field = box.querySelector('#activity-item-1');
+        try {
+          var saved = localStorage.getItem(key);
+          if (saved !== null && !field.value) field.value = saved;
+        } catch (e) { status(box, '! Nuk u ruajt.', true); }
+      }
+      document.addEventListener('input', function (event) {
+        var box = section();
+        if (box && event.target === box.querySelector('#activity-item-1')) save(box);
+      });
+      document.addEventListener('click', function (event) {
+        var box = section();
+        if (box && event.target.closest('[data-action="retry-save"]') === box.querySelector('[data-action="retry-save"]')) save(box);
+      });
+      document.addEventListener('adt:page-changed', restore);
+      if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', restore); else restore();
+    }());
+    </script>
+</body>
+
+</html>

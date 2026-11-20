@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg029_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="46">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container mx-auto w-full max-w-6xl px-4 max-sm:px-3 opacity-0 bk">
+  <section data-section-type="text_only" data-section-id="pg029_sec001" class="bg-white text-zinc-800">
+    <div class="w-full overflow-hidden bg-[#f4e1c7] shadow-sm">
+      <div class="relative bg-[#f4e1c7] pb-8 pt-0 max-sm:pb-5">
+        <div class="h-7 w-full bg-[#a869b0]"></div>
+        <div class="mx-auto w-full max-w-5xl px-8 pt-6 max-sm:px-5 max-sm:pt-4">
+          <h1 data-id="pg029_n0003" class="adt-h2 text-left font-semibold text-zinc-800">Shumëllojshmëria fetare në vendin tonë</h1>
+          <div aria-hidden="true" class="mt-2 h-1 w-[36rem] max-w-full bg-[#a869b0]"></div>
+
+          <div class="mt-8 max-sm:mt-6">
+            <div class="mb-3 inline-block bg-[#ffcf43] px-4 py-1">
+              <h3 data-id="pg029_n0005" class="adt-h3 text-left font-semibold text-zinc-900">Situata 2.</h3>
+            </div>
+            <p class="adt-body max-w-4xl text-left leading-relaxed text-zinc-800">
+              <span data-id="pg029_n0007">Mësuesja na tregoi se kur ajo kishte qenë nxënëse, disa shokë festonin Bajramin e disa Krishtlindjet.</span>
+              <span data-id="pg029_n0008">Në çdo festë sillnin ëmbëlsira nga shtëpia dhe i ndanin me klasën.</span>
+              <span data-id="pg029_n0009">Ajo na tha se të gjithë gëzoheshin për njëri-tjetrin dhe se festa bëhej më e bukur kur festonim së bashku.</span>
+              <span data-id="pg029_n0010">Kishim shumë respekt për festat e njëri-tjetrit dhe sa shumë kënaqeshim bashkë!</span>
+            </p>
+          </div>
+
+          <div aria-hidden="true" class="mt-10 flex h-[560px] w-full items-end justify-center overflow-hidden max-lg:h-[420px] max-sm:mt-6 max-sm:h-[240px]">
+            <div class="relative h-full w-full max-w-4xl">
+              <div class="absolute inset-x-0 bottom-0 h-24 bg-[#bf7748] max-lg:h-20 max-sm:h-12"></div>
+
+              <div class="absolute bottom-24 left-[10%] h-[330px] w-[210px] max-lg:bottom-20 max-lg:h-[255px] max-lg:w-[155px] max-sm:bottom-12 max-sm:left-[4%] max-sm:h-[170px] max-sm:w-[95px]">
+                <div class="absolute bottom-0 left-1/2 h-14 w-6 -translate-x-1/2 bg-[#7a4a25] max-sm:h-8 max-sm:w-3"></div>
+                <div class="absolute bottom-10 left-1/2 h-[44%] w-[70%] -translate-x-1/2 bg-[#4a9a4a] [clip-path:polygon(50%_0,100%_100%,0_100%)]"></div>
+                <div class="absolute bottom-24 left-1/2 h-[38%] w-[78%] -translate-x-1/2 bg-[#5dad55] [clip-path:polygon(50%_0,100%_100%,0_100%)]"></div>
+                <div class="absolute bottom-40 left-1/2 h-[34%] w-[68%] -translate-x-1/2 bg-[#4f9b4d] [clip-path:polygon(50%_0,100%_100%,0_100%)] max-sm:bottom-28"></div>
+                <div class="absolute bottom-[92%] left-1/2 h-0 w-0 -translate-x-1/2 border-l-[22px] border-r-[22px] border-b-[40px] border-l-transparent border-r-transparent border-b-[#ffcf43] max-lg:border-l-[18px] max-lg:border-r-[18px] max-lg:border-b-[32px] max-sm:border-l-[12px] max-sm:border-r-[12px] max-sm:border-b-[22px]"></div>
+                <div class="absolute bottom-12 left-[30%] h-4 w-4 rounded-full bg-[#ef4b2f] max-sm:h-2.5 max-sm:w-2.5"></div>
+                <div class="absolute bottom-20 left-[58%] h-4 w-4 rounded-full bg-[#ef4b2f] max-sm:h-2.5 max-sm:w-2.5"></div>
+                <div class="absolute bottom-28 left-[38%] h-4 w-4 rounded-full bg-[#ef4b2f] max-sm:h-2.5 max-sm:w-2.5"></div>
+                <div class="absolute bottom-36 left-[62%] h-4 w-4 rounded-full bg-[#ef4b2f] max-sm:h-2.5 max-sm:w-2.5"></div>
+                <div class="absolute bottom-44 left-[48%] h-3.5 w-3.5 rounded-full bg-[#ef4b2f] max-sm:h-2 max-sm:w-2"></div>
+                <div class="absolute bottom-2 left-[2%] h-14 w-20 rounded-sm bg-[#f25a52] max-lg:h-12 max-lg:w-16 max-sm:h-8 max-sm:w-11"></div>
+                <div class="absolute bottom-2 left-[32%] h-14 w-5 bg-white max-lg:h-12 max-sm:h-8 max-sm:w-3"></div>
+                <div class="absolute bottom-7 left-[2%] h-5 w-20 bg-white max-lg:w-16 max-sm:bottom-5 max-sm:h-3 max-sm:w-11"></div>
+                <div class="absolute bottom-0 left-[58%] h-13 w-18 rounded-sm bg-[#4c7fc1] max-lg:h-12 max-lg:w-14 max-sm:h-8 max-sm:w-10"></div>
+                <div class="absolute bottom-0 left-[72%] h-13 w-4 bg-white max-lg:h-12 max-sm:h-8 max-sm:w-2.5"></div>
+                <div class="absolute bottom-5 left-[58%] h-4 w-18 bg-white max-lg:w-14 max-sm:bottom-3 max-sm:h-2.5 max-sm:w-10"></div>
+              </div>
+
+              <div class="absolute bottom-24 left-1/2 h-[360px] w-[310px] -translate-x-1/2 max-lg:bottom-20 max-lg:h-[275px] max-lg:w-[235px] max-sm:bottom-12 max-sm:h-[180px] max-sm:w-[135px]">
+                <div class="absolute bottom-0 left-1/2 h-[92%] w-[44%] -translate-x-1/2 bg-[#ef7968]"></div>
+                <div class="absolute bottom-[90%] left-1/2 h-4 w-[58%] -translate-x-1/2 bg-[#b24032] max-sm:h-2"></div>
+                <div class="absolute bottom-[46%] left-1/2 h-7 w-[92%] -translate-x-1/2 bg-[#b54534] max-sm:h-4"></div>
+                <div class="absolute bottom-0 left-1/2 h-[33%] w-[64%] -translate-x-1/2 rounded-t-full bg-[#2f2d34]"></div>
+                <div class="absolute bottom-0 left-1/2 h-[22%] w-[42%] -translate-x-1/2 rounded-t-full bg-[#1f1d22]"></div>
+                <div class="absolute bottom-4 left-1/2 h-16 w-12 -translate-x-1/2 rounded-t-full bg-[#f08b24] max-sm:h-10 max-sm:w-7"></div>
+                <div class="absolute bottom-8 left-1/2 h-9 w-6 -translate-x-1/2 rounded-t-full bg-[#ffd21f] max-sm:h-6 max-sm:w-4"></div>
+                <div class="absolute bottom-[46%] left-[2%] h-20 w-7 bg-[#f1bc2f] max-lg:h-16 max-lg:w-6 max-sm:h-11 max-sm:w-4"></div>
+                <div class="absolute bottom-[46%] left-[10%] h-16 w-5 bg-[#ef4c2f] max-lg:h-14 max-sm:h-10 max-sm:w-3"></div>
+                <div class="absolute bottom-[46%] right-[10%] h-20 w-7 bg-[#f1bc2f] max-lg:h-16 max-lg:w-6 max-sm:h-11 max-sm:w-4"></div>
+                <div class="absolute bottom-[46%] right-[2%] h-16 w-5 bg-[#ef4c2f] max-lg:h-14 max-sm:h-10 max-sm:w-3"></div>
+                <div class="absolute bottom-[46%] left-[11%] h-20 w-6 rotate-12 rounded-full bg-[#ef4c2f] max-lg:h-16 max-sm:h-11 max-sm:w-3"></div>
+                <div class="absolute bottom-[46%] left-[22%] h-20 w-6 -rotate-12 rounded-full bg-[#ef4c2f] max-lg:h-16 max-sm:h-11 max-sm:w-3"></div>
+                <div class="absolute bottom-[46%] right-[22%] h-20 w-6 rotate-12 rounded-full bg-[#ef4c2f] max-lg:h-16 max-sm:h-11 max-sm:w-3"></div>
+                <div class="absolute bottom-[46%] right-[11%] h-20 w-6 -rotate-12 rounded-full bg-[#ef4c2f] max-lg:h-16 max-sm:h-11 max-sm:w-3"></div>
+              </div>
+
+              <div class="absolute bottom-24 right-[11%] h-[300px] w-[250px] max-lg:bottom-20 max-lg:h-[225px] max-lg:w-[180px] max-sm:bottom-12 max-sm:right-[1%] max-sm:h-[135px] max-sm:w-[95px]">
+                <div class="absolute left-3 top-0 h-44 w-40 border-[5px] border-[#8b4a20] bg-[#d7904e] max-lg:h-32 max-lg:w-28 max-sm:left-0 max-sm:h-16 max-sm:w-12 max-sm:border-[3px]"></div>
+                <div class="absolute left-10 top-7 h-14 w-12 bg-[#18385f] max-lg:left-8 max-lg:h-10 max-lg:w-8 max-sm:left-3 max-sm:top-3 max-sm:h-5 max-sm:w-4"></div>
+                <div class="absolute left-24 top-7 h-14 w-12 bg-[#18385f] max-lg:left-20 max-lg:h-10 max-lg:w-8 max-sm:left-8 max-sm:top-3 max-sm:h-5 max-sm:w-4"></div>
+                <div class="absolute left-10 top-24 h-14 w-12 bg-[#18385f] max-lg:left-8 max-lg:top-20 max-lg:h-10 max-lg:w-8 max-sm:left-3 max-sm:top-9 max-sm:h-5 max-sm:w-4"></div>
+                <div class="absolute left-24 top-24 h-14 w-12 bg-[#18385f] max-lg:left-20 max-lg:top-20 max-lg:h-10 max-lg:w-8 max-sm:left-8 max-sm:top-9 max-sm:h-5 max-sm:w-4"></div>
+                <div class="absolute bottom-0 left-0 h-44 w-44 rounded-[2rem] bg-[#b687c1] max-lg:h-32 max-lg:w-32 max-sm:h-18 max-sm:w-16 max-sm:rounded-[1rem]"></div>
+                <div class="absolute bottom-16 left-6 h-16 w-28 rounded-md bg-[#ef2f31] max-lg:bottom-12 max-lg:left-5 max-lg:h-12 max-lg:w-20 max-sm:bottom-6 max-sm:left-3 max-sm:h-6 max-sm:w-10"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5 max-sm:py-6">
+      <div class="relative overflow-hidden rounded-sm bg-[#d8c0df] p-4 pr-28 text-left text-zinc-800 max-sm:pr-4">
+        <div aria-hidden="true" class="absolute right-0 top-0 h-full w-20 bg-[#a869b0] max-sm:hidden"></div>
+        <div class="relative z-10 space-y-4">
+          <div>
+            <p class="adt-body leading-relaxed"><span data-id="pg029_n0012">- Pse duhet t’i njohim kulturat e ndryshme?</span></p>
+            <label for="item-1" class="sr-only">- Pse duhet t’i njohim kulturat e ndryshme?</label>
+            <textarea id="item-1" data-activity-item="item-1" aria-label="- Pse duhet t’i njohim kulturat e ndryshme?" class="mt-2 min-h-11 w-full rounded-lg border-2 border-[#a869b0] bg-white px-3 py-3 text-zinc-800 outline-none focus:border-[#7e4889]" rows="3"></textarea>
+          </div>
+          <div>
+            <p class="adt-body leading-relaxed"><span data-id="pg029_n0013">- Cila ka qenë dhurata më e bukur që ke marrë për një festë? Si je ndier?</span></p>
+            <label for="item-2" class="sr-only">- Cila ka qenë dhurata më e bukur që ke marrë për një festë? Si je ndier?</label>
+            <textarea id="item-2" data-activity-item="item-2" aria-label="- Cila ka qenë dhurata më e bukur që ke marrë për një festë? Si je ndier?" class="mt-2 min-h-11 w-full rounded-lg border-2 border-[#a869b0] bg-white px-3 py-3 text-zinc-800 outline-none focus:border-[#7e4889]" rows="3"></textarea>
+          </div>
+        </div>
+      </div>
+
+      <div class="relative mt-5 overflow-hidden border-2 border-[#c58bc8] bg-white p-4 pr-28 max-sm:pr-4">
+        <div aria-hidden="true" class="absolute right-0 top-0 h-20 w-20 bg-[#a869b0] max-sm:hidden"></div>
+        <p class="adt-body relative z-10 text-left italic leading-relaxed text-zinc-800">
+          <span data-id="pg029_n0016">Zakonet, traditat dhe gjuha e çdo populli është e ndryshme, prandaj dhe kulturat janë të shumëllojshme.</span>
+          <span data-id="pg029_n0017">Ruajtja e larmisë kulturore konsiderohet vlerë.</span>
+          <span data-id="pg029_n0018">Bashkëjetesë fetare në një shtet kemi kur grupe të shumta fetare jetojnë së bashku, duke i respektuar besimet e njëri-tjetrit.</span>
+          <span data-id="pg029_n0019">Mirëkuptimi dhe toleranca midis njerëzve që u përkasin besimeve të ndryshme fetare, përbën vlerë kulturore që siguron paqe mes tyre.</span>
+          <span data-id="pg029_n0020">Shkolla luan rol të rëndësishëm në edukimin e nxënësve me paqe e dashuri.</span>
+          <span data-id="pg029_n0021">Ajo krijon mjedis të përshtatshëm ku respektohen besimet e ndryshme fetare dhe mbizotëron paqja dhe solidariteti.</span>
+          <span data-id="pg029_n0022">Si çdo kulturë tjetër, edhe kultura jonë identifikohet me traditat, zakonet, vlerat, veshjet, ushqimet etj.</span>
+        </p>
+      </div>
+
+      <div class="mt-8 flex items-baseline gap-2 text-left max-sm:block max-sm:space-y-1">
+        <span data-id="pg029_n0024" class="adt-body font-semibold text-zinc-900">Fjalët kyçe:</span>
+        <span data-id="pg029_n0025" class="adt-body text-zinc-800">kulturë fetare, traditë, zakon, vlerë.</span>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

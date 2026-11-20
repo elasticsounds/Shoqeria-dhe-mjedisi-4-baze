@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg023_sec001_p2">
+<meta name="page-section-id" content="36">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>
+body{font-family:BookPoppins,Poppins,sans-serif}
+#interface-container *,#nav-container *{font-family:BookPoppins,Poppins,sans-serif!important;font-size:var(--bk-label)!important}
+#content.bk.bk.bk{padding-top:24px;overflow:visible}
+#content.bk.bk.bk .bk-banner{margin:0;padding:16px var(--bk-pad);border-radius:var(--bk-r-card)}
+#content.bk.bk.bk .bk-banner .bk-row{flex-wrap:nowrap}
+#content.bk.bk.bk .bk-title{flex:1;min-width:0}
+#content.bk.bk.bk .bk-heading{font-weight:600;line-height:1.25}
+#content.bk.bk.bk .bk-subheading{line-height:1.25}
+#content.bk.bk.bk p{margin:0}
+#content.bk.bk.bk p.bk-body{max-width:720px}
+#content.bk.bk.bk em{font-style:normal;font-weight:600}
+#content.bk.bk.bk strong{font-weight:700}
+#content.bk.bk.bk [data-source-art="emblem"]{height:80px;width:auto;flex:none;border-radius:0}
+#content.bk.bk.bk [data-source-art="book"]{height:48px;width:auto;border-radius:0}
+#content.bk.bk.bk .bk-figure img{width:100%;height:auto;border-radius:0}
+#content.bk.bk.bk [data-situation]{display:flex;flex-direction:column;gap:12px}
+#content.bk.bk.bk [data-situation] h3{align-self:flex-start;background:var(--bk-accent3);padding:4px 16px}
+#content.bk.bk.bk .bk-card--outline{border-color:var(--bk-primary)}
+@media(min-width:641px) and (max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div id="content" class="bk" data-family="lesson-discussion" data-source-page="23">
+<section data-section-type="text_and_single_image" data-section-id="pg023_sec001_p2" class="bk-stack" aria-label="Shoku ynë i klasës, Luja, kishte ditëlindjen.">
+<p class="bk-body">
+<span data-id="pg023_n0017">Shoku ynë i klasës, Luja, kishte ditëlindjen.</span>
+<span data-id="pg023_n0018">Ai jeton me familjen e tij, e cila ka një biznes familjar në Prishtinë.</span>
+<span data-id="pg023_n0019">Vendosëm që ta uronim me një buqetë lulesh.</span>
+<span data-id="pg023_n0020">Në vend që ta gëzonte, dhurata e shqetësoi Lunë</span>...
+<!-- Source decision: PDF p.23 explicitly ends with an ellipsis. Retain the existing text binding unchanged and restore punctuation immediately after it. -->
+</p>
+<figure class="bk-figure"><img data-id="pg023_im001" src="images/pg023_im001.png" alt="Vajza i dhuron djalit një buqetë me lule të bardha, ndërsa ai duket i mërzitur dhe i shqetësuar."></figure>
+</section>
+</div>
+</main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div id="interface-container"></div><div id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

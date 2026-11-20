@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg075_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="99">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk">
+  <section data-section-type="text_and_single_image" data-section-id="pg075_sec001" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-[#fffaf7]">
+    <div class="mb-6">
+      <h1 data-id="pg075_n0004" class="adt-h2 text-left font-semibold text-[#2f2a2a] mb-4">Vendi im dhe ekonomia</h1>
+      <div class="overflow-hidden rounded-2xl border-4 border-[#c48ac8] bg-[#f7e9de] shadow-sm">
+        <img data-id="pg075_im001_crop_v1" src="images/pg075_im001_crop_v1.png" alt="Dy fëmijë ulur pranë tavolinës shkruajnë në fletore, në një dhomë me orë muri, rafte me libra dhe bimë." class="w-full h-auto block">
+      </div>
+    </div>
+
+    <div class="mb-8 rounded-2xl bg-[#dcc7e5] border border-[#c9add8] p-5">
+      <div class="space-y-4">
+        <div class="rounded-xl bg-white/70 p-4 border border-[#c9add8]">
+          <p class="adt-body text-left text-[#2f2a2a] mb-3"><span data-id="pg075_n0007">Pse punojnë njerëzit?</span></p>
+          <label for="item-1" class="sr-only">Pse punojnë njerëzit?</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="Pse punojnë njerëzit?" class="w-full min-h-11 h-28 rounded-xl border border-[#b78fc8] bg-white px-4 py-3 text-[#2f2a2a] outline-none focus:ring-2 focus:ring-[#a96ab6]"></textarea>
+        </div>
+        <div class="rounded-xl bg-white/70 p-4 border border-[#c9add8]">
+          <p class="adt-body text-left text-[#2f2a2a] mb-3"><span data-id="pg075_n0009">Cilat degë të ekonomisë janë të zhvilluara në fshat e cilat në qytet?</span></p>
+          <label for="item-2" class="sr-only">Cilat degë të ekonomisë janë të zhvilluara në fshat e cilat në qytet?</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="Cilat degë të ekonomisë janë të zhvilluara në fshat e cilat në qytet?" class="w-full min-h-11 h-28 rounded-xl border border-[#b78fc8] bg-white px-4 py-3 text-[#2f2a2a] outline-none focus:ring-2 focus:ring-[#a96ab6]"></textarea>
+        </div>
+        <div class="rounded-xl bg-white/70 p-4 border border-[#c9add8]">
+          <p class="adt-body text-left text-[#2f2a2a] mb-3"><span data-id="pg075_n0011">Cilat degë të ekonomisë janë të zhvilluara në vendin tonë?</span></p>
+          <label for="item-3" class="sr-only">Cilat degë të ekonomisë janë të zhvilluara në vendin tonë?</label>
+          <textarea id="item-3" data-activity-item="item-3" aria-label="Cilat degë të ekonomisë janë të zhvilluara në vendin tonë?" class="w-full min-h-11 h-28 rounded-xl border border-[#b78fc8] bg-white px-4 py-3 text-[#2f2a2a] outline-none focus:ring-2 focus:ring-[#a96ab6]"></textarea>
+        </div>
+        <div class="rounded-xl bg-white/70 p-4 border border-[#c9add8]">
+          <p class="adt-body text-left text-[#2f2a2a] mb-3"><span data-id="pg075_n0013">Pse mendon se në vendin tonë prodhohet rryma elektrike me thëngjill?</span></p>
+          <label for="item-4" class="sr-only">Pse mendon se në vendin tonë prodhohet rryma elektrike me thëngjill?</label>
+          <textarea id="item-4" data-activity-item="item-4" aria-label="Pse mendon se në vendin tonë prodhohet rryma elektrike me thëngjill?" class="w-full min-h-11 h-28 rounded-xl border border-[#b78fc8] bg-white px-4 py-3 text-[#2f2a2a] outline-none focus:ring-2 focus:ring-[#a96ab6]"></textarea>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-8 rounded-2xl border-2 border-[#c48ac8] bg-white p-5 shadow-sm">
+      <p class="adt-body text-left italic text-[#3a3333] mb-4 leading-relaxed">
+        <span data-id="pg075_n0016">Vendi ynë ka një ekonomi relativisht të zhvilluar.</span> <span data-id="pg075_n0017">Secili vend duhet të zhvillojë ato degë të ekonomisë të cilat përshtaten me pasuritë natyrore të atij vendi.</span>
+      </p>
+      <p class="adt-body text-left italic text-[#3a3333] mb-4 leading-relaxed">
+        <span data-id="pg075_n0019">Duke shfrytëzuar tokën e punueshme, në vendin tonë është zhvilluar bujqësia, prej së cilës marrim shumë prodhime bujqësore, si: fruta, perime e drithëra.</span>
+      </p>
+      <p class="adt-body text-left italic text-[#3a3333] mb-4 leading-relaxed">
+        <span data-id="pg075_n0021">Po ashtu, është e zhvilluar blegtoria - degë e ekonomisë, e cila merret me rritjen e kafshëve, si: delet e lopët, të cilat kanë mundësuar rritjen e prodhimit të mishit, të qumështit dhe të produkteve të tij.</span>
+      </p>
+      <p class="adt-body text-left italic text-[#3a3333] mb-4 leading-relaxed">
+        <span data-id="pg075_n0023">Kosova prodhon energji elektrike, duke shfrytëzuar thëngjillin si pasuri nëntokësore.</span>
+      </p>
+      <p class="adt-body text-left italic text-[#3a3333] mb-4 leading-relaxed">
+        <span data-id="pg075_n0025">Industria është e zhvilluar më tepër në ndërmarrje të vogla nga të cilat marrim prodhime industriale.</span> <span data-id="pg075_n0026">Tregtia është mjaft e zhvilluar me mallra vendore dhe nga vende të ndryshme të botës.</span>
+      </p>
+      <p class="adt-body text-left italic text-[#3a3333] mb-4 leading-relaxed">
+        <span data-id="pg075_n0028">Bukuritë natyrore në malet e Sharrit, me vendpushimin Brezovica, Prevalla dhe Bjeshkët e Nemuna, me vendpushimin në Bogë, kanë mundësuar zhvillimin e turizmit dimëror në vendin tonë.</span>
+      </p>
+      <p class="adt-body text-left italic text-[#3a3333] leading-relaxed">
+        <span data-id="pg075_n0030">Në Kosovë ka shumë banka, ku punojnë njerëz të përgatitur dhe që ofrojnë shërbime për qytetarët.</span>
+      </p>
+    </div>
+
+    <div class="adt-body text-left text-[#2f2a2a] font-medium">
+      <span data-id="pg075_n0032">Fjalët kyçe:</span> <span data-id="pg075_n0033">bujqësi, blegtori, industri, turizëm, bankë.</span>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

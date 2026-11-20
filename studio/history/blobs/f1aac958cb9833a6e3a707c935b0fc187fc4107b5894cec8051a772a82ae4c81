@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg071_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="88">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0 bk">
+  <section data-section-type="text_and_single_image" data-section-id="pg071_sec001" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5">
+    <div class="mb-6 overflow-hidden rounded-3xl bg-sky-200 shadow-sm">
+      <div class="bg-purple-500 px-6 py-4 text-white">
+        <h1 class="adt-h2 font-semibold" data-id="pg071_n0004">Qyteti dikur dhe sot</h1>
+      </div>
+      <div class="flex items-start justify-between gap-6 px-6 py-5 max-lg:flex-col">
+        <div class="flex-1">
+          <div class="mb-4 inline-block rounded-r-2xl bg-green-400 px-4 py-2 shadow-sm">
+            <h3 class="adt-h3 font-semibold text-slate-900" data-id="pg071_n0006">Situata 1.</h3>
+          </div>
+          <p class="adt-body text-left leading-relaxed text-slate-900">
+            <span data-id="pg071_n0008">Klea jeton në Prishtinë.</span>
+            <span data-id="pg071_n0009">Ajo shpesh shkon te gjyshërit dhe bisedon me ta.</span>
+            <span data-id="pg071_n0010">Sot ajo me gjyshin shkuan në parkun e lagjes dhe biseduan për qytetin dikur dhe sot.</span>
+            <span data-id="pg071_n0011">Gjyshi tregoi: “Qyteti dikur ishte më i vogël, kishte banorë më pak.</span>
+            <span data-id="pg071_n0012">Nuk kishte shumë mjete komunikacioni.</span>
+            <span data-id="pg071_n0013">Ndërtesat ishin larg njëra-tjetrës.</span>
+            <span data-id="pg071_n0014">Merrnim shërbimet e nevojshme në të gjitha institucionet.</span>
+            <span data-id="pg071_n0015">Njerëzit merreshin me zeje të ndryshme, si: farkëtarë, marangozë, këpucarë, rrobaqepës, plisaxhi e shumë të tjera.</span>
+            <span data-id="pg071_n0016">Tregtarët kishin dyqane të vogla nga të cilat siguronin jetesën.</span>
+            <span data-id="pg071_n0017">Kishte parqe të gjelbëruara në çdo lagje.</span>
+            <span data-id="pg071_n0018">Sot gjithçka duket sikur ecën me shpejtësi.</span>
+            <span data-id="pg071_n0019">Dendësi e ndërtesave, lagje të reja, qendra të mëdha tregtare, komunikacion i pandalshëm, gjelbërim pak, sepse të gjitha pjesët e tokës shfrytëzohen për ndërtim.</span>
+            <span data-id="pg071_n0020">Ka ndryshime në rrugë, në ndërtesa, në objekte të ndryshme, si dhe në zhvillim teknologjik.</span>
+            <span data-id="pg071_n0021">Të gjithë janë në lëvizje.”</span>
+          </p>
+        </div>
+        <div aria-hidden="true" class="flex h-32 w-32 items-center justify-center rounded-3xl bg-purple-400 text-white shadow-sm max-lg:hidden">⌛</div>
+      </div>
+      <div class="px-0">
+        <img data-id="pg071_im001" src="images/pg071_im001.png" alt="Klea dhe gjyshi i saj të ulur në një bankë në park, duke biseduar për qytetin dikur dhe sot." class="w-full h-auto">
+      </div>
+    </div>
+
+    <div class="mb-8 rounded-2xl bg-purple-100 p-6 shadow-sm">
+      <div class="space-y-5">
+        <div class="rounded-2xl bg-white/70 p-4 shadow-sm">
+          <p class="adt-body mb-3 text-left font-medium text-slate-900"><span data-id="pg071_n0024">Si ishte qyteti dikur?</span></p>
+          <label for="item-1" class="sr-only">Si ishte qyteti dikur?</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="Si ishte qyteti dikur?" class="min-h-11 w-full rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-900 outline-none transition focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+        </div>
+        <div class="rounded-2xl bg-white/70 p-4 shadow-sm">
+          <p class="adt-body mb-3 text-left font-medium text-slate-900"><span data-id="pg071_n0026">Si është qyteti sot?</span></p>
+          <label for="item-2" class="sr-only">Si është qyteti sot?</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="Si është qyteti sot?" class="min-h-11 w-full rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-900 outline-none transition focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+        </div>
+        <div class="rounded-2xl bg-white/70 p-4 shadow-sm">
+          <p class="adt-body mb-3 text-left font-medium text-slate-900"><span data-id="pg071_n0028">Pse gjyshi tha që gjithçka ishte në lëvizje?</span></p>
+          <label for="item-3" class="sr-only">Pse gjyshi tha që gjithçka ishte në lëvizje?</label>
+          <textarea id="item-3" data-activity-item="item-3" aria-label="Pse gjyshi tha që gjithçka ishte në lëvizje?" class="min-h-11 w-full rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-900 outline-none transition focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+        </div>
+        <div class="rounded-2xl bg-white/70 p-4 shadow-sm">
+          <p class="adt-body mb-3 text-left font-medium text-slate-900"><span data-id="pg071_n0030">Çfarë mendon ti për ndotjen e ajrit në qytet dikur dhe sot? Pse?</span></p>
+          <label for="item-4" class="sr-only">Çfarë mendon ti për ndotjen e ajrit në qytet dikur dhe sot? Pse?</label>
+          <textarea id="item-4" data-activity-item="item-4" aria-label="Çfarë mendon ti për ndotjen e ajrit në qytet dikur dhe sot? Pse?" class="min-h-11 w-full rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-900 outline-none transition focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+        </div>
+      </div>
+    </div>
+
+    <div class="rounded-2xl border-2 border-purple-300 bg-white p-6 shadow-sm">
+      <div class="mb-4 flex items-start justify-between gap-4 max-lg:flex-col">
+        <div aria-hidden="true" class="ml-auto rounded-2xl bg-purple-400 px-4 py-3 text-white shadow-sm max-lg:ml-0">📖</div>
+      </div>
+      <p class="adt-body text-left italic leading-relaxed text-slate-800">
+        <span data-id="pg071_n0033">Qyteti është vendbanim i madh dhe urban, në të cilin shumica e popullsisë jeton nga industria, tregtia dhe aktivitetet e shërbimit.</span>
+        <span data-id="pg071_n0034">Në qytete ka shumë ndërmarrje industriale, tregtare, institucione politike, shoqërore, shëndetësore, kulturore dhe administrative.</span>
+        <span data-id="pg071_n0035">Qytetet dikur kishin ndërtesa të ulëta, rrugë të ngushta, pak mjete komunikacioni, zona të gjelbra.</span>
+        <span data-id="pg071_n0036">Numri i spitaleve, i shkollave dhe i çerdheve nuk ishte i madh dhe të gjitha ishin institucione shtetërore.</span>
+        <span data-id="pg071_n0037">Qytetet sot kanë rrugë të gjera, komunikacion të dendur, parkingje të shumta, ndërtesa të larta, kurse zonat e gjelbra janë zvogëluar shumë.</span>
+        <span data-id="pg071_n0038">Në qytete ka shumë shkolla shtetërore e private.</span>
+        <span data-id="pg071_n0039">Ka shumë kopshte e çerdhe, të cilat ofrojnë shërbime edukative dhe të kujdesit për fëmijët në kuadër të edukimit parashkollor.</span>
+        <span data-id="pg071_n0040">Ka spitale shtetërore e private, në të cilat njerëzit gjejnë shërbimin e duhur për t’u shëruar nga sëmundjet e ndryshme.</span>
+      </p>
+    </div>
+
+    <div class="mt-5 rounded-xl bg-amber-50 px-4 py-3">
+      <p class="adt-body text-left text-slate-900">
+        <span data-id="pg071_n0042" class="font-semibold">Fjalët kyçe:</span>
+        <span data-id="pg071_n0043">qytet, banor, institucion, shëndetësi, kulturë.</span>
+      </p>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

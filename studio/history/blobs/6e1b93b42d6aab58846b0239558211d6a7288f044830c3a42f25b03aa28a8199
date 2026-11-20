@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg100_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="128">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto max-w-5xl bg-white px-16 max-lg:px-10 max-sm:px-6 pt-8 pb-12 opacity-0 bk">
+  <section class="bg-white mx-auto" role="region" data-section-type="activity_sorting" data-section-id="pg100_sec001">
+    <div class="mb-10">
+      <div class="flex items-stretch max-sm:flex-col max-sm:gap-4">
+        <div class="w-32 max-sm:w-full bg-purple-500 rounded-l-2xl max-sm:rounded-2xl flex items-center justify-center py-8">
+          <div class="w-16 h-16 border-4 border-white rounded-full opacity-80"></div>
+        </div>
+        <div class="flex-1 pt-10 max-sm:pt-0">
+          <div class="bg-purple-500 px-4 py-3">
+            <h1 class="adt-h1 font-bold text-white" data-id="pg100_n0002">Resurset dhe trashëgimia e vendit tim</h1>
+          </div>
+          <div class="inline-block border-b-4 border-purple-400 px-2 pt-4 pb-2 max-sm:block">
+            <h2 class="adt-h2 font-semibold text-slate-800" data-id="pg100_n0003">Pasuritë njerëzore</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-8">
+      <div class="flex items-start gap-6 max-sm:flex-col max-sm:gap-3">
+        <div class="bg-green-400 px-5 py-2 min-w-[12rem] text-center rounded-sm max-sm:min-w-0 max-sm:w-fit">
+          <h3 class="adt-h3 font-semibold text-slate-900" data-id="pg100_n0005">Situata 1.</h3>
+        </div>
+        <div class="flex-1">
+          <p class="adt-body mb-2"><span data-id="pg100_n0007">Një ditë, Rona në një revistë pa një detyrë, ku kishte shumë fotografi.</span></p>
+          <p class="adt-body mb-1"><span data-id="pg100_n0008">Mbi to shkruhej udhëzimi:</span></p>
+          <ul class="list-disc pl-8 mb-2 adt-body">
+            <li><span data-id="pg100_n0011">Luaj dhe mëso.</span></li>
+            <li><span data-id="pg100_n0013">Ndaj fotografitë në dy grupe.</span></li>
+            <li><span data-id="pg100_n0015">Trego se çka janë pasuritë natyrore dhe ato njerëzore.</span></li>
+          </ul>
+          <p class="adt-body"><span data-id="pg100_n0017">Rona ka dëshirë të tregojë zgjidhjen e detyrës, prandaj edhe e publikoi atë në librin tonë.</span></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="grid grid-cols-[1.15fr_0.85fr] gap-6 max-lg:grid-cols-1">
+      <div class="grid grid-cols-3 gap-4 max-sm:grid-cols-2">
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg001_v1" src="images/pg100_im001_seg001_v1.png" alt="Lumë me një urë të vogël druri.">
+          <label for="sort-item-1" class="sr-only">Klasifiko figurën Lumë me urë</label>
+          <input id="sort-item-1" data-activity-item="item-1" type="text" list="sort-options" aria-label="Klasifiko figurën Lumë me urë si pasuri natyrore ose njerëzore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg002_v1" src="images/pg100_im001_seg002_v1.png" alt="Mësuese duke folur para tabelës.">
+          <label for="sort-item-2" class="sr-only">Klasifiko figurën Mësuese para tabelës</label>
+          <input id="sort-item-2" data-activity-item="item-2" type="text" list="sort-options" aria-label="Klasifiko figurën Mësuese para tabelës si pasuri natyrore ose njerëzore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg003_v1" src="images/pg100_im001_seg003_v1.png" alt="Kuzhiniere me uniformë të bardhë dhe kapelë kuzhinieri.">
+          <label for="sort-item-3" class="sr-only">Klasifiko figurën Kuzhiniere</label>
+          <input id="sort-item-3" data-activity-item="item-3" type="text" list="sort-options" aria-label="Klasifiko figurën Kuzhiniere si pasuri natyrore ose njerëzore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg004_v1" src="images/pg100_im001_seg004_v1.png" alt="Dielli me rreze të verdha në qiell të kaltër.">
+          <label for="sort-item-4" class="sr-only">Klasifiko figurën Dielli</label>
+          <input id="sort-item-4" data-activity-item="item-4" type="text" list="sort-options" aria-label="Klasifiko figurën Dielli si pasuri natyrore ose njerëzore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg005_v1" src="images/pg100_im001_seg005_v1.png" alt="Mjek me mantil të bardhë dhe stetoskop.">
+          <label for="sort-item-5" class="sr-only">Klasifiko figurën Mjek</label>
+          <input id="sort-item-5" data-activity-item="item-5" type="text" list="sort-options" aria-label="Klasifiko figurën Mjek si pasuri natyrore ose njerëzore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg006_v1" src="images/pg100_im001_seg006_v1.png" alt="Pemë e gjelbër.">
+          <label for="sort-item-6" class="sr-only">Klasifiko figurën Pemë</label>
+          <input id="sort-item-6" data-activity-item="item-6" type="text" list="sort-options" aria-label="Klasifiko figurën Pemë si pasuri natyrore ose njerëzore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg007_v1_crop_v1" src="images/pg100_im001_seg007_v1_crop_v1.png" alt="Lule e kuqe me gjethe të gjelbër.">
+          <label for="sort-item-7" class="sr-only">Klasifiko figurën Lule</label>
+          <input id="sort-item-7" data-activity-item="item-7" type="text" list="sort-options" aria-label="Klasifiko figurën Lule si pasuri natyrore ose njerëzore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg008_v1" src="images/pg100_im001_seg008_v1.png" alt="Bredh i gjelbër.">
+          <label for="sort-item-8" class="sr-only">Klasifiko figurën Bredh</label>
+          <input id="sort-item-8" data-activity-item="item-8" type="text" list="sort-options" aria-label="Klasifiko figurën Bredh si pasuri natyrore ose njerëzore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg009_v1" src="images/pg100_im001_seg009_v1.png" alt="Murator duke ndërtuar me tulla.">
+          <label for="sort-item-9" class="sr-only">Klasifiko figurën Ndërtues</label>
+          <input id="sort-item-9" data-activity-item="item-9" type="text" list="sort-options" aria-label="Klasifiko figurën Ndërtues si pasuri natyrore ose njerëzore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg010_v1" src="images/pg100_im001_seg010_v1.png" alt="Police me uniformë.">
+          <label for="sort-item-10" class="sr-only">Klasifiko figurën Police</label>
+          <input id="sort-item-10" data-activity-item="item-10" type="text" list="sort-options" aria-label="Klasifiko figurën Police si pasuri natyrore ose njerëzore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+      </div>
+
+      <div class="flex flex-col gap-4 max-lg:mt-2">
+        <div class="bg-green-200 border border-green-300 rounded p-4 min-h-[18rem] max-lg:min-h-[8rem]">
+          <p class="font-semibold text-center mb-2" data-id="pg100_sec001_activity_c94d4e1c6d33f2a6ccbf982a">Pasuritë natyrore</p>
+        </div>
+        <div class="bg-purple-200 border border-purple-300 rounded p-4 min-h-[18rem] max-lg:min-h-[8rem]">
+          <p class="font-semibold text-center mb-2" data-id="pg100_sec001_activity_190ed872f19b68922b21a435">Pasuritë njerëzore</p>
+        </div>
+      </div>
+    </div>
+
+    <datalist id="sort-options">
+      <option value="Pasuritë natyrore"></option>
+      <option value="Pasuritë njerëzore"></option>
+    </datalist>
+
+    <div class="mt-8 rounded-2xl border-2 border-slate-200 bg-slate-50 p-4">
+      <label for="response-pg100-sec001" class="block mb-2 font-semibold text-slate-800">
+        <span data-id="pg100_sec001_activity_5a03f68d5aeb129b34312c70">Përgjigjja</span>
+      </label>
+      <textarea id="response-pg100-sec001" data-activity-item="item-11" aria-label="Shkruaj përgjigjen për pasuritë natyrore dhe njerëzore" class="w-full min-h-[140px] rounded-xl border-2 border-slate-300 p-4"></textarea>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{"item-1":"pg100_sec001_ans_item-1","item-2":"pg100_sec001_ans_item-2","item-3":"pg100_sec001_ans_item-3","item-4":"pg100_sec001_ans_item-4","item-5":"pg100_sec001_ans_item-5","item-6":"pg100_sec001_ans_item-6","item-7":"pg100_sec001_ans_item-7","item-8":"pg100_sec001_ans_item-8","item-9":"pg100_sec001_ans_item-9","item-10":"pg100_sec001_ans_item-10"}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"activity_gen_pasurite_natyrore","item-2":"activity_gen_pasurite_njerezore","item-3":"activity_gen_pasurite_njerezore","item-4":"activity_gen_pasurite_natyrore","item-5":"activity_gen_pasurite_njerezore","item-6":"activity_gen_pasurite_natyrore","item-7":"activity_gen_pasurite_natyrore","item-8":"activity_gen_pasurite_natyrore","item-9":"activity_gen_pasurite_njerezore","item-10":"activity_gen_pasurite_njerezore","item-11":""}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

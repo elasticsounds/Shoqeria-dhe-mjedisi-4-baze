@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg089_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="116">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk"><section data-section-type="boxed_text" data-section-id="pg089_sec001" class="mx-auto w-full max-w-5xl overflow-hidden bg-white px-8 py-8 text-gray-900 max-sm:px-5">
+  <div class="mx-auto w-full max-w-5xl">
+    <div class="flex items-start max-sm:items-start">
+      <div class="flex-1 pt-8 max-sm:pt-6">
+        <div class="flex h-12 items-center bg-purple-500 pl-12 pr-6 max-sm:h-11 max-sm:pl-4 max-sm:pr-3">
+          <h1 data-id="pg089_n0002" class="adt-h1 font-bold text-white leading-tight">Traditat dhe trashëgimia jonë</h1>
+        </div>
+      </div>
+      <div aria-hidden="true" class="ml-0 flex h-44 w-36 shrink-0 items-center justify-center rounded-b-lg rounded-t-sm bg-purple-500 max-sm:ml-3 max-sm:h-24 max-sm:w-16">
+        <div class="h-24 w-16 rounded-[2rem] border-4 border-white bg-transparent max-sm:h-14 max-sm:w-10"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mt-4 ml-12 max-sm:ml-0">
+    <h2 data-id="pg089_n0004" class="adt-h2 font-medium text-gray-800">Pjesëmarrja jonë në festë</h2>
+    <div aria-hidden="true" class="mt-2 h-1 w-[30rem] max-w-full bg-purple-400"></div>
+  </div>
+
+  <div class="mt-10 ml-12 border-2 border-purple-200 bg-white px-4 py-5 max-sm:ml-0">
+    <p class="adt-body text-left italic text-gray-800"><span data-id="pg089_n0006">Fjalët kyçe: festë, ditëlindje, urim, gëzim.</span></p>
+  </div>
+
+  <aside class="relative mt-8 ml-12 bg-purple-100 px-6 py-6 ring-1 ring-purple-200 max-sm:ml-0 max-sm:px-5 max-sm:py-5">
+    <div aria-hidden="true" class="absolute right-0 top-5 flex h-16 w-20 items-center justify-center bg-purple-500 font-bold text-white max-sm:top-auto max-sm:bottom-5 max-sm:left-5 max-sm:right-auto max-sm:h-14 max-sm:w-16">?</div>
+    <div class="space-y-6 pr-28 max-sm:pr-0 max-sm:pb-20">
+      <div>
+        <p class="adt-body text-left text-gray-900"><span data-id="pg089_n0010">Pse është e rëndësishme të zbukurohet ambienti për një festë të caktuar?</span></p>
+        <label for="item-1" class="sr-only">Pse është e rëndësishme të zbukurohet ambienti për një festë të caktuar?</label>
+        <textarea id="item-1" data-activity-item="item-1" aria-label="Pse është e rëndësishme të zbukurohet ambienti për një festë të caktuar?" class="mt-2 min-h-11 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 outline-none focus:border-purple-500"></textarea>
+      </div>
+
+      <div>
+        <p class="adt-body text-left text-gray-900"><span data-id="pg089_n0012">Si duhet të veprojmë gjatë festës, në të cilën jemi të ftuar?</span></p>
+        <label for="item-2" class="sr-only">Si duhet të veprojmë gjatë festës, në të cilën jemi të ftuar?</label>
+        <textarea id="item-2" data-activity-item="item-2" aria-label="Si duhet të veprojmë gjatë festës, në të cilën jemi të ftuar?" class="mt-2 min-h-11 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 outline-none focus:border-purple-500"></textarea>
+      </div>
+
+      <div>
+        <p class="adt-body text-left text-gray-900"><span data-id="pg089_n0015">Si duhet të veprojmë gjatë një feste, në të cilën jemi mikpritësit?</span></p>
+        <label for="item-3" class="sr-only">Si duhet të veprojmë gjatë një feste, në të cilën jemi mikpritësit?</label>
+        <textarea id="item-3" data-activity-item="item-3" aria-label="Si duhet të veprojmë gjatë një feste, në të cilën jemi mikpritësit?" class="mt-2 min-h-11 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 outline-none focus:border-purple-500"></textarea>
+      </div>
+
+      <div>
+        <p class="adt-body text-left text-gray-900"><span data-id="pg089_n0017">Cila festë ju pëlqen më shumë dhe pse?</span></p>
+        <label for="item-4" class="sr-only">Cila festë ju pëlqen më shumë dhe pse?</label>
+        <textarea id="item-4" data-activity-item="item-4" aria-label="Cila festë ju pëlqen më shumë dhe pse?" class="mt-2 min-h-11 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 outline-none focus:border-purple-500"></textarea>
+      </div>
+    </div>
+  </aside>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg110_sec001_p2">
+<meta name="page-section-id" content="147">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>
+body,button,input,textarea,select{font-family:BookPoppins,Poppins,sans-serif}
+#content.bk.bk.bk.bk{padding-top:24px;overflow-x:visible}
+#content.bk.bk.bk.bk .bk-banner{margin:0 0 24px;padding:16px 20px;border-radius:20px}
+#content.bk.bk.bk .bk-stack{max-width:720px;text-align:left}
+#content.bk.bk.bk p{margin:0}
+@media(min-width:768px){#content.bk.bk.bk{padding-inline:32px}}
+@media(max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+#interface-container :not(i):not([class*="fa-"]),#nav-container :not(i):not([class*="fa-"]){font-family:BookPoppins,Poppins,sans-serif!important;font-size:18px}
+:is(#interface-container,#nav-container) :is(button,a,input,select){min-height:48px;min-width:48px}
+:is(#interface-container,#nav-container) :focus-visible{outline:3px solid #143C78;outline-offset:3px}
+@media(prefers-reduced-motion:reduce){body *,body *::before,body *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+</style>
+
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div id="content" class="bk" data-family="illustrated-reading" data-source-page="110">
+<section data-section-type="text_and_single_image" data-section-id="pg110_sec001_p2" aria-label="Sa keq bëjmë kur e ndotim rrugën">
+<div class="bk-stack">
+<p class="bk-body"><span data-id="pg110_n0010">- Sa keq bëjmë kur e ndotim rrugën, pyjet e detin, - shtoi Era, me zë të lartë.</span> <span data-id="pg110_n0011">- Ja, për shembull, kur hedhim mbeturina në det apo breg, ne përveçqë e ndotim një peizazh aq mahnitës, edhe shkatërrojmë jetën e shumë gjallesave të detit.</span> <span data-id="pg110_n0012">Pse i bëjmë këto veprime ne njerëzit?</span> <span data-id="pg110_n0013">Pse duhet të hedhim mbeturina në tokë, në vend që t’i mbajmë ato dhe t’i hedhim në shportën e mbeturinave?</span> <span data-id="pg110_n0014">Pse të mos mbjellim drurë për gjelbërimin e mjedisit, por i presim ata?</span> <span data-id="pg110_n0015">Sa kushton të hedhim shishet e plastikës në shportën për riciklim?</span></p>
+</div>
+</section>
+</div>
+</main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg122_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="156" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0"><section data-section-type="boxed_text" data-section-id="pg122_sec001" class="bg-white text-zinc-800"><div class="mx-auto w-full max-w-5xl px-8 pt-8 max-sm:px-5 max-sm:pt-5"><div class="flex items-stretch gap-0 max-sm:items-start"><div aria-hidden="true" class="flex w-36 shrink-0 items-center justify-center rounded-l-2xl bg-purple-500 text-white max-sm:w-24"><div class="font-bold leading-none">&#x2766;</div></div><div class="flex min-w-0 flex-1 flex-col justify-center pt-14 max-sm:pt-7"><h1 class="adt-h1 -ml-px w-full bg-purple-500 px-6 py-3 font-bold text-white" data-id="pg122_n0002">Mjedisi i vendit tim</h1><h2 class="adt-h2 inline-block w-fit max-w-full border-b-4 border-purple-400 bg-white px-6 py-4 font-medium text-zinc-800" data-id="pg122_n0003">Kujdesi p&#xeb;r higjien&#xeb;n n&#xeb; komunitet</h2></div></div></div><div class="mx-auto w-full max-w-5xl px-8 py-10 max-lg:py-8 max-sm:px-5 max-sm:py-6"><p class="adt-body mb-5 leading-relaxed text-left"><span data-id="pg122_n0005">Shoqja e Lumit dhe e Nor&#xeb;s, Mira, shkon n&#xeb; shkoll&#xeb;n e muzik&#xeb;s, ku m&#xeb;son pianon.</span> <span data-id="pg122_n0006">N&#xeb; nj&#xeb; koncert q&#xeb; shkolla e muzik&#xeb;s organizoi, u ftuan t&#xeb; gjith&#xeb; shok&#xeb;t e shoqet e Mir&#xeb;s.</span> <span data-id="pg122_n0007">F&#xeb;mij&#xeb;t s&#x2019;kishin marr&#xeb; pjes&#xeb; asnj&#xeb;her&#xeb; n&#xeb; nj&#xeb; ngjarje t&#xeb; till&#xeb; m&#xeb; par&#xeb;.</span></p><p class="adt-body mb-5 leading-relaxed text-left"><span data-id="pg122_n0009">M&#xeb;suesja u kujtoi f&#xeb;mij&#xeb;ve se duhej t&#xeb; shkonin n&#xeb; koncert n&#xeb; koh&#xeb;n e duhur, t&#xeb; zinin vendet pa b&#xeb;r&#xeb; zhurm&#xeb;, t&#xeb; mos flisnin nd&#xeb;rkoh&#xeb; q&#xeb; interpretohej pjesa muzikore, t&#xeb; shikonin dhe t&#xeb; d&#xeb;gjonin performanc&#xeb;n e nx&#xeb;n&#xeb;sve.</span></p><p class="adt-body mb-5 leading-relaxed text-left"><span data-id="pg122_n0011">Nd&#xeb;rkoh&#xeb; q&#xeb; f&#xeb;mij&#xeb;t po prisnin n&#xeb; korridorin e shkoll&#xeb;s p&#xeb;r t&#xeb; filluar koncerti, Ylli, i ulur n&#xeb; nj&#xeb; karrige, pasi mbaroi ushqimin, hodhi letr&#xeb;n n&#xeb; dysheme.</span> <span data-id="pg122_n0012">Edhe Diellza veproi n&#xeb; t&#xeb; nj&#xeb;jt&#xeb;n m&#xeb;nyr&#xeb; me letr&#xeb;n e saj t&#xeb; kekut.</span></p><p class="adt-body mb-8 leading-relaxed text-left"><span data-id="pg122_n0014">Ky veprim nuk kaloi pa u v&#xeb;n&#xeb; re nga m&#xeb;suesja dhe shum&#xeb; shok&#xeb; e shoqe q&#xeb; ishin aty.</span> <span data-id="pg122_n0015">Ata kujtuan q&#xeb;, ashtu si&#xe7; mbajn&#xeb; past&#xeb;r higjien&#xeb;n personale, duhet t&#xeb; ruajn&#xeb; dhe ambientet publike.</span> <span data-id="pg122_n0016">N&#xeb;se t&#xeb; gjith&#xeb; do t&#xeb; hidhnin mbeturinat vend e pa vend, nuk do t&#xeb; mund t&#xeb; shijonin bukurit&#xeb; n&#xeb; mjedise t&#xeb; ndryshme.</span> <span data-id="pg122_n0017">Lumi iu drejtua shok&#xeb;ve duke u th&#xeb;n&#xeb;: &#x201c;Le t&#xeb; kujdesemi p&#xeb;r higjien&#xeb;n gjithandej.</span> <span data-id="pg122_n0018">Kjo higjien&#xeb; do t&#xeb; na mbaj&#xeb; t&#xeb; sh&#xeb;ndetsh&#xeb;m fizikisht dhe mend&#xeb;risht&#x201d;.</span></p><aside class="mb-8 overflow-hidden rounded-2xl border-2 border-purple-300 bg-purple-50 shadow-sm"><div class="flex items-stretch max-lg:flex-col"><div aria-hidden="true" class="flex w-28 shrink-0 items-start justify-center bg-purple-500 py-6 text-white max-lg:w-full max-lg:items-center max-sm:py-4"><div class="font-bold leading-none">&#x1f4d6;</div></div><div class="flex-1 p-6 max-sm:p-4"><p class="adt-body mb-4 leading-relaxed text-left italic"><span data-id="pg122_n0021">Njeriu ka p&#xeb;rgjegj&#xeb;si q&#xeb;, p&#xeb;rve&#xe7; higjien&#xeb;s personale, t&#xeb; tregoj&#xeb; sjellje t&#xeb; mira si qytetar edhe n&#xeb; komunitet.</span> <span data-id="pg122_n0022">K&#xeb;t&#xeb; p&#xeb;rgjegj&#xeb;si e demonstron me veprime t&#xeb; ndryshme, si: duke mbjell&#xeb; bim&#xeb; t&#xeb; ndryshme, duke u kujdesur p&#xeb;r ambientin, duke u kujdesur q&#xeb; t&#xeb; mos d&#xeb;mtoj&#xeb; gj&#xeb;rat q&#xeb; i p&#xeb;rdorim t&#xeb; gjith&#xeb;, si parqet, bankat, rrug&#xeb;t etj.</span></p><p class="adt-body leading-relaxed text-left italic"><span data-id="pg122_n0024">T&#xeb; gjitha shprehit&#xeb; e jet&#xeb;s krijohen n&#xeb; f&#xeb;mij&#xeb;ri.</span> <span data-id="pg122_n0025">P&#xeb;r &#xe7;do gj&#xeb; q&#xeb; na rrethon duhet t&#xeb; sillemi me to sikur jan&#xeb; tonat.</span> <span data-id="pg122_n0026">N&#xeb;se sillemi me p&#xeb;rgjegj&#xeb;si dhe tregojm&#xeb; kujdes t&#xeb; plot&#xeb; p&#xeb;r higjien&#xeb;n e gj&#xeb;rave q&#xeb; na rrethojn&#xeb;, do t&#xeb; kemi nj&#xeb; jet&#xeb; t&#xeb; mir&#xeb; dhe t&#xeb; sh&#xeb;ndetshme n&#xeb; komunitetin ton&#xeb;.</span></p></div></div></aside><p class="adt-body border-l-4 border-purple-300 pl-4 font-medium text-left"><span data-id="pg122_n0028">Fjal&#xeb;t ky&#xe7;e: komunitet, higjien&#xeb;, kujdes, ambient publik.</span></p></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

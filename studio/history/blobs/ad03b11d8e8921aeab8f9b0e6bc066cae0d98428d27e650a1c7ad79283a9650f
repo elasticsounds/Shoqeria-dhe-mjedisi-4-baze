@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe Mjedisi 4</title>
+  <meta name="title-id" content="pg099_sec001_p2">
+  <meta name="page-section-id" content="133">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  
+  <style>
+    #nav-container, #nav-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands), #interface-container, #interface-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands) { font-family: BookPoppins, Poppins, Arial, sans-serif; }
+    #content.bk.bk.bk .bk-figure.bk-figure { width: 100%; max-width: 520px; margin-inline: auto; }
+    #content.bk.bk.bk .bk-figure.bk-figure img { width: 100%; height: auto; border-radius: 0; }
+    #content.bk.bk.bk .bk-figure a { display: block; }
+    #content.bk.bk.bk .bk-row { justify-content: space-between; }
+  </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+  <div data-family="illustrated-reading" id="content" class="bk">
+    <section data-section-type="text_and_single_image" data-section-id="pg099_sec001_p2" class="bk-stack">
+      <h1 class="bk-heading">Shfrytëzimi i arsyeshëm i pasurive natyrore</h1>
+      <figure class="bk-figure"><a href="studio/assets/pg099_sec001-landscape.png" target="_blank" rel="noopener" aria-label="Shfrytëzimi i arsyeshëm i pasurive natyrore: hap figurën në madhësi të plotë në skedë të re"><img data-id="pg099_im001_crop_v1" src="studio/assets/pg099_sec001-landscape.png" alt="Peizazh natyror me lumë që gjarpëron mes fushave të gjelbra, male në sfond dhe diell mbi horizont."></a></figure>
+      <div class="bk-row"><a class="bk-btn bk-btn--secondary" href="pg099_sec001.html" aria-label="Kthehu te leximi: Shfrytëzimi i arsyeshëm i pasurive natyrore">Shfrytëzimi i arsyeshëm i pasurive natyrore</a><span class="bk-caption">99</span></div>
+    </section>
+  </div>
+</main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

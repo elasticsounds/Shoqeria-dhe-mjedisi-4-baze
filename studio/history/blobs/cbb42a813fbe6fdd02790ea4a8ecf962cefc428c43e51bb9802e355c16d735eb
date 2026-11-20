@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg090_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="123">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-reading" id="content" class="container opacity-0 bk"><section data-section-type="text_and_images" data-section-id="pg090_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 text-slate-800 max-sm:px-4">
+  <div class="mb-10 overflow-hidden rounded-l-[2rem] bg-[#a868b0]">
+    <div class="flex items-center gap-6 px-8 py-8 max-sm:items-start max-sm:gap-4 max-sm:px-4 max-sm:py-5">
+      <div aria-hidden="true" class="flex h-28 w-28 shrink-0 items-center justify-center rounded-sm bg-[#a868b0] max-sm:h-20 max-sm:w-20">
+        <div class="h-24 w-16 rounded-[1.5rem] border-4 border-white max-sm:h-14 max-sm:w-12"></div>
+      </div>
+      <div class="min-w-0 flex-1 pt-1">
+        <h1 data-id="pg090_n0002" class="adt-h3 mb-4 font-semibold text-white">Traditat dhe trashëgimia jonë</h1>
+        <div class="inline-block bg-white px-4 py-2">
+          <h2 data-id="pg090_n0003" class="adt-h2 text-slate-900">Kulturat janë të shumëllojshme</h2>
+        </div>
+        <div aria-hidden="true" class="mt-3 h-1 w-72 bg-[#c58acc] max-sm:w-32"></div>
+      </div>
+    </div>
+  </div>
+
+  <h3 data-id="pg090_n0004" class="adt-h3 mb-5 inline-block bg-[#69bb78] px-5 py-2 text-slate-900">Situata 1.</h3>
+
+  <p class="adt-body mb-4 text-left leading-relaxed">
+    <span data-id="pg090_n0006">Andrra i ftoi të gjithë shokët e shoqet për ditëlindje.</span>
+    <span data-id="pg090_n0007">Jonit, që i pëlqente të ilustronte çdo ngjarje, po i bënte përshtypje fakti që në shtëpinë e Andrrës kishte shumë piktura në mur e shumë libra në bibliotekë.</span>
+    <span data-id="pg090_n0008">Jonin po e mrekullonte fakti që në çdo pikturë burrat mbanin plis në kokë e gratë kishin veshje plot ngjyra.</span>
+    <span data-id="pg090_n0009">Veshjet e tyre ishin të ndryshme nga veshjet e sotme.</span>
+    <span data-id="pg090_n0010">Pikturat tregonin historinë e popullit tonë e librat mbanin emra të autorëve të mëdhenj shqiptarë, si: vëllezërit Frashëri, Gjergj Fishta, Asdreni, Ismail Kadare etj.</span>
+    <span data-id="pg090_n0011">Aty kishte edhe fotografi të Motrës Tone dhe të motrave Qiriazi.</span>
+  </p>
+
+  <p class="adt-body mb-4 text-left leading-relaxed">
+    <span data-id="pg090_n0013">Kur prindërit e Andrrës erdhën për t’i përshëndetur fëmijët, Joni e pyeti mamanë e Andrrës: - A mund të huazoj një nga këta libra që ta lexoj gjatë pushimit të verës?</span>
+    <span data-id="pg090_n0014">Zonjës iu bë qejfi, buzëqeshi lehtë e i tha se këta libra ishin për të rriturit.</span>
+    <span data-id="pg090_n0015">Ajo i premtoi që kur të rritej, do t’ia huazonte të gjithë librat, sepse vetëm kështu do të mund të shikonte se çfarë shkrimesh me vlerë kanë shkruar këta shkrimtarë.</span>
+  </p>
+
+  <p class="adt-body mb-8 text-left leading-relaxed">
+    <span data-id="pg090_n0017">Joni, i mrekulluar, e pyeti: - A janë të gjithë shqiptarë?</span>
+    <span data-id="pg090_n0018">- Po, - tha zonja, - mirëpo për të njohur se sa e bukur është bota dhe sa shumë kultura të ndryshme ekzistojnë, ne duhet t’i lexojmë edhe autorët e huaj.</span>
+    <span data-id="pg090_n0019">Joni u pajtua me këtë mendim dhe iu bashkua shokëve.</span>
+  </p>
+
+  <div class="mb-10 grid grid-cols-9 gap-x-3 gap-y-4 max-lg:grid-cols-4 max-sm:grid-cols-2 max-sm:gap-3">
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im002" src="images/pg090_im002.png" alt="Portret bardhezi i Aleksandër Stavre Drenovës, i veshur me kostum dhe kravatë." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0022" class="adt-caption mt-1 text-center">Aleksandër Stavre Drenova</figcaption>
+    </figure>
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im003_seg001_v1_crop_v1" src="images/pg090_im003_seg001_v1_crop_v1.png" alt="Njëri nga Vëllezërit Frashëri, në portret bardhezi me mjekër të dendur dhe kostum." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0024" class="adt-caption mt-1 text-center">Vëllezërit Frashëri</figcaption>
+    </figure>
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im003_seg002_v1_crop_v1" src="images/pg090_im003_seg002_v1_crop_v1.png" alt="Njëri nga Vëllezërit Frashëri, në portret bardhezi me mjekër dhe papion." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0026" class="adt-caption mt-1 text-center">Vëllezërit Frashëri</figcaption>
+    </figure>
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im003_seg003_v1_crop_v1" src="images/pg090_im003_seg003_v1_crop_v1.png" alt="Njëri nga Vëllezërit Frashëri, në portret bardhezi me mjekër të shkurtër dhe jakë të bardhë." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0028" class="adt-caption mt-1 text-center">Vëllezërit Frashëri</figcaption>
+    </figure>
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im004" src="images/pg090_im004.png" alt="Portret i Gjergj Fishtës i ulur, i veshur me petk fetar të errët." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0030" class="adt-caption mt-1 text-center">Gjergj Fishta</figcaption>
+    </figure>
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im005" src="images/pg090_im005.png" alt="Portret bardhezi i Ismail Kadaresë me syze të mëdha." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0032" class="adt-caption mt-1 text-center">Ismail Kadare</figcaption>
+    </figure>
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im006" src="images/pg090_im006.png" alt="Piktura “Motra Tone”, grua e ulur me veshje tradicionale të bardhë dhe dorën pranë fytyrës." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0034" class="adt-caption mt-1 text-center">Motra Tone</figcaption>
+    </figure>
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im007_seg001_v1_crop_v1" src="images/pg090_im007_seg001_v1_crop_v1.png" alt="Portret bardhezi i njërës prej Motrave Qiriazi, me syze dhe varëse rreth qafës." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0036" class="adt-caption mt-1 text-center">Motrat Qiriazi</figcaption>
+    </figure>
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im007_seg002_v1_crop_v1" src="images/pg090_im007_seg002_v1_crop_v1.png" alt="Portret bardhezi i njërës prej Motrave Qiriazi, me flokë të mbledhura lart." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0038" class="adt-caption mt-1 text-center">Motrat Qiriazi</figcaption>
+    </figure>
+  </div>
+
+  <aside class="mb-6 border-2 border-[#d7a4ea] bg-[#fbf5ff] p-5 italic shadow-sm">
+    <p class="adt-body text-left leading-relaxed">
+      <span data-id="pg090_n0041">Kultura është gjithçka që një grup njerëzish e kanë të përbashkët, si: mënyra si mendojnë, si sillen, si jetojnë, besimet, zakonet dhe vlerat që ata ndjekin.</span>
+      <span data-id="pg090_n0042">Kultura përfshin gjuhën, fenë, veshjen, ushqimin, muzikën, artin, festat etj.</span>
+      <span data-id="pg090_n0043">Ajo tregon se si është ndërtuar jeta e një populli dhe çfarë gjërash të vlefshme ka krijuar ai me kalimin e kohës.</span>
+    </p>
+  </aside>
+
+  <div class="border-l-4 border-[#b46ce0] pl-4 py-1">
+    <p class="adt-body text-left">
+      <span data-id="pg090_n0046">Fjalët kyçe:</span>
+      <span data-id="pg090_n0047">kulturë, libër, pikturë.</span>
+    </p>
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

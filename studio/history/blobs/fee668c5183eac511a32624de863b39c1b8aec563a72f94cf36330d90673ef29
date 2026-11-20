@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg114_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="154">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-reading" id="content" class="container bg-[#f6efe3] opacity-0 bk">
+  <section data-section-type="text_and_single_image" data-section-id="pg114_sec001" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5">
+    <div class="mb-8 flex items-start max-sm:flex-col max-sm:items-stretch">
+      <div class="flex h-44 w-36 shrink-0 items-center justify-center rounded-xl bg-[#a567ad] max-sm:h-28 max-sm:w-full max-sm:rounded-b-none" aria-hidden="true">
+        <div class="flex flex-col items-center gap-4">
+          <div class="h-12 w-12 rounded-full border-4 border-white/90"></div>
+          <div class="h-5 w-16 rounded-full border-4 border-white/90 border-t-0"></div>
+        </div>
+      </div>
+      <div class="flex-1 pt-14 -ml-1 max-sm:ml-0 max-sm:pt-0">
+        <div class="bg-[#a567ad] px-4 py-3 text-white">
+          <h1 data-id="pg114_n0002" class="adt-h1 font-bold">Mjedisi i vendit tim</h1>
+        </div>
+        <div class="inline-block border-b-4 border-[#a567ad] px-2 py-3 min-w-[52%] max-sm:min-w-0">
+          <h2 data-id="pg114_n0003" class="adt-h2 text-[#2b2525]">Ndotja e tokës</h2>
+        </div>
+      </div>
+    </div>
+
+    <div class="space-y-5 text-left text-[#3a2f2a]">
+      <p class="adt-body leading-relaxed">
+        <span data-id="pg114_n0005">Mësuesja u dha detyrë nxënësve që të përgatitnin një projekt me temë sipas dëshirës.</span>
+        <span data-id="pg114_n0006">Disa nxënës morën për temë instrumentin më të pëlqyer, disa përgatitën projekt për kafshën e dashur e disa për bimët.</span>
+        <span data-id="pg114_n0007">Hëna po mendonte se cilën temë ta merrte.</span>
+        <span data-id="pg114_n0008">Dëshironte që të hulumtonte një temë për të cilën nuk kishte shumë informata, por që do të ishte e dobishme për të.</span>
+        <span data-id="pg114_n0009">Ishte në mes të kafshës më të pëlqyer, bimës më interesante apo trupit të njeriut.</span>
+        <span data-id="pg114_n0010">Ndërkohë që po mendonte, iu kujtua se këto tri gjallesa kanë diçka të përbashkët.</span>
+        <span data-id="pg114_n0011">Që të tria jetojnë në Tokë, prandaj ajo mendoi që të hulumtonte për Tokën.</span>
+      </p>
+      <p class="adt-body leading-relaxed">
+        <span data-id="pg114_n0013">Ndërkohë që po mblidhte informacione për formën e Tokës, origjinën e emrit e karakteristika të tjera, asaj i tërhoqi vëmendjen fjalia:</span>
+        <span data-id="pg114_n0014">"Në Sistemin Diellor ka tetë planetë dhe VETËM në planetin Tokë është e mundshme jeta për gjallesat".</span>
+      </p>
+      <p class="adt-body leading-relaxed">
+        <span data-id="pg114_n0016">Fakte, si: sa ka ujë në Tokë, përbërja e ajrit, sateliti natyral i Tokës etj., po i bënin përshtypje Hënës.</span>
+        <span data-id="pg114_n0017">Ajo mendoi që të ndryshonte temën e projektit, do t'u tregonte shokëve dhe shoqeve të klasës për rëndësinë e planetit Tokë.</span>
+        <span data-id="pg114_n0018">- Unë mund të bëj gjëra të vogla me dashuri të madhe për planetin tim, - mendoi ajo.</span>
+        <span data-id="pg114_n0019">Hëna u përqendrua te veprimet e dëmshme që mund të bëjnë fëmijët ndaj tokës.</span>
+        <span data-id="pg114_n0020">Ne hedhim mbeturina në tokë.</span>
+        <span data-id="pg114_n0021">Ne shpenzojmë shumë ujë pa nevojë.</span>
+        <span data-id="pg114_n0022">Ne nuk riciklojmë.</span>
+        <span data-id="pg114_n0023">Ne dëmtojmë hapësirat e gjelbëruara kur ecim në bar e jo në rrugën e shtruar.</span>
+        <span data-id="pg114_n0024">Ne dëmtojmë lulet ndërkohë që duhet të kujdesemi për to.</span>
+      </p>
+      <p class="adt-body leading-relaxed">
+        <span data-id="pg114_n0026">Në fund të prezantimit të projektit, ajo kërkoi nga shoqet dhe shokët e klasës që të vizatonin diçka që ata mund të bënin ndryshe për të mirën e planetit.</span>
+        <span data-id="pg114_n0027">Hëna e përmbylli prezantimin duke thënë me zë të lartë: "Është e mira jonë e përbashkët, prandaj duhet ta ruajmë me çdo kusht!".</span>
+      </p>
+    </div>
+
+    <div class="mt-6 overflow-hidden rounded-2xl ring-2 ring-white/70">
+      <img data-id="pg114_im001" src="images/pg114_im001.png" alt="Tre nxënës të ulur në banka përballë një tabele të gjelbër në klasë, me orë muri, vizatime dhe një poster të sistemit diellor në mur." class="block h-auto w-full">
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg025_sec001_p2">
+<meta name="page-section-id" content="40">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+body:has(#content[data-source-page="25"]),body:has(#content[data-source-page="25"]) :is(button,input,textarea,select){font-family:BookPoppins,Poppins,sans-serif}
+#content.bk[data-source-page="25"]{padding-top:24px;overflow:visible}
+#content[data-source-page="25"] .bk-figure img{width:auto;height:auto;max-width:100%;max-height:560px;margin-inline:auto;object-fit:contain}
+#content[data-source-page="25"] .bk-figure a{display:block;min-height:var(--bk-target)}
+body:has(#content[data-source-page="25"]) :is(#interface-container,#nav-container) :not(i):not([class*="fa-"]){font-family:BookPoppins,Poppins,sans-serif!important}
+#content.bk.bk.bk[data-source-page="25"]{padding-top:24px;overflow:visible}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main><div id="content" class="bk" data-family="lesson-discussion" data-source-page="25">
+<section class="bk-stack" data-section-type="text_and_single_image" data-section-id="pg025_sec001_p2">
+<h2 class="bk-heading">Ndihem i/e barabartë</h2>
+<figure class="bk-figure"><a href="images/pg025_im002.png" target="_blank" rel="noopener" aria-label="Hap figurën në madhësi të plotë (dritare e re)"><img data-id="pg025_im002" src="images/pg025_im002.png" alt="Nora dhe shoku i saj i bankës shkruajnë në fletore, ulur pranë njëri-tjetrit në klasë."></a></figure>
+</section></div></main>
+<script>window.activityAnswerTextIds=JSON.parse('{}');</script>
+<div id="interface-container"></div><div id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

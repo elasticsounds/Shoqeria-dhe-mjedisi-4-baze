@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg107_sec002">
+    <meta name="page-section-id" content="142">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+      #content.bk.bk.bk { padding-top: var(--bk-gap); }
+      #content.bk.bk.bk .bk-card--outline { border-color: var(--bk-primary); }
+      #content.bk p { max-width: 720px; }
+      #content.bk em { font-style: normal; font-weight: 600; }
+      #content.bk.bk.bk img { display: block; align-self: flex-start; width: auto; height: var(--bk-target); max-width: var(--bk-target); object-fit: contain; }
+      #nav-container, #nav-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands),
+      #interface-container, #interface-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands) { font-family: BookPoppins, Poppins, sans-serif; }
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <div data-family="lesson-discussion" id="content" class="container bg-white opacity-0 bk">
+      <h1 class="bk-sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <section data-section-type="boxed_text" data-section-id="pg107_sec002">
+        <div class="bk-card bk-card--outline bk-stack">
+          <img src="./studio/assets/pg107_sec002-book-motif.png" alt="" aria-hidden="true">
+          <p class="bk-body"><em><span data-id="pg107_n0032">Mjedisi jetësor është tërë hapësira e natyrës, në të cilën jetojmë, punojmë, lëvizim dhe veprojmë.</span>
+          <span data-id="pg107_n0033">Njeriu, me sjelljen e tij, ndikon në ndryshimet që ndodhin në natyrë.</span>
+          <span data-id="pg107_n0034">Ato veprime mund të jenë të dëmshme apo të dobishme për natyrën.</span>
+          <span data-id="pg107_n0035">Mjedisi i pastër siguron shëndet të mirë për të gjitha qeniet e gjalla që jetojnë në planetin tonë.</span>
+          <span data-id="pg107_n0036">Është përgjegjësi e çdo qytetari të kontribuojë për ruajtjen e mjedisit nga ndotja.</span></em></p>
+        </div>
+      </section>
+    </div>
+  </main>
+  <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

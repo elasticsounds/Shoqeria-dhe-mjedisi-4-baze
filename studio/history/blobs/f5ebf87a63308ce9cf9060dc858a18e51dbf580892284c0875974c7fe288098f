@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg007_sec001_p2">
+<meta name="page-section-id" content="7">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+#content.bk.bk.bk{padding-top:24px;overflow:visible}
+#content.bk.bk.bk table{width:100%;table-layout:fixed;border-collapse:collapse}
+#content.bk.bk.bk :is(th,td){border:2px solid var(--bk-primary);padding:12px;text-align:left;vertical-align:middle;overflow-wrap:anywhere}
+#content.bk.bk.bk thead th{background:var(--bk-accent2);font-weight:600}
+#content.bk.bk.bk .bk-field{padding:12px;border-color:var(--bk-primary);scroll-margin-block:96px}
+#content.bk.bk.bk td label{display:none}
+#content.bk.bk.bk .bk-prompt{margin:0}
+#content.bk.bk.bk [hidden]{display:none!important}
+#content.bk.bk.bk [data-save-actions]{align-items:flex-start}
+#content.bk.bk.bk [data-save-actions] button{position:static!important;inset:auto!important;transform:none!important;margin:0!important;box-shadow:none!important;font-family:BookPoppins,Poppins,sans-serif!important;font-size:18px!important;min-height:48px}
+#interface-container :is(button,a,span,p,div,label,select),#nav-container :is(button,a,span,p,div,label,select){font-family:BookPoppins,Poppins,sans-serif!important;font-size:18px}
+@media(max-width:767px){
+#content.bk.bk.bk{padding-inline:16px}
+#content.bk.bk.bk table,#content.bk.bk.bk tbody{display:block}
+#content.bk.bk.bk thead{position:absolute;width:1px;height:1px;clip-path:inset(50%);overflow:hidden}
+#content.bk.bk.bk tbody{display:flex;flex-direction:column;gap:24px}
+#content.bk.bk.bk tr{display:grid;grid-template-columns:minmax(0,1fr);gap:12px;border:2px solid var(--bk-primary);border-radius:20px;padding:20px}
+#content.bk.bk.bk :is(th,td){display:block;width:auto;border:0;padding:0}
+#content.bk.bk.bk tbody th{background:var(--bk-accent2);padding:12px;border-radius:12px}
+#content.bk.bk.bk td label{display:block;margin-bottom:12px}
+}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div id="content" class="bk" data-family="structured-response">
+<section data-section-type="activity_fill_in_a_table" data-section-id="pg007_sec001_p2" data-source-section="pg007_sec001">
+<section class="bk-activity" data-activity-pattern="structured-entry" data-activity-variant="" lang="sq-XK" aria-labelledby="pg007_n0012">
+<p class="bk-prompt" id="pg007_n0012" data-id="pg007_n0012">Plotëso tabelën e mëposhtme, duke krahasuar veten me Lindën.</p>
+<table aria-labelledby="pg007_n0012">
+<thead><tr><th aria-hidden="true"></th><th scope="col" id="pg007-col-self"><span data-id="pg007_n0018">Unë</span></th><th scope="col" id="pg007-col-linda"><span data-id="pg007_n0020">Linda</span></th></tr></thead>
+<tbody>
+<tr><th scope="row" id="pg007-row-1"><span data-id="pg007_n0023">Shprehitë</span></th><td><label class="bk-label" for="item-1">Unë</label><input class="bk-field" id="item-1" type="text" data-activity-item="item-1" aria-label="Shprehitë Unë" aria-describedby="pg007_n0012"></td><td><label class="bk-label" for="item-2">Linda</label><input class="bk-field" id="item-2" type="text" data-activity-item="item-2" aria-label="Shprehitë Linda" aria-describedby="pg007_n0012"></td></tr>
+<tr><th scope="row" id="pg007-row-2"><span data-id="pg007_n0028">Ushqimet</span></th><td><label class="bk-label" for="item-3">Unë</label><input class="bk-field" id="item-3" type="text" data-activity-item="item-3" aria-label="Ushqimet Unë" aria-describedby="pg007_n0012"></td><td><label class="bk-label" for="item-4">Linda</label><input class="bk-field" id="item-4" type="text" data-activity-item="item-4" aria-label="Ushqimet Linda" aria-describedby="pg007_n0012"></td></tr>
+<tr><th scope="row" id="pg007-row-3"><span data-id="pg007_n0033">Veshjet</span></th><td><label class="bk-label" for="item-5">Unë</label><input class="bk-field" id="item-5" type="text" data-activity-item="item-5" aria-label="Veshjet Unë" aria-describedby="pg007_n0012"></td><td><label class="bk-label" for="item-6">Linda</label><input class="bk-field" id="item-6" type="text" data-activity-item="item-6" aria-label="Veshjet Linda" aria-describedby="pg007_n0012"></td></tr>
+<tr><th scope="row" id="pg007-row-4"><span data-id="pg007_n0038">Mbathjet</span></th><td><label class="bk-label" for="item-7">Unë</label><input class="bk-field" id="item-7" type="text" data-activity-item="item-7" aria-label="Mbathjet Unë" aria-describedby="pg007_n0012"></td><td><label class="bk-label" for="item-8">Linda</label><input class="bk-field" id="item-8" type="text" data-activity-item="item-8" aria-label="Mbathjet Linda" aria-describedby="pg007_n0012"></td></tr>
+<tr><th scope="row" id="pg007-row-5"><span data-id="pg007_n0043">Talenti</span></th><td><label class="bk-label" for="item-9">Unë</label><input class="bk-field" id="item-9" type="text" data-activity-item="item-9" aria-label="Talenti Unë" aria-describedby="pg007_n0012"></td><td><label class="bk-label" for="item-10">Linda</label><input class="bk-field" id="item-10" type="text" data-activity-item="item-10" aria-label="Talenti Linda" aria-describedby="pg007_n0012"></td></tr>
+<tr><th scope="row" id="pg007-row-6"><span data-id="pg007_n0048">Gjuha e huaj</span></th><td><label class="bk-label" for="item-11">Unë</label><input class="bk-field" id="item-11" type="text" data-activity-item="item-11" aria-label="Gjuha e huaj Unë" aria-describedby="pg007_n0012"></td><td><label class="bk-label" for="item-12">Linda</label><input class="bk-field" id="item-12" type="text" data-activity-item="item-12" aria-label="Gjuha e huaj Linda" aria-describedby="pg007_n0012"></td></tr>
+<tr><th scope="row" id="pg007-row-7"><span data-id="pg007_n0053">Punët e shtëpisë</span></th><td><label class="bk-label" for="item-13">Unë</label><input class="bk-field" id="item-13" type="text" data-activity-item="item-13" aria-label="Punët e shtëpisë Unë" aria-describedby="pg007_n0012"></td><td><label class="bk-label" for="item-14">Linda</label><input class="bk-field" id="item-14" type="text" data-activity-item="item-14" aria-label="Punët e shtëpisë Linda" aria-describedby="pg007_n0012"></td></tr>
+<tr><th scope="row" id="pg007-row-8"><span data-id="pg007_n0058">Leximi</span></th><td><label class="bk-label" for="item-15">Unë</label><input class="bk-field" id="item-15" type="text" data-activity-item="item-15" aria-label="Leximi Unë" aria-describedby="pg007_n0012"></td><td><label class="bk-label" for="item-16">Linda</label><input class="bk-field" id="item-16" type="text" data-activity-item="item-16" aria-label="Leximi Linda" aria-describedby="pg007_n0012"></td></tr>
+<tr><th scope="row" id="pg007-row-9"><span data-id="pg007_n0063">Sjellja</span></th><td><label class="bk-label" for="item-17">Unë</label><input class="bk-field" id="item-17" type="text" data-activity-item="item-17" aria-label="Sjellja Unë" aria-describedby="pg007_n0012"></td><td><label class="bk-label" for="item-18">Linda</label><input class="bk-field" id="item-18" type="text" data-activity-item="item-18" aria-label="Sjellja Linda" aria-describedby="pg007_n0012"></td></tr>
+<tr><th scope="row" id="pg007-row-10"><span data-id="pg007_n0068">Respektimi i rregullave</span></th><td><label class="bk-label" for="item-19">Unë</label><input class="bk-field" id="item-19" type="text" data-activity-item="item-19" aria-label="Respektimi i rregullave Unë" aria-describedby="pg007_n0012"></td><td><label class="bk-label" for="item-20">Linda</label><input class="bk-field" id="item-20" type="text" data-activity-item="item-20" aria-label="Respektimi i rregullave Linda" aria-describedby="pg007_n0012"></td></tr>
+</tbody></table>
+<div class="bk-activity" data-save-actions="">
+<p class="bk-body">Përgjigjet ruhen automatikisht në këtë pajisje. Dërgo i ruan përsëri, pa vlerësim me pikë.</p>
+<p class="bk-feedback" role="status" aria-live="polite" id="pg007-save-status"></p>
+<button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+</div>
+</section>
+</section>
+</div>
+</main>
+<script>window.activityAnswerTextIds=JSON.parse('{}');window.correctAnswers=JSON.parse('{"item-1":"","item-2":"","item-3":"","item-4":"","item-5":"","item-6":"","item-7":"","item-8":"","item-9":"","item-10":"","item-11":"","item-12":"","item-13":"","item-14":"","item-15":"","item-16":"","item-17":"","item-18":"","item-19":"","item-20":""}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script>
+(function(){
+'use strict';
+const key='shoqeria-dhe-mjedisi-4:pg007_sec001:comparison:v1';
+const fields=Array.from(document.querySelectorAll('input[data-activity-item]'));
+const status=document.getElementById('pg007-save-status');
+const retry=document.querySelector('[data-action="retry-save"]');
+const actions=document.querySelector('[data-save-actions]');
+let draft={},touched=new Set();
+try{const data=JSON.parse(localStorage.getItem(key)||'{}');if(data&&typeof data==='object')draft=data;}catch(e){status.textContent='⚠ Nuk u lexuan përgjigjet e ruajtura.';}
+function restore(){fields.forEach(f=>{if(!touched.has(f.id)&&typeof draft[f.id]==='string')f.value=draft[f.id];});}
+function save(){fields.forEach(f=>{draft[f.id]=f.value;});try{localStorage.setItem(key,JSON.stringify(draft));status.textContent='✓ U ruajt.';retry.hidden=true;return true;}catch(e){status.textContent='⚠ Nuk u ruajt. Përgjigjet mbeten këtu; provo përsëri.';retry.hidden=false;return false;}}
+restore();window.addEventListener('load',()=>{restore();setTimeout(restore,500);});
+fields.forEach(f=>{['input','change'].forEach(type=>f.addEventListener(type,()=>{touched.add(f.id);draft[f.id]=f.value;save();},true));});
+retry.addEventListener('click',save);
+function retainAction(){document.querySelectorAll('button').forEach(button=>{if(button.textContent.trim()==='Dërgo'&&!actions.contains(button)){button.type='button';button.className='bk-btn';button.removeAttribute('style');button.setAttribute('data-pg007-save','');actions.append(button);}});}
+new MutationObserver(retainAction).observe(document.body,{childList:true,subtree:true});
+document.addEventListener('click',event=>{const button=event.target.closest('button');if(button&&button.hasAttribute('data-pg007-save')){event.preventDefault();event.stopImmediatePropagation();save();}},true);
+window.addEventListener('pagehide',()=>{if(touched.size)save();});
+retainAction();
+})();
+</script>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

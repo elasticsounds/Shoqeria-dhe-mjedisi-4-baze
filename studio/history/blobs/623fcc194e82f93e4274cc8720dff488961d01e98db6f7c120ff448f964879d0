@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg082_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="104" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0"><section data-section-type="text_and_single_image" data-section-id="pg082_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 text-stone-800 max-sm:px-5"><div class="mb-10 flex items-end gap-0 max-sm:mb-8 max-sm:items-stretch"><div aria-hidden="true" class="flex h-56 w-36 shrink-0 items-center justify-center rounded-l-2xl bg-purple-500 max-sm:h-32 max-sm:w-24"><div class="flex h-28 w-20 items-center justify-center rounded-[1.5rem] border-4 border-white bg-transparent max-sm:h-20 max-sm:w-14"><div class="h-20 w-14 rounded-[1rem] border-4 border-white bg-white max-sm:h-14 max-sm:w-10"></div></div></div><div class="flex flex-1 flex-col pb-5 max-sm:pb-2"><div class="h-12 w-full bg-purple-500 max-sm:h-10"></div><div class="bg-white pt-4"><h1 data-id="pg082_n0003" class="adt-h2 text-left font-semibold text-stone-800">Ruajm&#xeb; traditat tona</h1><div class="mt-2 h-1 w-3/5 bg-purple-400 max-sm:w-4/5"></div></div></div></div><div class="mb-6"><h3 data-id="pg082_n0005" class="adt-h3 inline-block bg-green-400 px-6 py-2 text-left font-semibold text-stone-900">Situata 1.</h3></div><div class="max-w-[68rem]"><p class="adt-body mb-3 text-left leading-relaxed"><span data-id="pg082_n0007">Mali, bashk&#xeb; me prind&#xeb;rit e tij, u ftuan p&#xeb;r vizit&#xeb; nga disa miq t&#xeb; vjet&#xeb;r n&#xeb; qytetin e Shkodr&#xeb;s, n&#xeb; Shqip&#xeb;ri.</span> <span data-id="pg082_n0008">Gjat&#xeb; vizit&#xeb;s s&#xeb; tyre, Mali provoi nj&#xeb; pjat&#xeb; me ushqime tradicionale q&#xeb; s&#x2019;e kishte ngr&#xeb;n&#xeb; kurr&#xeb; m&#xeb; par&#xeb;.</span></p><p class="adt-body mb-3 text-left leading-relaxed"><span data-id="pg082_n0010">N&#xeb; bashk&#xeb;bisedim me prind&#xeb;rit, ai kishte kuptuar q&#xeb; pothuajse &#xe7;do vend kishte karakteristikat e tij n&#xeb; ushqim, n&#xeb; veshje, n&#xeb; t&#xeb; folur, q&#xeb; e dallonin nga vendet e tjera.</span></p><p class="adt-body mb-3 text-left leading-relaxed"><span data-id="pg082_n0012">P&#xeb;r Malin, ushqimi ishte m&#xeb; i ve&#xe7;ant&#xeb; se ushqimet q&#xeb; ai kishte provuar.</span> <span data-id="pg082_n0013">Ajo q&#xeb; i b&#xeb;ri shum&#xeb; p&#xeb;rshtypje ishte mikpritja q&#xeb; iu b&#xeb; n&#xeb; familjen shkodrane dhe humori q&#xeb; i karakterizonte ata gjat&#xeb; gjith&#xeb; koh&#xeb;s.</span> <span data-id="pg082_n0014">Familja e Malit u prit me shum&#xeb; dashuri.</span> <span data-id="pg082_n0015">Atyre u sh&#xeb;rbyen &#xe7;aj dhe &#xeb;mb&#xeb;lsira, duke kaluar, k&#xeb;shtu, &#xe7;aste shum&#xeb; t&#xeb; bukura.</span></p><p class="adt-body mb-3 text-left leading-relaxed"><span data-id="pg082_n0017">Mali u miq&#xeb;sua shum&#xeb; me Tomorin, djalin e familjes shkodrane dhe s&#xeb; bashku kaluan t&#xeb;r&#xeb; pasditen.</span> <span data-id="pg082_n0018">Tomori i kishte ndar&#xeb; t&#xeb; gjitha lodrat me Malin dhe e kishte b&#xeb;r&#xeb; at&#xeb; q&#xeb; t&#xeb; ndihej si n&#xeb; sht&#xeb;pin&#xeb; e vet.</span></p><p class="adt-body mb-10 text-left leading-relaxed"><span data-id="pg082_n0020">Gjat&#xeb; kthimit p&#xeb;r n&#xeb; sht&#xeb;pi, Mali i tha babait q&#xeb; ishte befasuar nga mikpritja.</span> <span data-id="pg082_n0021">Babai i tha Malit se shqiptar&#xeb;t k&#xeb;t&#xeb; tradit&#xeb; e kan&#xeb; t&#xeb; trash&#xeb;guar nga paraardh&#xeb;sit.</span></p></div><figure><img data-id="pg082_im001" src="images/pg082_im001.png" alt="Pamje panoramike e Shkodr&#xeb;s, me muret e kalas&#xeb; n&#xeb; plan t&#xeb; par&#xeb; dhe malet n&#xeb; sfond." class="w-full h-auto object-cover"><figcaption data-id="pg082_n0023" class="adt-caption mt-4 text-center font-semibold text-stone-800">Shkodra</figcaption></figure></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg098_sec002">
+    <meta name="page-section-id" content="131">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+      body, #interface-container, #nav-container, #interface-container button, #nav-container button, #interface-container input, #nav-container input { font-family: BookPoppins, Poppins, sans-serif; }
+      #content.bk .question-tab { display:inline-flex; align-items:center; justify-content:center; width:48px; height:48px; padding:0; border:0; border-radius:var(--bk-r-card); background:var(--bk-primary); color:var(--bk-on-primary); }
+      #content.bk .bk-feedback[hidden], #content.bk button[hidden] { display:none; }
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+  <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+  <div data-family="lesson-discussion" class="bk" id="content">
+    <section role="region" data-section-type="activity_fill_in_the_blank" data-section-id="pg098_sec002">
+      <div class="bk-card bk-card--surface1 bk-stack">
+        <span class="question-tab bk-subheading" aria-hidden="true">?</span>
+        <p class="bk-body">Shënime (opsionale)</p>
+        <div class="bk-activity" data-activity-pattern="extended-response" data-activity-variant="one-question">
+          <label for="activity-answer-1" class="bk-prompt bk-label"><span data-id="pg098_n0028">Për çka biseduan Mali e Era?</span></label>
+          <textarea id="activity-answer-1" data-activity-item="item-1" aria-label="Për çka biseduan Mali e Era?" aria-describedby="save-status-1" class="bk-field" rows="3"></textarea>
+          <p class="bk-feedback" id="save-status-1" role="status" aria-live="polite" hidden></p>
+          <button class="bk-btn bk-btn--secondary" type="button" data-retry="item-1" hidden>Provo ruajtjen përsëri</button>
+        </div>
+        <div class="bk-activity" data-activity-pattern="extended-response" data-activity-variant="one-question">
+          <label for="activity-answer-2" class="bk-prompt bk-label"><span data-id="pg098_n0029">Si ndahen pasuritë natyrore?</span></label>
+          <textarea id="activity-answer-2" data-activity-item="item-2" aria-label="Si ndahen pasuritë natyrore?" aria-describedby="save-status-2" class="bk-field" rows="3"></textarea>
+          <p class="bk-feedback" id="save-status-2" role="status" aria-live="polite" hidden></p>
+          <button class="bk-btn bk-btn--secondary" type="button" data-retry="item-2" hidden>Provo ruajtjen përsëri</button>
+        </div>
+      </div>
+    </section>
+  </div>
+</main>
+<script>window.activityAnswerTextIds = JSON.parse('{"item-1":"pg098_sec002_ans_item-1","item-2":"pg098_sec002_ans_item-2","item-3":"pg098_sec002_ans_item-3","item-4":"pg098_sec002_ans_item-4"}');
+window.correctAnswers = JSON.parse('{"item-1":"Mali e Era biseduan për ruajtjen e pasurive natyrore dhe shfrytëzimin e tyre në mënyrë të arsyeshme.","item-2":"Pasuritë natyrore ndahen në burime të ripërtëritshme dhe të paripërtëritshme.","item-3":"Është e rëndësishme të shfrytëzohen me arsye, sepse burimet e paripërtëritshme mund të harxhohen dhe të ndotin mjedisin, kështu që duhet të ruhen edhe për brezat e ardhshëm.","item-4":"Duhet t’i përdorim më shumë energjinë e erës dhe atë diellore, sepse janë burime të ripërtëritshme dhe ndotin më pak mjedisin se nafta, qymyri dhe gazi natyror."}');</script>
+<script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{"item-1":"pg098_sec002_ans_item-1","item-2":"pg098_sec002_ans_item-2","item-3":"pg098_sec002_ans_item-3","item-4":"pg098_sec002_ans_item-4"}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"Mali e Era biseduan për ruajtjen e pasurive natyrore dhe shfrytëzimin e tyre në mënyrë të arsyeshme.","item-2":"Pasuritë natyrore ndahen në burime të ripërtëritshme dhe të paripërtëritshme.","item-3":"Është e rëndësishme të shfrytëzohen me arsye, sepse burimet e paripërtëritshme mund të harxhohen dhe të ndotin mjedisin, kështu që duhet të ruhen edhe për brezat e ardhshëm.","item-4":"Duhet t’i përdorim më shumë energjinë e erës dhe atë diellore, sepse janë burime të ripërtëritshme dhe ndotin më pak mjedisin se nafta, qymyri dhe gazi natyror."}');
+    </script>
+<script>
+(function () {
+  document.querySelectorAll('#content textarea[data-activity-item]').forEach(function (field) {
+    var item = field.dataset.activityItem;
+    var key = 'shoqeria-mjedisi4:pg098_sec002:' + item;
+    var status = document.getElementById(field.getAttribute('aria-describedby'));
+    var retry = document.querySelector('[data-retry="' + item + '"]');
+    function save() {
+      try {
+        localStorage.setItem(key, field.value);
+        if (localStorage.getItem(key) !== field.value) throw new Error('save failed');
+        status.textContent = '✓ U ruajt.'; status.hidden = false; retry.hidden = true;
+      } catch (e) {
+        status.textContent = '! Nuk u ruajt.'; status.hidden = false; retry.hidden = false;
+      }
+    }
+    try { var saved = localStorage.getItem(key); if (saved !== null) field.value = saved; }
+    catch (e) { status.textContent = '! Nuk u ruajt.'; status.hidden = false; retry.hidden = false; }
+    field.addEventListener('input', save);
+    retry.addEventListener('click', save);
+  });
+}());
+</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

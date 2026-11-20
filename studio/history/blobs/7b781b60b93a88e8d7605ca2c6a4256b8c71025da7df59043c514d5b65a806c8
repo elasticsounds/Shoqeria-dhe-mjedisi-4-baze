@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe Mjedisi 4</title>
+  <meta name="title-id" content="pg104_sec001_p2">
+  <meta name="page-section-id" content="139">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  
+  <style>
+    #nav-container, #nav-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands), #interface-container, #interface-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands) { font-family: BookPoppins, Poppins, Arial, sans-serif; }
+    #content.bk section > .bk-stack { max-width: 720px; }
+  </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <div data-family="illustrated-reading" id="content" class="container opacity-0 bk">
+      <section data-section-type="text_and_single_image" data-section-id="pg104_sec001_p2">
+        <div class="bk-stack">
+          <p class="bk-body"><span data-id="pg104_n0009">Mali mëngjesin e ha në shkollë, në orën 9 e 30 minuta.</span> <span data-id="pg104_n0010">Pas mësimit, kthehet në shtëpi i lodhur, ha drekën, lëshon perdet e dritareve që të bëhet errësirë dhe menjëherë shtrihet për të bërë gjumin e pasdites.</span> <span data-id="pg104_n0011">Shokët e thërrasin për të luajtur futboll ose ndonjë lojë tjetër në ajër të pastër, por ai asnjëherë nuk u bashkohet atyre, sepse i duhet të flejë.</span></p>
+          <p class="bk-body"><span data-id="pg104_n0012">Pasi zgjohet, atij i pëlqen të hajë ushqime të shpejta dhe të pijë pije të gazuara.</span> <span data-id="pg104_n0013">Nuk ha me orar dhe nuk pi mjaftueshëm ujë.</span></p>
+        </div>
+      </section>
+    </div>
+  </main>
+  <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

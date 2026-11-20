@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg023_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="30" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0"><section data-section-type="text_and_single_image" data-section-id="pg023_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 text-slate-800 max-sm:px-5">
+  <div class="-mx-8 mb-8 max-sm:-mx-5">
+    <div class="bg-purple-400 px-8 py-6 max-sm:px-5 max-sm:py-5">
+      <div class="mx-auto flex w-full max-w-5xl items-center justify-between gap-5">
+        <div class="min-w-0 flex-1 pl-4 max-sm:pl-0">
+          <h1 class="adt-h2 mb-3 border-b-4 border-purple-300 pb-3 font-semibold text-slate-900" data-id="pg023_n0003">Respektojm&#xeb; diversitetin kulturor</h1>
+        </div>
+        <div aria-hidden="true" class="flex h-20 w-20 shrink-0 items-center justify-center rounded-2xl bg-purple-300 text-white shadow-sm max-sm:h-16 max-sm:w-16">&#x1f90d;</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mb-6 rounded-3xl border border-amber-200 bg-amber-50 px-5 py-5 shadow-sm max-sm:px-4">
+    <h3 class="adt-h3 mb-3 inline-block rounded-full bg-amber-300 px-4 py-2 font-semibold text-slate-900" data-id="pg023_n0005">Situata 2.</h3>
+    <p class="adt-body leading-relaxed text-left">
+      <span data-id="pg023_n0007">Ngjyrat e &#xe7;do luleje ndryshojn&#xeb; kuptimin nga nj&#xeb; kultur&#xeb; n&#xeb; tjetr&#xeb;n.</span>
+      <span data-id="pg023_n0008">E verdha p&#xeb;rfaq&#xeb;son diellin, jet&#xeb;n e g&#xeb;zimin.</span>
+      <span data-id="pg023_n0009">N&#xeb; Japoni, ngjyra e verdh&#xeb; tregon trim&#xeb;rin&#xeb; dhe kuraj&#xeb;n.</span>
+      <span data-id="pg023_n0010">N&#xeb; Egjipt, kjo ngjyr&#xeb; &#xeb;sht&#xeb; simbol i zis&#xeb;.</span>
+      <span data-id="pg023_n0011">E bardha n&#xeb; Per&#xeb;ndim &#xeb;sht&#xeb; simbol i past&#xeb;rtis&#xeb;.</span>
+      <span data-id="pg023_n0012">N&#xeb; Lindje &#xeb;sht&#xeb; simbol i zis&#xeb; dhe i m&#xeb;rzis&#xeb;.</span>
+      <span data-id="pg023_n0013">N&#xeb; Kin&#xeb; e Japoni, ngjyra e bardh&#xeb; ta kujton dhimbjen dhe trishtimin.</span>
+      <span data-id="pg023_n0014">E kuqja n&#xeb; Kin&#xeb; &#xeb;sht&#xeb; simbol i fatit t&#xeb; mir&#xeb;, nd&#xeb;rsa n&#xeb; Per&#xeb;ndim simbolizon rrezikun.</span>
+      <span data-id="pg023_n0015">Tulipan&#xeb;t kan&#xeb; dometh&#xeb;nie pozitive n&#xeb; t&#xeb; gjitha kulturat.</span>
+      <span data-id="pg023_n0016">Ata tregojn&#xeb; rilindje, g&#xeb;zim.</span>
+      <span data-id="pg023_n0017">Shoku yn&#xeb; i klas&#xeb;s, Luja, kishte dit&#xeb;lindjen.</span>
+      <span data-id="pg023_n0018">Ai jeton me familjen e tij, e cila ka nj&#xeb; biznes familjar n&#xeb; Prishtin&#xeb;.</span>
+      <span data-id="pg023_n0019">Vendos&#xeb;m q&#xeb; ta uronim me nj&#xeb; buqet&#xeb; lulesh.</span>
+      <span data-id="pg023_n0020">N&#xeb; vend q&#xeb; ta g&#xeb;zonte, dhurata e shqet&#xeb;soi Lun&#xeb;</span>
+    </p>
+  </div>
+
+  <div class="mb-8 overflow-hidden rounded-[2rem] border border-amber-200 bg-amber-100 shadow-sm">
+    <img data-id="pg023_im001" src="images/pg023_im001.png" alt="Vajza i dhuron djalit nj&#xeb; buqet&#xeb; me lule t&#xeb; bardha, nd&#xeb;rsa ai duket i m&#xeb;rzitur dhe i shqet&#xeb;suar." class="block h-auto w-full">
+  </div>
+
+  <div class="mt-2 border-2 border-purple-300 bg-white px-5 py-5 shadow-sm max-sm:px-4">
+    <div class="mb-4 flex justify-end">
+      <div aria-hidden="true" class="flex h-16 w-20 items-center justify-center bg-purple-400 text-white shadow-sm">&#x1f4d6;</div>
+    </div>
+    <p class="adt-body leading-relaxed text-left italic">
+      <span data-id="pg023_n0023">&#xc7;do popull ka nj&#xeb; kultur&#xeb; t&#xeb; veten q&#xeb; quhet kultur&#xeb; komb&#xeb;tare.</span>
+      <span data-id="pg023_n0024">Kultura p&#xeb;rfshin zakonet, traditat, gjuh&#xeb;n, veshjet, festat dhe m&#xeb;nyr&#xeb;n se si jetojn&#xeb; njer&#xeb;zit.</span>
+      <span data-id="pg023_n0025">Ajo m&#xeb;sohet n&#xeb; familje, n&#xeb; shkoll&#xeb; dhe n&#xeb; shoq&#xeb;ri.</span>
+      <span data-id="pg023_n0026">Njer&#xeb;z dhe grupe t&#xeb; ndryshme mund t&#xeb; ken&#xeb; kultura t&#xeb; ndryshme.</span>
+      <span data-id="pg023_n0027">Llojllojshm&#xeb;ria kulturore shfaq dallimet kulturore q&#xeb; njer&#xeb;zit, p&#xeb;rkat&#xeb;sisht grupet e njer&#xeb;zve, mund t&#xeb; ken&#xeb; nd&#xeb;rmjet tyre.</span>
+      <span data-id="pg023_n0028">&#xc7;do kultur&#xeb; duhet t&#xeb; respektohet, sepse ka vlerat e veta.</span>
+      <span data-id="pg023_n0029">Ne duhet t&#xeb; m&#xeb;sojm&#xeb; p&#xeb;r t&#xeb; gjitha kulturat.</span>
+      <span data-id="pg023_n0030">Duke m&#xeb;suar p&#xeb;r to, i kuptojm&#xeb; m&#xeb; mir&#xeb; ato, vlerat e tyre dhe dallimet me kultur&#xeb;n ton&#xeb;.</span>
+      <span data-id="pg023_n0031">Pra, duke m&#xeb;suar p&#xeb;r kulturat e tjera, ne e kuptojm&#xeb; m&#xeb; mir&#xeb; edhe kultur&#xeb;n ton&#xeb;, edhe veten ton&#xeb;.</span>
+      <span data-id="pg023_n0032">Kjo do t&#xeb; thot&#xeb; q&#xeb; dallimet kulturore nuk b&#xeb;hen penges&#xeb; p&#xeb;r bashk&#xeb;punim, por leht&#xeb;sim n&#xeb; komunikim.</span>
+      <span data-id="pg023_n0033">N&#xeb; fund, e kuptojm&#xeb; se, megjith&#xeb;se jemi t&#xeb; ndrysh&#xeb;m, t&#xeb; gjith&#xeb; jemi njer&#xeb;z dhe duhet t&#xeb; jetojm&#xeb; s&#xeb; bashku me respekt dhe toleranc&#xeb;.</span>
+    </p>
+  </div>
+
+  <div class="mt-5 px-3 py-2">
+    <p class="adt-body font-medium text-left" data-id="pg023_n0034">Fjal&#xeb;t ky&#xe7;e: diversitet kulturor, kultur&#xeb; komb&#xeb;tare, bashk&#xeb;jetes&#xeb;.</p>
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

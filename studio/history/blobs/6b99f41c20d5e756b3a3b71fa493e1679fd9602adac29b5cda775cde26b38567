@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg080_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="101">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div id="content" class="container opacity-0 bk">
+  <section data-section-type="boxed_text" data-section-id="pg080_sec002" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-white text-zinc-800">
+    <aside class="mb-8 border-2 border-purple-200 bg-purple-100/80 p-6 shadow-sm max-sm:p-4">
+      <ul class="space-y-6 max-sm:space-y-5">
+        <li class="grid grid-cols-[1.4fr_0.8fr] gap-4 items-start max-lg:grid-cols-1">
+          <div class="rounded-2xl bg-white/80 p-4 border border-purple-200 min-h-11">
+            <span data-id="pg080_n0009" class="adt-body">A mendoni se Kosova ka një kulturë të zhvilluar?</span>
+            <span data-id="pg080_n0010" class="adt-body">Pse?</span>
+          </div>
+          <div class="w-full">
+            <label for="item-1" class="sr-only">A mendoni se Kosova ka një kulturë të zhvilluar? Pse?</label>
+            <textarea id="item-1" data-activity-item="item-1" aria-label="A mendoni se Kosova ka një kulturë të zhvilluar? Pse?" class="w-full min-h-11 h-28 rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 outline-none focus:border-purple-500"></textarea>
+          </div>
+        </li>
+        <li class="grid grid-cols-[1.4fr_0.8fr] gap-4 items-start max-lg:grid-cols-1">
+          <div class="rounded-2xl bg-white/80 p-4 border border-purple-200 min-h-11">
+            <span data-id="pg080_n0012" class="adt-body">Bëni edhe ju një hulumtim për sporte të tjera dhe zhanret e tjera të muzikës.</span>
+          </div>
+          <div class="w-full">
+            <label for="item-2" class="sr-only">Bëni edhe ju një hulumtim për sporte të tjera dhe zhanret e tjera të muzikës.</label>
+            <textarea id="item-2" data-activity-item="item-2" aria-label="Bëni edhe ju një hulumtim për sporte të tjera dhe zhanret e tjera të muzikës." class="w-full min-h-11 h-28 rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 outline-none focus:border-purple-500"></textarea>
+          </div>
+        </li>
+        <li class="grid grid-cols-[1.4fr_0.8fr] gap-4 items-start max-lg:grid-cols-1">
+          <div class="rounded-2xl bg-white/80 p-4 border border-purple-200 min-h-11">
+            <span data-id="pg080_n0014" class="adt-body">Shkruani emra të njohur të këtyre fushave, nga fshati ose qyteti ku jetoni.</span>
+          </div>
+          <div class="w-full">
+            <label for="item-3" class="sr-only">Shkruani emra të njohur të këtyre fushave, nga fshati ose qyteti ku jetoni.</label>
+            <textarea id="item-3" data-activity-item="item-3" aria-label="Shkruani emra të njohur të këtyre fushave, nga fshati ose qyteti ku jetoni." class="w-full min-h-11 h-28 rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 outline-none focus:border-purple-500"></textarea>
+          </div>
+        </li>
+      </ul>
+    </aside>
+
+    <div class="mb-10 border-2 border-purple-300 bg-white shadow-sm overflow-hidden">
+      <div class="flex items-stretch max-sm:flex-col">
+        <div aria-hidden="true" class="bg-purple-500 w-14 shrink-0 max-sm:w-full max-sm:h-4"></div>
+        <p class="adt-body p-6 italic leading-relaxed">
+          <span data-id="pg080_n0017">Kosova ka një kulturë mjaft të zhvilluar.</span>
+          <span data-id="pg080_n0018">Kjo shihet në sport, muzikë, teatër, film dhe pikturë.</span>
+          <span data-id="pg080_n0019">Shumë sportistë, muzikantë e artistë e kanë ngritur lart emrin e Kosovës, duke bërë që Kosova të renditet në mesin e fitueseve të çmimeve botërore.</span>
+          <span data-id="pg080_n0020">Trashëgimia kulturore e Kosovës është krijuar ndër shekuj dhe po përcillet brez pas brezi, duke ruajtur identitetin tonë si popull.</span>
+          <span data-id="pg080_n0021">Në Kosovë zhvillohet një jetë e pasur kulturore dhe artistike me aktivitete të larmishme në nivel lokal, kombëtar dhe ndërkombëtar.</span>
+          <span data-id="pg080_n0022">Ne krenohemi me të gjithë ata që kanë kontribuuar për ruajtjen dhe pasurimin e kulturës kombëtare.</span>
+        </p>
+      </div>
+    </div>
+
+    <p class="adt-body border-l-4 border-purple-300 pl-4">
+      <span data-id="pg080_n0025" class="font-bold">Fjalët kyçe:</span>
+      <span data-id="pg080_n0026">sport, art, muzikë, teatër, pikturë, film.</span>
+    </p>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg116_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="149" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 bg-[#f5e4d6] py-8 opacity-0">
+  <section data-section-type="text_and_single_image" data-section-id="pg116_sec001" class="w-full text-left text-[#2b2623]">
+    <div class="w-full bg-[#f5e4d6]">
+      <div class="mb-10 max-sm:mb-8">
+        <div class="flex items-start max-sm:flex-col">
+          <div class="w-36 min-h-[170px] rounded-l-[1.75rem] bg-[#a567ad] flex items-center justify-center max-sm:w-full max-sm:min-h-[110px] max-sm:rounded-t-[1.75rem] max-sm:rounded-l-none">
+            <div aria-hidden="true" class="flex flex-col items-center justify-center gap-3 text-white">
+              <div class="h-10 w-10 rounded-full border-4 border-white/90 border-b-transparent rotate-45"></div>
+              <div class="h-5 w-16 rounded-full border-[4px] border-white/90 border-t-0"></div>
+            </div>
+          </div>
+          <div class="flex-1 pt-16 max-sm:pt-4">
+            <div class="bg-[#a567ad] px-4 py-3">
+              <h1 data-id="pg116_n0002" class="adt-h1 font-bold text-white">Mjedisi i vendit tim</h1>
+            </div>
+            <div class="px-4 pt-4 pb-2 border-b-[4px] border-[#a567ad] w-full max-w-[34rem] max-sm:max-w-full">
+              <h2 data-id="pg116_n0003" class="adt-h2 font-medium text-[#2b2623]">T&#x2019;i ruajm&#xeb; tok&#xeb;n dhe pyjet</h2>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="space-y-5">
+        <p class="adt-body leading-relaxed">
+          <span data-id="pg116_n0005">M&#xeb;suesja po sqaronte se sa t&#xeb; dobish&#xeb;m ishin drur&#xeb;t n&#xeb; jet&#xeb;n e secilit njeri.</span>
+          <span data-id="pg116_n0006">Ajo kishte p&#xeb;rgatitur nj&#xeb; prezantim ku tregohej se sa i dobish&#xeb;m ishte procesi i fotosintez&#xeb;s, nd&#xeb;rkoh&#xeb; q&#xeb; Mali nuk ishte shum&#xeb; i p&#xeb;rqendruar n&#xeb; fjal&#xeb;t e m&#xeb;sueses.</span>
+          <span data-id="pg116_n0007">Atij po i kujtohej nj&#xeb; ngjarje e vitit t&#xeb; kaluar.</span>
+        </p>
+
+        <p class="adt-body leading-relaxed">
+          <span data-id="pg116_n0009">Nd&#xeb;rkoh&#xeb; q&#xeb; Mali po ecte me familjen e tij n&#xeb; nj&#xeb; pyll, ata kishin takuar nj&#xeb; t&#xeb; njohur q&#xeb; po priste drur&#xeb;.</span>
+          <span data-id="pg116_n0010">Mali e dinte q&#xeb; prerja e drur&#xeb;ve ishte e d&#xeb;mshme, prandaj e pyeti t&#xeb; njohurin:</span>
+        </p>
+
+        <p class="adt-body leading-relaxed">
+          <span data-id="pg116_n0012">&#x201c;O xhaxha, po ti e di se t&#xeb; pres&#xeb;sh drur&#xeb; nuk &#xeb;sht&#xeb; gj&#xeb; e mir&#xeb; p&#xeb;r ajrin dhe jet&#xeb;n n&#xeb; Tok&#xeb;!</span>
+          <span data-id="pg116_n0013">Malit i kujtohej mjaft mir&#xeb; p&#xeb;rgjigjja e tij.</span>
+          <span data-id="pg116_n0014">Ai pati th&#xeb;n&#xeb;: &#x201c;Po un&#xeb; me k&#xeb;t&#xeb; pun&#xeb; jetoj dhe mbaj familjen&#x201d;.</span>
+          <span data-id="pg116_n0015">N&#xeb; nj&#xeb; m&#xeb;nyr&#xeb; apo tjet&#xeb;r, Mali e kishte pranuar mendimin e xhaxhait dhe ishte ndier keq pse e kishte pyetur.</span>
+        </p>
+
+        <p class="adt-body leading-relaxed">
+          <span data-id="pg116_n0017">Tani i dukej momenti i duhur p&#xeb;r t&#xeb; ndar&#xeb; k&#xeb;t&#xeb; p&#xeb;rvoj&#xeb; me m&#xeb;suesen e tij.</span>
+          <span data-id="pg116_n0018">P&#xeb;rgjigjja e m&#xeb;sueses e habiti, edhe pse Mali priste q&#xeb; m&#xeb;suesja do ta kund&#xeb;rshtonte veprimin e xhaxhait.</span>
+          <span data-id="pg116_n0019">P&#xeb;r &#xe7;udin&#xeb; e tij ajo iu drejtua me nj&#xeb; pyetje: &quot;&#xc7;far&#xeb; duhet t&#xeb; b&#xeb;j&#xeb; xhaxhai yt, q&#xeb; t&#xeb; kompensoj&#xeb; d&#xeb;min e b&#xeb;r&#xeb;?&quot;.</span>
+        </p>
+
+        <p class="adt-body leading-relaxed">
+          <span data-id="pg116_n0021">Ishte nj&#xeb; pyetje q&#xeb; Mali nuk e kishte menduar.</span>
+          <span data-id="pg116_n0022">V&#xeb;rtet, n&#xeb;se xhaxhai do t&#xeb; mbillte nga nj&#xeb; dru t&#xeb; ri, p&#xeb;r secilin dru t&#xeb; prer&#xeb;, at&#xeb;her&#xeb; ndoshta do t&#xeb; kompensonte d&#xeb;min e tij deri diku.</span>
+        </p>
+      </div>
+
+      <div class="mt-8 pt-6">
+        <img data-id="pg116_im001" src="images/pg116_im001.png" alt="Tre nx&#xeb;n&#xeb;s t&#xeb; ulur rreth nj&#xeb; tavoline n&#xeb; klas&#xeb;, duke biseduar para d&#xeb;rras&#xeb;s s&#xeb; gjelb&#xeb;r; n&#xeb; sfond duken tavolina e m&#xeb;suesit, raftet me libra dhe ora e murit." class="block w-full h-auto">
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg016_sec001_p2">
+<meta name="page-section-id" content="25">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>
+body:has(#content[data-source-page="16"]){margin:0;padding-bottom:0!important;font-family:BookPoppins,Poppins,sans-serif}
+body:has(#content[data-source-page="16"]) :is(#interface-container,#nav-container),body:has(#content[data-source-page="16"]) :is(#interface-container,#nav-container) :is(button,a,span,div,input,label){font-family:BookPoppins,Poppins,sans-serif!important}
+#content.bk.bk.bk[data-source-page="16"]{padding-top:24px;overflow:visible}
+#content.bk.bk.bk[data-source-page="16"] .bk-figure{align-items:center;gap:12px}
+#content.bk.bk.bk[data-source-page="16"] img[data-id="pg016_im001"]{width:auto;max-width:100%;height:auto;max-height:560px;border-radius:0}
+#content.bk.bk.bk[data-source-page="16"] .bk-row{justify-content:center}
+#content.bk.bk.bk[data-source-page="16"] p{margin:0}
+#content.bk.bk.bk[data-source-page="16"] a.bk-btn{color:var(--bk-primary);text-decoration:underline}
+#content.bk.bk.bk[data-source-page="16"] dialog{width:calc(100% - 32px);max-width:1000px;max-height:calc(100dvh - 48px);overflow:auto;padding:20px;border:2px solid var(--bk-primary);border-radius:20px;background:var(--bk-paper);color:var(--bk-ink);margin:auto}
+#content.bk.bk.bk[data-source-page="16"] dialog::backdrop{background:rgba(40,40,60,.8)}
+#content.bk.bk.bk[data-source-page="16"] dialog img{display:block;max-width:none;height:auto;border-radius:0;margin-top:24px}
+#content.bk.bk.bk[data-source-page="16"] dialog .bk-row{justify-content:flex-start}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div id="content" class="bk" data-family="illustrated-reading" data-source-page="16">
+<section data-section-type="single_image" data-section-id="pg016_sec001_p2" aria-label="Situata 2. — Figura">
+<figure class="bk-figure">
+<img data-id="pg016_im001" src="images/pg016_im001.png" alt="Nëna dhe vajza e saj bisedojnë të ulura në divan në shtëpi." width="2549" height="3485">
+</figure>
+<nav class="bk-row" aria-label="Figura dhe lidhje me situatën" style="margin-top:12px">
+<button type="button" class="bk-btn bk-btn--secondary" id="pg016-inspect" aria-haspopup="dialog" aria-controls="pg016-viewer">Shiko figurën</button>
+<a class="bk-btn bk-btn--secondary" href="pg016_sec001.html#pg016_n0006">Situata 2.</a>
+<a class="bk-btn bk-btn--secondary" href="pg017_sec001.html">Vazhdimi →</a>
+</nav>
+<p class="bk-caption" aria-label="Faqja e librit 16" style="margin-top:12px">16</p>
+<dialog id="pg016-viewer" aria-label="Situata 2. — Figura e plotë">
+<div class="bk-row">
+<button type="button" class="bk-btn bk-btn--secondary" id="pg016-close" autofocus>Mbyll</button>
+<button type="button" class="bk-btn bk-btn--secondary" id="pg016-zoom-in" aria-label="Zmadho figurën">Zmadho</button>
+<button type="button" class="bk-btn bk-btn--secondary" id="pg016-zoom-out" aria-label="Zvogëlo figurën" disabled>Zvogëlo</button>
+</div>
+<p class="bk-caption" id="pg016-view-status" aria-live="polite" style="margin-top:12px">100%</p>
+<img id="pg016-original" src="images/pg016_im001.png" alt="Figura e plotë: nëna dhe vajza në divanin e verdhë, me bimë dhe qilim përreth." style="width:100%">
+</dialog>
+</section>
+</div>
+</main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+<script>
+(function(){
+const viewer=document.getElementById('pg016-viewer');
+const trigger=document.getElementById('pg016-inspect');
+const original=document.getElementById('pg016-original');
+const zoomIn=document.getElementById('pg016-zoom-in');
+const zoomOut=document.getElementById('pg016-zoom-out');
+let zoom=1;
+function update(){original.style.width=(zoom*100)+'%';zoomOut.disabled=zoom===1;zoomIn.disabled=zoom===4;document.getElementById('pg016-view-status').textContent=(zoom*100)+'%';}
+trigger.addEventListener('click',function(){zoom=1;update();viewer.showModal();viewer.scrollTop=0;viewer.scrollLeft=0;});
+document.getElementById('pg016-close').addEventListener('click',function(){viewer.close();});
+viewer.addEventListener('close',function(){trigger.focus();});
+zoomIn.addEventListener('click',function(){zoom=Math.min(4,zoom+1);update();});
+zoomOut.addEventListener('click',function(){zoom=Math.max(1,zoom-1);update();});
+})();
+</script>
+</body>
+</html>

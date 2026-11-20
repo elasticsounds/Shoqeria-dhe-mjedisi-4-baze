@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg101_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="139">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" class="container mx-auto max-w-5xl bg-white rounded-lg px-24 max-lg:px-12 max-sm:px-6 pt-12 pb-12 opacity-0 bk" id="content">
+  <section data-section-type="activity_fill_in_the_blank" data-section-id="pg101_sec002" role="region" class="max-w-6xl mx-auto">
+    <div class="bg-purple-100 rounded-lg px-8 py-8 max-sm:px-4 max-sm:py-6">
+      <div class="space-y-6">
+        <div>
+          <p class="adt-body leading-relaxed text-black">
+            <span data-id="pg101_n0031">- Trego sipas mendimit tënd pse quhen pasuri natyrore dhe pse pasuri njerëzore.</span>
+          </p>
+        </div>
+
+        <div>
+          <p class="adt-body leading-relaxed text-black mb-3">
+            <span data-id="pg101_n0032">- Shiko nga dritarja dhe shkruaj cilat pasuri natyrore po sheh.</span>
+          </p>
+          <span class="sr-only" data-id="pg101_n0033"></span>
+          <label for="activity-item-1" class="sr-only">- Shiko nga dritarja dhe shkruaj cilat pasuri natyrore po sheh.</label>
+          <textarea id="activity-item-1" data-activity-item="item-1" aria-label="- Shiko nga dritarja dhe shkruaj cilat pasuri natyrore po sheh." class="w-full min-h-11 h-24 bg-transparent border border-purple-300 rounded-xl focus:outline-none focus:ring-0 p-3 resize-none"></textarea>
+        </div>
+
+        <div>
+          <p class="adt-body leading-relaxed text-black mb-3">
+            <span data-id="pg101_n0034">- Mendo për anëtarët e familjes sate dhe shkruaj pasuritë njerëzore që përfaqësojnë ata.</span>
+          </p>
+          <span class="sr-only" data-id="pg101_n0035"></span>
+          <label for="activity-item-2" class="sr-only">- Mendo për anëtarët e familjes sate dhe shkruaj pasuritë njerëzore që përfaqësojnë ata.</label>
+          <textarea id="activity-item-2" data-activity-item="item-2" aria-label="- Mendo për anëtarët e familjes sate dhe shkruaj pasuritë njerëzore që përfaqësojnë ata." class="w-full min-h-11 h-24 bg-transparent border border-purple-300 rounded-xl focus:outline-none focus:ring-0 p-3 resize-none"></textarea>
+        </div>
+
+        <div class="pt-2">
+          <p class="adt-body text-center leading-relaxed mb-4">
+            <span data-id="pg101_n0036">Shtoni edhe të tjera në listën e pasurive natyrore dhe njerëzore.</span>
+          </p>
+
+          <div class="border-[3px] border-green-500 bg-white overflow-hidden rounded-2xl">
+            <table class="w-full border-collapse table-fixed max-sm:table-auto">
+              <tbody>
+                <tr class="max-sm:block">
+                  <th scope="col" class="w-1/2 border-b-[3px] border-r-[3px] border-green-500 bg-green-50 p-4 text-center align-middle max-sm:block max-sm:w-full max-sm:border-r-0">
+                    <h1 class="adt-h3"><span data-id="pg101_n0040">Pasuri natyrore</span></h1>
+                  </th>
+                  <th scope="col" class="w-1/2 border-b-[3px] border-green-500 bg-green-50 p-4 text-center align-middle max-sm:block max-sm:w-full">
+                    <h3 class="adt-h3"><span data-id="pg101_n0042">Pasuri njerëzore</span></h3>
+                  </th>
+                </tr>
+                <tr class="max-sm:block">
+                  <td class="align-top border-r-[3px] border-green-500 p-4 max-sm:block max-sm:w-full max-sm:border-r-0 max-sm:border-b-[3px] max-sm:border-green-500">
+                    <div class="adt-body leading-relaxed mb-6 min-h-[72px] max-sm:min-h-0">
+                      <span data-id="pg101_n0045">Dielli, ujërat, pyjet, bimët etj.</span>
+                    </div>
+                    <span class="sr-only" data-id="pg101_n0046"></span>
+                    <label for="activity-item-3" class="sr-only">Shtoni edhe të tjera në listën e pasurive natyrore.</label>
+                    <input id="activity-item-3" type="text" data-activity-item="item-3" aria-label="Shtoni edhe të tjera në listën e pasurive natyrore." class="w-full min-h-11 bg-transparent border-0 border-b-[3px] border-green-500 rounded-none focus:outline-none focus:ring-0 px-2 py-2">
+                  </td>
+                  <td class="align-top p-4 max-sm:block max-sm:w-full">
+                    <div class="adt-body leading-relaxed mb-6 min-h-[72px] max-sm:min-h-0">
+                      <span data-id="pg101_n0048">Mjekët, mësuesit, policët, muratorët etj.</span>
+                    </div>
+                    <span class="sr-only" data-id="pg101_n0049"></span>
+                    <label for="activity-item-4" class="sr-only">Shtoni edhe të tjera në listën e pasurive njerëzore.</label>
+                    <input id="activity-item-4" type="text" data-activity-item="item-4" aria-label="Shtoni edhe të tjera në listën e pasurive njerëzore." class="w-full min-h-11 bg-transparent border-0 border-b-[3px] border-green-500 rounded-none focus:outline-none focus:ring-0 px-2 py-2">
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"","item-2":"","item-3":"","item-4":""}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

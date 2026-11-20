@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg112_sec003" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="145" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div id="content" class="container opacity-0"><section data-section-type="boxed_text" data-section-id="pg112_sec003" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-white text-slate-800"><div class="border-2 border-purple-300 bg-purple-50 shadow-sm"><div class="flex max-lg:flex-col"><div aria-hidden="true" class="w-24 max-lg:w-full bg-purple-500"></div><div class="flex-1 p-6 max-sm:p-4"><p class="adt-body leading-relaxed italic"><span data-id="pg112_n0030">Uji &#xeb;sht&#xeb; i domosdosh&#xeb;m p&#xeb;r jet&#xeb;n e qenieve t&#xeb; gjalla.</span> <span data-id="pg112_n0031">Prandaj njeriu duhet t&#xeb; tregoj&#xeb; kujdes t&#xeb; ve&#xe7;ant&#xeb; p&#xeb;r uj&#xeb;rat n&#xeb; mjedisin ku jeton.</span> <span data-id="pg112_n0032">Njeriu duhet t&#xeb; kujdeset q&#xeb; t&#xeb; mos keqp&#xeb;rdor&#xeb; apo ndot&#xeb; ujin e pijsh&#xeb;m dhe uj&#xeb;rat e tjera.</span> <span data-id="pg112_n0033">Ndotja e ujit &#xeb;sht&#xeb; ndotja e t&#xeb; gjitha uj&#xeb;rave n&#xeb; tok&#xeb;, liqene, lumenj, oqeane, rrjedhje dhe uj&#xeb;ra n&#xeb;ntok&#xeb;sore.</span> <span data-id="pg112_n0034">Ndotja e ujit ndodh kur ndot&#xeb;sit hidhen n&#xeb; uj&#xeb;, pa treguar kujdes p&#xeb;r t&#xeb; hequr p&#xeb;rb&#xeb;rjet e d&#xeb;mshme.</span> <span data-id="pg112_n0035">Ndotja e ujit prek bim&#xeb;t dhe organizmat q&#xeb; jetojn&#xeb; n&#xeb; k&#xeb;to uj&#xeb;ra dhe shkakton efekte t&#xeb; d&#xeb;mshme n&#xeb; to.</span> <span data-id="pg112_n0036">Ndot&#xeb;sit kryesor&#xeb; dhe shkaktar&#xeb; t&#xeb; s&#xeb;mundjeve t&#xeb; shumta infektive jan&#xeb; uj&#xeb;rat e zeza.</span> <span data-id="pg112_n0037">Secili vend duhet t&#xeb; ket&#xeb; kujdes p&#xeb;r nd&#xeb;rtimin e sistemit t&#xeb; derdhjes s&#xeb; uj&#xeb;rave t&#xeb; zeza.</span></p></div></div></div><div class="mt-8 border-l-4 border-purple-300 pl-4"><p class="adt-body leading-relaxed"><span data-id="pg112_n0040" class="font-semibold">Fjal&#xeb;t ky&#xe7;e:</span> <span data-id="pg112_n0041">uj&#xeb;, lum&#xeb;, ndotje, kursim, jetes&#xeb;.</span></p></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

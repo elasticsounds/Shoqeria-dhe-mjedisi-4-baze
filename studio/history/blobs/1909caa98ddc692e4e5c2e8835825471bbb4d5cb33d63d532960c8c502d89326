@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Respektojmë diversitetin kulturor</title>
+    <meta name="title-id" content="pg023_sec002">
+    <meta name="page-section-id" content="36">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+body:has([data-response-source="pg023_sec002"]),body:has([data-response-source="pg023_sec002"]) :is(button,input,textarea,select,[role="tooltip"]),body:has([data-response-source="pg023_sec002"]) :is(#interface-container,#nav-container) *{font-family:BookPoppins,Poppins,sans-serif!important}
+body:has([data-response-source="pg023_sec002"]) :is(#interface-container,#nav-container) :is(button,span,p,a){font-size:var(--bk-caption);}
+#content.bk.bk.bk{padding-top:var(--bk-gap);overflow:visible;}
+#content.bk.bk.bk .bk-field{padding:12px;border-color:var(--bk-primary);background-image:none;min-height:96px;height:96px;}
+#content.bk.bk.bk :is(.bk-field,.bk-btn){scroll-margin-block:var(--bk-gap) calc(var(--bk-clear) + var(--bk-target));}
+#content.bk.bk.bk [hidden]{display:none!important}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div id="content" class="bk" data-family="lesson-discussion">
+<section class="bk-stack" data-section-type="text" data-original-section-type="activity_open_ended_answer" data-section-id="pg023_sec002" data-response-source="pg023_sec002" aria-labelledby="page-heading">
+<h1 class="bk-title bk-sr-only" id="page-heading">Respektojmë diversitetin kulturor</h1>
+<section class="bk-activity bk-card bk-card--surface1" data-activity-pattern="extended-response" data-activity-variant="one-question" data-activity-mode="digital">
+<p class="bk-body bk-prompt" aria-hidden="true"><span data-id="pg023_n0037">Vazhdoje ngjarjen me Lunë, duke u fokusuar në ngjyrën e buqetës me lule.</span></p>
+<label class="bk-sr-only" for="activity-item-1">Vazhdoje ngjarjen me Lunë, duke u fokusuar në ngjyrën e buqetës me lule.</label>
+<textarea class="bk-field" id="activity-item-1" data-activity-item="item-1" aria-label="Vazhdoje ngjarjen me Lunë, duke u fokusuar në ngjyrën e buqetës me lule." rows="2" aria-describedby="save-item-1"></textarea>
+<p class="bk-feedback" id="save-item-1" role="status" aria-live="polite" hidden></p>
+<button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+</section>
+<section class="bk-activity bk-card bk-card--surface1" data-activity-pattern="extended-response" data-activity-variant="one-question" data-activity-mode="digital">
+<p class="bk-body bk-prompt" aria-hidden="true"><span data-id="pg023_n0038">Çfarë e shqetësoi atë?</span></p>
+<label class="bk-sr-only" for="activity-item-2">Çfarë e shqetësoi atë?</label>
+<textarea class="bk-field" id="activity-item-2" data-activity-item="item-2" aria-label="Çfarë e shqetësoi atë?" rows="2" aria-describedby="save-item-2"></textarea>
+<p class="bk-feedback" id="save-item-2" role="status" aria-live="polite" hidden></p>
+<button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+</section>
+</section>
+</div>
+</main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div id="interface-container"></div>
+<div id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+<script>
+(function(){
+function mount(){
+var root=document.querySelector('[data-response-source="pg023_sec002"]');
+if(!root||root.dataset.draftsMounted)return;
+root.dataset.draftsMounted='true';
+root.querySelectorAll('textarea[data-activity-item]').forEach(function(field){
+var item=field.dataset.activityItem;
+var key='shoqeria-dhe-mjedisi-4:pg023_sec002:'+item;
+var status=field.parentElement.querySelector('[role="status"]');
+var retry=field.parentElement.querySelector('[data-action="retry-save"]');
+var dirty=false;
+function feedback(ok){status.hidden=false;status.textContent=ok?'✓ U ruajt.':'! Nuk u ruajt.';retry.hidden=ok;}
+try{var saved=localStorage.getItem(key);if(saved!==null)field.value=saved;}catch(e){feedback(false);}
+function save(){try{localStorage.setItem(key,field.value);if(localStorage.getItem(key)!==field.value)throw Error('save');dirty=false;feedback(true);}catch(e){dirty=true;feedback(false);}}
+field.addEventListener('input',function(){dirty=true;save();});
+field.addEventListener('change',function(){dirty=true;save();});
+retry.addEventListener('click',save);
+window.addEventListener('pagehide',function(){if(dirty)save();});
+document.addEventListener('visibilitychange',function(){if(document.hidden&&dirty)save();});
+});
+}
+mount();
+new MutationObserver(mount).observe(document.querySelector('main'),{childList:true,subtree:true});
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg010_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="12">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" class="container mx-auto max-w-5xl bg-white px-8 max-lg:px-6 max-sm:px-4 py-8 opacity-0 bk" id="content">
+  <section data-section-type="activity_open_ended_answer" data-section-id="pg010_sec001" class="mx-auto max-w-4xl">
+    <div class="rounded-none overflow-hidden border border-[#cfaed1] bg-[#e9d7ea]">
+      <div class="flex items-stretch max-sm:flex-col">
+        <div class="w-44 max-lg:w-32 max-sm:w-full bg-[#a865a8] flex items-center justify-center px-4 py-5 max-sm:py-4">
+          <div class="text-white text-6xl max-lg:text-5xl max-sm:text-4xl leading-none" aria-hidden="true">?</div>
+        </div>
+        <div class="flex-1 px-6 py-5 max-lg:px-5 max-sm:px-4 max-sm:py-4 bg-[#e7d3e7]">
+          <div class="space-y-5">
+            <div>
+              <p class="adt-body leading-snug text-[#2f2430]">
+                <span data-id="pg010_n0002">Cilat janë grupet ku bën pjesë Bora?</span>
+              </p>
+              <label for="activity-item-1" class="sr-only">Cilat janë grupet ku bën pjesë Bora?</label>
+              <textarea id="activity-item-1" data-activity-item="item-1" aria-label="Cilat janë grupet ku bën pjesë Bora?" class="mt-2 w-full min-h-11 rounded-md border border-[#b892bc] bg-white/95 px-3 py-3 outline-none focus:ring-2 focus:ring-[#a865a8] resize-y"></textarea>
+            </div>
+
+            <div>
+              <p class="adt-body leading-snug text-[#2f2430]">
+                <span data-id="pg010_n0003">Po vëllai i Borës, në cilat grupe bën pjesë?</span>
+              </p>
+              <label for="activity-item-2" class="sr-only">Po vëllai i Borës, në cilat grupe bën pjesë?</label>
+              <textarea id="activity-item-2" data-activity-item="item-2" aria-label="Po vëllai i Borës, në cilat grupe bën pjesë?" class="mt-2 w-full min-h-11 rounded-md border border-[#b892bc] bg-white/95 px-3 py-3 outline-none focus:ring-2 focus:ring-[#a865a8] resize-y"></textarea>
+            </div>
+
+            <div>
+              <p class="adt-body leading-snug text-[#2f2430]">
+                <span data-id="pg010_n0004">Po ti, në çfarë grupe bën pjesë?</span>
+              </p>
+              <label for="activity-item-3" class="sr-only">Po ti, në çfarë grupe bën pjesë?</label>
+              <textarea id="activity-item-3" data-activity-item="item-3" aria-label="Po ti, në çfarë grupe bën pjesë?" class="mt-2 w-full min-h-11 rounded-md border border-[#b892bc] bg-white/95 px-3 py-3 outline-none focus:ring-2 focus:ring-[#a865a8] resize-y"></textarea>
+            </div>
+
+            <div>
+              <p class="adt-body leading-snug text-[#2f2430]">
+                <span data-id="pg010_n0005">Cili grup të pëlqen më së shumti ty?</span>
+              </p>
+              <label for="activity-item-4" class="sr-only">Cili grup të pëlqen më së shumti ty?</label>
+              <textarea id="activity-item-4" data-activity-item="item-4" aria-label="Cili grup të pëlqen më së shumti ty?" class="mt-2 w-full min-h-11 rounded-md border border-[#b892bc] bg-white/95 px-3 py-3 outline-none focus:ring-2 focus:ring-[#a865a8] resize-y"></textarea>
+            </div>
+
+            <div>
+              <p class="adt-body leading-snug text-[#2f2430]">
+                <span data-id="pg010_n0006">A keni krijuar ndonjëherë ndonjë grup? Nëse jo, mendoni tani se çfarë grupi të ri do të mund të krijonit në shkollë.</span>
+              </p>
+              <label for="activity-item-5" class="sr-only">A keni krijuar ndonjëherë ndonjë grup? Nëse jo, mendoni tani se çfarë grupi të ri do të mund të krijonit në shkollë.</label>
+              <textarea id="activity-item-5" data-activity-item="item-5" aria-label="A keni krijuar ndonjëherë ndonjë grup? Nëse jo, mendoni tani se çfarë grupi të ri do të mund të krijonit në shkollë." class="mt-2 w-full min-h-28 rounded-md border border-[#b892bc] bg-white/95 px-3 py-3 outline-none focus:ring-2 focus:ring-[#a865a8] resize-y"></textarea>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

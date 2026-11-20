@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg102_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="131" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 bg-white opacity-0">
+  <section data-section-type="text_and_single_image" data-section-id="pg102_sec001" class="py-8 max-sm:py-5">
+    <div class="w-full overflow-hidden rounded-3xl bg-purple-300">
+      <div class="mx-auto flex w-full max-w-5xl items-center gap-6 px-8 py-6 max-lg:flex-col max-lg:items-start max-sm:px-5 max-sm:py-5">
+        <div aria-hidden="true" class="flex h-28 w-28 shrink-0 items-center justify-center rounded-2xl bg-purple-500 text-white">
+          <svg viewBox="0 0 64 64" class="h-16 w-16 fill-current" aria-hidden="true">
+            <path d="M31 8c-2 4-3 8-3 12 0 2 0 4 1 6-4-5-9-8-15-10 1 5 5 9 12 12-6 0-11 1-16 4 4 4 9 6 16 6-6 2-10 5-13 10 6 1 11 0 17-4v12h2V44c6 4 11 5 17 4-3-5-7-8-13-10 7 0 12-2 16-6-5-3-10-4-16-4 7-3 11-7 12-12-6 2-11 5-15 10 1-2 1-4 1-6 0-4-1-8-3-12z"/>
+          </svg>
+        </div>
+        <div class="flex-1">
+          <h1 data-id="pg102_n0003" class="adt-h1 text-left font-bold text-white">Resurset dhe trash&#xeb;gimia e vendit tim</h1>
+          <div class="mt-3 inline-block border-b-4 border-purple-400 bg-white/95 px-2 py-2">
+            <h2 data-id="pg102_n0004" class="adt-h2 text-left font-semibold text-gray-900">Ruajm&#xeb; trash&#xeb;gimin&#xeb; kulturore</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-10">
+      <div class="mb-5 inline-block rounded-md bg-green-400 px-5 py-2 shadow-sm">
+        <h3 data-id="pg102_n0005" class="adt-h3 text-left font-semibold text-gray-900">Situata 1.</h3>
+      </div>
+
+      <p class="adt-body text-left leading-relaxed text-gray-800">
+        <span data-id="pg102_n0007">Familja Gashi kishte dal&#xeb; p&#xeb;r ta kaluar fundjav&#xeb;n n&#xeb; qytetin e Prizrenit.</span>
+        <span data-id="pg102_n0008">H&#xeb;na, 10-vje&#xe7;are, po e shijonte shum&#xeb; at&#xeb; udh&#xeb;tim.</span>
+        <span data-id="pg102_n0009">Kureshtja e saj u shtua kur pa gjith&#xeb; ato nd&#xeb;rtesa t&#xeb; vjetra: muze, kala dhe vende q&#xeb; p&#xeb;rfaq&#xeb;sonin denj&#xeb;sisht kultur&#xeb;n e vendit ton&#xeb;.</span>
+        <span data-id="pg102_n0010">E kush tjet&#xeb;r do t&#xeb; mund t&#x2019;i jepte p&#xeb;rgjigje m&#xeb; t&#xeb; sakta sesa babai i saj, zejtar n&#xeb; qytetin e Gjakov&#xeb;s!</span>
+        <span data-id="pg102_n0011">- Babi, a mund t&#xeb; m&#xeb; tregosh prap&#xeb; se &#xe7;ka konsiderohet trash&#xeb;gimi kulturore?</span>
+        <span data-id="pg102_n0012">- Po, H&#xeb;na.</span>
+        <span data-id="pg102_n0013">T&#xeb; gjitha parqet natyrore, galerit&#xeb; e artit, kalat&#xeb;, kullat, sht&#xeb;pit&#xeb; e vjetra, monumentet fetare, rrugicat e ngushta, shat&#xeb;rvan&#xeb;t dhe shum&#xeb; objekte t&#xeb; tjera jan&#xeb; elemente q&#xeb; kan&#xeb; r&#xeb;nd&#xeb;si t&#xeb; madhe p&#xeb;r ruajtjen e kultur&#xeb;s dhe t&#xeb; tradit&#xeb;s shqiptare.</span>
+        <span data-id="pg102_n0014">- T&#xeb; gjitha k&#xeb;to q&#xeb; i p&#xeb;rmende qenkan objekte.</span>
+        <span data-id="pg102_n0015">A ka edhe gj&#xeb;ra t&#xeb; tjera q&#xeb; p&#xeb;rfaq&#xeb;sojn&#xeb; trash&#xeb;gimin&#xeb; kulturore?</span>
+        <span data-id="pg102_n0016">- Po, sigurisht.</span>
+        <span data-id="pg102_n0017">Trash&#xeb;gimia jomateriale p&#xeb;rfshin gjuh&#xeb;n dhe krijimtarit&#xeb; popullore.</span>
+        <span data-id="pg102_n0018">- Cilat jan&#xeb; disa nga monumentet kryesore arkeologjike?</span>
+        <span data-id="pg102_n0019">- Mund t&#xeb; p&#xeb;rmendim qytetin e lasht&#xeb; t&#xeb; Ulpian&#xeb;s, Manastirin e De&#xe7;anit dhe Sht&#xeb;pin&#xeb; e Lidhjes s&#xeb; Prizrenit.</span>
+        <span data-id="pg102_n0020">Kosova ka edhe shum&#xeb; muze.</span>
+        <span data-id="pg102_n0021">Veshjet dhe gatimet tradicionale q&#xeb; p&#xeb;rcillen brez pas brezi jan&#xeb; mjaft unike.</span>
+        <span data-id="pg102_n0022">- E mrekullueshme.</span>
+        <span data-id="pg102_n0023">Mezi po pres q&#xeb; p&#xeb;r gj&#xeb;rat q&#xeb; m&#xeb;sova sot, t&#xeb; bisedoj me shok&#xeb;t dhe m&#xeb;suesen n&#xeb; shkoll&#xeb;.</span>
+      </p>
+    </div>
+
+    <aside class="mt-8 rounded-2xl bg-purple-100 shadow-sm ring-1 ring-purple-200">
+      <div class="flex items-stretch max-lg:flex-col">
+        <div aria-hidden="true" class="flex w-24 items-center justify-center rounded-l-2xl bg-purple-500 font-bold text-white max-lg:w-full max-lg:rounded-t-2xl max-lg:rounded-l-none">?</div>
+        <div class="flex-1 space-y-4 p-5">
+          <div>
+            <p data-id="pg102_n0025" class="adt-body text-left text-gray-900">- Bisedoni p&#xeb;r situat&#xeb;n e dh&#xeb;n&#xeb;.</p>
+            <label for="activity-item-1" class="sr-only">- Bisedoni p&#xeb;r situat&#xeb;n e dh&#xeb;n&#xeb;.</label>
+            <textarea id="activity-item-1" data-activity-item="item-1" aria-label="- Bisedoni p&#xeb;r situat&#xeb;n e dh&#xeb;n&#xeb;." class="mt-2 min-h-11 w-full rounded-xl border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none ring-0 placeholder:text-gray-400 focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+          </div>
+          <div>
+            <p data-id="pg102_n0026" class="adt-body text-left text-gray-900">- &#xc7;far&#xeb; e p&#xeb;rb&#xeb;n trash&#xeb;gimin&#xeb; kulturore materiale?</p>
+            <label for="activity-item-2" class="sr-only">- &#xc7;far&#xeb; e p&#xeb;rb&#xeb;n trash&#xeb;gimin&#xeb; kulturore materiale?</label>
+            <textarea id="activity-item-2" data-activity-item="item-2" aria-label="- &#xc7;far&#xeb; e p&#xeb;rb&#xeb;n trash&#xeb;gimin&#xeb; kulturore materiale?" class="mt-2 min-h-11 w-full rounded-xl border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none ring-0 placeholder:text-gray-400 focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <figure class="mt-8 clear-both overflow-hidden rounded-2xl shadow-lg ring-1 ring-gray-200">
+      <img data-id="pg102_im001" src="images/pg102_im001.png" alt="Pamje ajrore e nj&#xeb; kalaje t&#xeb; vjet&#xeb;r me mure guri n&#xeb; kod&#xeb;r, pran&#xeb; sht&#xeb;pive t&#xeb; qytetit, si pjes&#xeb; e trash&#xeb;gimis&#xeb; kulturore." class="block w-full h-auto">
+    </figure>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

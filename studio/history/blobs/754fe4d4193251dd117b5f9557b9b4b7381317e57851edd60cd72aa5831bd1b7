@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg004_sec001_p4">
+<meta name="page-section-id" content="6">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>
+body,button,input,textarea,select,#interface-container,#nav-container{font-family:BookPoppins,Poppins,sans-serif!important}
+#interface-container :is(button,a,span,p,select),#nav-container :is(button,a,span,p,select){font-family:BookPoppins,Poppins,sans-serif;font-size:18px}
+#content.bk.bk.bk{padding-top:24px;overflow:visible}
+#content.bk.bk.bk nav ol{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:12px}
+#content.bk.bk.bk nav a{display:grid;grid-template-columns:minmax(0,1fr) max-content;align-items:center;gap:12px;min-height:48px;color:var(--bk-ink);text-decoration:underline;text-align:start}
+#content.bk.bk.bk nav strong{font-weight:700}
+#content.bk.bk.bk nav img{display:block;width:auto;height:auto;max-width:48px;max-height:48px;margin:0 0 12px}
+@media(min-width:641px) and (max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div id="content" class="bk" data-family="contents" data-source-page="4">
+<section class="bk-stack" data-section-type="table_of_contents" data-section-id="pg004_sec001_p4" data-source-page="4">
+<nav aria-label="Përmbajtja: Resurset dhe trashëgimia e vendit tim, vazhdim">
+<ol start="23">
+<li><a class="bk-body" href="pg104_sec001.html"><span data-id="pg004_n0075">Kujdesi shëndetësor</span><span data-id="pg004_n0076">104</span></a></li>
+<li><a class="bk-body" href="pg106_sec001.html"><span data-id="pg004_n0078">Ndihmojmë për një mjedis të pastër</span><span data-id="pg004_n0079">106</span></a></li>
+<li><a class="bk-body" href="pg108_sec001.html"><strong data-id="pg004_n0081">Ekskursion: “Pasuritë natyrore të vendit tim”</strong><span data-id="pg004_n0082">108</span></a></li>
+</ol>
+</nav>
+<nav aria-label="Përmbajtja: Mjedisi i vendit tim">
+<img src="studio/assets/pg004_sec001-leaf.png" alt="" width="48" height="48">
+<ol start="26">
+<li><a class="bk-body" href="pg110_sec001.html"><strong data-id="pg004_n0085">Mjedisi i vendit tim</strong><strong data-id="pg004_n0086">110</strong></a></li>
+<li><a class="bk-body" href="pg110_sec001.html"><span data-id="pg004_n0089">Njeriu mbron natyrën</span><span data-id="pg004_n0090">110</span></a></li>
+<li><a class="bk-body" href="pg112_sec001.html"><span data-id="pg004_n0092">Ndotja e ujërave</span><span data-id="pg004_n0093">112</span></a></li>
+<li><a class="bk-body" href="pg114_sec001.html"><span data-id="pg004_n0095">Ndotja e tokës</span><span data-id="pg004_n0096">114</span></a></li>
+<li><a class="bk-body" href="pg116_sec001.html"><span data-id="pg004_n0098">T’i ruajmë tokën dhe pyjet</span><span data-id="pg004_n0099">116</span></a></li>
+</ol>
+</nav>
+</section>
+</div>
+</main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

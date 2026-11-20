@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg121_sec001">
+    <meta name="page-section-id" content="160">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+      #nav-container, #nav-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands),
+      #interface-container, #interface-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands) { font-family: BookPoppins, Poppins, sans-serif; }
+      #content.bk.bk.bk .bk-banner { border-radius:var(--bk-r-card); padding:16px 20px; margin:0; }
+      #content.bk.bk.bk .bk-banner .bk-title { flex:1 1 200px; }
+      #content.bk.bk.bk #pg121-emblem { width:64px; height:64px; flex:none; }
+      #content.bk.bk.bk .bk-figure { width:100%; max-width:720px; margin-inline:auto; }
+      #content.bk.bk.bk .bk-figure img { width:100%; border-radius:0; }
+      #content.bk.bk.bk .bk-figure .bk-btn { align-self:flex-start; }
+      #content.bk.bk.bk #pg121-inspect { width:calc(100% - 2 * var(--bk-gutter)); max-width:var(--bk-shell); max-height:calc(100dvh - 2 * var(--bk-gutter)); padding:var(--bk-pad); border:var(--bk-border) solid var(--bk-primary); border-radius:var(--bk-r-card); color:var(--bk-ink); background:var(--bk-paper); overflow:auto; }
+      #content.bk.bk.bk #pg121-inspect::backdrop { background:rgba(40,40,60,.7); }
+      #content.bk.bk.bk #pg121-image-scroll { overflow:auto; max-height:calc(100dvh - 160px); }
+      #content.bk.bk.bk #pg121-image-scroll img { display:block; width:max(150%, 720px); max-width:none; height:auto; }
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-opener" id="content" class="bk">
+        <section data-section-type="separator" data-section-id="pg121_sec001" class="bk-stack">
+          <header class="bk-banner">
+            <div class="bk-row">
+              <h1 class="bk-title"><span data-id="pg121_n0002">Mjedisi i vendit tim</span></h1>
+              <img id="pg121-emblem" src="studio/assets/pg121_sec001-emblem.png" alt="" aria-hidden="true">
+            </div>
+          </header>
+          <h2 class="bk-heading"><span data-id="pg121_n0003">Si riciklohen mbetjet?</span></h2>
+          <figure class="bk-figure">
+            <img data-id="pg121_im001" src="images/pg121_im001.png" alt="Mësuesja dhe pesë nxënës diskutojnë në klasë për riciklimin, me katër kosha të riciklimit me ngjyra të ndryshme përpara tavolinës.">
+            <button class="bk-btn bk-btn--secondary" id="pg121-open-image" type="button" aria-haspopup="dialog">Shiko figurën të zmadhuar</button>
+          </figure>
+          <p class="bk-caption" aria-label="Faqja 121">121</p>
+          <dialog id="pg121-inspect" aria-label="Figura e zmadhuar">
+            <div class="bk-stack">
+              <button class="bk-btn bk-btn--secondary" id="pg121-close-image" type="button">Mbyll</button>
+              <div id="pg121-image-scroll" tabindex="0" role="region" aria-label="Figura e zmadhuar; lëviz për të parë të gjithë figurën">
+                <img src="images/pg121_im001.png" alt="Mësuesja dhe pesë nxënës diskutojnë në klasë për riciklimin, me katër kosha të riciklimit me ngjyra të ndryshme përpara tavolinës.">
+              </div>
+            </div>
+          </dialog>
+        </section>
+      </div>
+    </main>
+    <script type="text/javascript">
+      window.activityAnswerTextIds = JSON.parse('{}');
+      (function () {
+        const open = document.getElementById('pg121-open-image');
+        const dialog = document.getElementById('pg121-inspect');
+        const close = document.getElementById('pg121-close-image');
+        open.addEventListener('click', function () { dialog.showModal(); });
+        close.addEventListener('click', function () { dialog.close(); });
+        dialog.addEventListener('close', function () { open.focus(); });
+      }());
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

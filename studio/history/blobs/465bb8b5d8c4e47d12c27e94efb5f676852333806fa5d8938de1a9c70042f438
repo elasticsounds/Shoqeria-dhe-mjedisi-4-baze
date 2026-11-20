@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe Mjedisi 4</title>
+  <meta name="title-id" content="pg125_sec001">
+  <meta name="page-section-id" content="165">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  
+  <style>
+    #interface-container, #nav-container { font-family: BookPoppins, Poppins, sans-serif; }
+    #interface-container *, #nav-container * { font-family: inherit; }
+    #content.bk em { font-style: normal; font-weight: 600; }
+    #content.bk .bk-chip { background: var(--bk-accent2); }
+  </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+<div data-family="collaborative-project" class="bk" id="content">
+  <section role="region" data-section-id="pg125_sec001">
+    <div class="bk-banner bk-row">
+      <h1 class="bk-title" data-id="pg125_n0002">Mjedisi i vendit tim</h1>
+      <img src="./studio/assets/pg125_sec001-emblem.png" alt="" width="57" height="48">
+    </div>
+    <div class="bk-stack">
+      <h2 class="bk-heading" data-id="pg125_n0004">Projekti ynë: “Ndihmoj për një mjedis të pastër dhe të gjelbër”</h2>
+      <section class="bk-activity bk-card bk-card--surface2" data-activity-pattern="offline-action" data-activity-variant="plan-and-act" aria-labelledby="group-three">
+        <h3 class="bk-subheading" id="group-three" data-id="pg125_n0008"><span class="bk-chip">Grupi i tretë:</span></h3>
+        <p class="bk-body" data-id="pg125_n0009"><em>Vendos mbeturinat në shportat përkatëse të riciklimit.</em></p>
+        <p class="bk-body" data-id="pg125_n0010">Plani i veprimit është:</p>
+        <span class="bk-sr-only" data-id="pg125_n0011"></span><label class="bk-sr-only" for="activity-item-1">Plani i veprimit është, rreshti 1, grupi i tretë</label><input class="bk-field" id="activity-item-1" data-activity-item="item-1" type="text" aria-label="Plani i veprimit është, rreshti 1, grupi i tretë">
+        <span class="bk-sr-only" data-id="pg125_n0012"></span><label class="bk-sr-only" for="activity-item-2">Plani i veprimit është, rreshti 2, grupi i tretë</label><input class="bk-field" id="activity-item-2" data-activity-item="item-2" type="text" aria-label="Plani i veprimit është, rreshti 2, grupi i tretë">
+        <span class="bk-sr-only" data-id="pg125_n0013"></span><label class="bk-sr-only" for="activity-item-3">Plani i veprimit është, rreshti 3, grupi i tretë</label><input class="bk-field" id="activity-item-3" data-activity-item="item-3" type="text" aria-label="Plani i veprimit është, rreshti 3, grupi i tretë">
+        <span class="bk-sr-only" data-id="pg125_n0014"></span><label class="bk-sr-only" for="activity-item-4">Plani i veprimit është, rreshti 4, grupi i tretë</label><input class="bk-field" id="activity-item-4" data-activity-item="item-4" type="text" aria-label="Plani i veprimit është, rreshti 4, grupi i tretë">
+        <p class="bk-feedback" id="plan-status" role="status" aria-live="polite"></p>
+        <button class="bk-btn bk-btn--secondary" id="plan-retry" type="button" hidden>Provo ruajtjen përsëri</button>
+      </section>
+    </div>
+  </section>
+</div>
+</main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+<script>
+(function () {
+  var fields = Array.from(document.querySelectorAll('#content [data-activity-item]'));
+  var status = document.getElementById('plan-status');
+  var retry = document.getElementById('plan-retry');
+  var prefix = 'Shoqeria-dhe-Mjedisi-4:pg125_sec001:';
+  var failed = false;
+  function key(field) { return prefix + field.getAttribute('data-activity-item'); }
+  function save() {
+    try {
+      fields.forEach(function (field) { localStorage.setItem(key(field), field.value); });
+      failed = false; retry.hidden = true; status.textContent = '✓ Plani u ruajt në këtë pajisje.';
+    } catch (error) {
+      failed = true; retry.hidden = false; status.textContent = '⚠ Plani nuk u ruajt. Teksti mbetet këtu; provoni përsëri.';
+    }
+  }
+  try { fields.forEach(function (field) { var value = localStorage.getItem(key(field)); if (value !== null) field.value = value; }); }
+  catch (error) { failed = true; retry.hidden = false; status.textContent = '⚠ Ruajtja nuk është e disponueshme. Teksti mbetet këtu; provoni përsëri.'; }
+  fields.forEach(function (field) { field.addEventListener('input', save); });
+  retry.addEventListener('click', save);
+})();
+</script>
+</body>
+</html>

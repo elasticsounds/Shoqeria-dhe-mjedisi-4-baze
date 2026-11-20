@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg116_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="155">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-reading" id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 bg-[#f5e4d6] py-8 opacity-0 bk">
+  <section data-section-type="text_and_single_image" data-section-id="pg116_sec001" class="w-full text-left text-[#2b2623]">
+    <div class="w-full bg-[#f5e4d6]">
+      <div class="mb-10 max-sm:mb-8">
+        <div class="flex items-start max-sm:flex-col">
+          <div class="w-36 min-h-[170px] rounded-l-[1.75rem] bg-[#a567ad] flex items-center justify-center max-sm:w-full max-sm:min-h-[110px] max-sm:rounded-t-[1.75rem] max-sm:rounded-l-none">
+            <div aria-hidden="true" class="flex flex-col items-center justify-center gap-3 text-white">
+              <div class="h-10 w-10 rounded-full border-4 border-white/90 border-b-transparent rotate-45"></div>
+              <div class="h-5 w-16 rounded-full border-[4px] border-white/90 border-t-0"></div>
+            </div>
+          </div>
+          <div class="flex-1 pt-16 max-sm:pt-4">
+            <div class="bg-[#a567ad] px-4 py-3">
+              <h1 data-id="pg116_n0002" class="adt-h1 font-bold text-white">Mjedisi i vendit tim</h1>
+            </div>
+            <div class="px-4 pt-4 pb-2 border-b-[4px] border-[#a567ad] w-full max-w-[34rem] max-sm:max-w-full">
+              <h2 data-id="pg116_n0003" class="adt-h2 font-medium text-[#2b2623]">T’i ruajmë tokën dhe pyjet</h2>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="space-y-5">
+        <p class="adt-body leading-relaxed">
+          <span data-id="pg116_n0005">Mësuesja po sqaronte se sa të dobishëm ishin drurët në jetën e secilit njeri.</span>
+          <span data-id="pg116_n0006">Ajo kishte përgatitur një prezantim ku tregohej se sa i dobishëm ishte procesi i fotosintezës, ndërkohë që Mali nuk ishte shumë i përqendruar në fjalët e mësueses.</span>
+          <span data-id="pg116_n0007">Atij po i kujtohej një ngjarje e vitit të kaluar.</span>
+        </p>
+
+        <p class="adt-body leading-relaxed">
+          <span data-id="pg116_n0009">Ndërkohë që Mali po ecte me familjen e tij në një pyll, ata kishin takuar një të njohur që po priste drurë.</span>
+          <span data-id="pg116_n0010">Mali e dinte që prerja e drurëve ishte e dëmshme, prandaj e pyeti të njohurin:</span>
+        </p>
+
+        <p class="adt-body leading-relaxed">
+          <span data-id="pg116_n0012">“O xhaxha, po ti e di se të presësh drurë nuk është gjë e mirë për ajrin dhe jetën në Tokë!</span>
+          <span data-id="pg116_n0013">Malit i kujtohej mjaft mirë përgjigjja e tij.</span>
+          <span data-id="pg116_n0014">Ai pati thënë: “Po unë me këtë punë jetoj dhe mbaj familjen”.</span>
+          <span data-id="pg116_n0015">Në një mënyrë apo tjetër, Mali e kishte pranuar mendimin e xhaxhait dhe ishte ndier keq pse e kishte pyetur.</span>
+        </p>
+
+        <p class="adt-body leading-relaxed">
+          <span data-id="pg116_n0017">Tani i dukej momenti i duhur për të ndarë këtë përvojë me mësuesen e tij.</span>
+          <span data-id="pg116_n0018">Përgjigjja e mësueses e habiti, edhe pse Mali priste që mësuesja do ta kundërshtonte veprimin e xhaxhait.</span>
+          <span data-id="pg116_n0019">Për çudinë e tij ajo iu drejtua me një pyetje: "Çfarë duhet të bëjë xhaxhai yt, që të kompensojë dëmin e bërë?".</span>
+        </p>
+
+        <p class="adt-body leading-relaxed">
+          <span data-id="pg116_n0021">Ishte një pyetje që Mali nuk e kishte menduar.</span>
+          <span data-id="pg116_n0022">Vërtet, nëse xhaxhai do të mbillte nga një dru të ri, për secilin dru të prerë, atëherë ndoshta do të kompensonte dëmin e tij deri diku.</span>
+        </p>
+      </div>
+
+      <div class="mt-8 pt-6">
+        <img data-id="pg116_im001" src="images/pg116_im001.png" alt="Tre nxënës të ulur rreth një tavoline në klasë, duke biseduar para dërrasës së gjelbër; në sfond duken tavolina e mësuesit, raftet me libra dhe ora e murit." class="block w-full h-auto">
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

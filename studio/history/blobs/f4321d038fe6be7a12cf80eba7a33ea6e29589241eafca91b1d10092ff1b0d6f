@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg107_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="138">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" id="content" class="container bg-white opacity-0 bk">
+  <section data-section-type="boxed_text" data-section-id="pg107_sec002" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-10">
+    <div class="rounded-2xl border-2 border-fuchsia-300 bg-white shadow-sm overflow-hidden">
+      <div class="flex justify-end bg-purple-500 px-4 py-2" aria-hidden="true">
+        <div class="h-14 w-14 rounded-lg border-2 border-white/70"></div>
+      </div>
+      <div class="p-5 max-sm:p-4">
+        <p class="adt-body text-left italic leading-relaxed text-gray-800">
+          <span data-id="pg107_n0032">Mjedisi jetësor është tërë hapësira e natyrës, në të cilën jetojmë, punojmë, lëvizim dhe veprojmë.</span>
+          <span data-id="pg107_n0033">Njeriu, me sjelljen e tij, ndikon në ndryshimet që ndodhin në natyrë.</span>
+          <span data-id="pg107_n0034">Ato veprime mund të jenë të dëmshme apo të dobishme për natyrën.</span>
+          <span data-id="pg107_n0035">Mjedisi i pastër siguron shëndet të mirë për të gjitha qeniet e gjalla që jetojnë në planetin tonë.</span>
+          <span data-id="pg107_n0036">Është përgjegjësi e çdo qytetari të kontribuojë për ruajtjen e mjedisit nga ndotja.</span>
+        </p>
+        <p class="adt-body mt-4 text-left italic leading-relaxed text-gray-800">
+          <span data-id="pg107_n0038">Për një mjedis të pastër, ne duhet të kursejmë energjinë, të udhëtojmë me biçikletë apo me transport publik, t'i klasifikojmë mbeturinat dhe t’i hedhim ato në vendin e caktuar, ta kursejmë ujin, ta gjelbërojmë sa më shumë mjedisin, që të kemi ajër të pastër.</span>
+        </p>
+        <p class="adt-body mt-4 text-left italic leading-relaxed text-gray-800">
+          <span data-id="pg107_n0040">Njeriu duhet t’i vërë detyrë vetes që, nëse nuk mund të mbrojë natyrën, së paku të mos e shkatërrojë atë!</span>
+        </p>
+      </div>
+    </div>
+    <div class="mt-6 flex flex-wrap items-baseline gap-x-2 gap-y-1 text-left text-gray-900">
+      <span data-id="pg107_n0042" class="adt-body font-semibold">Fjalët kyçe:</span>
+      <span data-id="pg107_n0043" class="adt-body">mjedis, kujdes, mbrojtje, ujë, ajër, tokë.</span>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Parathënie</title>
+<meta name="title-id" content="pg005_sec001_p4">
+<meta name="page-section-id" content="7">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>
+body,button,input,textarea,select{font-family:BookPoppins,Poppins,sans-serif}
+#content.bk.bk.bk{padding-top:24px;overflow-x:visible}
+#content.bk.bk.bk .bk-banner{margin:0 0 24px;padding:16px 20px;border-radius:20px}
+#content.bk.bk.bk .bk-stack{max-width:720px;text-align:left}
+#content.bk.bk.bk p{margin:0}
+#content.bk.bk.bk [data-id="pg005_n0032"]{text-align:end;font-weight:600}
+@media(min-width:768px){#content.bk.bk.bk{padding-inline:32px}}
+@media(max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div id="content" class="bk" data-family="foreword" data-source-page="5">
+<section data-section-type="foreword" data-section-id="pg005_sec001_p4" aria-label="Parathënie">
+<div class="bk-stack">
+<p class="bk-body"><span data-id="pg005_n0018">Po ashtu, ju do të mësoni shumë gjëra për atdheun tonë, Kosovën.</span> <span data-id="pg005_n0019">Do të njiheni me rajonet e saj, komunitetet dhe veçoritë e tyre, si dhe me fqinjët e Kosovës.</span> <span data-id="pg005_n0020">Do të fitoni njohuri për familjen dikur dhe sot, për fshatin dhe qytetin, për degët e ekonomisë, si dhe për pasuritë tona kombëtare.</span></p>
+<p class="bk-body"><span data-id="pg005_n0022">Nëpërmjet aktiviteteve të ndryshme, që ju do të organizoni së bashku me mësuesen, do të mësoni si të jeni qytetarë të mirë të vendit.</span> <span data-id="pg005_n0023">Organizimi i aktiviteteve të tilla, si “Festojmë Pavarësinë e Kosovës”, do të na bëjnë që të ndihemi krenarë për vendin tonë.</span></p>
+</div>
+</section>
+</div>
+</main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

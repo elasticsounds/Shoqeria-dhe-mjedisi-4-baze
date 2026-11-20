@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg018_sec003" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="23" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div class="container mx-auto max-w-5xl bg-white px-10 max-lg:px-6 max-sm:px-4 pt-8 pb-10 opacity-0" id="content"><section role="region" data-section-type="activity_open_ended_answer" data-section-id="pg018_sec003" class="mx-auto max-w-5xl"><div class="overflow-hidden rounded-sm bg-[#e7d6ea] shadow-sm"><div class="flex items-stretch max-sm:block"><div class="w-20 shrink-0 bg-[#a867b0] max-sm:h-14 max-sm:w-full"></div><div class="flex-1 px-6 py-5 max-sm:px-4 max-sm:py-4"><p class="adt-body leading-relaxed text-[#2f2430]"><span data-id="pg018_n0025">B&#xeb;ni nj&#xeb; dialog n&#xeb; dyshe, ku nj&#xeb;ri ka rolin e mjekut, kurse tjetri rolin e pacientit.</span></p><label for="activity-item-1" class="sr-only">B&#xeb;ni nj&#xeb; dialog n&#xeb; dyshe, ku nj&#xeb;ri ka rolin e mjekut, kurse tjetri rolin e pacientit.</label><textarea id="activity-item-1" data-activity-item="item-1" aria-label="B&#xeb;ni nj&#xeb; dialog n&#xeb; dyshe, ku nj&#xeb;ri ka rolin e mjekut, kurse tjetri rolin e pacientit." class="mt-4 min-h-48 w-full rounded border border-[#bca8c2] bg-white px-4 py-3 text-gray-900 shadow-sm focus:outline-none focus:ring-2 focus:ring-[#a867b0] max-sm:min-h-44" style="background-image:repeating-linear-gradient(to bottom, transparent 0, transparent 29px, #d7c7dc 29px, #d7c7dc 31px);"></textarea></div></div></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

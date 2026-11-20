@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg005_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="4" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0"><section data-section-type="foreword" data-section-id="pg005_sec001" class="bg-white text-zinc-800"><div class="mx-auto w-full max-w-6xl px-14 max-lg:px-8 max-sm:px-4 pt-6 max-sm:pt-4"><h1 class="adt-h1 sr-only" data-id="pg005_n0002">Titulli</h1><div class="bg-fuchsia-500/90 px-6 py-3 max-sm:px-5 max-sm:py-3"><h2 class="adt-h2 font-semibold text-white" data-id="pg005_n0004">Parath&#xeb;nie</h2></div></div><div class="mx-auto w-full max-w-5xl px-14 max-lg:px-8 max-sm:px-5 pt-12 pb-16 max-lg:pt-10 max-sm:pt-8 max-sm:pb-12"><p class="adt-body font-semibold text-zinc-800 mb-10 max-sm:mb-8" data-id="pg005_n0005">T&#xeb; dashur nx&#xeb;n&#xeb;s,</p><p class="adt-body leading-relaxed mb-6 max-sm:mb-5"><span data-id="pg005_n0007">Po takohemi s&#xeb;rish edhe k&#xeb;t&#xeb; vit.</span> <span data-id="pg005_n0008">Kemi punuar me shum&#xeb; kujdes q&#xeb; t&#xeb; sjellim nj&#xeb; lib&#xeb;r t&#xeb; p&#xeb;rshtatsh&#xeb;m p&#xeb;r ju, pasi, tashm&#xeb;, jeni nj&#xeb; vit m&#xeb; t&#xeb; rritur dhe d&#xeb;shironi t&#xeb; dini edhe m&#xeb; shum&#xeb;.</span> <span data-id="pg005_n0009">Ky lib&#xeb;r, sikurse dhe librat tan&#xeb; t&#xeb; m&#xeb;parsh&#xeb;m, &#xeb;sht&#xeb; i thjesht&#xeb; dhe do t&apos;ju m&#xeb;soj&#xeb; shum&#xeb; gj&#xeb;ra t&#xeb; reja.</span></p><p class="adt-body leading-relaxed mb-6 max-sm:mb-5"><span data-id="pg005_n0011">Libri do t&apos;ju ndihmoj&#xeb; q&#xeb; t&#xeb; m&#xeb;soni m&#xeb; shum&#xeb; p&#xeb;r grupet shoq&#xeb;rore dhe si t&#xeb; krijoni marr&#xeb;dh&#xeb;nie bashk&#xeb;punimi me t&#xeb; tjer&#xeb;t, t&apos;i thelloni njohurit&#xeb; tuaja p&#xeb;r t&#xeb; drejtat dhe p&#xeb;rgjegj&#xeb;sit&#xeb; dhe, gjithashtu, do t&#xeb; merrni njohuri p&#xeb;r institucionet q&#xeb; jan&#xeb; n&#xeb; sh&#xeb;rbimin tuaj.</span> <span data-id="pg005_n0012">N&#xeb;p&#xeb;rmjet situatave dhe ilustrimeve t&#xeb; ndryshme, do t&#xeb; m&#xeb;soni ta respektoni diversitetin kulturor, ta vler&#xeb;soni mendimin ndryshe, t&apos;i kultivoni toleranc&#xeb;n dhe miq&#xeb;sin&#xeb; dhe t&apos;i mb&#xeb;shtetni t&#xeb; tjer&#xeb;t n&#xeb; rast nevoje.</span></p><p class="adt-body leading-relaxed mb-6 max-sm:mb-5"><span data-id="pg005_n0014">N&#xeb; klas&#xeb;n e kat&#xeb;rt, do t&#xeb; m&#xeb;soni se cil&#xeb;t jan&#xeb; hapat q&#xeb; duhet t&apos;i ndiqni gjat&#xeb; vendimmarrjes n&#xeb; familje, klas&#xeb; dhe komunitet.</span> <span data-id="pg005_n0015">Gjithashtu, do t&#xeb; njiheni me sh&#xeb;rbimet q&#xeb; ju ofrojn&#xeb; disa prej institucioneve n&#xeb; komunitetin tuaj dhe m&#xeb; gjer&#xeb;.</span> <span data-id="pg005_n0016">S&#xeb; bashku me m&#xeb;suesin, do ta vizitoni nj&#xeb; studio ligjore, ku, mes t&#xeb; tjerash, do t&#xeb; m&#xeb;soni se si funksionojn&#xeb; ato.</span></p><p class="adt-body leading-relaxed mb-6 max-sm:mb-5"><span data-id="pg005_n0018">Po ashtu, ju do t&#xeb; m&#xeb;soni shum&#xeb; gj&#xeb;ra p&#xeb;r atdheun ton&#xeb;, Kosov&#xeb;n.</span> <span data-id="pg005_n0019">Do t&#xeb; njiheni me rajonet e saj, komunitetet dhe ve&#xe7;orit&#xeb; e tyre, si dhe me fqinj&#xeb;t e Kosov&#xeb;s.</span> <span data-id="pg005_n0020">Do t&#xeb; fitoni njohuri p&#xeb;r familjen dikur dhe sot, p&#xeb;r fshatin dhe qytetin, p&#xeb;r deg&#xeb;t e ekonomis&#xeb;, si dhe p&#xeb;r pasurit&#xeb; tona komb&#xeb;tare.</span></p><p class="adt-body leading-relaxed mb-6 max-sm:mb-5"><span data-id="pg005_n0022">N&#xeb;p&#xeb;rmjet aktiviteteve t&#xeb; ndryshme, q&#xeb; ju do t&#xeb; organizoni s&#xeb; bashku me m&#xeb;suesen, do t&#xeb; m&#xeb;soni si t&#xeb; jeni qytetar&#xeb; t&#xeb; mir&#xeb; t&#xeb; vendit.</span> <span data-id="pg005_n0023">Organizimi i aktiviteteve t&#xeb; tilla, si &#x201c;Festojm&#xeb; Pavar&#xeb;sin&#xeb; e Kosov&#xeb;s&#x201d;, do t&#xeb; na b&#xeb;jn&#xeb; q&#xeb; t&#xeb; ndihemi krenar&#xeb; p&#xeb;r vendin ton&#xeb;.</span></p><p class="adt-body leading-relaxed mb-6 max-sm:mb-5"><span data-id="pg005_n0025">Edhe ky lib&#xeb;r ka situata t&#xeb; cilat do t&#xeb; nxisin fantazin&#xeb; tuaj dhe do t&#xeb; k&#xeb;rkojn&#xeb; q&#xeb; ju t&#xeb; mbani q&#xeb;ndrimin tuaj.</span> <span data-id="pg005_n0026">Do t&#xeb; keni mund&#xeb;si q&#xeb; t&#xeb; flisni rreth higjien&#xeb;s personale, higjien&#xeb;s n&#xeb; komunitet etj.</span> <span data-id="pg005_n0027">Do t&#xeb; njiheni me pasurit&#xeb; natyrore t&#xeb; Kosov&#xeb;s.</span> <span data-id="pg005_n0028">Do t&#xeb; m&#xeb;soni se si b&#xeb;het procesi i riciklimit t&#xeb; mbetjeve.</span> <span data-id="pg005_n0029">N&#xeb;p&#xeb;rmjet projektit &#x201c;Ndihmoj p&#xeb;r nj&#xeb; mjedis t&#xeb; past&#xeb;r dhe t&#xeb; gjelb&#xeb;r&#x201d;, do t&#xeb; punoni n&#xeb; grupe e do t&#xeb; ndihmoni p&#xeb;r nj&#xeb; mjedis t&#xeb; past&#xeb;r, do t&#xeb; m&#xeb;soni si t&apos;i mbroni tok&#xeb;n, uj&#xeb;rat, pyjet etj.</span></p><p class="adt-body leading-relaxed mb-10 max-sm:mb-8"><span data-id="pg005_n0031">Njohurit&#xeb; q&#xeb; ju kemi dh&#xeb;n&#xeb; nga viti n&#xeb; vit kan&#xeb; ardhur duke u shtuar, me q&#xeb;llim q&#xeb; t&apos;u p&#xeb;rshtaten k&#xeb;rkesave tuaja, gjithnj&#xeb; n&#xeb; rritje.</span></p><p class="adt-body font-semibold text-right pt-4" data-id="pg005_n0032">Autoret</p></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

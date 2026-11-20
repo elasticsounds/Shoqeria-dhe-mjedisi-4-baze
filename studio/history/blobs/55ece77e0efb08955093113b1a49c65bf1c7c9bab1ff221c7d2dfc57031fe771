@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg073_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="90">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="structured-response" id="content" class="mx-auto max-w-5xl bg-white px-10 py-10 max-lg:px-8 max-sm:px-4 opacity-0 bk">
+  <section data-section-type="activity_fill_in_a_table" data-section-id="pg073_sec001" role="region" class="mx-auto max-w-4xl">
+    <div class="mb-6">
+      <div class="rounded-sm bg-purple-500 px-6 py-4 text-white">
+        <h1 class="adt-h1 font-bold" data-id="pg073_n0002">Jeta në Kosovë dikur dhe sot</h1>
+      </div>
+    </div>
+
+    <div class="mb-8">
+      <h2 class="adt-h2 mb-2 font-semibold text-neutral-900" data-id="pg073_n0004">Degët e ekonomisë</h2>
+      <div class="h-1 w-64 bg-purple-400 max-sm:w-32"></div>
+    </div>
+
+    <div class="mb-10 rounded-sm border border-purple-100 bg-purple-100 px-5 py-5 max-sm:px-4">
+      <div class="space-y-5 text-neutral-900">
+        <div>
+          <p class="adt-body leading-relaxed"><span data-id="pg073_n0006">Provoni edhe ju në klasën tuaj të shkruani çfarë dini për ekonominë.</span></p>
+          <label for="pg073_activity_note_1" class="sr-only">Provoni edhe ju në klasën tuaj të shkruani çfarë dini për ekonominë.</label>
+          <textarea id="pg073_activity_note_1" data-activity-item="item-1" aria-label="Provoni edhe ju në klasën tuaj të shkruani çfarë dini për ekonominë." class="mt-2 min-h-11 w-full rounded-md border border-purple-300 bg-white px-3 py-3"></textarea>
+        </div>
+        <div>
+          <p class="adt-body leading-relaxed"><span data-id="pg073_n0007">Përmendni profesionet e prindërve dhe të familjarëve tuaj dhe tregoni cilave degë të ekonomisë u takojnë.</span></p>
+          <label for="pg073_activity_note_2" class="sr-only">Përmendni profesionet e prindërve dhe të familjarëve tuaj dhe tregoni cilave degë të ekonomisë u takojnë.</label>
+          <textarea id="pg073_activity_note_2" data-activity-item="item-2" aria-label="Përmendni profesionet e prindërve dhe të familjarëve tuaj dhe tregoni cilave degë të ekonomisë u takojnë." class="mt-2 min-h-11 w-full rounded-md border border-purple-300 bg-white px-3 py-3"></textarea>
+        </div>
+        <div>
+          <p class="adt-body leading-relaxed"><span data-id="pg073_n0008">Krahasoni tabelën e plotësuar me shokun/shoqen e bankës.</span></p>
+          <label for="pg073_activity_note_3" class="sr-only">Krahasoni tabelën e plotësuar me shokun/shoqen e bankës.</label>
+          <textarea id="pg073_activity_note_3" data-activity-item="item-3" aria-label="Krahasoni tabelën e plotësuar me shokun/shoqen e bankës." class="mt-2 min-h-11 w-full rounded-md border border-purple-300 bg-white px-3 py-3"></textarea>
+        </div>
+      </div>
+    </div>
+
+    <div class="overflow-x-auto">
+      <table class="w-full table-fixed border-collapse max-sm:min-w-[340px]">
+        <thead>
+          <tr>
+            <th scope="col" class="border-2 border-green-400 bg-white p-3 text-center align-middle font-medium text-neutral-800 max-sm:p-2">
+              <span data-id="pg073_n0012">Emri i familjarit</span>
+            </th>
+            <th scope="col" class="border-2 border-green-400 bg-white p-3 text-center align-middle font-medium text-neutral-800 max-sm:p-2">
+              <span data-id="pg073_n0014">Profesioni</span>
+            </th>
+            <th scope="col" class="border-2 border-green-400 bg-white p-3 text-center align-middle font-medium text-neutral-800 max-sm:p-2">
+              <span data-id="pg073_n0016">Dega e ekonomisë</span>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th class="border-2 border-green-400 p-2 align-middle" scope="row">
+              <label for="pg073_field_1" class="sr-only">Emri i familjarit, rreshti 1</label>
+              <input id="pg073_field_1" type="text" data-activity-item="item-4" aria-label="Emri i familjarit, rreshti 1" class="min-h-11 w-full rounded-md border border-gray-300 bg-white px-3 py-3">
+            </th>
+            <td class="border-2 border-green-400 p-2 align-middle">
+              <label for="pg073_field_2" class="sr-only">Profesioni, rreshti 1</label>
+              <input id="pg073_field_2" type="text" data-activity-item="item-5" aria-label="Profesioni, rreshti 1" class="min-h-11 w-full rounded-md border border-gray-300 bg-white px-3 py-3">
+            </td>
+            <td class="border-2 border-green-400 p-2 align-middle">
+              <label for="pg073_field_3" class="sr-only">Dega e ekonomisë, rreshti 1</label>
+              <input id="pg073_field_3" type="text" data-activity-item="item-6" aria-label="Dega e ekonomisë, rreshti 1" class="min-h-11 w-full rounded-md border border-gray-300 bg-white px-3 py-3">
+            </td>
+          </tr>
+          <tr>
+            <th class="border-2 border-green-400 p-2 align-middle" scope="row">
+              <label for="pg073_field_4" class="sr-only">Emri i familjarit, rreshti 2</label>
+              <input id="pg073_field_4" type="text" data-activity-item="item-7" aria-label="Emri i familjarit, rreshti 2" class="min-h-11 w-full rounded-md border border-gray-300 bg-white px-3 py-3">
+            </th>
+            <td class="border-2 border-green-400 p-2 align-middle">
+              <label for="pg073_field_5" class="sr-only">Profesioni, rreshti 2</label>
+              <input id="pg073_field_5" type="text" data-activity-item="item-8" aria-label="Profesioni, rreshti 2" class="min-h-11 w-full rounded-md border border-gray-300 bg-white px-3 py-3">
+            </td>
+            <td class="border-2 border-green-400 p-2 align-middle">
+              <label for="pg073_field_6" class="sr-only">Dega e ekonomisë, rreshti 2</label>
+              <input id="pg073_field_6" type="text" data-activity-item="item-9" aria-label="Dega e ekonomisë, rreshti 2" class="min-h-11 w-full rounded-md border border-gray-300 bg-white px-3 py-3">
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"","item-2":"","item-3":"","item-4":"","item-5":"","item-6":"","item-7":"","item-8":"","item-9":""}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

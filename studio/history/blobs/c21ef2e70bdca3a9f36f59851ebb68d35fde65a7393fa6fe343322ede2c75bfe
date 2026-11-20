@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg124_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="166">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="collaborative-project" class="container mx-auto max-w-5xl bg-white px-8 max-lg:px-8 max-sm:px-4 pt-8 pb-12 opacity-0 bk" id="content"><section role="region" data-section-type="activity_open_ended_answer" data-section-id="pg124_sec001" class="mx-auto max-w-5xl text-neutral-900">
+  <div class="mb-12">
+    <div class="flex items-start max-sm:flex-col max-sm:gap-0">
+      <div class="w-36 h-56 max-sm:w-full max-sm:h-48 bg-[#a56aad] rounded-tl-xl rounded-bl-xl max-sm:rounded-xl max-sm:rounded-b-none flex items-center justify-center px-5 py-6">
+        <div class="flex h-full w-full flex-col items-center justify-center gap-4">
+          <div class="h-14 w-14 rounded-full border-4 border-white"></div>
+          <div class="h-5 w-16 rounded-full border-4 border-white border-t-0"></div>
+        </div>
+      </div>
+      <div class="flex-1 pt-14 max-sm:pt-0">
+        <div class="bg-[#a56aad] px-4 py-2">
+          <h1 class="adt-h1 text-white" data-id="pg124_n0002">Mjedisi i vendit tim</h1>
+        </div>
+        <div class="border-b-4 border-[#b579c4] px-4 py-3 max-sm:py-4">
+          <h2 class="adt-h2 text-neutral-900" data-id="pg124_n0004">Projekti ynë: “Ndihmoj për një mjedis të pastër dhe të gjelbër”</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mb-16 max-w-4xl leading-relaxed">
+    <p class="adt-body"><span data-id="pg124_n0006">Ndahuni në katër grupe punuese.</span></p>
+    <p class="adt-body"><span data-id="pg124_n0007">Bëni një plan veprimi se si do ta pastroni lagjen apo hapësirën ku ju bashkëjetoni.</span></p>
+  </div>
+
+  <div class="space-y-16 max-sm:space-y-14">
+    <div class="bg-[#cfeecf] px-6 py-5 max-sm:px-4 max-sm:py-5">
+      <h3 class="adt-h3 mb-4" data-id="pg124_n0009">Grupi i parë:</h3>
+      <p class="adt-body italic mb-4"><span data-id="pg124_n0010">Mbill fidanë në hapësirën e përzgjedhur.</span></p>
+      <p class="adt-body mb-6"><span data-id="pg124_n0011">Plani i veprimit është:</span></p>
+      <div class="space-y-6">
+        <div>
+          <span class="sr-only" data-id="pg124_n0012"></span>
+          <label for="activity-item-1" class="sr-only">Plani i veprimit është, Grupi i parë, rreshti 1</label>
+          <input id="activity-item-1" data-activity-item="item-1" type="text" aria-label="Plani i veprimit është, Grupi i parë, rreshti 1" class="w-full min-h-11 bg-transparent border-0 border-b-[3px] border-neutral-700 rounded-none px-0 py-3 focus:outline-none focus:ring-0 focus:border-purple-600">
+        </div>
+        <div>
+          <span class="sr-only" data-id="pg124_n0013"></span>
+          <label for="activity-item-2" class="sr-only">Plani i veprimit është, Grupi i parë, rreshti 2</label>
+          <input id="activity-item-2" data-activity-item="item-2" type="text" aria-label="Plani i veprimit është, Grupi i parë, rreshti 2" class="w-full min-h-11 bg-transparent border-0 border-b-[3px] border-neutral-700 rounded-none px-0 py-3 focus:outline-none focus:ring-0 focus:border-purple-600">
+        </div>
+        <div>
+          <span class="sr-only" data-id="pg124_n0014"></span>
+          <label for="activity-item-3" class="sr-only">Plani i veprimit është, Grupi i parë, rreshti 3</label>
+          <input id="activity-item-3" data-activity-item="item-3" type="text" aria-label="Plani i veprimit është, Grupi i parë, rreshti 3" class="w-full min-h-11 bg-transparent border-0 border-b-[3px] border-neutral-700 rounded-none px-0 py-3 focus:outline-none focus:ring-0 focus:border-purple-600">
+        </div>
+        <div>
+          <span class="sr-only" data-id="pg124_n0015"></span>
+          <label for="activity-item-4" class="sr-only">Plani i veprimit është, Grupi i parë, rreshti 4</label>
+          <input id="activity-item-4" data-activity-item="item-4" type="text" aria-label="Plani i veprimit është, Grupi i parë, rreshti 4" class="w-full min-h-11 bg-transparent border-0 border-b-[3px] border-neutral-700 rounded-none px-0 py-3 focus:outline-none focus:ring-0 focus:border-purple-600">
+        </div>
+      </div>
+    </div>
+
+    <div class="bg-[#cfeecf] px-6 py-5 max-sm:px-4 max-sm:py-5">
+      <h3 class="adt-h3 mb-4" data-id="pg124_n0017">Grupi i dytë:</h3>
+      <p class="adt-body italic mb-4"><span data-id="pg124_n0018">Largo mbeturinat nga hapësira e përzgjedhur.</span></p>
+      <p class="adt-body mb-6"><span data-id="pg124_n0019">Plani i veprimit është:</span></p>
+      <div class="space-y-6">
+        <div>
+          <span class="sr-only" data-id="pg124_n0020"></span>
+          <label for="activity-item-5" class="sr-only">Plani i veprimit është, Grupi i dytë, rreshti 1</label>
+          <input id="activity-item-5" data-activity-item="item-5" type="text" aria-label="Plani i veprimit është, Grupi i dytë, rreshti 1" class="w-full min-h-11 bg-transparent border-0 border-b-[3px] border-neutral-700 rounded-none px-0 py-3 focus:outline-none focus:ring-0 focus:border-purple-600">
+        </div>
+        <div>
+          <span class="sr-only" data-id="pg124_n0021"></span>
+          <label for="activity-item-6" class="sr-only">Plani i veprimit është, Grupi i dytë, rreshti 2</label>
+          <input id="activity-item-6" data-activity-item="item-6" type="text" aria-label="Plani i veprimit është, Grupi i dytë, rreshti 2" class="w-full min-h-11 bg-transparent border-0 border-b-[3px] border-neutral-700 rounded-none px-0 py-3 focus:outline-none focus:ring-0 focus:border-purple-600">
+        </div>
+        <div>
+          <span class="sr-only" data-id="pg124_n0022"></span>
+          <label for="activity-item-7" class="sr-only">Plani i veprimit është, Grupi i dytë, rreshti 3</label>
+          <input id="activity-item-7" data-activity-item="item-7" type="text" aria-label="Plani i veprimit është, Grupi i dytë, rreshti 3" class="w-full min-h-11 bg-transparent border-0 border-b-[3px] border-neutral-700 rounded-none px-0 py-3 focus:outline-none focus:ring-0 focus:border-purple-600">
+        </div>
+        <div>
+          <span class="sr-only" data-id="pg124_n0023"></span>
+          <label for="activity-item-8" class="sr-only">Plani i veprimit është, Grupi i dytë, rreshti 4</label>
+          <input id="activity-item-8" data-activity-item="item-8" type="text" aria-label="Plani i veprimit është, Grupi i dytë, rreshti 4" class="w-full min-h-11 bg-transparent border-0 border-b-[3px] border-neutral-700 rounded-none px-0 py-3 focus:outline-none focus:ring-0 focus:border-purple-600">
+        </div>
+      </div>
+    </div>
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

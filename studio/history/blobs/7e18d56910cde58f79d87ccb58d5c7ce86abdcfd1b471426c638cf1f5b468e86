@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg026_sec001_p5">
+<meta name="page-section-id" content="44">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>body,#interface-container *,#nav-container *{font-family:BookPoppins,Poppins,sans-serif!important}#content.bk{overflow:visible;padding-top:24px}#content.bk p{margin:0}#content.bk .bk-field{padding:12px;border-color:var(--bk-primary)}#content.bk [hidden]{display:none!important}</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main><div id="content" class="bk" data-family="lesson-discussion"><section data-section-type="activity_open_ended" data-section-id="pg026_sec001_p5" class="bk-stack">
+<section class="bk-activity bk-card" data-activity-pattern="discussion" data-activity-variant="group-discussion" lang="sq-XK" aria-labelledby="pg026_n0016">
+<span class="bk-label" aria-hidden="true">?</span>
+<p class="bk-prompt" id="pg026_n0016" data-id="pg026_n0016">- A duhet të pajtohesh gjithmonë me mendimin e të tjerëve? Sa është i rëndësishëm mendimi yt?</p>
+<details class="bk-stack"><summary class="bk-btn">Shënime (opsionale)</summary><div class="bk-stack"><label class="bk-sr-only" id="note-label-2" for="item-2">Shënime (opsionale)</label><textarea class="bk-field" id="item-2" data-activity-item="item-2" aria-labelledby="pg026_n0016 note-label-2" rows="3"></textarea><p class="bk-feedback" role="status" aria-live="polite"></p><button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button></div></details>
+</section><p class="bk-caption" aria-label="Faqja e burimit 26">26</p>
+</section></div></main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');
+(function(){var field=document.getElementById('item-2'),status=document.querySelector('[role=status]'),retry=document.querySelector('[data-action=retry-save]'),key='shoqeria-dhe-mjedisi-4:pg026_sec001:item-2',draft=field.value,edited=false;function restore(){if(edited)return;try{var old=localStorage.getItem(key);if(old!==null){field.value=old;draft=old;}}catch(e){}}restore();function save(){draft=field.value;edited=true;try{localStorage.setItem(key,draft);status.textContent='✓ U ruajt.';retry.hidden=true;}catch(e){status.textContent='⚠ Nuk u ruajt. Shënimet mbeten këtu; provo përsëri.';retry.hidden=false;}}field.addEventListener('input',save);retry.addEventListener('click',save);window.addEventListener('load',restore);})();
+</script>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+</body></html>

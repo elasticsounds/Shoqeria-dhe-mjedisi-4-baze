@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg097_sec001">
+    <meta name="page-section-id" content="129">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+      #content.bk.bk.bk.bk { padding-top: var(--bk-gap); }
+      #content.bk.bk.bk.bk .bk-banner { margin: 0; padding: 16px var(--bk-pad); border-radius: var(--bk-r-card); }
+      #content.bk.bk.bk.bk .bk-banner h1 { flex: 1 1 0; min-width: 0; }
+      #content.bk.bk.bk.bk .bk-banner img { width: auto; height: 48px; flex: none; }
+      #content.bk.bk.bk.bk .bk-heading { font-weight: 600; line-height: 1.25; }
+      #content.bk.bk.bk.bk .bk-figure { gap: 0; }
+      #content.bk.bk.bk.bk .bk-figure > .bk-row { margin-bottom: 12px; }
+      #content.bk.bk.bk.bk .bk-figure img { width: 100%; height: auto; object-fit: contain; border-radius: 0; }
+      #content.bk.bk.bk.bk figcaption { padding: var(--bk-pad); background: var(--bk-accent2); color: var(--bk-ink); }
+      #content.bk.bk.bk.bk [data-folio] { text-align: right; }
+      #content.bk.bk.bk.bk [data-folio] span { border-left: var(--bk-border) solid var(--bk-accent1); padding-left: 12px; }
+      @media (min-width: 641px) and (max-width: 767px) { #content.bk.bk.bk.bk { padding-inline: 16px; } }
+      #nav-container, #nav-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands),
+      #interface-container, #interface-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands) { font-family: BookPoppins, Poppins, Arial, sans-serif; }
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-opener" id="content" class="container opacity-0 bk">
+        <section data-section-type="text_and_single_image" data-section-id="pg097_sec001" class="bk-stack">
+          <header class="bk-banner bk-row">
+            <h1 data-id="pg097_n0002" class="bk-title">Resurset dhe trashëgimia e vendit tim</h1>
+            <img src="studio/assets/pg097_sec001-wheat.png" alt="" aria-hidden="true">
+          </header>
+          <h2 data-id="pg097_n0003" class="bk-heading">Shfrytëzimi i pasurive mbitokësore</h2>
+          <figure class="bk-figure">
+            <div class="bk-row"><a class="bk-btn" href="images/pg097_im001.png" target="_blank" rel="noopener">Shiko figurën e zmadhuar (hapet në skedë të re)</a></div>
+            <img data-id="pg097_im001" src="images/pg097_im001.png" alt="Dy fëmijë bisedojnë ulur mbi shkëmb pranë një liqeni, me male, pyll dhe shtëpi në sfond.">
+            <figcaption class="bk-body"><span data-id="pg097_n0005"><strong>Fjalët kyçe:</strong> pasuri mbitokësore, tokë pjellore, pyll, lumë, liqen, ujë termal.</span></figcaption>
+          </figure>
+          <p class="bk-caption" data-folio="" aria-label="Faqja 97"><span>97</span></p>
+        </section>
+      </div>
+    </main>
+    <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+    <script>
+      // The reader may replace localized text after load; retain the source's keyword emphasis.
+      (function () {
+        var keywords = document.querySelector('[data-id="pg097_n0005"]');
+        function emphasizePrefix() {
+          if (!keywords || keywords.querySelector('strong')) return;
+          var text = keywords.textContent;
+          var colon = text.indexOf(':');
+          if (colon < 0) return;
+          var prefix = document.createElement('strong');
+          prefix.textContent = text.slice(0, colon + 1);
+          keywords.replaceChildren(prefix, document.createTextNode(text.slice(colon + 1)));
+        }
+        if (keywords) {
+          new MutationObserver(emphasizePrefix).observe(keywords, { childList: true, characterData: true, subtree: true });
+          emphasizePrefix();
+        }
+      }());
+    </script>
+</body>
+</html>

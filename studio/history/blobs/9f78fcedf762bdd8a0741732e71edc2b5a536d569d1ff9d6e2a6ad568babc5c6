@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg019_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="24" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto opacity-0">
+  <section data-section-type="text_and_single_image" data-section-id="pg019_sec001" class="bg-white text-slate-800">
+    <div class="w-full bg-purple-500">
+      <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-6 flex items-center justify-between gap-6 max-lg:flex-col max-lg:items-start">
+        <h1 class="adt-h1 font-bold text-white" data-id="pg019_n0002">Secili ka t&#xeb; drejta dhe p&#xeb;rgjegj&#xeb;si</h1>
+        <div aria-hidden="true" class="shrink-0 w-24 h-24 rounded-2xl bg-purple-400 flex items-center justify-center text-white">&#x2696;</div>
+      </div>
+    </div>
+
+    <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-6 space-y-8">
+      <div>
+        <h2 class="adt-h2 font-semibold text-slate-900" data-id="pg019_n0004">Institucionet q&#xeb; na mbrojn&#xeb;</h2>
+        <div aria-hidden="true" class="mt-2 h-1 w-72 bg-purple-400 rounded-full"></div>
+      </div>
+
+      <div class="space-y-4">
+        <div class="flex items-start gap-4 max-sm:flex-col max-sm:gap-3">
+          <div class="bg-amber-300 px-4 py-2 rounded-sm shadow-sm">
+            <span class="adt-body font-semibold text-slate-900" data-id="pg019_n0006">Situata 2.</span>
+          </div>
+          <p class="adt-body leading-relaxed text-left flex-1">
+            <span data-id="pg019_n0008">N&#xeb; qytetin ton&#xeb; t&#xeb; zhurmsh&#xeb;m, vijon tradita e bashk&#xeb;punimit me policin&#xeb; rrugore.</span>
+            <span data-id="pg019_n0009">Ka koh&#xeb; q&#xeb;, n&#xeb; oraret kur ne hyjm&#xeb; e dalim nga shkolla, polici bllokon qarkullimin dhe q&#xeb;ndron te vijat e bardha.</span>
+            <span data-id="pg019_n0010">K&#xeb;shtu, ndihemi t&#xeb; sigurt ndaj &#xe7;do rreziku.</span>
+          </p>
+        </div>
+
+        <div class="rounded-3xl overflow-hidden bg-slate-100 border border-slate-200 shadow-sm">
+          <img src="images/pg019_im001.png" alt="Polici rrugor ndalon veturat te vijat e bardha, nd&#xeb;rsa dy nx&#xeb;n&#xeb;s me &#xe7;anta kalojn&#xeb; rrug&#xeb;n t&#xeb; sigurt." data-id="pg019_im001" class="w-full h-auto block">
+        </div>
+      </div>
+
+      <div class="bg-purple-100 border-l-8 border-purple-300 rounded-2xl p-5 max-sm:p-4">
+        <div class="space-y-5">
+          <div class="space-y-2">
+            <p class="adt-body text-left" data-id="pg019_n0014">P&#xeb;r &#xe7;far&#xeb; sh&#xeb;rbejn&#xeb; vijat e bardha?</p>
+            <label for="item-1" class="sr-only">P&#xeb;r &#xe7;far&#xeb; sh&#xeb;rbejn&#xeb; vijat e bardha?</label>
+            <textarea id="item-1" data-activity-item="item-1" aria-label="P&#xeb;r &#xe7;far&#xeb; sh&#xeb;rbejn&#xeb; vijat e bardha?" class="w-full min-h-11 rounded-xl border-2 border-purple-200 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-400"></textarea>
+          </div>
+          <div class="space-y-2">
+            <p class="adt-body text-left" data-id="pg019_n0016">Pse polici bllokon qarkullimin e mjeteve n&#xeb; vijat e bardha?</p>
+            <label for="item-2" class="sr-only">Pse polici bllokon qarkullimin e mjeteve n&#xeb; vijat e bardha?</label>
+            <textarea id="item-2" data-activity-item="item-2" aria-label="Pse polici bllokon qarkullimin e mjeteve n&#xeb; vijat e bardha?" class="w-full min-h-11 rounded-xl border-2 border-purple-200 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-400"></textarea>
+          </div>
+          <div class="space-y-2">
+            <p class="adt-body text-left" data-id="pg019_n0018">A ndiheni ju t&#xeb; sigurt? Pse?</p>
+            <label for="item-3" class="sr-only">A ndiheni ju t&#xeb; sigurt? Pse?</label>
+            <textarea id="item-3" data-activity-item="item-3" aria-label="A ndiheni ju t&#xeb; sigurt? Pse?" class="w-full min-h-11 rounded-xl border-2 border-purple-200 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-400"></textarea>
+          </div>
+        </div>
+      </div>
+
+      <div class="border-2 border-purple-300 rounded-2xl p-5 max-sm:p-4 bg-white">
+        <p class="adt-body leading-relaxed italic text-left">
+          <span data-id="pg019_n0021">Shteti ka p&#xeb;r detyr&#xeb; t&#xeb; mbroj&#xeb; t&#xeb; drejtat e njer&#xeb;zve.</span>
+          <span data-id="pg019_n0022">Ai e b&#xeb;n k&#xeb;t&#xeb; p&#xeb;rmes ligjeve dhe institucioneve q&#xeb; kujdesen q&#xeb; t&#xeb; gjith&#xeb; t&#xeb; sillen n&#xeb; m&#xeb;nyr&#xeb; t&#xeb; drejt&#xeb; dhe me respekt.</span>
+          <span data-id="pg019_n0023">Institucioni &#xeb;sht&#xeb; nj&#xeb; organizat&#xeb; ose vend ku njer&#xeb;zit punojn&#xeb; s&#xeb; bashku, p&#xeb;r t&#xeb; kryer nj&#xeb; pun&#xeb; n&#xeb; nj&#xeb; fush&#xeb; t&#xeb; caktuar, si p.sh.: n&#xeb; arsim, n&#xeb; shkenc&#xeb;, n&#xeb; sh&#xeb;ndet&#xeb;si, n&#xeb; kultur&#xeb;, n&#xeb; ekonomi etj.</span>
+          <span data-id="pg019_n0024">Ka shum&#xeb; organizata nd&#xeb;rkomb&#xeb;tare q&#xeb; mbrojn&#xeb; t&#xeb; drejtat e njeriut e t&#xeb; f&#xeb;mij&#xeb;ve.</span>
+          <span data-id="pg019_n0025">Organizata e Kombeve t&#xeb; Bashkuara (OKB), mbron lirit&#xeb; dhe t&#xeb; drejtat e njeriut, si dhe ka rol t&#xeb; r&#xeb;nd&#xeb;sish&#xeb;m p&#xeb;r sigurimin e paqes n&#xeb; bot&#xeb;.</span>
+          <span data-id="pg019_n0026">Organizata p&#xeb;r Sigurimin dhe Bashk&#xeb;punimin n&#xeb; Evrop&#xeb; (OSBE) ndihmon n&#xeb; mbrojtjen e t&#xeb; drejtave t&#xeb; njeriut dhe p&#xeb;rfshin t&#xeb; gjitha shtetet evropiane.</span>
+          <span data-id="pg019_n0027">Avokati i Popullit mbron t&#xeb; drejtat e njeriut, si dhe shqyrton ankesat e personave q&#xeb; mendojn&#xeb; se u &#xeb;sht&#xeb; shkelur nj&#xeb; e drejt&#xeb;.</span>
+        </p>
+      </div>
+
+      <div class="pt-2">
+        <p class="adt-body text-left">
+          <span class="font-semibold" data-id="pg019_n0029">Fjal&#xeb;t ky&#xe7;e:</span>
+          <span data-id="pg019_n0030">Institucion, ligj, polici rrugore.</span>
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

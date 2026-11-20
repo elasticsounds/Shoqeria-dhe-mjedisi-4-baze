@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg015_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="18" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0"><section data-section-type="text_and_single_image" data-section-id="pg015_sec001" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5 bg-white text-zinc-800">
+  <div class="-mx-8 bg-purple-500 max-sm:-mx-5">
+    <div class="mx-auto flex w-full max-w-5xl items-center justify-between px-8 py-5 max-sm:px-5 max-sm:py-4">
+      <h1 class="adt-h1 font-bold text-white" data-id="pg015_n0002">Secili ka t&#xeb; drejta dhe p&#xeb;rgjegj&#xeb;si</h1>
+      <div aria-hidden="true" class="ml-6 flex h-20 w-20 shrink-0 items-center justify-center rounded-2xl bg-purple-400 text-white">
+        <span>&#x2696;</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pt-5">
+    <h2 class="adt-h2 border-b-4 border-purple-400 pb-2 font-medium text-zinc-900" data-id="pg015_n0004">T&#xeb; drejtat dhe p&#xeb;rgjegj&#xeb;sit&#xeb; e mia</h2>
+  </div>
+
+  <div class="mt-8 inline-block bg-green-400 px-5 py-2 shadow-sm">
+    <h3 class="adt-h3 font-medium text-zinc-900" data-id="pg015_n0006">Situata 1.</h3>
+  </div>
+
+  <p class="adt-body mt-5 leading-relaxed text-left text-zinc-800">
+    <span data-id="pg015_n0008">N&#xeb; klas&#xeb;, gjat&#xeb; pushimit midis or&#xeb;ve, mblidhemi dhe diskutojm&#xeb; p&#xeb;r probleme t&#xeb; ndryshme.</span> <span data-id="pg015_n0009">M&#xeb;suesja na k&#xeb;shillon q&#xeb; t&#xeb; mos b&#xeb;jm&#xeb; zhurm&#xeb;, pasi k&#xeb;shtu shqet&#xeb;sojm&#xeb; t&#xeb; tjer&#xeb;t.</span> <span data-id="pg015_n0010">Po ashtu, ajo theksoi se duhet t&#xeb; tregohemi t&#xeb; kujdessh&#xeb;m kur l&#xeb;vizim n&#xeb; klas&#xeb;, pasi mund t&#xeb; l&#xeb;ndojm&#xeb; nj&#xeb;ri-tjetrin.</span> <span data-id="pg015_n0011">- Ne kemi t&#xeb; drejt&#xeb;n e arsimimit, por edhe p&#xeb;rgjegj&#xeb;sin&#xeb; p&#xeb;r njohjen dhe respektimin e rregullave n&#xeb; shkoll&#xeb;, - tha m&#xeb;suesja.</span>
+  </p>
+
+  <p class="adt-body mt-6 leading-relaxed text-left text-zinc-800">
+    <span data-id="pg015_n0013">Detyra juaj &#xeb;sht&#xeb; t&#xeb; m&#xeb;soni shum&#xeb;, q&#xeb; t&#xeb; jeni gati p&#xeb;r jet&#xeb;n dhe t&#xeb; ndihmoni me dinjitet vendin, shoq&#xeb;rin&#xeb; dhe mjedisin ku jetoni.</span>
+  </p>
+
+  <div class="mt-6 overflow-hidden rounded-sm bg-cyan-50">
+    <img data-id="pg015_im001" src="images/pg015_im001.png" alt="M&#xeb;suesja para tabel&#xeb;s u flet nx&#xeb;n&#xeb;sve n&#xeb; klas&#xeb;, nd&#xeb;rsa ata jan&#xeb; ulur n&#xeb; banka dhe e d&#xeb;gjojn&#xeb;." class="h-auto w-full object-cover">
+  </div>
+
+  <aside class="mt-8 rounded-none bg-purple-100 p-5 max-sm:p-4">
+    <div class="mb-4 flex items-start justify-between gap-4">
+      <div class="flex-1"></div>
+      <div aria-hidden="true" class="flex h-16 w-16 shrink-0 items-center justify-center bg-purple-500 text-white">?</div>
+    </div>
+
+    <div class="space-y-5">
+      <div>
+        <p class="adt-body text-left text-zinc-900"><span data-id="pg015_n0017">&#xc7;far&#xeb; k&#xeb;rkonte m&#xeb;suesja nga nx&#xeb;n&#xeb;sit?</span></p>
+        <label for="item-1" class="sr-only">&#xc7;far&#xeb; k&#xeb;rkonte m&#xeb;suesja nga nx&#xeb;n&#xeb;sit?</label>
+        <textarea id="item-1" data-activity-item="item-1" aria-label="&#xc7;far&#xeb; k&#xeb;rkonte m&#xeb;suesja nga nx&#xeb;n&#xeb;sit?" class="mt-2 min-h-11 w-full rounded-lg border-2 border-purple-300 bg-white px-4 py-3 text-zinc-900 outline-none transition focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+      </div>
+
+      <div>
+        <p class="adt-body text-left text-zinc-900"><span data-id="pg015_n0019">Po ju, a i respektoni rregullat n&#xeb; klas&#xeb;?</span></p>
+        <label for="item-2" class="sr-only">Po ju, a i respektoni rregullat n&#xeb; klas&#xeb;?</label>
+        <textarea id="item-2" data-activity-item="item-2" aria-label="Po ju, a i respektoni rregullat n&#xeb; klas&#xeb;?" class="mt-2 min-h-11 w-full rounded-lg border-2 border-purple-300 bg-white px-4 py-3 text-zinc-900 outline-none transition focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+      </div>
+
+      <div>
+        <p class="adt-body text-left text-zinc-900"><span data-id="pg015_n0022">Cilat jan&#xeb; disa nga t&#xeb; drejtat tuaja?</span></p>
+        <label for="item-3" class="sr-only">Cilat jan&#xeb; disa nga t&#xeb; drejtat tuaja?</label>
+        <textarea id="item-3" data-activity-item="item-3" aria-label="Cilat jan&#xeb; disa nga t&#xeb; drejtat tuaja?" class="mt-2 min-h-11 w-full rounded-lg border-2 border-purple-300 bg-white px-4 py-3 text-zinc-900 outline-none transition focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+      </div>
+
+      <div>
+        <p class="adt-body text-left text-zinc-900"><span data-id="pg015_n0024">P&#xeb;rmend disa p&#xeb;rgjegj&#xeb;si q&#xeb; ke n&#xeb; shkoll&#xeb;.</span></p>
+        <label for="item-4" class="sr-only">P&#xeb;rmend disa p&#xeb;rgjegj&#xeb;si q&#xeb; ke n&#xeb; shkoll&#xeb;.</label>
+        <textarea id="item-4" data-activity-item="item-4" aria-label="P&#xeb;rmend disa p&#xeb;rgjegj&#xeb;si q&#xeb; ke n&#xeb; shkoll&#xeb;." class="mt-2 min-h-11 w-full rounded-lg border-2 border-purple-300 bg-white px-4 py-3 text-zinc-900 outline-none transition focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+      </div>
+
+      <div>
+        <p class="adt-body text-left text-zinc-900"><span data-id="pg015_n0026">&#xc7;far&#xeb; ndodh n&#xeb;se nuk je i p&#xeb;rgjegjsh&#xeb;m n&#xeb; shkoll&#xeb;?</span></p>
+        <label for="item-5" class="sr-only">&#xc7;far&#xeb; ndodh n&#xeb;se nuk je i p&#xeb;rgjegjsh&#xeb;m n&#xeb; shkoll&#xeb;?</label>
+        <textarea id="item-5" data-activity-item="item-5" aria-label="&#xc7;far&#xeb; ndodh n&#xeb;se nuk je i p&#xeb;rgjegjsh&#xeb;m n&#xeb; shkoll&#xeb;?" class="mt-2 min-h-11 w-full rounded-lg border-2 border-purple-300 bg-white px-4 py-3 text-zinc-900 outline-none transition focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+      </div>
+    </div>
+  </aside>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

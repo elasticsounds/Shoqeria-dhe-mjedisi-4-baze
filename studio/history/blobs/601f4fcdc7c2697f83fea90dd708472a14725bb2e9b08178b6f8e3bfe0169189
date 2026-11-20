@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg018_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="21" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0">
+  <section data-section-type="text_and_images" data-section-id="pg018_sec001" class="bg-white">
+    <div class="w-full bg-purple-500">
+      <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-6">
+        <div class="flex items-stretch gap-4 max-sm:gap-3">
+          <div aria-hidden="true" class="shrink-0 w-24 rounded-2xl bg-purple-400 flex items-center justify-center max-sm:w-20">
+            <svg viewBox="0 0 64 64" class="w-14 h-14 text-white" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M32 8v44"/>
+              <path d="M18 16h28"/>
+              <path d="M24 16l-7 18h14l-7-18Z" fill="currentColor" stroke="none"/>
+              <path d="M47 16l-7 18h14l-7-18Z" fill="currentColor" stroke="none"/>
+              <path d="M22 52h20"/>
+            </svg>
+          </div>
+          <div class="flex-1 flex flex-col justify-center bg-purple-500 text-white rounded-r-2xl py-4">
+            <h1 data-id="pg018_n0002" class="adt-h1 font-bold text-left">Secili ka t&#xeb; drejta dhe p&#xeb;rgjegj&#xeb;si</h1>
+            <h2 data-id="pg018_n0003" class="adt-h2 text-left mt-3 bg-white text-neutral-900 inline-block w-fit px-2 py-1 rounded">Institucionet q&#xeb; na mbrojn&#xeb;</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 space-y-8">
+      <p class="adt-body text-left leading-relaxed text-neutral-800">
+        <span data-id="pg018_n0005">Rikujtojm&#xeb; njohurit&#xeb; q&#xeb; kemi marr&#xeb; nga klasa e tret&#xeb;.</span>
+        <span data-id="pg018_n0006">N&#xeb; rast nevoje, duhet t&#xeb; telefonohen:</span>
+      </p>
+
+      <div class="grid grid-cols-3 gap-8 max-lg:grid-cols-1 max-lg:gap-6">
+        <div class="flex flex-col items-center text-left rounded-3xl bg-blue-50 p-5 shadow-sm border border-blue-100">
+          <img data-id="pg018_im002_seg001_v1" src="images/pg018_im002_seg001_v1.png" alt="Police me uniform&#xeb;." class="w-full max-w-[220px] h-auto">
+          <h4 data-id="pg018_n0009" class="adt-h4 mt-4 font-bold text-red-600 self-start">Policia</h4>
+          <div aria-hidden="true" class="mt-2 h-1 w-full rounded-full bg-red-300"></div>
+        </div>
+        <div class="flex flex-col items-center text-left rounded-3xl bg-cyan-50 p-5 shadow-sm border border-cyan-100">
+          <img data-id="pg018_im002_seg002_v1" src="images/pg018_im002_seg002_v1.png" alt="Punonj&#xeb;se e urgjenc&#xeb;s me mask&#xeb; dhe mburoj&#xeb; fytyre." class="w-full max-w-[220px] h-auto">
+          <h4 data-id="pg018_n0011" class="adt-h4 mt-4 font-bold text-red-600 self-start">Urgjenca</h4>
+          <div aria-hidden="true" class="mt-2 h-1 w-full rounded-full bg-red-300"></div>
+        </div>
+        <div class="flex flex-col items-center text-left rounded-3xl bg-orange-50 p-5 shadow-sm border border-orange-100">
+          <img data-id="pg018_im002_seg003_v1" src="images/pg018_im002_seg003_v1.png" alt="Zjarrfik&#xeb;s me helmet&#xeb; t&#xeb; kuqe dhe mask&#xeb;." class="w-full max-w-[220px] h-auto">
+          <h4 data-id="pg018_n0013" class="adt-h4 mt-4 font-bold text-red-600 self-start">Zjarrfik&#xeb;sit</h4>
+          <div aria-hidden="true" class="mt-2 h-1 w-full rounded-full bg-red-300"></div>
+        </div>
+      </div>
+
+      <div class="rounded-2xl bg-green-50 border border-green-200 p-5 shadow-sm">
+        <div class="mb-3">
+          <h3 data-id="pg018_n0015" class="adt-h3 inline-block bg-green-500 text-neutral-900 px-4 py-1 rounded">Situata 1.</h3>
+        </div>
+        <p class="adt-body text-left leading-relaxed text-neutral-800">
+          <span data-id="pg018_n0016">Sot, kur shkuam n&#xeb; shkoll&#xeb;, n&#xeb; klas&#xeb; erdhi infermierja, e cila po kontrollonte higjien&#xeb;n dhe sh&#xeb;ndetin ton&#xeb;.</span>
+          <span data-id="pg018_n0017">Mjek&#xeb;t dhe infermier&#xeb;t kujdesen p&#xeb;r sh&#xeb;ndetin e &#xe7;do individi.</span>
+        </p>
+      </div>
+
+      <div class="rounded-3xl overflow-hidden border border-amber-200 shadow-sm bg-amber-50">
+        <img data-id="pg018_im003" src="images/pg018_im003.jpg" alt="N&#xeb; shkoll&#xeb;, infermierja ia mat temperatur&#xeb;n nj&#xeb; nx&#xeb;n&#xeb;si, nd&#xeb;rsa nx&#xeb;n&#xeb;sit mbajn&#xeb; maska, dezinfektojn&#xeb; duart, i lajn&#xeb; ato dhe mbajn&#xeb; distanc&#xeb; 2 metra." class="w-full h-auto">
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

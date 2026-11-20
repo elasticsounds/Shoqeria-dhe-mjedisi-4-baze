@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg070_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="91">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="structured-response" class="container mx-auto max-w-5xl bg-white px-10 max-lg:px-8 max-sm:px-4 pt-8 pb-10 opacity-0 bk" id="content">
+  <section data-section-type="activity_fill_in_the_blank" data-section-id="pg070_sec001">
+    <header class="bk-banner"><div class="bk-row"><img src="studio/assets/pg070_sec001-hourglass.png" alt="" style="height:48px;width:auto"><h1 class="bk-title" data-id="pg070_n0002">Jeta në Kosovë dikur dhe sot</h1></div></header>
+    <h2 class="bk-heading" data-id="pg070_n0004">Fshati dikur dhe sot</h2>
+    <div class="bk-activity bk-stack" data-activity-pattern="structured-entry" data-activity-variant="venn-regions">
+
+    <p class="bk-prompt" id="pg070-prompt"><span data-id="pg070_n0006">1.</span> <span data-id="pg070_n0007">Vështro fotografitë e dhëna dhe mundohu të bësh krahasimin mes fshatit dikur dhe sot.</span></p>
+
+    <div class="bk-grid bk-grid--2">
+      <figure class="bk-figure"><img data-id="pg070_im001" src="images/pg070_im001.png" alt="Dy bujq punojnë arën me parmendë të tërhequr nga qe, në fshat dikur."><figcaption>Fshati dikur</figcaption></figure>
+      <figure class="bk-figure"><img data-id="pg070_im002" src="images/pg070_im002.png" alt="Traktor modern me makinë mbjellëse duke punuar arën në fshat sot."><figcaption>Fshati sot</figcaption></figure>
+    </div>
+
+    <figure class="bk-figure"><img data-id="pg070_im005" src="images/pg070_im005.png" alt="Diagram i Venit me dy rrathë të mbivendosur për krahasimin e fshatit dikur dhe sot." style="width:100%;max-width:694px;height:auto"></figure>
+    <div class="bk-grid bk-grid--3">
+      <div><label class="bk-label" for="activity-response-1" data-id="pg070_n0008">Fshati dikur</label><textarea id="activity-response-1" data-activity-item="item-1" aria-label="Fshati dikur" aria-describedby="pg070-prompt" class="bk-field"></textarea></div>
+      <div><label class="bk-label" for="activity-response-2" data-id="pg070_n0009">Të përbashkëtat</label><textarea id="activity-response-2" data-activity-item="item-2" aria-label="Të përbashkëtat" aria-describedby="pg070-prompt" class="bk-field"></textarea></div>
+      <div><label class="bk-label" for="activity-response-3" data-id="pg070_n0010">Fshati sot</label><textarea id="activity-response-3" data-activity-item="item-3" aria-label="Fshati sot" aria-describedby="pg070-prompt" class="bk-field"></textarea></div>
+    </div>
+    <p class="bk-feedback" role="status" aria-live="polite" id="pg070-save-status"></p><button class="bk-btn bk-btn--secondary" type="button" id="pg070-retry" hidden>Provo ruajtjen përsëri</button>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"","item-2":"","item-3":""}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+    <script>
+    (function(){var fields=Array.from(document.querySelectorAll('[data-activity-item]')),status=document.getElementById('pg070-save-status'),retry=document.getElementById('pg070-retry'),key='ShoqeriaMjedisi4:pg070_sec001:';
+    function save(){try{fields.forEach(function(f){localStorage.setItem(key+f.dataset.activityItem,f.value)});status.textContent='✓ U ruajt.';retry.hidden=true}catch(e){status.textContent='⚠ Nuk u ruajt. Përgjigjet mbeten në këtë faqe; provo ruajtjen përsëri.';retry.hidden=false}}
+    fields.forEach(function(f){try{var v=localStorage.getItem(key+f.dataset.activityItem);if(v!==null&&!f.value)f.value=v}catch(e){status.textContent='⚠ Nuk u ruajt.';retry.hidden=false}f.addEventListener('input',save)});retry.addEventListener('click',save)})();
+    </script>
+</body>
+
+</html>

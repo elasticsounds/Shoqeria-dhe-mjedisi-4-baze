@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg096_sec003">
+    <meta name="page-section-id" content="128">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    <style>
+      #content.bk em { font-style: normal; font-weight: 600; }
+      body, body :not(i):not(svg):not(path) { font-family: BookPoppins, Poppins, sans-serif !important; }
+      #content.bk .bk-card--outline { border-color: var(--bk-primary); }
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk"><span aria-hidden="true" data-ornament="folio-rule" class="bk-orn bk-orn--folio-rule"></span>
+        <section data-section-type="boxed_text" data-section-id="pg096_sec003">
+          <div class="bk-card bk-card--outline">
+            <div class="bk-stack">
+              <img src="./studio/assets/pg096_sec003-book-badge.png" width="42" height="48" alt="">
+              <p class="bk-body" style="max-width:720px"><em><span data-id="pg096_n0031">Pasuritë mbitokësore janë të gjitha pasuritë që gjenden mbi sipërfaqen e tokës.</span> <span data-id="pg096_n0032">Pasuri mbitokësore janë: ujërat (lumenjtë, liqenet, detet, oqeanet), fushat, malet, kafshët e bimët.</span> <span data-id="pg096_n0033">Pasuritë mbitokësore janë pasuri që ndikojnë në zhvillimin ekonomik të vendit.</span> <span data-id="pg096_n0034">Druri karakterizohet si burim kryesor i ngrohjes dhe i prodhimit të shumë sendeve në dobi të njeriut.</span></em></p>
+            </div>
+          </div>
+        </section>
+      </div>
+    </main>
+    <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

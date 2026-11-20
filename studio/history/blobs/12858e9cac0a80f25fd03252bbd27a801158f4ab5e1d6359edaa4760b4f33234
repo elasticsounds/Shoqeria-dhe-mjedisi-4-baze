@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg084_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="106" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0">
+  <section data-section-type="text_and_single_image" data-section-id="pg084_sec001" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5">
+    <div class="mb-10 flex items-start gap-0 max-sm:flex-col max-sm:gap-3">
+      <div class="flex h-56 w-36 shrink-0 items-center justify-center rounded-tl-md rounded-bl-md bg-purple-500 max-sm:h-32 max-sm:w-full max-sm:rounded-md max-sm:justify-start max-sm:px-6">
+        <div aria-hidden="true" class="h-28 w-20 rounded-[2rem] border-4 border-white bg-white shadow-inner"></div>
+      </div>
+      <div class="flex-1 pt-14 max-sm:pt-0">
+        <div class="bg-purple-500 px-6 py-3">
+          <h1 data-id="pg084_n0002" class="adt-h3 font-bold text-white">Traditat dhe trash&#xeb;gimia jon&#xeb;</h1>
+        </div>
+        <div class="bg-white px-6 py-4">
+          <h2 data-id="pg084_n0003" class="adt-h2 font-semibold text-neutral-900">Institucionet kulturore</h2>
+          <div aria-hidden="true" class="mt-3 h-1 w-1/2 max-w-[480px] bg-purple-400"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-5 inline-block bg-green-400 px-6 py-2 shadow-sm">
+      <h3 data-id="pg084_n0004" class="adt-h3 font-medium text-neutral-900">Situata 1.</h3>
+    </div>
+
+    <p class="adt-body mb-8 text-left leading-relaxed text-neutral-800">
+      <span data-id="pg084_n0006">F&#xeb;mij&#xeb;t e klas&#xeb;s s&#xeb; kat&#xeb;rt vizituan kryeqytetin e Kosov&#xeb;s, Prishtin&#xeb;n, s&#xeb; bashku me m&#xeb;suesen e tyre.</span>
+      <span data-id="pg084_n0007">Gjat&#xeb; kthimit p&#xeb;r n&#xeb; qytetin e tyre, f&#xeb;mij&#xeb;t po bashk&#xeb;bisedonin me m&#xeb;suesen p&#xeb;r vendet q&#xeb; vizituan.</span>
+      <span data-id="pg084_n0008">Secili f&#xeb;mij&#xeb; po tregonte se &#xe7;far&#xeb; i kishte b&#xeb;r&#xeb; p&#xeb;rshtypje.</span>
+      <span data-id="pg084_n0009">Rronit i kishte b&#xeb;r&#xeb; p&#xeb;rshtypje Teatri i Kukullave, sepse p&#xeb;r t&#xeb; koha aty ishte &#xe7;lodh&#xeb;se, e k&#xeb;ndshme dhe shum&#xeb; edukative.</span>
+      <span data-id="pg084_n0010">Alban&#xeb;s i kishte b&#xeb;r&#xeb; p&#xeb;rshtypje shum&#xeb; Muzeu i Kosov&#xeb;s.</span>
+      <span data-id="pg084_n0011">Aty ajo kishte m&#xeb;suar m&#xeb; shum&#xeb; p&#xeb;r paraardh&#xeb;sit dhe historin&#xeb; e popullit ton&#xeb;.</span>
+      <span data-id="pg084_n0012">Bora ishte mahnitur nga arkitektura e Bibliotek&#xeb;s Komb&#xeb;tare dhe thoshte se mezi priste q&#xeb; t&#xeb; b&#xeb;hej studente mjek&#xeb;sie e t&#xeb; lexonte aty.</span>
+      <span data-id="pg084_n0013">P&#xeb;rshtypje f&#xeb;mij&#xeb;ve u kishte b&#xeb;r&#xeb; dhe Teatri Komb&#xeb;tar, Galeria e Arteve e vendet e tjera q&#xeb; i kishin vizituar shkurt, por p&#xeb;r secil&#xeb;n prej tyre kishin m&#xeb;suar di&#xe7;ka t&#xeb; ve&#xe7;ant&#xeb;.</span>
+    </p>
+
+    <figure class="mx-auto overflow-hidden border-4 border-green-400 bg-white shadow-sm">
+      <img data-id="pg084_im001" src="images/pg084_im001.png" alt="Pamje panoramike e Prishtin&#xeb;s, me rrug&#xeb;, nd&#xeb;rtesa t&#xeb; qytetit, hap&#xeb;sira t&#xeb; gjelbra dhe Bibliotek&#xeb;n Komb&#xeb;tare t&#xeb; Kosov&#xeb;s n&#xeb; an&#xeb;n e djatht&#xeb;." class="block h-auto w-full">
+      <figcaption data-id="pg084_n0015" class="adt-caption px-4 py-3 text-center font-semibold text-neutral-900">Kryeqyteti i Kosov&#xeb;s &#x2013; Prishtina</figcaption>
+    </figure>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

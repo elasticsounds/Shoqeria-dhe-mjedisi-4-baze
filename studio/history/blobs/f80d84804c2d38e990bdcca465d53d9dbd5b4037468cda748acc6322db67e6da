@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg050_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="70">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk"><section data-section-type="text_and_single_image" data-section-id="pg050_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 text-zinc-900 max-sm:px-5">
+  <div class="mb-10 flex items-stretch max-sm:flex-col max-sm:items-start">
+    <div class="flex w-36 shrink-0 items-center justify-center rounded-l-2xl bg-purple-500 px-4 py-6 max-sm:w-full max-sm:rounded-t-2xl max-sm:rounded-l-none max-sm:py-7">
+      <div aria-hidden="true" class="relative h-20 w-24">
+        <div class="absolute left-1 top-3 h-10 w-10 rounded-full bg-white"></div>
+        <div class="absolute left-8 top-5 h-10 w-10 rounded-full border-4 border-purple-300 bg-white"></div>
+        <div class="absolute left-5 top-11 h-0 w-0 rotate-45 border-l-[8px] border-r-[8px] border-t-[12px] border-l-transparent border-r-transparent border-t-white"></div>
+        <div class="absolute left-10 top-12 h-0 w-0 -rotate-45 border-l-[8px] border-r-[8px] border-t-[12px] border-l-transparent border-r-transparent border-t-white"></div>
+        <div class="absolute left-14 top-9 flex gap-1">
+          <span class="h-2 w-2 rounded-full bg-purple-400"></span>
+          <span class="h-2 w-2 rounded-full bg-purple-400"></span>
+          <span class="h-2 w-2 rounded-full bg-purple-400"></span>
+        </div>
+      </div>
+    </div>
+    <div class="flex-1 pt-3 max-sm:w-full max-sm:pt-0">
+      <div class="bg-purple-400 px-4 py-3 text-white">
+        <h1 class="adt-h1 font-bold" data-id="pg050_n0002">Mendime të ndryshme, vendime të përbashkëta</h1>
+      </div>
+      <div class="border-b-4 border-purple-400 px-2 py-4 max-sm:px-0">
+        <h2 class="adt-h2 font-semibold" data-id="pg050_n0003">Në familje vendosim së bashku</h2>
+      </div>
+    </div>
+  </div>
+
+  <div class="mb-6">
+    <h3 class="adt-h3 mb-3 inline-block bg-green-400 px-5 py-1 font-semibold" data-id="pg050_n0005">Situata 1.</h3>
+    <p class="adt-body leading-relaxed">
+      <span data-id="pg050_n0007">Nënës i erdhi një ofertë e mirë pune.</span>
+      <span data-id="pg050_n0008">Dëgjoja shpesh bisedat me prindërit dhe dilemat e tyre.</span>
+      <span data-id="pg050_n0009">Motra më tha se kishte mundësi që të largoheshim nga qyteti ku banonim.</span>
+      <span data-id="pg050_n0010">Kisha gjithë shokët e shoqet në qytet, nuk më erdhi mirë</span>
+    </p>
+  </div>
+
+  <div class="mb-0 overflow-hidden rounded-sm bg-amber-200">
+    <img data-id="pg050_im004" src="images/pg050_im004.png" alt="Një familje me katër anëtarë, prindërit dhe dy fëmijë, ulur bashkë nën një kulm simbolik të shtëpisë, duke biseduar dhe marrë vendime së bashku." class="block h-auto w-full">
+  </div>
+
+  <div class="mb-14 flex max-sm:flex-col">
+    <div class="flex w-28 shrink-0 items-start justify-center bg-purple-500 px-4 py-4 text-white max-sm:w-full max-sm:justify-center">
+      <div aria-hidden="true" class="adt-h1 font-bold leading-none">?</div>
+    </div>
+    <div class="flex-1 bg-purple-100 px-4 py-4 max-sm:px-4">
+      <div class="space-y-6">
+        <div class="space-y-2">
+          <p class="adt-body" data-id="pg050_n0012">- Vazhdoni situatën në formë dialogu mes prindërve e fëmijëve.</p>
+          <label for="item-1" class="sr-only">- Vazhdoni situatën në formë dialogu mes prindërve e fëmijëve.</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="- Vazhdoni situatën në formë dialogu mes prindërve e fëmijëve." class="min-h-11 h-32 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 outline-none focus:border-purple-500"></textarea>
+        </div>
+        <div class="space-y-2">
+          <p class="adt-body" data-id="pg050_n0013">- A e jep mendimin tënd për çështjet që diskutohen në familjen tënde?</p>
+          <label for="item-2" class="sr-only">- A e jep mendimin tënd për çështjet që diskutohen në familjen tënde?</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="- A e jep mendimin tënd për çështjet që diskutohen në familjen tënde?" class="min-h-11 h-24 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 outline-none focus:border-purple-500"></textarea>
+        </div>
+        <div class="space-y-2">
+          <p class="adt-body" data-id="pg050_n0014">- Listoni disa çështje për të cilat është domosdoshmëri të jepni mendimin tuaj.</p>
+          <label for="item-3" class="sr-only">- Listoni disa çështje për të cilat është domosdoshmëri të jepni mendimin tuaj.</label>
+          <textarea id="item-3" data-activity-item="item-3" aria-label="- Listoni disa çështje për të cilat është domosdoshmëri të jepni mendimin tuaj." class="min-h-11 h-28 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 outline-none focus:border-purple-500"></textarea>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div>
+    <h3 class="adt-h3 mb-3 inline-block bg-yellow-300 px-5 py-1 font-semibold" data-id="pg050_n0016">Situata 2.</h3>
+    <p class="adt-body leading-relaxed">
+      <span data-id="pg050_n0018">Në fund të vitit, traditë jona familjare është t’i dhurojmë njëri-tjetrit dhurata.</span>
+      <span data-id="pg050_n0019">Zgjedhim gjërat që janë më të domosdoshme e më të përdorshme.</span>
+      <span data-id="pg050_n0020">Vendosëm t’i bënim një surprizë mamasë.</span>
+      <span data-id="pg050_n0021">Në mbrëmje, mblodha motrat e vëllezërit dhe u thashë të shkruanin në një letër dhuratën që mendonin për mamanë.</span>
+      <span data-id="pg050_n0022">- Po si do të vendosim më pas? - pyeti vëllai i vogël</span>
+    </p>
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg037_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="52">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk"><section data-section-type="text_and_single_image" data-section-id="pg037_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 text-zinc-800 max-sm:px-4">
+  <div class="mb-5">
+    <h1 class="adt-h2 mb-3 text-left font-semibold" data-id="pg037_n0003">Toleranca dhe miqësia</h1>
+    <div class="h-1 w-full bg-violet-400"></div>
+  </div>
+
+  <div class="mb-6 rounded-[2rem] bg-amber-100 p-3 shadow-sm">
+    <img data-id="pg037_im001_crop_v1" src="images/pg037_im001_crop_v1.png" alt="Dy nxënës të ulur në banka; vajza flet me laps në dorë, ndërsa djali duket i mërzitur dhe i menduar." class="h-auto w-full rounded-[1.6rem] bg-white">
+  </div>
+
+  <aside class="mb-10 bg-violet-200 px-4 py-5 max-sm:px-3">
+    <ul class="space-y-4">
+      <li>
+        <div class="adt-body text-left"><span data-id="pg037_n0007">A ishte i drejtë veprimi i Jetës? Pse?</span></div>
+        <label for="item-1" class="sr-only">A ishte i drejtë veprimi i Jetës? Pse?</label>
+        <textarea id="item-1" data-activity-item="item-1" aria-label="A ishte i drejtë veprimi i Jetës? Pse?" class="mt-2 min-h-11 w-full rounded-xl border-2 border-violet-300 bg-white px-4 py-3 outline-none focus:border-violet-500"></textarea>
+      </li>
+      <li>
+        <div class="adt-body text-left"><span data-id="pg037_n0009">Po reagimi i shokut? Pse?</span></div>
+        <label for="item-2" class="sr-only">Po reagimi i shokut? Pse?</label>
+        <textarea id="item-2" data-activity-item="item-2" aria-label="Po reagimi i shokut? Pse?" class="mt-2 min-h-11 w-full rounded-xl border-2 border-violet-300 bg-white px-4 py-3 outline-none focus:border-violet-500"></textarea>
+      </li>
+      <li>
+        <div class="adt-body text-left"><span data-id="pg037_n0011">A jeni gjendur në një situatë të tillë?</span></div>
+        <label for="item-3" class="sr-only">A jeni gjendur në një situatë të tillë?</label>
+        <textarea id="item-3" data-activity-item="item-3" aria-label="A jeni gjendur në një situatë të tillë?" class="mt-2 min-h-11 w-full rounded-xl border-2 border-violet-300 bg-white px-4 py-3 outline-none focus:border-violet-500"></textarea>
+      </li>
+      <li>
+        <div class="adt-body text-left"><span data-id="pg037_n0013">Si keni vepruar?</span></div>
+        <label for="item-4" class="sr-only">Si keni vepruar?</label>
+        <textarea id="item-4" data-activity-item="item-4" aria-label="Si keni vepruar?" class="mt-2 min-h-11 w-full rounded-xl border-2 border-violet-300 bg-white px-4 py-3 outline-none focus:border-violet-500"></textarea>
+      </li>
+    </ul>
+  </aside>
+
+  <div class="mb-8 border-2 border-violet-300 bg-white px-5 py-4 shadow-sm">
+    <p class="adt-body text-left italic leading-relaxed">
+      <span data-id="pg037_n0016">Të gjithë jemi të barabartë, prandaj duhet ta respektojmë njëri-tjetrin.</span>
+      <span data-id="pg037_n0017">Kjo arrihet nëpërmjet tolerancës.</span>
+      <span data-id="pg037_n0018">Të jesh tolerant do të thotë ta vlerësosh dhe ta pranosh tjetrin për atë që është, pa e paragjykuar dhe pa e diskriminuar.</span>
+      <span data-id="pg037_n0019">Toleranca shërben për vendosjen e paqes mes grupeve të ndryshme shoqërore, pasi pranon edhe diçka që nuk të pëlqen.</span>
+      <span data-id="pg037_n0020">Toleranca krijon mundësinë e mirëkuptimit dhe të bashkëpunimit mes njerëzve.</span>
+      <span data-id="pg037_n0021">Ne krijojmë shoqëri me shumë njerëz në shkollë dhe në komunitet.</span>
+      <span data-id="pg037_n0022">Me disa që i njohim më mirë dhe kemi një lidhje më të ngushtë, krijojmë miqësi.</span>
+      <span data-id="pg037_n0023">Miqësia është lidhja më e gjatë dhe më e rëndësishme me tjetrin.</span>
+      <span data-id="pg037_n0024">Ajo na vë përpara disa detyrave ndaj të tjerëve.</span>
+      <span data-id="pg037_n0025">Miqësia karakterizohet nga dashuria, besimi, ndershmëria, respekti, toleranca etj.</span>
+    </p>
+  </div>
+
+  <aside class="mb-8 bg-amber-100 px-5 py-4 shadow-sm">
+    <h3 class="adt-h3 mb-3 text-left font-semibold" data-id="pg037_n0027">Këshilla:</h3>
+    <ul class="space-y-2 text-left">
+      <li class="adt-body flex items-start gap-2"><span aria-hidden="true">–</span><span data-id="pg037_n0030">Toleranca të mëson të vlerësosh njerëzit që janë ndryshe nga ti, ndryshe në dukje, në bindje, në prejardhje etj.</span></li>
+      <li class="adt-body flex items-start gap-2"><span aria-hidden="true">–</span><span data-id="pg037_n0032">Toleranca të mëson të pranosh mendimin e tjetrit, edhe kur nuk është i njëjtë me mendimin tënd.</span></li>
+      <li class="adt-body flex items-start gap-2"><span aria-hidden="true">–</span><span data-id="pg037_n0034">Toleranca krijon mundësi dhe ura komunikimi.</span></li>
+      <li class="adt-body flex items-start gap-2"><span aria-hidden="true">–</span><span data-id="pg037_n0036">Toleranca krijon hapësira për njëri-tjetrin.</span></li>
+      <li class="adt-body flex items-start gap-2"><span aria-hidden="true">–</span><span data-id="pg037_n0038">Toleranca shmang mosmarrëveshjet dhe keqkuptimet dhe nxit bashkëpunimin.</span></li>
+    </ul>
+  </aside>
+
+  <p class="adt-body text-left font-medium"><span data-id="pg037_n0039">Fjalët kyçe: tolerancë, miqësi, mosmarrëveshje, pranim.</span></p>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

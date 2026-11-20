@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg061_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="76">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-reading" id="content" class="container opacity-0 bk"><section data-section-type="text_and_single_image" data-section-id="pg061_sec001" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5 bg-white text-slate-800"><div class="w-full mb-8"><div class="bg-purple-500"><div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-4"><h1 class="adt-h2 font-bold text-white" data-id="pg061_n0002">Vendi ku jetoj</h1></div></div></div><div class="mb-6"><h3 class="adt-h3 font-semibold text-slate-800 border-b-4 border-purple-400 pb-3 inline-block min-w-[32rem] max-lg:min-w-0" data-id="pg061_n0004">Pavarësia e Kosovës</h3></div><div class="mb-5"><h3 class="adt-h3 inline-block bg-green-500 text-slate-900 font-semibold px-4 py-2 rounded-sm" data-id="pg061_n0007">Situata 1.</h3></div><p class="adt-body leading-relaxed mb-4 text-left"><span data-id="pg061_n0009">Në familjen e Kledit po përgatiten për udhëtim.</span> <span data-id="pg061_n0010">Ata do të shkojnë për pushime në Angli.</span> <span data-id="pg061_n0011">Sa i emocionuar është Kledi 6-vjeçar, sepse është hera e parë që ai do të udhëtojë me aeroplan.</span> <span data-id="pg061_n0012">Të gjithë po mblidhnin gjërat e nevojshme dhe po i palosnin në valixhe.</span></p><p class="adt-body leading-relaxed mb-4 text-left"><span data-id="pg061_n0014">Mamaja erdhi me pasaportat në dorë.</span> <span data-id="pg061_n0015">Këto janë më të rëndësishmet, se pa to nuk mund të hyjmë në aeroplan.</span> <span data-id="pg061_n0016">Kledi mori pasaportën në dorë dhe po e shikonte me kujdes.</span></p><p class="adt-body leading-relaxed mb-4 text-left"><span data-id="pg061_n0018">- Babi, - pyeti ai.</span> <span data-id="pg061_n0019">- Pse në pasaportë është flamuri ynë?</span> <span data-id="pg061_n0020">- Nuk është flamuri, biri im.</span> <span data-id="pg061_n0021">Është stema e Kosovës, - tha babai.</span> <span data-id="pg061_n0022">- Çfarë është stema?</span> <span data-id="pg061_n0023">- Secili shtet ka flamurin, stemën dhe himnin e tij.</span> <span data-id="pg061_n0024">Këto janë simbolet e shtetit.</span> <span data-id="pg061_n0025">Simbolet e përfaqësojnë shtetin tonë në të gjithë botën.</span> <span data-id="pg061_n0026">Edhe shteti ynë, Kosova jonë e dashur, që nga data 17 shkurt 2008, ka fituar Pavarësinë, është shpallur shtet dhe quhet Republika e Kosovës.</span> <span data-id="pg061_n0027">17 Shkurti është festa jonë shtetërore.</span></p><p class="adt-body leading-relaxed mb-4 text-left"><span data-id="pg061_n0029">- Pse në flamur janë gjashtë yje? - vazhdoi Kledi.</span> <span data-id="pg061_n0030">- Sepse, përveç shqiptarëve, në Kosovë jetojnë edhe popuj të tjerë.</span> <span data-id="pg061_n0031">- Ua, - ndërhyri mamaja.</span> <span data-id="pg061_n0032">- Vazhdoni një herë tjetër bisedën se koha po ikën e ne duhet të nisemi.</span></p><p class="adt-body leading-relaxed mb-6 text-left"><span data-id="pg061_n0034">Kledi për herë të parë dëgjoi për simbolet e shtetit dhe iu duk shumë interesante.</span></p><div class="mt-8"><img src="images/pg061_im001_seg003_v1.png" alt="Babai dhe djali po përgatisin valixhen për udhëtim; djali mban pasaportën, ndërsa sipër shihen flamuri dhe stema e Kosovës." data-id="pg061_im001_seg003_v1" class="w-full h-auto rounded-lg"></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

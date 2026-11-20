@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg006_sec001_p3">
+<meta name="page-section-id" content="7">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+body,button,input,select,textarea{font-family:BookPoppins,Poppins,sans-serif}body{margin:0}main{width:100%}
+#content.bk.bk.bk{padding-top:24px;overflow:visible}
+#content.bk.bk.bk .bk-banner{margin:0 0 var(--bk-gap);padding:16px 20px;border-radius:var(--bk-r-card)}
+#content.bk.bk.bk .bk-body{max-width:720px;margin:0;text-align:start}
+#content.bk.bk.bk .bk-label{display:table;margin:0 0 12px;padding:0 12px;background:var(--bk-accent2);color:var(--bk-ink)}
+#content.bk.bk.bk .bk-figure img{width:100%;max-width:600px;height:auto;object-fit:contain;border:0;border-radius:0;box-shadow:none}
+#interface-container,#nav-container{font-family:BookPoppins,Poppins,sans-serif;font-size:18px}
+@media(min-width:768px){#content.bk.bk.bk{padding-inline:32px}}
+@media(max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div id="content" class="bk" data-family="illustrated-reading" data-source-page="6">
+<section data-section-type="text_and_single_image" data-section-id="pg006_sec001_p3" aria-label="Unë po rritem" class="bk-stack">
+<p class="bk-body">
+<span data-id="pg006_n0023">Në kohën e lirë luaj me shokët e shoqet e mia, argëtohemi me prindërit dhe nganjëherë këqyri televizor.</span>
+<span data-id="pg006_n0024">Afër shtratit gjithmonë mbaj një libër dhe para gjumit lexoj, sepse leximi më qetëson dhe më bën të ëndërroj.</span>
+</p>
+<figure class="bk-figure">
+<img data-id="pg006_im001" src="studio/assets/pg006_sec001-bedroom.png" alt="Linda lexon një libër në dhomën e saj, pranë shtratit dhe dritares.">
+</figure>
+</section>
+</div>
+</main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

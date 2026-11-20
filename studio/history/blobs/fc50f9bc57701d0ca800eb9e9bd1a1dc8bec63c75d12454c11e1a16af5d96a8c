@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="sq-XK"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Shoqëria dhe Mjedisi 4</title><meta name="title-id" content="pg019_sec001_p2"><meta name="page-section-id" content="30">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet">
+<style>
+body,button,input,textarea,select{font-family:BookPoppins,Poppins,sans-serif;font-size:var(--bk-body)}
+#content.bk{overflow:visible;padding-top:24px}#content p{margin:0}
+#content details>div{margin-top:12px}#content [hidden]{display:none!important}#content .bk-feedback:empty{display:none}
+#content dialog{width:calc(100% - 32px);max-width:1000px;max-height:calc(100dvh - 48px);padding:var(--bk-pad);border:var(--bk-border) solid var(--bk-primary);border-radius:var(--bk-r-card);overflow:auto;color:var(--bk-ink);background:var(--bk-paper)}
+#content dialog::backdrop{background:rgb(40 40 60 / .6)}#content dialog img{width:100%;height:auto}#content dialog [data-detail]{overflow:auto}#content dialog [data-detail][data-large] img{width:1491px;max-width:none}
+#content :is(a,button,textarea,summary){scroll-margin-block:24px 120px}
+
+#interface-container *:not([class*="fa-"]),#nav-container *:not([class*="fa-"]){font-family:BookPoppins,Poppins,sans-serif!important}
+#content.bk.bk.bk.bk{overflow:visible;padding-top:24px}
+#content.bk.bk.bk.bk :is(.bk-btn,.bk-field){border-color:var(--bk-primary)}
+#content.bk.bk.bk.bk .bk-btn--secondary{color:var(--bk-primary)}
+#content.bk.bk.bk.bk dialog [data-detail][data-large] img{width:1491px;max-width:none}
+</style><link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head><body><main><div id="content" class="bk" data-family="lesson-discussion">
+<section data-section-type="activity" data-section-id="pg019_sec001_p2" class="bk-stack" aria-label="Pyetjet e diskutimit">
+<div class="bk-card bk-card--surface1 bk-stack">
+<section class="bk-activity" data-activity-pattern="discussion" data-activity-variant="group-discussion" aria-labelledby="pg019_n0014">
+<p id="pg019_n0014" data-id="pg019_n0014" class="bk-prompt bk-body">Për çfarë shërbejnë vijat e bardha?</p>
+<details><summary class="bk-btn bk-btn--secondary">Shënime (opsionale)</summary><div class="bk-stack"><label for="item-1" class="bk-sr-only">Për çfarë shërbejnë vijat e bardha?</label><textarea id="item-1" data-activity-item="item-1" aria-label="Për çfarë shërbejnë vijat e bardha?" class="bk-field" rows="3"></textarea><p class="bk-feedback" role="status" aria-live="polite"></p><button type="button" class="bk-btn bk-btn--secondary" data-action="retry-save" hidden>Provo ruajtjen përsëri</button></div></details>
+</section>
+<section class="bk-activity" data-activity-pattern="discussion" data-activity-variant="group-discussion" aria-labelledby="pg019_n0016">
+<p id="pg019_n0016" data-id="pg019_n0016" class="bk-prompt bk-body">Pse polici bllokon qarkullimin e mjeteve në vijat e bardha?</p>
+<details><summary class="bk-btn bk-btn--secondary">Shënime (opsionale)</summary><div class="bk-stack"><label for="item-2" class="bk-sr-only">Pse polici bllokon qarkullimin e mjeteve në vijat e bardha?</label><textarea id="item-2" data-activity-item="item-2" aria-label="Pse polici bllokon qarkullimin e mjeteve në vijat e bardha?" class="bk-field" rows="3"></textarea><p class="bk-feedback" role="status" aria-live="polite"></p><button type="button" class="bk-btn bk-btn--secondary" data-action="retry-save" hidden>Provo ruajtjen përsëri</button></div></details>
+</section></div>
+<div class="bk-row"><a class="bk-btn bk-btn--secondary" id="scene-reference" href="pg019_sec001.html#pg019_im001">Rishiko situatën dhe figurën</a></div>
+</section>
+<dialog id="scene-view" aria-label="Situata 2 dhe figura"><div class="bk-stack"><div class="bk-row"><button type="button" class="bk-btn bk-btn--secondary" id="close-view">Kthehu te pyetjet</button><button type="button" class="bk-btn bk-btn--secondary" id="zoom-view" aria-pressed="false">Zmadho figurën</button></div><p class="bk-body"><strong>Situata 2.</strong> Në qytetin tonë të zhurmshëm, vijon tradita e bashkëpunimit me policinë rrugore. Ka kohë që, në oraret kur ne hyjmë e dalim nga shkolla, polici bllokon qarkullimin dhe qëndron te vijat e bardha. Kështu, ndihemi të sigurt ndaj çdo rreziku.</p><div data-detail="" tabindex="0" role="region" aria-label="Figura; pas zmadhimit mund të lëvizni horizontalisht dhe vertikalisht"><img src="studio/assets/pg019_sec001-crossing.png" alt="Polici rrugor ndalon dy vetura ndërsa dy nxënës kalojnë në vijat e bardha."></div></div></dialog>
+</div></main>
+<script>window.activityAnswerTextIds=JSON.parse('{}');</script><div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div><script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+<script>
+(()=>{const d=document.getElementById('scene-view'),b=document.getElementById('scene-reference'),z=document.getElementById('zoom-view');b.onclick=e=>{e.preventDefault();d.showModal();};document.getElementById('close-view').onclick=()=>d.close();d.addEventListener('close',()=>b.focus());z.onclick=()=>{const large=d.querySelector('[data-detail]').toggleAttribute('data-large');z.setAttribute('aria-pressed',large);z.textContent=large?'Përshtat figurën':'Zmadho figurën';};
+document.querySelectorAll('textarea[data-activity-item]').forEach(f=>{const key='ShoqeriaDheMjedisi4:pg019_sec001:'+f.dataset.activityItem,group=f.closest('details'),status=group.querySelector('[role=status]'),retry=group.querySelector('[data-action=retry-save]');let edited=false;function save(){try{localStorage.setItem(key,f.value);status.textContent='✓ U ruajt.';retry.hidden=true;}catch(e){status.textContent='⚠ Nuk u ruajt. Shënimi mbetet këtu; provoni përsëri.';retry.hidden=false;}}function restore(){if(edited)return;try{const v=localStorage.getItem(key);if(v!==null){f.value=v;}}catch(e){status.textContent='⚠ Ruajtja nuk është e disponueshme. Shënimet mbeten vetëm në këtë faqe.';}}restore();window.addEventListener('load',restore,{once:true});f.addEventListener('input',()=>{edited=true;save();});retry.onclick=save;});})();
+</script></body></html>

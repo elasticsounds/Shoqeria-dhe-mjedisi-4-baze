@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg112_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="145">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-reading" id="content" class="container opacity-0 bk"><section data-section-type="text_only" data-section-id="pg112_sec001" class="bg-white text-zinc-800"><div class="w-full bg-purple-500"><div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8"><div class="flex items-end gap-6 max-sm:gap-4"><div aria-hidden="true" class="flex h-24 w-24 shrink-0 items-center justify-center rounded-2xl bg-purple-400 text-white shadow-sm max-sm:h-20 max-sm:w-20">🍃</div><div class="flex-1"><h1 data-id="pg112_n0002" class="adt-h1 font-bold text-white">Mjedisi i vendit tim</h1><h2 data-id="pg112_n0003" class="adt-h2 mt-3 border-b-4 border-purple-200 pb-2 font-semibold text-white">Ndotja e ujërave</h2></div></div></div></div><div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-10"><p class="adt-body leading-relaxed text-left"><span data-id="pg112_n0005">Mali vizitonte dajat e tij çdo pushim pranveror.</span> <span data-id="pg112_n0006">Aq shumë e donte natyrën e fshatit, saqë nuk pranonte kurrsesi të kalonte diku tjetër pushimet.</span> <span data-id="pg112_n0007">Çdo gjë i dukej e mrekullueshme në fshat: relievi, harmonia e njerëzve, lidhja e tyre me natyrën, mënyra se si e punonin tokën, produktet që merrnin nga toka.</span> <span data-id="pg112_n0008">E vetmja gjë që e shqetësonte ishte lumi i fshatit.</span> <span data-id="pg112_n0009" class="italic">Pse banorët hidhnin mbeturina në lumë?</span> <span data-id="pg112_n0010" class="italic">Pse banorët nuk pastronin lumin njëherë e përgjithmonë?</span> <span data-id="pg112_n0011" class="italic">Pse fshatarët nuk shpëtonin nga kundërmimi i erës së keqe që shkaktonin mbeturinat?</span> <span data-id="pg112_n0012">Mali e kishte kuptuar se tanimë nuk ishte i vogël për të bërë gjëra të mëdha.</span> <span data-id="pg112_n0013">Ai kishte plot shokë në fshat me të cilët luante.</span> <span data-id="pg112_n0014">Mali dha idenë i pari që të shkonin së bashku me shokët për t’i larguar të gjitha letrat që ishin afër lumit.</span> <span data-id="pg112_n0015" class="italic">Po sikur të kërkojmë ndihmë nga të rriturit për këtë gjë, çfarë do të na thoshin?</span> <span data-id="pg112_n0016">Fëmijët, që mezi prisnin të kalonin kohën së bashku, thanë të gjithë njëzëri: “Le ta provojmë!”.</span> <span data-id="pg112_n0017">Mali me shoqen e tij, Erën, ndërkohë që po mblidhnin mbeturinat bashkë me fshatarët, po bisedonin se sa keq ishin ndier kur kishin kaluar pushimet në det vitin e kaluar.</span> <span data-id="pg112_n0018">Ata kishin parë që deti ishte i mbushur me qeska najloni e mbetje ushqimesh.</span> <span data-id="pg112_n0019">Nuk arrinin të gjenin dot një përgjigje për këto veprime.</span> <span data-id="pg112_n0020">Uji, elementi kyç i jetës së gjallesave, a mos është duke u ndotur shumë nga njeriu?</span> <span data-id="pg112_n0021" class="italic">"Njeriu duhet të ndalojë së bëri këto veprime të dëmshme", - ishin fjalët e Yllit, i cili ndërpreu bisedën e Malit dhe të Erës.</span></p></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

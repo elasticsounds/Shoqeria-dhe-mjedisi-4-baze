@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg017_sec001_p3">
+<meta name="page-section-id" content="27">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+body,button,input,textarea,select{font-family:BookPoppins,Poppins,sans-serif!important}
+#content.bk.bk.bk{padding-top:24px;overflow:visible}
+#content.bk .bk-banner{margin:0;padding:16px 20px;border-radius:var(--bk-r-card)}
+#content.bk p{margin:0}
+#content.bk [hidden]{display:none!important}
+#content.bk .bk-btn{white-space:normal;text-align:center}
+#content.bk summary{list-style:none}
+#content.bk summary::-webkit-details-marker{display:none}
+#content.bk summary::before{content:'+';margin-right:8px}
+#content.bk details[open]>summary::before{content:'−'}
+#content.bk details[open]>summary{margin-bottom:12px}
+#content.bk :is(a,button,summary,input,textarea){scroll-margin-block:96px}
+#content.bk .bk-field{border-color:var(--bk-primary);padding:12px}
+#content.bk .bk-feedback{margin-top:12px}
+@media(max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body :is(p,span,a,button,label,input,textarea,select,summary,h1,h2,h3,li,td,th):not([class*="fa-"]){font-family:BookPoppins,Poppins,sans-serif!important}
+#content.bk.bk.bk.bk{padding-top:24px;overflow:visible}
+#content.bk.bk.bk.bk p{margin:0}
+#content.bk.bk.bk.bk .bk-field{border-color:var(--bk-primary);padding:12px}
+@media(max-width:767px){#content.bk.bk.bk.bk{padding-inline:16px}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main><div id="content" class="bk" data-family="lesson-discussion">
+<section id="pg017_sec001_p3" data-section-id="pg017_sec001_p3" data-section-type="text_and_single_image" class="bk-stack" aria-label="Diskutim, pjesa 2">
+<nav class="bk-row" aria-label="Burimet e diskutimit"><a class="bk-btn bk-btn--secondary" href="pg016_sec001.html#pg016_n0006">Situata 2.</a><a class="bk-btn bk-btn--secondary" href="pg017_sec001.html">Shiko figurën</a></nav>
+<section class="bk-activity bk-card bk-card--surface1" data-activity-pattern="discussion" data-activity-variant="" lang="sq">
+<p class="bk-prompt bk-label" id="pg017_n0011" data-id="pg017_n0011">Po ju, a merrni informacione nga televizioni?</p>
+<details><summary class="bk-btn bk-btn--secondary" aria-label="Shënime (opsionale): Po ju, a merrni informacione nga televizioni?">Shënime (opsionale)</summary><label for="item-3" class="bk-sr-only">Po ju, a merrni informacione nga televizioni?</label><input id="item-3" type="text" data-activity-item="item-3" aria-label="Po ju, a merrni informacione nga televizioni?" class="bk-field"><p class="bk-feedback" role="status" aria-live="polite" hidden></p><button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button></details>
+</section>
+<section class="bk-activity bk-card bk-card--surface1" data-activity-pattern="discussion" data-activity-variant="" lang="sq">
+<p class="bk-prompt bk-label" id="pg017_n0013" data-id="pg017_n0013">Pse vajza duhej të mbante distancë?</p>
+<details><summary class="bk-btn bk-btn--secondary" aria-label="Shënime (opsionale): Pse vajza duhej të mbante distancë?">Shënime (opsionale)</summary><label for="item-4" class="bk-sr-only">Pse vajza duhej të mbante distancë?</label><textarea id="item-4" data-activity-item="item-4" aria-label="Pse vajza duhej të mbante distancë?" class="bk-field" rows="3"></textarea><p class="bk-feedback" role="status" aria-live="polite" hidden></p><button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button></details>
+</section>
+<p class="bk-caption" aria-label="Faqja e shtypur 17">17</p>
+</section></div></main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+<script>
+(()=>{const start=()=>{document.querySelectorAll('#content [data-activity-item]').forEach(field=>{const key='adt:shoqeria-mjedisi-4:pg017_sec001:'+field.dataset.activityItem;const area=field.closest('details'),status=area.querySelector('[role=status]'),retry=area.querySelector('[data-action=retry-save]');let dirty=false;const failed=()=>{status.hidden=false;status.textContent='⚠ Nuk u ruajt. Shënimi mbetet në këtë faqe.';retry.hidden=false;};try{const stored=localStorage.getItem(key);if(stored!==null)field.value=stored;}catch(e){failed();}const save=()=>{try{localStorage.setItem(key,field.value);if(localStorage.getItem(key)!==field.value)throw Error('save');dirty=false;status.hidden=false;status.textContent='✓ U ruajt.';retry.hidden=true;}catch(e){dirty=true;failed();}};field.addEventListener('input',()=>{dirty=true;save();});retry.addEventListener('click',save);window.addEventListener('pagehide',()=>{if(dirty)save();});window.addEventListener('beforeunload',e=>{if(dirty){e.preventDefault();e.returnValue='';}});});};if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start);else start();})();
+</script>
+</body>
+</html>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg096_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="127">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" id="content" class="opacity-0 bk">
+        <section role="region" data-section-type="activity_open_ended_answer" data-section-id="pg096_sec002" class="mx-auto max-w-5xl px-6 py-8 max-lg:px-5 max-sm:px-4">
+  <div class="flex items-stretch overflow-hidden rounded-sm bg-[#e7d3e8] max-sm:flex-col">
+    <div class="flex w-28 shrink-0 items-center justify-center bg-[#a966ad] px-4 py-6 max-sm:w-full max-sm:py-4">
+      <div aria-hidden="true" class="text-white adt-h1 leading-none">?</div>
+    </div>
+    <div class="flex-1 px-6 py-5 max-sm:px-4 max-sm:py-4">
+      <div class="space-y-5">
+        <div>
+          <p class="adt-body mb-2 text-black">
+            <span data-id="pg096_n0024">- Bisedoni për situatën e dhënë.</span>
+          </p>
+          <label for="activity-item-1" class="sr-only">- Bisedoni për situatën e dhënë.</label>
+          <textarea id="activity-item-1" data-activity-item="item-1" aria-label="- Bisedoni për situatën e dhënë." class="min-h-28 w-full rounded border border-[#c8b3cb] bg-white px-3 py-3 text-black outline-none min-h-11 focus:border-[#a966ad]"></textarea>
+        </div>
+
+        <div>
+          <p class="adt-body mb-2 text-black">
+            <span data-id="pg096_n0025">- Cilat janë pasuritë mbitokësore të vendit tonë?</span>
+          </p>
+          <label for="activity-item-2" class="sr-only">- Cilat janë pasuritë mbitokësore të vendit tonë?</label>
+          <textarea id="activity-item-2" data-activity-item="item-2" aria-label="- Cilat janë pasuritë mbitokësore të vendit tonë?" class="min-h-24 w-full rounded border border-[#c8b3cb] bg-white px-3 py-3 text-black outline-none min-h-11 focus:border-[#a966ad]"></textarea>
+        </div>
+
+        <div>
+          <p class="adt-body mb-2 text-black">
+            <span data-id="pg096_n0026">- Cilat janë malet kryesore të vendit tonë?</span>
+          </p>
+          <label for="activity-item-3" class="sr-only">- Cilat janë malet kryesore të vendit tonë?</label>
+          <textarea id="activity-item-3" data-activity-item="item-3" aria-label="- Cilat janë malet kryesore të vendit tonë?" class="min-h-24 w-full rounded border border-[#c8b3cb] bg-white px-3 py-3 text-black outline-none min-h-11 focus:border-[#a966ad]"></textarea>
+        </div>
+
+        <div>
+          <p class="adt-body mb-2 text-black">
+            <span data-id="pg096_n0027">- Pse janë të rëndësishme malet?</span>
+          </p>
+          <label for="activity-item-4" class="sr-only">- Pse janë të rëndësishme malet?</label>
+          <textarea id="activity-item-4" data-activity-item="item-4" aria-label="- Pse janë të rëndësishme malet?" class="min-h-24 w-full rounded border border-[#c8b3cb] bg-white px-3 py-3 text-black outline-none min-h-11 focus:border-[#a966ad]"></textarea>
+        </div>
+
+        <div>
+          <p class="adt-body mb-2 text-black">
+            <span data-id="pg096_n0028">- Cilët janë lumenjtë më të mëdhenj të vendit tonë?</span>
+          </p>
+          <label for="activity-item-5" class="sr-only">- Cilët janë lumenjtë më të mëdhenj të vendit tonë?</label>
+          <textarea id="activity-item-5" data-activity-item="item-5" aria-label="- Cilët janë lumenjtë më të mëdhenj të vendit tonë?" class="min-h-24 w-full rounded border border-[#c8b3cb] bg-white px-3 py-3 text-black outline-none min-h-11 focus:border-[#a966ad]"></textarea>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+      </div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg027_sec001_p2">
+<meta name="page-section-id" content="42">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>
+body,button,input,textarea,select,#interface-container,#nav-container{font-family:BookPoppins,Poppins,sans-serif}
+#interface-container :is(div,span,p,a,button,label,input,select):not([class*="fa-"]),#nav-container :is(div,span,p,a,button,label,input,select):not([class*="fa-"]){font-family:BookPoppins,Poppins,sans-serif!important}
+#content.bk.bk.bk{padding-top:24px!important;overflow:visible!important}
+#content.bk.bk.bk .bk-banner{margin:0 0 24px;padding:16px 20px;border-radius:20px}
+#content.bk .bk-body,#content.bk .bk-prompt{margin:0}
+#content.bk .bk-heading{font-weight:600}
+#content.bk details>div{margin-top:12px}
+#content.bk [hidden]{display:none!important}
+#content.bk textarea{scroll-margin-block:24px 120px}
+#content.bk .bk-btn--secondary{color:var(--bk-ink)}
+@media(min-width:641px) and (max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+<div id="content" class="bk" data-family="lesson-discussion">
+<section class="bk-stack" data-section-type="boxed_text" data-section-id="pg027_sec001_p2" aria-label="Mendimi ndryshe — pyetjet">
+<section class="bk-activity bk-card bk-card--surface1" data-activity-pattern="discussion" data-activity-variant="group-discussion">
+<p class="bk-prompt" id="prompt-1"><span data-id="pg027_n0019">Pse u çudit shoqja kur e pa Vjosën?</span></p>
+<details><summary class="bk-btn bk-btn--secondary" aria-label="Shënime (opsionale): Pse u çudit shoqja kur e pa Vjosën?">Shënime (opsionale)</summary>
+<div class="bk-stack">
+<label id="note-label-1" class="bk-label" for="item-1">Shënime private (opsionale)</label>
+<textarea id="item-1" data-activity-item="item-1" aria-label="Pse u çudit shoqja kur e pa Vjosën?" aria-labelledby="prompt-1 note-label-1" class="bk-field" rows="3"></textarea>
+<p class="bk-feedback" role="status" aria-live="polite" hidden></p>
+<button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+</div></details>
+</section>
+<section class="bk-activity bk-card bk-card--surface1" data-activity-pattern="discussion" data-activity-variant="group-discussion">
+<p class="bk-prompt" id="prompt-2"><span data-id="pg027_n0021">A ndryshon mënyra e veshjes dhe e sjelljes nga një vend në tjetrin?</span></p>
+<details><summary class="bk-btn bk-btn--secondary" aria-label="Shënime (opsionale): A ndryshon mënyra e veshjes dhe e sjelljes nga një vend në tjetrin?">Shënime (opsionale)</summary>
+<div class="bk-stack">
+<label id="note-label-2" class="bk-label" for="item-2">Shënime private (opsionale)</label>
+<textarea id="item-2" data-activity-item="item-2" aria-label="A ndryshon mënyra e veshjes dhe e sjelljes nga një vend në tjetrin?" aria-labelledby="prompt-2 note-label-2" class="bk-field" rows="3"></textarea>
+<p class="bk-feedback" role="status" aria-live="polite" hidden></p>
+<button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+</div></details>
+</section>
+<section class="bk-activity bk-card bk-card--surface1" data-activity-pattern="discussion" data-activity-variant="group-discussion">
+<p class="bk-prompt" id="prompt-3"><span data-id="pg027_n0023">Çfarë duhet të kemi parasysh që t’i shmangim keqkuptimet?</span></p>
+<details><summary class="bk-btn bk-btn--secondary" aria-label="Shënime (opsionale): Çfarë duhet të kemi parasysh që t’i shmangim keqkuptimet?">Shënime (opsionale)</summary>
+<div class="bk-stack">
+<label id="note-label-3" class="bk-label" for="item-3">Shënime private (opsionale)</label>
+<textarea id="item-3" data-activity-item="item-3" aria-label="Çfarë duhet të kemi parasysh që t’i shmangim keqkuptimet?" aria-labelledby="prompt-3 note-label-3" class="bk-field" rows="3"></textarea>
+<p class="bk-feedback" role="status" aria-live="polite" hidden></p>
+<button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+</div></details>
+</section>
+<p class="bk-caption">27</p>
+</section>
+</div>
+</main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+<script>
+(function(){
+'use strict';
+const book='Shoqeria-dhe-Mjedisi-4', source='pg027_sec001';
+document.querySelectorAll('#content textarea[data-activity-item]').forEach(function(field){
+const key=book+':'+source+':'+field.dataset.activityItem;
+const group=field.closest('.bk-activity');
+const status=group.querySelector('[role="status"]');
+const retry=group.querySelector('[data-action="retry-save"]');
+let touched=false, saved=null;
+function report(ok){status.hidden=false;status.textContent=ok?'✓ U ruajt.':'⚠ Nuk u ruajt. Shënimi mbetet këtu; provo përsëri.';retry.hidden=ok;}
+function save(){
+try{localStorage.setItem(key,field.value);saved=field.value;report(true);}
+catch(error){report(false);}
+}
+try{saved=localStorage.getItem(key);if(saved!==null)field.value=saved;}
+catch(error){report(false);}
+field.addEventListener('input',function(){touched=true;save();});
+field.addEventListener('change',function(){touched=true;save();});
+retry.addEventListener('click',save);
+// The existing reader may restore a legacy draft during its load lifecycle.
+// Adopt it only when this section-scoped record does not yet exist.
+function reconcile(){if(touched)return;if(saved!==null){field.value=saved;}else if(field.value!==''){save();}}
+window.addEventListener('load',function(){reconcile();setTimeout(reconcile,500);});
+window.addEventListener('pageshow',reconcile);
+window.addEventListener('pagehide',function(){if(touched && field.value!==saved)save();});
+});
+})();
+</script>
+</body>
+</html>

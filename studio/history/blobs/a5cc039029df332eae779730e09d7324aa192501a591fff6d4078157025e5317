@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg005_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="4">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="foreword" id="content" class="container opacity-0 bk"><section data-section-type="foreword" data-section-id="pg005_sec001" class="bg-white text-zinc-800"><div class="mx-auto w-full max-w-6xl px-14 max-lg:px-8 max-sm:px-4 pt-6 max-sm:pt-4"><h1 class="adt-h1 sr-only" data-id="pg005_n0002">Titulli</h1><div class="bg-fuchsia-500/90 px-6 py-3 max-sm:px-5 max-sm:py-3"><h2 class="adt-h2 font-semibold text-white" data-id="pg005_n0004">Parathënie</h2></div></div><div class="mx-auto w-full max-w-5xl px-14 max-lg:px-8 max-sm:px-5 pt-12 pb-16 max-lg:pt-10 max-sm:pt-8 max-sm:pb-12"><p class="adt-body font-semibold text-zinc-800 mb-10 max-sm:mb-8" data-id="pg005_n0005">Të dashur nxënës,</p><p class="adt-body leading-relaxed mb-6 max-sm:mb-5"><span data-id="pg005_n0007">Po takohemi sërish edhe këtë vit.</span> <span data-id="pg005_n0008">Kemi punuar me shumë kujdes që të sjellim një libër të përshtatshëm për ju, pasi, tashmë, jeni një vit më të rritur dhe dëshironi të dini edhe më shumë.</span> <span data-id="pg005_n0009">Ky libër, sikurse dhe librat tanë të mëparshëm, është i thjeshtë dhe do t'ju mësojë shumë gjëra të reja.</span></p><p class="adt-body leading-relaxed mb-6 max-sm:mb-5"><span data-id="pg005_n0011">Libri do t'ju ndihmojë që të mësoni më shumë për grupet shoqërore dhe si të krijoni marrëdhënie bashkëpunimi me të tjerët, t'i thelloni njohuritë tuaja për të drejtat dhe përgjegjësitë dhe, gjithashtu, do të merrni njohuri për institucionet që janë në shërbimin tuaj.</span> <span data-id="pg005_n0012">Nëpërmjet situatave dhe ilustrimeve të ndryshme, do të mësoni ta respektoni diversitetin kulturor, ta vlerësoni mendimin ndryshe, t'i kultivoni tolerancën dhe miqësinë dhe t'i mbështetni të tjerët në rast nevoje.</span></p><p class="adt-body leading-relaxed mb-6 max-sm:mb-5"><span data-id="pg005_n0014">Në klasën e katërt, do të mësoni se cilët janë hapat që duhet t'i ndiqni gjatë vendimmarrjes në familje, klasë dhe komunitet.</span> <span data-id="pg005_n0015">Gjithashtu, do të njiheni me shërbimet që ju ofrojnë disa prej institucioneve në komunitetin tuaj dhe më gjerë.</span> <span data-id="pg005_n0016">Së bashku me mësuesin, do ta vizitoni një studio ligjore, ku, mes të tjerash, do të mësoni se si funksionojnë ato.</span></p><p class="adt-body leading-relaxed mb-6 max-sm:mb-5"><span data-id="pg005_n0018">Po ashtu, ju do të mësoni shumë gjëra për atdheun tonë, Kosovën.</span> <span data-id="pg005_n0019">Do të njiheni me rajonet e saj, komunitetet dhe veçoritë e tyre, si dhe me fqinjët e Kosovës.</span> <span data-id="pg005_n0020">Do të fitoni njohuri për familjen dikur dhe sot, për fshatin dhe qytetin, për degët e ekonomisë, si dhe për pasuritë tona kombëtare.</span></p><p class="adt-body leading-relaxed mb-6 max-sm:mb-5"><span data-id="pg005_n0022">Nëpërmjet aktiviteteve të ndryshme, që ju do të organizoni së bashku me mësuesen, do të mësoni si të jeni qytetarë të mirë të vendit.</span> <span data-id="pg005_n0023">Organizimi i aktiviteteve të tilla, si “Festojmë Pavarësinë e Kosovës”, do të na bëjnë që të ndihemi krenarë për vendin tonë.</span></p><p class="adt-body leading-relaxed mb-6 max-sm:mb-5"><span data-id="pg005_n0025">Edhe ky libër ka situata të cilat do të nxisin fantazinë tuaj dhe do të kërkojnë që ju të mbani qëndrimin tuaj.</span> <span data-id="pg005_n0026">Do të keni mundësi që të flisni rreth higjienës personale, higjienës në komunitet etj.</span> <span data-id="pg005_n0027">Do të njiheni me pasuritë natyrore të Kosovës.</span> <span data-id="pg005_n0028">Do të mësoni se si bëhet procesi i riciklimit të mbetjeve.</span> <span data-id="pg005_n0029">Nëpërmjet projektit “Ndihmoj për një mjedis të pastër dhe të gjelbër”, do të punoni në grupe e do të ndihmoni për një mjedis të pastër, do të mësoni si t'i mbroni tokën, ujërat, pyjet etj.</span></p><p class="adt-body leading-relaxed mb-10 max-sm:mb-8"><span data-id="pg005_n0031">Njohuritë që ju kemi dhënë nga viti në vit kanë ardhur duke u shtuar, me qëllim që t'u përshtaten kërkesave tuaja, gjithnjë në rritje.</span></p><p class="adt-body font-semibold text-right pt-4" data-id="pg005_n0032">Autoret</p></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

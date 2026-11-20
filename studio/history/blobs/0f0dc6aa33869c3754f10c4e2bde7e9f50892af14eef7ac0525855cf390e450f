@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg059_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="72" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0"><section data-section-type="text_and_images" data-section-id="pg059_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 text-slate-800 max-sm:px-4">
+  <div class="mb-8">
+    <div class="h-3 w-full bg-purple-400"></div>
+    <div class="pt-4">
+      <h1 data-id="pg059_n0003" class="adt-h2 text-left font-bold text-slate-800">Vizit&#xeb; n&#xeb; nj&#xeb; studio ligjore</h1>
+      <div aria-hidden="true" class="mt-2 h-1 w-80 max-w-full bg-purple-300"></div>
+    </div>
+  </div>
+
+  <p class="adt-body mb-6 text-left leading-relaxed">
+    <span data-id="pg059_n0005">Shikoni figurat e m&#xeb;poshtme.</span>
+    <span data-id="pg059_n0006" class="ml-1">Lexoni fjalit&#xeb; posht&#xeb; secil&#xeb;s figur&#xeb;.</span>
+  </p>
+
+  <div class="mb-6 grid grid-cols-2 gap-3 max-lg:grid-cols-1">
+    <figure class="flex flex-col justify-between border-2 border-amber-300 bg-white p-4">
+      <img data-id="pg059_im001_seg001_v1" src="images/pg059_im001_seg001_v1.png" alt="Gjyqtarja shqyrton dokumentet dhe merr vendimin n&#xeb; gjykat&#xeb;." class="mx-auto w-full h-auto object-contain">
+      <figcaption data-id="pg059_n0011" class="adt-caption mt-3 text-center leading-snug text-slate-800">Gjyqtarja shqyrton faktet, d&#xeb;gjon d&#xeb;shmitar&#xeb;t dhe merr vendimin.</figcaption>
+    </figure>
+    <figure class="flex flex-col justify-between border-2 border-amber-300 bg-white p-4">
+      <img data-id="pg059_im001_seg002_v1" src="images/pg059_im001_seg002_v1.png" alt="Prokurori paraqet faktet kund&#xeb;r t&#xeb; akuzuarit." class="mx-auto w-full h-auto object-contain">
+      <figcaption data-id="pg059_n0014" class="adt-caption mt-3 text-center leading-snug text-slate-800">Prokurori paraqet n&#xeb; gjykat&#xeb; faktet kund&#xeb;r t&#xeb; akuzuarit.</figcaption>
+    </figure>
+    <figure class="flex flex-col justify-between border-2 border-amber-300 bg-white p-4">
+      <img data-id="pg059_im001_seg003_v1" src="images/pg059_im001_seg003_v1.png" alt="Noteri v&#xeb;rteton dokumentet n&#xeb; zyr&#xeb;." class="mx-auto w-full h-auto object-contain">
+      <figcaption data-id="pg059_n0018" class="adt-caption mt-3 text-center leading-snug text-slate-800">Noteri d&#xeb;shmon p&#xeb;r v&#xeb;rtet&#xeb;sin&#xeb; e dokumenteve.</figcaption>
+    </figure>
+    <figure class="flex flex-col justify-between border-2 border-amber-300 bg-white p-4">
+      <img data-id="pg059_im001_seg004_v1" src="images/pg059_im001_seg004_v1.png" alt="Avokatja mbron t&#xeb; akuzuarit duke p&#xeb;rdorur fakte dhe ligje." class="mx-auto w-full h-auto object-contain">
+      <figcaption data-id="pg059_n0021" class="adt-caption mt-3 text-center leading-snug text-slate-800">Avokatja mbron t&#xeb; akuzuarit n&#xeb;p&#xeb;rmjet fakteve, duke interpretuar ligjet.</figcaption>
+    </figure>
+  </div>
+
+  <div class="mb-5 border border-purple-300 bg-purple-200/80 p-0">
+    <div class="p-3">
+      <p class="adt-body text-left leading-relaxed text-slate-800">
+        <span data-id="pg059_n0023">- Flisni rreth p&#xeb;rshtypjeve q&#xeb; keni nga vizita e organizuar n&#xeb; studion ligjore.</span>
+      </p>
+    </div>
+    <div class="border-t border-purple-300 bg-purple-100/70 p-3">
+      <label for="item-1" class="sr-only">- Flisni rreth p&#xeb;rshtypjeve q&#xeb; keni nga vizita e organizuar n&#xeb; studion ligjore.</label>
+      <textarea id="item-1" data-activity-item="item-1" aria-label="- Flisni rreth p&#xeb;rshtypjeve q&#xeb; keni nga vizita e organizuar n&#xeb; studion ligjore." class="min-h-11 w-full rounded-md border-2 border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500" rows="4"></textarea>
+    </div>
+  </div>
+
+  <div class="mb-8 border-2 border-purple-300 bg-white p-4">
+    <p class="adt-body text-left italic leading-relaxed text-slate-800">
+      <span data-id="pg059_n0026">Zgjidhja e konflikteve bazohet n&#xeb; ligjet e Kosov&#xeb;s dhe ligjet nd&#xeb;rkomb&#xeb;tare, q&#xeb; mbrojn&#xeb; t&#xeb; drejtat e njeriut.</span>
+      <span data-id="pg059_n0027" class="ml-1">&#xc7;do vend duhet t&#xeb; ket&#xeb; nj&#xeb; sistem t&#xeb; drejt&#xeb;sis&#xeb; q&#xeb; funksionon mir&#xeb;, &#xeb;sht&#xeb; i drejt&#xeb;, i hapur dhe i ndersh&#xeb;m me t&#xeb; gjith&#xeb; qytetar&#xeb;t.</span>
+      <span data-id="pg059_n0028" class="ml-1">Ligjet jan&#xeb; shum&#xeb; t&#xeb; r&#xeb;nd&#xeb;sishme dhe duhen zbatuar p&#xeb;r t&#xeb; mbrojtur njer&#xeb;zit dhe p&#xeb;r t&#xeb; ndihmuar shoq&#xeb;rin&#xeb; t&#xeb; jet&#xeb; e drejt&#xeb; dhe demokratike.</span>
+      <span data-id="pg059_n0029" class="ml-1">Avokat&#xeb;t jan&#xeb; persona q&#xeb; e njohin mir&#xeb; ligjin dhe ndihmojn&#xeb; njer&#xeb;zit kur ata kan&#xeb; probleme.</span>
+      <span data-id="pg059_n0030" class="ml-1">Ata duhet t&#xeb; jen&#xeb; t&#xeb; p&#xeb;rgjegjsh&#xeb;m dhe t&#xeb; sillen me ndershm&#xeb;ri, q&#xeb; drejt&#xeb;sia t&#xeb; funksionoj&#xeb; si duhet.</span>
+      <span data-id="pg059_n0031" class="ml-1">Drejt&#xeb;sia &#xeb;sht&#xeb; p&#xeb;rmir&#xeb;suar me koh&#xeb;n, q&#xeb; t&#xeb; jet&#xeb; m&#xeb; e mir&#xeb; p&#xeb;r t&#xeb; gjith&#xeb;.</span>
+    </p>
+  </div>
+
+  <div class="border-t border-slate-200 pt-4">
+    <p class="adt-body text-left leading-relaxed text-slate-800">
+      <span data-id="pg059_n0033" class="font-semibold">Fjal&#xeb;t ky&#xe7;e:</span>
+      <span data-id="pg059_n0034" class="ml-1">drejt&#xeb;si, studio, prokuror, gjyqtar, avokat, noter, ligj.</span>
+    </p>
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

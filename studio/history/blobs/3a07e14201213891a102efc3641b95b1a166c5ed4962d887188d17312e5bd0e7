@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg056_sec003">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="74">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+  body, #page-heading { font-family: BookPoppins, Poppins, Arial, sans-serif; }
+  #nav-container, #nav-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands),
+  #interface-container, #interface-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands) { font-family: BookPoppins, Poppins, Arial, sans-serif; }
+  #nav-container button, #interface-container button { font-size: var(--bk-button); }
+  #content.bk.bk.bk { padding-top: var(--bk-gap); }
+  #content.bk.bk.bk .bk-card--outline { border-color: var(--bk-primary); }
+  #content.bk.bk.bk .bk-card p { max-width: 720px; }
+  #content.bk.bk.bk .bk-card em { font-style: normal; font-weight: 600; }
+  #content.bk.bk.bk .bk-card img { display: block; width: 48px; height: auto; }
+</style><link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk"><section data-section-type="boxed_text" data-section-id="pg056_sec003" class="bk-stack"><aside class="bk-card bk-card--outline bk-stack"><img src="./studio/assets/pg056_sec003-book-marker.png" alt="" aria-hidden="true" width="48"><p class="bk-body"><em><span data-id="pg056_n0031">Vendimmarrja shërben për të zgjidhur në mënyrë të drejtë problemet me të cilat përballemi në jetën e përditshme.</span> <span data-id="pg056_n0032">Vendimi merret duke zgjedhur zgjidhjen më të mirë të mundshme.</span> <span data-id="pg056_n0033">Vendimi mund të merret nga shumë njerëz së bashku, ku secili ka të drejtë të shprehë mendimin e vet.</span> <span data-id="pg056_n0034">Vetëm nëpërmjet bashkëbisedimit në grup arrihet te vendimi i duhur.</span></em></p></aside><p class="bk-caption">56</p></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe Mjedisi 4</title>
+  <meta name="title-id" content="pg125_sec001_p2">
+  <meta name="page-section-id" content="166">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  
+  <style>
+    body :is(button, input, textarea, select, p, span, a, label):not([class*="fa-"]) { font-family: BookPoppins, Poppins, sans-serif !important; }
+    #content.bk.bk.bk em { font-style: normal; font-weight: 600; }
+    #content.bk.bk.bk.bk .bk-chip { background: var(--bk-accent2); }
+    #content.bk.bk.bk #plan-status:empty, #content.bk.bk.bk #plan-retry[hidden] { display: none; }
+    #content.bk.bk.bk .bk-field { scroll-margin-bottom: 120px; }
+  </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+<div data-family="collaborative-project" class="bk" id="content">
+  <section role="region" data-section-type="activity_open_ended_answer" data-section-id="pg125_sec001_p2">
+    <div class="bk-stack">
+      <section class="bk-activity bk-card bk-card--surface2" data-activity-pattern="offline-action" data-activity-variant="plan-and-act" aria-labelledby="group-four">
+        <h3 class="bk-subheading" id="group-four"><span class="bk-chip" data-id="pg125_n0017">Grupi i katërt:</span></h3>
+        <p class="bk-body"><em data-id="pg125_n0018">Krijo abazhurë të ndryshëm me materiale të ndryshme ricikluese.</em></p>
+        <p class="bk-body" data-id="pg125_n0019">Plani i veprimit është:</p>
+        <span class="bk-sr-only" data-id="pg125_n0020"></span><label class="bk-sr-only" for="activity-item-5">Plani i veprimit është, rreshti 1, grupi i katërt</label><input class="bk-field" id="activity-item-5" data-activity-item="item-5" type="text" aria-label="Plani i veprimit është, rreshti 1, grupi i katërt">
+        <span class="bk-sr-only" data-id="pg125_n0021"></span><label class="bk-sr-only" for="activity-item-6">Plani i veprimit është, rreshti 2, grupi i katërt</label><input class="bk-field" id="activity-item-6" data-activity-item="item-6" type="text" aria-label="Plani i veprimit është, rreshti 2, grupi i katërt">
+        <span class="bk-sr-only" data-id="pg125_n0022"></span><label class="bk-sr-only" for="activity-item-7">Plani i veprimit është, rreshti 3, grupi i katërt</label><input class="bk-field" id="activity-item-7" data-activity-item="item-7" type="text" aria-label="Plani i veprimit është, rreshti 3, grupi i katërt">
+        <span class="bk-sr-only" data-id="pg125_n0023"></span><label class="bk-sr-only" for="activity-item-8">Plani i veprimit është, rreshti 4, grupi i katërt</label><input class="bk-field" id="activity-item-8" data-activity-item="item-8" type="text" aria-label="Plani i veprimit është, rreshti 4, grupi i katërt">
+        <p class="bk-feedback" id="plan-status" role="status" aria-live="polite"></p>
+        <button class="bk-btn bk-btn--secondary" id="plan-retry" type="button" hidden>Provo ruajtjen përsëri</button>
+        <div id="send-position"></div>
+      </section>
+      <p class="bk-caption" style="text-align:right">125</p>
+    </div>
+  </section>
+</div>
+</main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+<script>
+(function () {
+  var fields = Array.from(document.querySelectorAll('#content [data-activity-item]'));
+  var status = document.getElementById('plan-status');
+  var retry = document.getElementById('plan-retry');
+  var prefix = 'Shoqeria-dhe-Mjedisi-4:pg125_sec001:';
+  var failed = false;
+  function key(field) { return prefix + field.getAttribute('data-activity-item'); }
+  function save() {
+    try {
+      fields.forEach(function (field) { localStorage.setItem(key(field), field.value); });
+      failed = false; retry.hidden = true; status.textContent = '✓ Plani u ruajt në këtë pajisje.';
+    } catch (error) {
+      failed = true; retry.hidden = false; status.textContent = '⚠ Plani nuk u ruajt. Teksti mbetet këtu; provoni përsëri.';
+    }
+  }
+  try { fields.forEach(function (field) { var value = localStorage.getItem(key(field)); if (value !== null) field.value = value; }); }
+  catch (error) { failed = true; retry.hidden = false; status.textContent = '⚠ Ruajtja nuk është e disponueshme. Teksti mbetet këtu; provoni përsëri.'; }
+  fields.forEach(function (field) { field.addEventListener('input', save); });
+  retry.addEventListener('click', save);
+  window.addEventListener('beforeunload', function (event) { if (failed) { event.preventDefault(); event.returnValue = ''; } });
+  function placeSend() {
+    var slot = document.getElementById('send-position');
+    var button = Array.from(document.querySelectorAll('button')).find(function (el) { return el.textContent.trim() === 'Dërgo' && !slot.contains(el); });
+    if (button) {
+      var wrapper = button.parentElement;
+      var origin = wrapper && wrapper.parentElement;
+      button.className = 'bk-btn';
+      if (wrapper && wrapper !== document.body && wrapper !== document.getElementById('content')) {
+        slot.appendChild(wrapper);
+        wrapper.style.position = 'static'; wrapper.style.transform = 'none'; wrapper.style.background = 'transparent'; wrapper.style.padding = '0'; wrapper.style.boxShadow = 'none';
+        if (origin && origin !== document.body && origin.id !== 'interface-container' && origin.id !== 'nav-container' && !origin.textContent.trim() && !origin.querySelector('button,input,a,select,textarea')) origin.remove();
+      } else { slot.appendChild(button); }
+    }
+  }
+  new MutationObserver(placeSend).observe(document.body, {childList: true, subtree: true});
+  placeSend();
+})();
+</script>
+</body>
+</html>

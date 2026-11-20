@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg015_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="22">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk"><section data-section-type="text_and_single_image" data-section-id="pg015_sec001" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5 bg-white text-zinc-800">
+  <div class="-mx-8 bg-purple-500 max-sm:-mx-5">
+    <div class="mx-auto flex w-full max-w-5xl items-center justify-between px-8 py-5 max-sm:px-5 max-sm:py-4">
+      <h1 class="adt-h1 font-bold text-white" data-id="pg015_n0002">Secili ka të drejta dhe përgjegjësi</h1>
+      <div aria-hidden="true" class="ml-6 flex h-20 w-20 shrink-0 items-center justify-center rounded-2xl bg-purple-400 text-white">
+        <span>⚖</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pt-5">
+    <h2 class="adt-h2 border-b-4 border-purple-400 pb-2 font-medium text-zinc-900" data-id="pg015_n0004">Të drejtat dhe përgjegjësitë e mia</h2>
+  </div>
+
+  <div class="mt-8 inline-block bg-green-400 px-5 py-2 shadow-sm">
+    <h3 class="adt-h3 font-medium text-zinc-900" data-id="pg015_n0006">Situata 1.</h3>
+  </div>
+
+  <p class="adt-body mt-5 leading-relaxed text-left text-zinc-800">
+    <span data-id="pg015_n0008">Në klasë, gjatë pushimit midis orëve, mblidhemi dhe diskutojmë për probleme të ndryshme.</span> <span data-id="pg015_n0009">Mësuesja na këshillon që të mos bëjmë zhurmë, pasi kështu shqetësojmë të tjerët.</span> <span data-id="pg015_n0010">Po ashtu, ajo theksoi se duhet të tregohemi të kujdesshëm kur lëvizim në klasë, pasi mund të lëndojmë njëri-tjetrin.</span> <span data-id="pg015_n0011">- Ne kemi të drejtën e arsimimit, por edhe përgjegjësinë për njohjen dhe respektimin e rregullave në shkollë, - tha mësuesja.</span>
+  </p>
+
+  <p class="adt-body mt-6 leading-relaxed text-left text-zinc-800">
+    <span data-id="pg015_n0013">Detyra juaj është të mësoni shumë, që të jeni gati për jetën dhe të ndihmoni me dinjitet vendin, shoqërinë dhe mjedisin ku jetoni.</span>
+  </p>
+
+  <div class="mt-6 overflow-hidden rounded-sm bg-cyan-50">
+    <img data-id="pg015_im001" src="images/pg015_im001.png" alt="Mësuesja para tabelës u flet nxënësve në klasë, ndërsa ata janë ulur në banka dhe e dëgjojnë." class="h-auto w-full object-cover">
+  </div>
+
+  <aside class="mt-8 rounded-none bg-purple-100 p-5 max-sm:p-4">
+    <div class="mb-4 flex items-start justify-between gap-4">
+      <div class="flex-1"></div>
+      <div aria-hidden="true" class="flex h-16 w-16 shrink-0 items-center justify-center bg-purple-500 text-white">?</div>
+    </div>
+
+    <div class="space-y-5">
+      <div>
+        <p class="adt-body text-left text-zinc-900"><span data-id="pg015_n0017">Çfarë kërkonte mësuesja nga nxënësit?</span></p>
+        <label for="item-1" class="sr-only">Çfarë kërkonte mësuesja nga nxënësit?</label>
+        <textarea id="item-1" data-activity-item="item-1" aria-label="Çfarë kërkonte mësuesja nga nxënësit?" class="mt-2 min-h-11 w-full rounded-lg border-2 border-purple-300 bg-white px-4 py-3 text-zinc-900 outline-none transition focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+      </div>
+
+      <div>
+        <p class="adt-body text-left text-zinc-900"><span data-id="pg015_n0019">Po ju, a i respektoni rregullat në klasë?</span></p>
+        <label for="item-2" class="sr-only">Po ju, a i respektoni rregullat në klasë?</label>
+        <textarea id="item-2" data-activity-item="item-2" aria-label="Po ju, a i respektoni rregullat në klasë?" class="mt-2 min-h-11 w-full rounded-lg border-2 border-purple-300 bg-white px-4 py-3 text-zinc-900 outline-none transition focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+      </div>
+
+      <div>
+        <p class="adt-body text-left text-zinc-900"><span data-id="pg015_n0022">Cilat janë disa nga të drejtat tuaja?</span></p>
+        <label for="item-3" class="sr-only">Cilat janë disa nga të drejtat tuaja?</label>
+        <textarea id="item-3" data-activity-item="item-3" aria-label="Cilat janë disa nga të drejtat tuaja?" class="mt-2 min-h-11 w-full rounded-lg border-2 border-purple-300 bg-white px-4 py-3 text-zinc-900 outline-none transition focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+      </div>
+
+      <div>
+        <p class="adt-body text-left text-zinc-900"><span data-id="pg015_n0024">Përmend disa përgjegjësi që ke në shkollë.</span></p>
+        <label for="item-4" class="sr-only">Përmend disa përgjegjësi që ke në shkollë.</label>
+        <textarea id="item-4" data-activity-item="item-4" aria-label="Përmend disa përgjegjësi që ke në shkollë." class="mt-2 min-h-11 w-full rounded-lg border-2 border-purple-300 bg-white px-4 py-3 text-zinc-900 outline-none transition focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+      </div>
+
+      <div>
+        <p class="adt-body text-left text-zinc-900"><span data-id="pg015_n0026">Çfarë ndodh nëse nuk je i përgjegjshëm në shkollë?</span></p>
+        <label for="item-5" class="sr-only">Çfarë ndodh nëse nuk je i përgjegjshëm në shkollë?</label>
+        <textarea id="item-5" data-activity-item="item-5" aria-label="Çfarë ndodh nëse nuk je i përgjegjshëm në shkollë?" class="mt-2 min-h-11 w-full rounded-lg border-2 border-purple-300 bg-white px-4 py-3 text-zinc-900 outline-none transition focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+      </div>
+    </div>
+  </aside>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

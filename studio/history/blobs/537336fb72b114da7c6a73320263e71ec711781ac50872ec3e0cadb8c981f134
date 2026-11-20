@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg051_sec001_p3">
+<meta name="page-section-id" content="68">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+#interface-container, #nav-container, #interface-container *, #nav-container * { font-family: BookPoppins, Poppins, Arial, sans-serif !important; }
+#content.bk em { font-style: normal; font-weight: 600; }
+#content.bk .bk-figure > img { width: auto; height: auto; max-width: 100%; max-height: 320px; object-fit: contain; }
+#content.bk dialog { width: min(100%, 1000px); max-height: calc(100vh - 48px); overflow: auto; }
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+<div data-family="lesson-discussion" id="content" class="container mx-auto bg-white opacity-0 bk">
+<section data-section-type="text" data-section-id="pg051_sec001_p3" class="bk-stack">
+<div class="bk-card bk-card--outline"><p class="bk-body"><em><span data-id="pg051_n0009">Në familje kemi të drejta dhe përgjegjësi.</span> <span data-id="pg051_n0010">Ne duhet t’i respektojmë mendimet e anëtarëve të familjes, ta ndihmojmë dhe ta mbështesim njëri-tjetrin.</span> <span data-id="pg051_n0011">Fëmijët duhet të kenë përgjegjësi, që u përshtaten moshës së tyre, sepse kështu ata ndihen të plotësuar dhe të rëndësishëm në familje.</span> <span data-id="pg051_n0012">Përfshirja e fëmijëve në jetën e familjes është një nga parimet e Konventës mbi të Drejtat e Fëmijës.</span> <span data-id="pg051_n0013">Fëmijët duhet të shprehin lirshëm mendimin që kanë.</span></em></p></div>
+</section>
+</div>
+</main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

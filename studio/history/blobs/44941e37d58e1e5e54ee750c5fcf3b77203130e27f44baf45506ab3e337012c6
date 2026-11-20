@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg033_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="42" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container bg-white opacity-0">
+  <section data-section-type="text_and_single_image" data-section-id="pg033_sec001" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5">
+    <div class="-mx-8 h-12 bg-purple-400 max-sm:-mx-5"></div>
+
+    <div class="mt-5 max-w-2xl border-b-4 border-purple-400 pb-3">
+      <h1 class="adt-h2 text-left font-semibold text-slate-900" data-id="pg033_n0003">Solidariteti - vler&#xeb; njer&#xeb;zore</h1>
+    </div>
+
+    <div class="mt-8 text-left">
+      <div class="inline-block border-b-4 border-purple-300 pb-1">
+        <h3 class="adt-h3 inline-block bg-amber-300 px-4 py-1 font-medium text-slate-900" data-id="pg033_n0005">Situata 2.</h3>
+      </div>
+    </div>
+
+    <p class="adt-body mt-6 text-left leading-relaxed text-slate-800">
+      <span data-id="pg033_n0007">N&#xeb; vitin 2020, nj&#xeb; virus i quajtur Korona u p&#xeb;rhap n&#xeb; shum&#xeb; vende t&#xeb; bot&#xeb;s dhe i frik&#xeb;soi t&#xeb; gjith&#xeb;.</span>
+      <span data-id="pg033_n0008">Gjat&#xeb; asaj kohe, njer&#xeb;zit u mbyll&#xeb;n n&#xeb; sht&#xeb;pi p&#xeb;r t&#xeb; mos u s&#xeb;mur&#xeb; - kjo u quajt karantin&#xeb;.</span>
+      <span data-id="pg033_n0009">Por edhe pse ishin t&#xeb; ndar&#xeb;, shum&#xeb; njer&#xeb;z ndihmuan nj&#xeb;ri-tjetrin.</span>
+      <span data-id="pg033_n0010">Ata treguan mir&#xeb;si dhe solidaritet, duke ndihmuar ata q&#xeb; kishin m&#xeb; shum&#xeb; nevoj&#xeb;, si t&#xeb; moshuarit ose t&#xeb; s&#xeb;mur&#xeb;t.</span>
+      <span data-id="pg033_n0011">Bota u bashkua p&#xeb;r t&#xeb; shp&#xeb;tuar jet&#xeb; dhe p&#xeb;r ta kaluar m&#xeb; leht&#xeb; k&#xeb;t&#xeb; koh&#xeb; t&#xeb; v&#xeb;shtir&#xeb;.</span>
+    </p>
+
+    <div class="mt-8 flex justify-center">
+      <div class="w-full max-w-4xl rounded-[2rem] bg-amber-50 p-4 ring-1 ring-purple-100 max-sm:p-3">
+        <img data-id="pg033_im002" src="images/pg033_im002.png" alt="Familje e ulur bashk&#xeb; n&#xeb; sht&#xeb;pi gjat&#xeb; pandemis&#xeb;, duke biseduar me shqet&#xeb;sim p&#xeb;r koronavirusin; pran&#xeb; tyre shihet nj&#xeb; djal&#xeb; n&#xeb; karroc&#xeb;, nd&#xeb;rsa n&#xeb; dritare dhe n&#xeb; dhom&#xeb; ka kafsh&#xeb; sht&#xeb;piake dhe bim&#xeb;." class="h-auto w-full rounded-2xl object-cover">
+      </div>
+    </div>
+
+    <div class="mt-8">
+      <p class="adt-body text-left leading-relaxed text-slate-800">
+        <span data-id="pg033_n0013">Pun&#xeb; n&#xeb; grupe: Formohen tri grupe n&#xeb; klas&#xeb;, ku secili grup zgjedh nj&#xeb; aktivitet solidar.</span><br>
+        <span data-id="pg033_n0014">Grupi 1: Grumbullimi i rrobave p&#xeb;r familjet q&#xeb; kan&#xeb; nevoj&#xeb;.</span><br>
+        <span data-id="pg033_n0015">Grupi 2: Grumbullimi i lodrave p&#xeb;r familjet q&#xeb; kan&#xeb; nevoj&#xeb;.</span><br>
+        <span data-id="pg033_n0016">Grupi 3: Vizatimi i kartolinave me mesazhe pozitive p&#xeb;r t&#xeb; moshuarit.</span>
+      </p>
+      <div class="mt-4 rounded-2xl border border-purple-200 bg-purple-50 p-4">
+        <label for="activity-item-1" class="sr-only">Pun&#xeb; n&#xeb; grupe: Formohen tri grupe n&#xeb; klas&#xeb;, ku secili grup zgjedh nj&#xeb; aktivitet solidar.</label>
+        <textarea id="activity-item-1" data-activity-item="item-1" aria-label="Pun&#xeb; n&#xeb; grupe: Formohen tri grupe n&#xeb; klas&#xeb;, ku secili grup zgjedh nj&#xeb; aktivitet solidar." class="min-h-11 w-full rounded-xl border border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+      </div>
+    </div>
+
+    <div class="mt-6 rounded-2xl bg-purple-100 p-5 ring-1 ring-purple-200">
+      <ul class="space-y-5">
+        <li>
+          <p class="adt-body text-left text-slate-800">
+            <span data-id="pg033_n0020">Sillni shembuj t&#xeb; tjer&#xeb; t&#xeb; solidaritetit.</span>
+          </p>
+          <label for="activity-item-2" class="sr-only">Sillni shembuj t&#xeb; tjer&#xeb; t&#xeb; solidaritetit.</label>
+          <textarea id="activity-item-2" data-activity-item="item-2" aria-label="Sillni shembuj t&#xeb; tjer&#xeb; t&#xeb; solidaritetit." class="mt-2 min-h-11 w-full rounded-xl border border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+        </li>
+        <li>
+          <p class="adt-body text-left text-slate-800">
+            <span data-id="pg033_n0022">Cil&#xeb;t jan&#xeb; njer&#xeb;zit q&#xeb; kan&#xeb; nevoj&#xeb; p&#xeb;r mb&#xeb;shtetje?</span>
+          </p>
+          <label for="activity-item-3" class="sr-only">Cil&#xeb;t jan&#xeb; njer&#xeb;zit q&#xeb; kan&#xeb; nevoj&#xeb; p&#xeb;r mb&#xeb;shtetje?</label>
+          <textarea id="activity-item-3" data-activity-item="item-3" aria-label="Cil&#xeb;t jan&#xeb; njer&#xeb;zit q&#xeb; kan&#xeb; nevoj&#xeb; p&#xeb;r mb&#xeb;shtetje?" class="mt-2 min-h-11 w-full rounded-xl border border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+        </li>
+        <li>
+          <p class="adt-body text-left text-slate-800">
+            <span data-id="pg033_n0024">&#xc7;far&#xeb; kujdesi duhet treguar p&#xeb;r ta?</span>
+          </p>
+          <label for="activity-item-4" class="sr-only">&#xc7;far&#xeb; kujdesi duhet treguar p&#xeb;r ta?</label>
+          <textarea id="activity-item-4" data-activity-item="item-4" aria-label="&#xc7;far&#xeb; kujdesi duhet treguar p&#xeb;r ta?" class="mt-2 min-h-11 w-full rounded-xl border border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+        </li>
+      </ul>
+    </div>
+
+    <div class="mt-6 border-2 border-purple-300 bg-white p-5 shadow-sm">
+      <p class="adt-body text-left italic leading-relaxed text-slate-800">
+        <span data-id="pg033_n0027">Solidariteti do t&#xeb; thot&#xeb; t&#xeb; ndihmosh dhe t&#xeb; p&#xeb;rkrah&#xeb;sh t&#xeb; tjer&#xeb;t, sidomos kur ata jan&#xeb; n&#xeb; v&#xeb;shtir&#xeb;si.</span>
+        <span data-id="pg033_n0028">Kur jemi solidar&#xeb;, ne lidhemi me njer&#xeb;zit p&#xeb;rreth nesh dhe i kuptojm&#xeb; ndjenjat dhe nevojat e tyre.</span>
+        <span data-id="pg033_n0029">Kjo na b&#xeb;n m&#xeb; t&#xeb; af&#xeb;rt dhe m&#xeb; t&#xeb; bashkuar si shoq&#xeb;ri dhe m&#xeb; t&#xeb; ndjesh&#xeb;m p&#xeb;r nevojat, t&#xeb; drejtat dhe v&#xeb;shtir&#xeb;sit&#xeb; e t&#xeb; tjer&#xeb;ve.</span>
+        <span data-id="pg033_n0030">Solidariteti &#xeb;sht&#xeb; m&#xeb;nyr&#xeb; jetese, p&#xeb;r t&#x2019;u ofruar mb&#xeb;shtetje njer&#xeb;zve n&#xeb; &#xe7;astet e v&#xeb;shtira.</span>
+        <span data-id="pg033_n0031">T&#xeb; tregosh solidaritet do t&#xeb; thot&#xeb; t&#xeb; veprosh n&#xeb; t&#xeb; mir&#xeb; t&#xeb; nj&#xeb; personi apo grupi tjet&#xeb;r shoq&#xeb;ror.</span>
+        <span data-id="pg033_n0032">Duke mbrojtur interesat e tyre, ne mbrojm&#xeb; interesat tan&#xeb;.</span>
+      </p>
+    </div>
+
+    <p class="adt-body mt-5 text-left text-slate-900">
+      <span data-id="pg033_n0034" class="font-semibold">Fjal&#xeb;t ky&#xe7;e:</span>
+      <span data-id="pg033_n0035">solidaritet, vler&#xeb; njer&#xeb;zore, mb&#xeb;shtetje, p&#xeb;rgjegj&#xeb;si e p&#xeb;rbashk&#xeb;t.</span>
+    </p>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

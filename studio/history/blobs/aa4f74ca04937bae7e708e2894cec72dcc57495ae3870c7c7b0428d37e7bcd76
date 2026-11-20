@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg069_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="85" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container bg-white opacity-0">
+  <section data-section-type="text_and_images" data-section-id="pg069_sec001" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-3">
+    <div class="mb-6 flex items-stretch overflow-hidden rounded-tr-3xl max-sm:flex-col">
+      <div class="flex min-h-[84px] flex-1 items-center bg-[#ad6bb0] px-8 max-sm:min-h-[68px] max-sm:px-4" aria-hidden="true"></div>
+      <div class="flex w-36 items-center justify-center rounded-bl-3xl rounded-tl-3xl bg-[#a565ab] text-white max-sm:h-24 max-sm:w-full max-sm:rounded-bl-none max-sm:rounded-tl-none max-sm:rounded-b-3xl" aria-hidden="true">
+        <span>&#x231b;</span>
+      </div>
+    </div>
+
+    <h1 data-id="pg069_n0004" class="adt-h2 mb-5 border-b-4 border-[#b67ac1] pb-2 font-bold text-gray-800">Familja dikur dhe sot</h1>
+
+    <div class="mb-5 flex items-start gap-5 max-sm:block">
+      <div class="shrink-0 bg-[#69bb78] px-4 py-1.5 max-sm:mb-3 max-sm:inline-block">
+        <h3 data-id="pg069_n0006" class="adt-h3 font-semibold text-gray-900">Situata 1.</h3>
+      </div>
+      <p class="adt-body flex-1 leading-relaxed text-gray-800">
+        <span data-id="pg069_n0008">Dje, ulur para oxhakut n&#xeb; dhom&#xeb;n e ndenjjes, duke d&#xeb;gjuar k&#xeb;rcitjen e zjarrit, kujtova sht&#xeb;pin&#xeb; e madhe t&#xeb; f&#xeb;mij&#xeb;ris&#xeb; sime, n&#xeb; fshatin ton&#xeb;, q&#xeb;, po ashtu, kishte oxhak, rreth t&#xeb; cilit mblidheshim p&#xeb;r t&apos;i d&#xeb;gjuar historit&#xeb; e gjyshit tim.</span>
+        <span data-id="pg069_n0009">N&#xeb;n nj&#xeb; &#xe7;ati jetonim 27 an&#xeb;tar&#xeb;.</span>
+        <span data-id="pg069_n0010">Grat&#xeb; e sht&#xeb;pis&#xeb; p&#xeb;rgatitnin ushqimin dhe na shtronin sofr&#xeb;n me radh&#xeb;: s&#xeb; pari f&#xeb;mij&#xeb;t, m&#xeb; pas burrat e n&#xeb; fund hanin grat&#xeb;.</span>
+        <span data-id="pg069_n0011">Detyr&#xeb; e grave ishte t&#xeb; kryenin pun&#xeb;t e sht&#xeb;pis&#xeb;, t&#xeb; kujdesishin e t&apos;i rritnin f&#xeb;mij&#xeb;t.</span>
+        <span data-id="pg069_n0012">Pak gra ishin t&#xeb; shkolluara e t&#xeb; pun&#xeb;suara.</span>
+        <span data-id="pg069_n0013">Vendimet n&#xeb; sht&#xeb;pi i merrte gjyshi, se ishte i zoti i sht&#xeb;pis&#xeb;.</span>
+        <span data-id="pg069_n0014">Ishin koh&#xeb; t&#xeb; v&#xeb;shtira.</span>
+        <span data-id="pg069_n0015">Nuk kishim uj&#xeb;sjell&#xeb;s.</span>
+        <span data-id="pg069_n0016">Nuk kishim rrym&#xeb; elektrike.</span>
+        <span data-id="pg069_n0017">Nat&#xeb;n ndri&#xe7;onim me qirinj ose me llamb&#xeb; vajguri.</span>
+        <span data-id="pg069_n0018">Tani jetoj n&#xeb; qytet, n&#xeb; Pej&#xeb;.</span>
+        <span data-id="pg069_n0019">U ktheva nga puna.</span>
+        <span data-id="pg069_n0020">Po p&#xeb;rgatis dark&#xeb;n p&#xeb;r gruan time mjeke, e cila s&#xeb; shpejti do t&#xeb; kthehet nga spitali ku punon dhe p&#xeb;r vajz&#xeb;n time studente q&#xeb; po vjen me makin&#xeb; nga Prishtina.</span>
+        <span data-id="pg069_n0021">Ajo do t&#xeb; marr&#xeb; n&#xeb; aeroport v&#xeb;llan&#xeb; e saj, i cili po studion n&#xeb; Lond&#xeb;r.</span>
+        <span data-id="pg069_n0022">Epo, k&#xeb;saj i thon&#xeb; familje bashk&#xeb;kohore!</span>
+      </p>
+    </div>
+
+    <div class="mb-8 grid grid-cols-2 gap-8 px-10 max-lg:grid-cols-1 max-lg:px-0 max-sm:gap-4">
+      <figure>
+        <img data-id="pg069_im001_seg001_v1" src="images/pg069_im001_seg001_v1.png" alt="Burr&#xeb; i ulur n&#xeb; kolltuk pran&#xeb; oxhakut t&#xeb; ndezur, duke kujtuar jet&#xeb;n e dikurshme familjare." class="h-auto w-full">
+      </figure>
+      <figure>
+        <img data-id="pg069_im001_seg002_v1" src="images/pg069_im001_seg002_v1.png" alt="Familje bashk&#xeb;kohore me prind&#xeb;r dhe dy f&#xeb;mij&#xeb; ulur rreth tryez&#xeb;s, duke ngr&#xeb;n&#xeb; dhe biseduar." class="h-auto w-full">
+      </figure>
+    </div>
+
+    <div class="mb-8 rounded-none bg-[#e7d8ef] px-4 py-4 max-sm:px-3">
+      <div class="mb-4 flex justify-end">
+        <div class="flex h-16 w-28 items-center justify-center bg-[#a565ab] text-white max-sm:h-14 max-sm:w-20" aria-hidden="true">
+          <span>?</span>
+        </div>
+      </div>
+      <div class="space-y-4">
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg069_n0025">Si ishte familja dikur?</span></p>
+          <label for="item-1" class="sr-only">Si ishte familja dikur?</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="Si ishte familja dikur?" class="mt-2 min-h-11 w-full rounded-md border border-purple-300 bg-white px-3 py-3 text-gray-800"></textarea>
+        </div>
+
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg069_n0027">Me &#xe7;ka merreshin grat&#xeb;?</span></p>
+          <label for="item-2" class="sr-only">Me &#xe7;ka merreshin grat&#xeb;?</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="Me &#xe7;ka merreshin grat&#xeb;?" class="mt-2 min-h-11 w-full rounded-md border border-purple-300 bg-white px-3 py-3 text-gray-800"></textarea>
+        </div>
+
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg069_n0029">Pse ishte jeta e v&#xeb;shtir&#xeb;?</span></p>
+          <label for="item-3" class="sr-only">Pse ishte jeta e v&#xeb;shtir&#xeb;?</label>
+          <textarea id="item-3" data-activity-item="item-3" aria-label="Pse ishte jeta e v&#xeb;shtir&#xeb;?" class="mt-2 min-h-11 w-full rounded-md border border-purple-300 bg-white px-3 py-3 text-gray-800"></textarea>
+        </div>
+
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg069_n0031">Kush i merrte vendimet n&#xeb; familje?</span></p>
+          <label for="item-4" class="sr-only">Kush i merrte vendimet n&#xeb; familje?</label>
+          <textarea id="item-4" data-activity-item="item-4" aria-label="Kush i merrte vendimet n&#xeb; familje?" class="mt-2 min-h-11 w-full rounded-md border border-purple-300 bg-white px-3 py-3 text-gray-800"></textarea>
+        </div>
+
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg069_n0033">Si &#xeb;sht&#xeb; familja bashk&#xeb;kohore?</span> <span data-id="pg069_n0034">Si merren vendimet e si ndahen p&#xeb;rgjegj&#xeb;sit&#xeb;?</span></p>
+          <label for="item-5" class="sr-only">Si &#xeb;sht&#xeb; familja bashk&#xeb;kohore? Si merren vendimet e si ndahen p&#xeb;rgjegj&#xeb;sit&#xeb;?</label>
+          <textarea id="item-5" data-activity-item="item-5" aria-label="Si &#xeb;sht&#xeb; familja bashk&#xeb;kohore? Si merren vendimet e si ndahen p&#xeb;rgjegj&#xeb;sit&#xeb;?" class="mt-2 min-h-11 w-full rounded-md border border-purple-300 bg-white px-3 py-3 text-gray-800"></textarea>
+        </div>
+
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg069_n0036">B&#xeb;j nj&#xeb; krahasim nd&#xeb;rmjet m&#xeb;nyr&#xeb;s se si kan&#xeb; qen&#xeb; familjet dikur dhe si jan&#xeb; sot.</span></p>
+          <label for="item-6" class="sr-only">B&#xeb;j nj&#xeb; krahasim nd&#xeb;rmjet m&#xeb;nyr&#xeb;s se si kan&#xeb; qen&#xeb; familjet dikur dhe si jan&#xeb; sot.</label>
+          <textarea id="item-6" data-activity-item="item-6" aria-label="B&#xeb;j nj&#xeb; krahasim nd&#xeb;rmjet m&#xeb;nyr&#xeb;s se si kan&#xeb; qen&#xeb; familjet dikur dhe si jan&#xeb; sot." class="mt-2 min-h-11 w-full rounded-md border border-purple-300 bg-white px-3 py-3 text-gray-800"></textarea>
+        </div>
+      </div>
+    </div>
+
+    <aside class="mb-4 border-2 border-[#c987cf] bg-white px-4 py-4">
+      <div class="mb-3 flex justify-end">
+        <div class="flex h-16 w-20 items-center justify-center bg-[#a565ab] text-white max-sm:h-14 max-sm:w-16" aria-hidden="true">
+          <span>&#x1f4d6;</span>
+        </div>
+      </div>
+      <p class="adt-body leading-relaxed text-gray-800 italic">
+        <span data-id="pg069_n0039">Familja &#xeb;sht&#xeb; grupi i par&#xeb; dhe m&#xeb; i vog&#xeb;l shoq&#xeb;ror n&#xeb; t&#xeb; cil&#xeb;n fillon jeta e njeriut.</span>
+        <span data-id="pg069_n0040">Familja shqiptare historikisht p&#xeb;rb&#xeb;hej nga nj&#xeb; num&#xeb;r i madh an&#xeb;tar&#xeb;sh, n&#xeb; t&#xeb; cil&#xeb;n jetonin tre deri n&#xeb; kat&#xeb;r breza: prind&#xeb;rit me f&#xeb;mij&#xeb;t dhe gjysh&#xeb;rit.</span>
+        <span data-id="pg069_n0041">E nganj&#xeb;her&#xeb; edhe st&#xeb;rgjysh&#xeb;rit.</span>
+        <span data-id="pg069_n0042">Prandaj edhe quhej familje e zgjeruar.</span>
+        <span data-id="pg069_n0043">Familja ishte tradicionale dhe udh&#xeb;hiqej nga i zoti i sht&#xeb;pis&#xeb;.</span>
+        <span data-id="pg069_n0044">Sot familja ka p&#xeb;suar ndryshime t&#xeb; m&#xeb;dha.</span>
+        <span data-id="pg069_n0045">Ndryshe prej familjeve tradicionale, n&#xeb; familjen bashk&#xeb;kohore, e cila po z&#xeb; vend gjithnj&#xeb; e m&#xeb; shum&#xeb; n&#xeb; Kosov&#xeb;, jetojn&#xeb; vet&#xeb;m dy breza, q&#xeb; do t&#xeb; thot&#xeb; se jetojn&#xeb; prind&#xeb;rit me f&#xeb;mij&#xeb;t.</span>
+        <span data-id="pg069_n0046">Ndarja e pun&#xeb;ve n&#xeb; familje b&#xeb;het me marr&#xeb;veshje.</span>
+        <span data-id="pg069_n0047">Kjo do t&#xeb; thot&#xeb; se drejtimi i familjes b&#xeb;het bashk&#xeb;risht, nga t&#xeb; dy prind&#xeb;rit.</span>
+      </p>
+    </aside>
+
+    <p class="adt-body text-gray-900">
+      <span data-id="pg069_n0049" class="font-semibold">Fjal&#xeb;t ky&#xe7;e:</span>
+      <span data-id="pg069_n0050">familje, tradicionale, bashk&#xeb;kohore, shum&#xeb;gjenerat&#xeb;she.</span>
+    </p>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

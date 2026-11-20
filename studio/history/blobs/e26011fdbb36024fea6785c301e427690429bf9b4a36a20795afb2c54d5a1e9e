@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg041_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="54">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk"><section data-section-type="text_and_single_image" data-section-id="pg041_sec001" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5 bg-white text-zinc-800">
+  <h1 class="adt-h2 font-semibold text-left border-b-4 border-fuchsia-300 inline-block pb-2 mb-8" data-id="pg041_n0003">Me mendje dhe zemër për njerëzit</h1>
+
+  <div class="mb-8">
+    <h3 class="adt-h3 text-left inline-block bg-amber-300 px-4 py-1 rounded-sm font-semibold mb-3" data-id="pg041_n0005">Situata 2.</h3>
+    <p class="adt-body text-left leading-relaxed">
+      <span data-id="pg041_n0006">Nënë Tereza u dha njerëzve dashurinë e mbështetjen më të madhe.</span>
+      <span data-id="pg041_n0007" class="ml-1">Sa humane!</span>
+      <span data-id="pg041_n0008" class="ml-1">Shpesh, në orën e lëndës Shoqëria dhe mjedisi ne shprehim vlerësim për çdo kontribut në të mirë të njerëzve.</span>
+      <span data-id="pg041_n0009" class="ml-1">Secili nga ne bën aq sa mundet.</span>
+      <span data-id="pg041_n0010" class="ml-1">Fëmijët ndihmojnë të moshuarit që kanë pranë.</span>
+      <span data-id="pg041_n0011" class="ml-1">Mjekët ndihmojnë pacientët dhe këdo që ka nevojë për ta.</span>
+      <span data-id="pg041_n0012" class="ml-1">Mësuesit përkujdesen që fëmijët të marrin sa më shumë dije.</span>
+      <span data-id="pg041_n0013" class="ml-1">Ata ndihmojnë edhe fëmijët që kanë vështirësi.</span>
+      <span data-id="pg041_n0014" class="ml-1">Po ashtu, shokët ndihmojnë njëri-tjetrin në situata të vështira.</span>
+    </p>
+  </div>
+
+  <figure class="mb-4">
+    <div class="relative rounded-lg overflow-hidden shadow-md bg-zinc-100">
+      <img src="images/pg041_im002.jpg" alt="Nënë Tereza u shërben me përkujdesje njerëzve të sëmurë dhe në nevojë." data-id="pg041_im002" class="w-full h-auto block">
+      <div class="absolute top-0 left-0 z-10 bg-black/35 px-4 py-3 max-sm:px-3 max-sm:py-2">
+        <figcaption data-id="pg041_n0016" class="adt-caption text-white font-semibold">Anjezë Gonxhe Bojaxhiu - Nënë Tereza</figcaption>
+      </div>
+    </div>
+  </figure>
+
+  <aside class="mb-8 bg-fuchsia-100 border-l-8 border-fuchsia-300 rounded-r-xl p-5 max-sm:p-4">
+    <div class="space-y-4">
+      <div>
+        <p data-id="pg041_n0018" class="adt-body">- Çfarë dini ju për Nënë Terezën?</p>
+        <label for="item-1" class="sr-only">- Çfarë dini ju për Nënë Terezën?</label>
+        <textarea id="item-1" data-activity-item="item-1" aria-label="- Çfarë dini ju për Nënë Terezën?" class="mt-2 w-full min-h-11 rounded-lg border-2 border-fuchsia-200 bg-white px-4 py-3 outline-none focus:border-fuchsia-400" rows="3"></textarea>
+      </div>
+      <div>
+        <p data-id="pg041_n0019" class="adt-body">- Si u ka ndihmuar dhe si i ka mbështetur ajo njerëzit?</p>
+        <label for="item-2" class="sr-only">- Si u ka ndihmuar dhe si i ka mbështetur ajo njerëzit?</label>
+        <textarea id="item-2" data-activity-item="item-2" aria-label="- Si u ka ndihmuar dhe si i ka mbështetur ajo njerëzit?" class="mt-2 w-full min-h-11 rounded-lg border-2 border-fuchsia-200 bg-white px-4 py-3 outline-none focus:border-fuchsia-400" rows="3"></textarea>
+      </div>
+      <div>
+        <p data-id="pg041_n0020" class="adt-body">- Pse duhet ta ndihmojmë njëri-tjetrin?</p>
+        <label for="item-3" class="sr-only">- Pse duhet ta ndihmojmë njëri-tjetrin?</label>
+        <textarea id="item-3" data-activity-item="item-3" aria-label="- Pse duhet ta ndihmojmë njëri-tjetrin?" class="mt-2 w-full min-h-11 rounded-lg border-2 border-fuchsia-200 bg-white px-4 py-3 outline-none focus:border-fuchsia-400" rows="3"></textarea>
+      </div>
+      <div>
+        <p data-id="pg041_n0021" class="adt-body">- Po ju, a keni mbështetur njerëz në nevojë?</p>
+        <label for="item-4" class="sr-only">- Po ju, a keni mbështetur njerëz në nevojë?</label>
+        <textarea id="item-4" data-activity-item="item-4" aria-label="- Po ju, a keni mbështetur njerëz në nevojë?" class="mt-2 w-full min-h-11 rounded-lg border-2 border-fuchsia-200 bg-white px-4 py-3 outline-none focus:border-fuchsia-400" rows="3"></textarea>
+      </div>
+      <div>
+        <p data-id="pg041_n0022" class="adt-body">- Nëse do të ndiqje shembullin e Nënë Terezës, çfarë veprimi të mirë do të bëje?</p>
+        <label for="item-5" class="sr-only">- Nëse do të ndiqje shembullin e Nënë Terezës, çfarë veprimi të mirë do të bëje?</label>
+        <textarea id="item-5" data-activity-item="item-5" aria-label="- Nëse do të ndiqje shembullin e Nënë Terezës, çfarë veprimi të mirë do të bëje?" class="mt-2 w-full min-h-11 rounded-lg border-2 border-fuchsia-200 bg-white px-4 py-3 outline-none focus:border-fuchsia-400" rows="3"></textarea>
+      </div>
+    </div>
+  </aside>
+
+  <div class="mb-10 border-2 border-fuchsia-300 bg-white rounded-xl p-5 italic text-left shadow-sm">
+    <p class="adt-body leading-relaxed">
+      <span data-id="pg041_n0025">Në vendin ku jetojmë ka njerëz të ndryshëm.</span>
+      <span data-id="pg041_n0026" class="ml-1">Ne duhet t’i pranojmë dhe t’i respektojmë të gjithë.</span>
+      <span data-id="pg041_n0027" class="ml-1">Kur dikush ka nevojë për ndihmë dhe ne përpiqemi ta ndihmojmë, kjo quhet empati.</span>
+      <span data-id="pg041_n0028" class="ml-1">Empatia do të thotë të ndjesh se si ndihet një person tjetër – kur është i mërzitur, i sëmurë, i shqetësuar etj.</span>
+      <span data-id="pg041_n0029" class="ml-1">Ajo vetëdijëson për vuajtjet, dhimbjet dhe gëzimet e njerëzve të tjerë.</span>
+      <span data-id="pg041_n0030" class="ml-1">Kjo bën që ne të jemi të ndjeshëm ndaj të tjerëve dhe të mendojmë për ndjenjat që përjetojnë ata, posaçërisht në gjendje dhe momente të vështira.</span>
+    </p>
+  </div>
+
+  <p class="adt-body font-medium text-left" data-id="pg041_n0031">Fjalët kyçe: empati, mjedis, ndjenjë, shqetësim.</p>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

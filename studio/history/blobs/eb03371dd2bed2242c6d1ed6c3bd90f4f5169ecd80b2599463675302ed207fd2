@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg014_sec001_p4">
+<meta name="page-section-id" content="25">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+body,button,input,textarea,select{font-family:BookPoppins,Poppins,sans-serif!important}main{width:100%}
+#content.bk.bk.bk{padding-top:24px;overflow:visible}
+#content p{margin:0}#content.bk.bk.bk .bk-card--outline{border-color:var(--bk-primary)}#content .bk-caption{margin-top:24px}
+@media(min-width:641px) and (max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full"><div data-family="collaborative-project" id="content" class="bk">
+<section data-section-type="text_and_images" data-section-id="pg014_sec001_p4" class="bk-card bk-card--outline bk-stack" aria-label="Shitja dhe ndihma">
+<section class="bk-activity" data-activity-pattern="offline-action" data-activity-variant=""><p data-id="pg014_n0017" class="bk-body">Ëmbëlsirat dhe kartolinat shitni në një kënd brenda shkollës.</p></section>
+<section class="bk-activity" data-activity-pattern="offline-action" data-activity-variant=""><p data-id="pg014_n0018" class="bk-body">Paratë që do të mblidhen nga shitja e tyre, përdorini për t’u ardhur në ndihmë nxënësve të një shkolle tjetër, që kanë nevojë për pajisje dhe mjete të tjera ndihmëse.</p></section>
+</section><footer class="bk-caption" aria-label="Faqja e burimit 14">14</footer>
+</div></main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body></html>

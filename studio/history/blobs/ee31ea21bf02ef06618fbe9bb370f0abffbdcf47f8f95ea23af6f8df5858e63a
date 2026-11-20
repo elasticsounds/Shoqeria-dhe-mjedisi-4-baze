@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg018_sec002" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="22" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div class="container mx-auto max-w-5xl bg-white px-10 max-lg:px-8 max-sm:px-4 pt-10 pb-12 opacity-0" id="content">
+  <section role="region" data-section-type="activity_fill_in_the_blank" data-section-id="pg018_sec002" class="mx-auto max-w-5xl">
+    <div class="mx-auto flex max-w-4xl items-start max-sm:flex-col">
+      <div class="flex w-28 shrink-0 items-center justify-center self-stretch bg-[#a65fad] max-sm:w-full max-sm:min-h-[88px]">
+        <div class="relative h-16 w-16" aria-hidden="true">
+          <div class="absolute left-1/2 top-1 -translate-x-1/2 h-9 w-7 rounded-t-full rounded-b-lg border-[5px] border-white border-b-0"></div>
+          <div class="absolute left-1/2 top-9 -translate-x-1/2 h-2.5 w-2.5 rounded-full bg-white"></div>
+          <div class="absolute left-1/2 bottom-1 -translate-x-1/2 h-3 w-3 rounded-full border-[4px] border-white"></div>
+        </div>
+      </div>
+      <div class="flex-1 bg-[#ead8ec] px-8 py-6 max-sm:px-5 max-sm:py-5">
+        <div class="space-y-5">
+          <div>
+            <p class="mb-2 leading-relaxed text-black"><span data-id="pg018_n0020">Cilat jan&#xeb; institucionet q&#xeb; na mbrojn&#xeb;?</span></p>
+            <label for="activity-answer-1" class="sr-only">Cilat jan&#xeb; institucionet q&#xeb; na mbrojn&#xeb;?</label>
+            <textarea id="activity-answer-1" data-activity-item="item-1" aria-label="Cilat jan&#xeb; institucionet q&#xeb; na mbrojn&#xeb;?" class="min-h-11 w-full rounded border border-[#b99bc0] bg-white px-3 py-3"></textarea>
+          </div>
+
+          <div>
+            <p class="mb-2 leading-relaxed text-black"><span data-id="pg018_n0021">&#xc7;far&#xeb; masash jan&#xeb; marr&#xeb; p&#xeb;r mbrojtjen e sh&#xeb;ndetit?</span></p>
+            <label for="activity-answer-2" class="sr-only">&#xc7;far&#xeb; masash jan&#xeb; marr&#xeb; p&#xeb;r mbrojtjen e sh&#xeb;ndetit?</label>
+            <textarea id="activity-answer-2" data-activity-item="item-2" aria-label="&#xc7;far&#xeb; masash jan&#xeb; marr&#xeb; p&#xeb;r mbrojtjen e sh&#xeb;ndetit?" class="min-h-11 w-full rounded border border-[#b99bc0] bg-white px-3 py-3"></textarea>
+          </div>
+
+          <div>
+            <p class="mb-2 leading-relaxed text-black"><span data-id="pg018_n0022">Kush kujdeset p&#xeb;r sh&#xeb;ndetin ton&#xeb;?</span></p>
+            <label for="activity-answer-3" class="sr-only">Kush kujdeset p&#xeb;r sh&#xeb;ndetin ton&#xeb;?</label>
+            <textarea id="activity-answer-3" data-activity-item="item-3" aria-label="Kush kujdeset p&#xeb;r sh&#xeb;ndetin ton&#xeb;?" class="min-h-11 w-full rounded border border-[#b99bc0] bg-white px-3 py-3"></textarea>
+          </div>
+
+          <div>
+            <p class="mb-2 leading-relaxed text-black"><span data-id="pg018_n0023">Po ne, &#xe7;far&#xeb; kujdesi duhet t&#xeb; tregojm&#xeb;?</span></p>
+            <label for="activity-answer-4" class="sr-only">Po ne, &#xe7;far&#xeb; kujdesi duhet t&#xeb; tregojm&#xeb;?</label>
+            <textarea id="activity-answer-4" data-activity-item="item-4" aria-label="Po ne, &#xe7;far&#xeb; kujdesi duhet t&#xeb; tregojm&#xeb;?" class="min-h-11 w-full rounded border border-[#b99bc0] bg-white px-3 py-3"></textarea>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"","item-2":"","item-3":"","item-4":""}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

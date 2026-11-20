@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe Mjedisi 4</title>
+  <meta name="title-id" content="pg057_sec001">
+  <meta name="page-section-id" content="75">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  
+  <style>
+    #content.bk.bk.bk section .bk-banner { margin: 0; padding: 16px var(--bk-pad); border-radius: var(--bk-r-card); }
+    #content.bk.bk.bk section h2[data-id="pg057_n0004"] { font-weight: 600; }
+    #interface-container :not(i):not([class*="fa-"]), #nav-container :not(i):not([class*="fa-"]) { font-family: BookPoppins, Poppins, Arial, sans-serif !important; }
+    #content.bk.bk.bk #pg057-scene { width: 100%; max-width: 720px; align-self: center; }
+    #content.bk.bk.bk #pg057-scene img { width: 100%; height: auto; border-radius: 0; }
+    #content.bk.bk.bk #pg057-pictogram { width: 48px; height: auto; }
+    #content.bk.bk.bk #pg057-folio { text-align: right; }
+    #content.bk.bk.bk #pg057-inspection { width: 100%; max-width: min(1000px, calc(100vw - 32px)); max-height: calc(100vh - 32px); overflow: auto; padding: var(--bk-pad); border: var(--bk-border) solid var(--bk-primary); border-radius: var(--bk-r-card); color: var(--bk-ink); background: var(--bk-paper); }
+    #content.bk.bk.bk #pg057-image-area { overflow: auto; max-width: 100%; max-height: 50vh; }
+    #content.bk.bk.bk #pg057-inspection-image { display: block; width: 100%; max-width: 100%; height: auto; }
+  </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"><link href="./book-design/reading.css" rel="stylesheet">
+</head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <div data-family="illustrated-opener" id="content" data-book-theme="decisions" data-reading-layout="visual" class="container opacity-0 bk">
+      <section data-section-type="separator" data-section-id="pg057_sec001" class="bk-stack">
+        <div class="bk-banner"><h1 class="bk-title" data-id="pg057_n0002">Mendime të ndryshme, vendime të përbashkëta</h1></div>
+        <div class="bk-row">
+          <h2 class="bk-heading" data-id="pg057_n0004">Vendimmarrja dikur dhe sot</h2>
+          <img id="pg057-pictogram" src="./studio/assets/pg057_sec001-pictogram.png" alt="" aria-hidden="true" width="48">
+        </div>
+        <figure id="pg057-scene" class="bk-figure">
+          <img src="./studio/assets/pg057_sec001-scene.png" alt="Një i rritur dhe një fëmijë, të buzëqeshur, bisedojnë në divan. Përpara tyre është një tavolinë ovale me një vazo dhe libra; në dhomë ka edhe rafte me libra, dritare, bimë dhe kolltuk.">
+          <div class="bk-row"><button id="pg057-open" class="bk-btn bk-btn--secondary" type="button" aria-haspopup="dialog">Shiko ilustrimin më të madh</button></div>
+        </figure>
+        <p id="pg057-folio" class="bk-caption" aria-label="Faqja e shtypur 57">57</p>
+        <dialog id="pg057-inspection" aria-labelledby="pg057-inspection-title">
+          <div class="bk-stack">
+            <h3 id="pg057-inspection-title" class="bk-subheading" tabindex="-1">Ilustrimi</h3>
+            <div class="bk-row">
+              <button id="pg057-zoom" class="bk-btn bk-btn--secondary" type="button" aria-pressed="false">Zmadho ilustrimin</button>
+              <button id="pg057-close" class="bk-btn" type="button">Mbyll</button>
+            </div>
+            <div id="pg057-image-area" tabindex="0" aria-label="Zona e ilustrimit; përdorni shigjetat për të lëvizur në pamjen e zmadhuar">
+              <img id="pg057-inspection-image" src="./studio/assets/pg057_sec001-scene.png" alt="Një i rritur dhe një fëmijë, të buzëqeshur, bisedojnë në divan. Përpara tyre është një tavolinë ovale me një vazo dhe libra; në dhomë ka edhe rafte me libra, dritare, bimë dhe kolltuk.">
+            </div>
+          </div>
+        </dialog>
+      </section>
+    </div>
+  </main>
+  <script type="text/javascript">
+    window.activityAnswerTextIds = JSON.parse('{}');
+    (function () {
+      var open = document.getElementById('pg057-open');
+      var dialog = document.getElementById('pg057-inspection');
+      var close = document.getElementById('pg057-close');
+      var zoom = document.getElementById('pg057-zoom');
+      var image = document.getElementById('pg057-inspection-image');
+      open.addEventListener('click', function () { dialog.showModal(); document.getElementById('pg057-inspection-title').focus(); });
+      close.addEventListener('click', function () { dialog.close(); });
+      zoom.addEventListener('click', function () {
+        var enlarged = zoom.getAttribute('aria-pressed') !== 'true';
+        zoom.setAttribute('aria-pressed', String(enlarged));
+        zoom.textContent = enlarged ? 'Përshtat pamjen' : 'Zmadho ilustrimin';
+        image.style.width = enlarged ? '200%' : '100%';
+        image.style.maxWidth = enlarged ? 'none' : '100%';
+      });
+      dialog.addEventListener('close', function () {
+        zoom.setAttribute('aria-pressed', 'false');
+        zoom.textContent = 'Zmadho ilustrimin';
+        image.style.width = '100%';
+        image.style.maxWidth = '100%';
+        open.focus();
+      });
+    }());
+  </script>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

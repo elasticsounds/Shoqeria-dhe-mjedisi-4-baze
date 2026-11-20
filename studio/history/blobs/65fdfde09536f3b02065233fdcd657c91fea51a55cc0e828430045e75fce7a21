@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg047_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="61">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-4 py-8 bg-white opacity-0 bk">
+  <section data-section-type="text_and_single_image" data-section-id="pg047_sec001" class="w-full text-slate-800">
+    <div class="overflow-hidden rounded-[2rem] border border-[#ecd27a] bg-[#fbe59b] shadow-sm">
+      <div class="flex items-start justify-between gap-4 bg-[#a86bb0] px-6 py-4 max-sm:flex-col max-sm:items-start">
+        <h1 class="adt-h3 font-bold text-white" data-id="pg047_n0002">Mendime të ndryshme, vendime të përbashkëta</h1>
+        <div aria-hidden="true" class="shrink-0 rounded-2xl bg-white/15 px-4 py-3 max-sm:self-start">
+          <div class="flex items-center gap-3">
+            <div class="relative h-10 w-10 rounded-full bg-white"></div>
+            <div class="relative h-10 w-10 rounded-full bg-white"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="px-6 pt-5 pb-6">
+        <h2 class="adt-h2 font-semibold mb-2" data-id="pg047_n0004">Hapat e vendimmarrjes</h2>
+        <div class="mb-4 h-1 w-1/2 bg-[#b56abd] max-sm:w-2/3"></div>
+        <div class="rounded-[1.5rem] border border-[#efd98e] bg-[#f9e8aa] p-3">
+          <img data-id="pg047_im001_crop_v1" src="images/pg047_im001_crop_v1.png" alt="Tre nxënës duke diskutuar me mësuesen para tabelës në klasë." class="block w-full h-auto rounded-[1rem] bg-[#fbe59b]">
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-6 rounded-[1.5rem] border border-[#cbb3d2] bg-[#d6c1dc] px-5 py-5">
+      <ul class="space-y-5 list-none">
+        <li class="adt-body text-slate-800">
+          <span data-id="pg047_n0008">Shkruani një kërkesë-propozim për ndërtimin e një palestre në shkollë.</span>
+          <label for="item-1" class="sr-only">Shkruani një kërkesë-propozim për ndërtimin e një palestre në shkollë.</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="Shkruani një kërkesë-propozim për ndërtimin e një palestre në shkollë." class="mt-3 w-full min-h-11 rounded-xl border-2 border-[#b56abd] bg-white px-4 py-3 text-slate-800 outline-none focus:ring-2 focus:ring-[#a86bb0]"></textarea>
+        </li>
+        <li class="adt-body text-slate-800">
+          <span data-id="pg047_n0010">Kujt mendoni t’ia dërgoni kërkesën?</span>
+          <label for="item-2" class="sr-only">Kujt mendoni t’ia dërgoni kërkesën?</label>
+          <input id="item-2" data-activity-item="item-2" type="text" aria-label="Kujt mendoni t’ia dërgoni kërkesën?" class="mt-3 w-full min-h-11 rounded-xl border-2 border-[#b56abd] bg-white px-4 py-3 text-slate-800 outline-none focus:ring-2 focus:ring-[#a86bb0]">
+        </li>
+        <li class="adt-body text-slate-800">
+          <span data-id="pg047_n0012">Si mendoni se do të ndikojë propozimi juaj?</span>
+          <label for="item-3" class="sr-only">Si mendoni se do të ndikojë propozimi juaj?</label>
+          <textarea id="item-3" data-activity-item="item-3" aria-label="Si mendoni se do të ndikojë propozimi juaj?" class="mt-3 w-full min-h-11 rounded-xl border-2 border-[#b56abd] bg-white px-4 py-3 text-slate-800 outline-none focus:ring-2 focus:ring-[#a86bb0]"></textarea>
+        </li>
+        <li class="adt-body text-slate-800">
+          <span data-id="pg047_n0014">Tregoni disa situata të ngjashme, në të cilat jeni të përfshirë në marrjen e vendimeve të rëndësishme në shkollën apo klasën tuaj.</span>
+          <label for="item-4" class="sr-only">Tregoni disa situata të ngjashme, në të cilat jeni të përfshirë në marrjen e vendimeve të rëndësishme në shkollën apo klasën tuaj.</label>
+          <textarea id="item-4" data-activity-item="item-4" aria-label="Tregoni disa situata të ngjashme, në të cilat jeni të përfshirë në marrjen e vendimeve të rëndësishme në shkollën apo klasën tuaj." class="mt-3 w-full min-h-11 rounded-xl border-2 border-[#b56abd] bg-white px-4 py-3 text-slate-800 outline-none focus:ring-2 focus:ring-[#a86bb0]"></textarea>
+        </li>
+      </ul>
+    </div>
+
+    <div class="mt-8 border-2 border-[#c98acb] bg-white px-5 py-5 shadow-sm">
+      <p class="adt-body italic text-slate-800 leading-relaxed">
+        <span data-id="pg047_n0017">Procesi i vendimmarrjes kërkon njerëz të vetëdijshëm dhe të përgjegjshëm për atë që bëjnë, sepse duhet të arrihen zgjidhje të kënaqshme për palët pjesëmarrëse.</span>
+        <span data-id="pg047_n0018">Pra, vendimmarrja është edhe proces i arritjes së kompromisit.</span>
+        <span data-id="pg047_n0019">Por, para se të merren vendime, njerëzit diskutojnë me njëri-tjetrin.</span>
+        <span data-id="pg047_n0020">Ndërsa, diskutimi duhet të bëhet sipas disa rregullave.</span>
+        <span data-id="pg047_n0021">Prandaj, për t’u marrë vesh sa më mirë me njëri-tjetrin, hartohen rregulla që duhen zbatuar nga të gjithë.</span>
+        <span data-id="pg047_n0022">Fëmijët duhet të ndihen të pranuar, të respektuar, të mbrojtur, të barabartë në ambientet brenda dhe jashtë shkollës.</span>
+        <span data-id="pg047_n0023">Përfshirja në vendimmarrje nënkupton pjesëmarrjen e fëmijëve në planifikim, në ndarjen e përgjegjësive, në aktivitetet e ndryshme etj.</span>
+      </p>
+    </div>
+
+    <div class="mt-8 rounded-2xl border border-[#f1cd73] bg-[#fbe09a] px-5 py-5">
+      <h3 class="adt-h3 font-bold text-slate-800 mb-3" data-id="pg047_n0025">Mendime të ndryshme, vendime të përbashkëta</h3>
+      <p class="adt-body text-slate-800 mb-4"><span data-id="pg047_n0027">Disa hapa që duhen pasur parasysh gjatë marrjes së vendimit janë:</span></p>
+      <ul class="space-y-2 text-slate-800 list-none">
+        <li class="adt-body"><span data-id="pg047_n0030">të sqarojmë për çfarë po vendosim;</span></li>
+        <li class="adt-body"><span data-id="pg047_n0032">paraqiten fakte, materiale dhe informacione, që të kuptojmë më mirë problemin;</span></li>
+        <li class="adt-body"><span data-id="pg047_n0034">nxënësit japin zgjidhjet e tyre për situatën;</span></li>
+        <li class="adt-body"><span data-id="pg047_n0036">shikojmë anët e mira dhe të këqija të secilës zgjidhje të propozuar;</span></li>
+        <li class="adt-body"><span data-id="pg047_n0038">përpiqemi të biem dakord për zgjidhjen më të mirë;</span></li>
+        <li class="adt-body">
+          <span data-id="pg047_n0040">nëse nuk arrihet ajo, atëherë opsionet hidhen në votim.</span>
+          <span data-id="pg047_n0041">Opsioni që merr më shumë vota, fiton.</span>
+        </li>
+      </ul>
+    </div>
+
+    <p class="adt-body mt-8 text-slate-800 font-medium">
+      <span data-id="pg047_n0042">Fjalët kyçe: vendimmarrje, propozim, diskutim, vendim.</span>
+    </p>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

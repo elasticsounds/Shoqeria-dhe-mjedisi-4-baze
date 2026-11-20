@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg086_sec001_p3">
+<meta name="page-section-id" content="116">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+body,button,input,textarea,select{font-family:BookPoppins,Poppins,sans-serif}
+#content.bk.bk.bk.bk{padding-top:24px;overflow-x:visible}
+#content.bk.bk.bk.bk .bk-figure{max-width:720px;gap:12px}
+#content.bk.bk.bk.bk .bk-figure img{width:100%;height:auto;border:2px solid var(--bk-accent2);border-radius:0}
+#content.bk.bk.bk .bk-figure figcaption{text-align:center}
+@media(min-width:768px){#content.bk.bk.bk.bk{padding-inline:32px}}
+@media(max-width:767px){#content.bk.bk.bk.bk{padding-inline:16px}}
+#interface-container :not(i):not([class*="fa-"]),#nav-container :not(i):not([class*="fa-"]){font-family:BookPoppins,Poppins,sans-serif!important;font-size:18px}
+:is(#interface-container,#nav-container) :is(button,a,input,select){min-height:48px;min-width:48px}
+:is(#interface-container,#nav-container) :focus-visible{outline:3px solid var(--bk-focus);outline-offset:3px}
+@media(prefers-reduced-motion:reduce){body *,body *::before,body *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div id="content" class="bk" data-family="illustrated-reading" data-source-page="86">
+<section data-section-type="text_and_single_image" data-section-id="pg086_sec001_p3" aria-label="Bjekshët e Nemuna - Rugovë">
+<figure class="bk-figure">
+<a href="images/pg086_im001.png" target="_blank" rel="noopener" aria-label="Hap fotografinë e Bjeshkëve të Nemuna në madhësi të plotë (hapet në skedë të re)"><img data-id="pg086_im001" src="images/pg086_im001.png" alt="Pamje panoramike e Bjeshkëve e Nemuna në Rugovë, me maja të thepisura shkëmbore, lugina të thella dhe shpatet me gjelbërim nën qiell të kthjellët."></a>
+<figcaption class="bk-caption" data-id="pg086_n0017">Bjekshët e Nemuna - Rugovë</figcaption>
+</figure>
+<p class="bk-caption" aria-label="Faqja e shtypur 86">86</p>
+</section>
+</div>
+</main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+<script>
+(()=>{function labelPage(){for(const root of [document.getElementById('interface-container'),document.getElementById('nav-container')]){if(!root)continue;const w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT);while(w.nextNode()){const n=w.currentNode;if(n.parentElement.closest('#navPopup'))continue;if(n.nodeValue.trim()==='Indeksi')n.nodeValue='Bjekshët e Nemuna - Rugovë';}}}new MutationObserver(labelPage).observe(document.body,{childList:true,subtree:true,characterData:true});labelPage();})();
+</script>
+</body>
+</html>

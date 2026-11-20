@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg044_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="57">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" class="container mx-auto max-w-5xl bg-white px-10 max-lg:px-8 max-sm:px-4 pt-8 pb-12 opacity-0 bk" id="content">
+  <section data-section-type="activity_open_ended_answer" data-section-id="pg044_sec001" role="region" class="mx-auto">
+    <div class="mb-8">
+      <div class="flex items-stretch max-sm:flex-col max-sm:items-start">
+        <div class="bg-purple-500 rounded-l-2xl rounded-r-md px-6 py-6 w-36 flex items-center justify-center max-sm:w-full max-sm:rounded-2xl max-sm:mb-3">
+          <div class="flex gap-2 items-center" aria-hidden="true">
+            <div class="w-14 h-14 rounded-full bg-white relative">
+              <div class="absolute -bottom-2 left-3 w-0 h-0 border-t-[12px] border-t-white border-r-[10px] border-r-transparent"></div>
+            </div>
+            <div class="w-14 h-14 rounded-full bg-white relative -ml-4 border-4 border-purple-500">
+              <div class="absolute top-6 left-5 flex gap-1">
+                <span class="w-1.5 h-1.5 bg-purple-400 rounded-full"></span>
+                <span class="w-1.5 h-1.5 bg-purple-400 rounded-full"></span>
+                <span class="w-1.5 h-1.5 bg-purple-400 rounded-full"></span>
+              </div>
+              <div class="absolute -bottom-2 right-3 w-0 h-0 border-t-[12px] border-t-white border-l-[10px] border-l-transparent"></div>
+            </div>
+          </div>
+        </div>
+        <div class="flex-1 pt-6 max-sm:pt-0">
+          <div class="bg-purple-500 text-white px-4 py-3">
+            <h1 class="adt-h2 font-bold leading-tight"><span data-id="pg044_n0002">Mendime të ndryshme, vendime të përbashkëta</span></h1>
+          </div>
+          <div class="px-2 pt-3 border-b-4 border-purple-400 max-w-[30rem] max-sm:max-w-full">
+            <h2 class="adt-h2 text-gray-900 font-normal pb-2"><span data-id="pg044_n0004">Respektoj mendimin e tjetrit</span></h2>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-10">
+      <div class="flex items-start gap-5 max-sm:block mb-4">
+        <div class="bg-green-500 text-gray-900 px-4 py-1 min-w-[10rem] text-right max-sm:inline-block max-sm:mb-3">
+          <h3 class="adt-h3 font-normal"><span data-id="pg044_n0006">Situata 1.</span></h3>
+        </div>
+        <div class="flex-1 adt-body leading-relaxed text-gray-900 space-y-1">
+          <p>
+            <span data-id="pg044_n0008">Sa herë jemi gjendur përballë situatave të tilla</span>
+            <span data-id="pg044_n0009">Shkaku ishte propozimi i mësueses për të organizuar një udhëtim drejt qendrave historike e kulturore.</span>
+            <span data-id="pg044_n0010">Dritani zgjodhi Krujën, si vendin ku do të njihej me historinë e Skënderbeut, muzeun, rrugët e rrugicat e bukura të qytetit</span>
+            <span data-id="pg044_n0011">Blerta u shpreh se e kishte vizituar.</span>
+            <span data-id="pg044_n0012">I pëlqente më shumë Prizreni.</span>
+            <span data-id="pg044_n0013">Aty zinte fill historia e Lidhjes së Prizrenit dhe e figurave të shquara të historisë së shqiptarëve brenda e jashtë trojeve</span>
+          </p>
+        </div>
+      </div>
+
+      <div class="mb-4">
+        <img data-id="pg044_im002" src="images/pg044_im002.png" alt="Mësuesja qëndron mes dy nxënësve në banka dhe i nxit të shprehin mendime të ndryshme, me flluska mendimi mbi ta." class="w-full h-auto block">
+      </div>
+
+      <div class="grid grid-cols-3 gap-4 items-start max-sm:grid-cols-1 mb-8">
+        <div class="flex flex-col items-center">
+          <div class="w-full bg-white rounded-full px-3 py-2 text-center shadow-sm border border-gray-100">
+            <span data-id="pg044_n0015" class="adt-caption font-semibold text-gray-800">Situata 1.</span>
+          </div>
+        </div>
+        <div class="flex flex-col items-center">
+          <img data-id="pg044_im003_crop_v1" src="images/pg044_im003_crop_v1.png" alt="Kalaja e Krujës me flamurin shqiptar mbi ndërtesat historike dhe malet në sfond." class="w-full h-auto block rounded-md shadow-sm">
+          <div class="mt-2 text-center">
+            <span data-id="pg044_n0017" class="adt-caption text-gray-900">Kruja</span>
+          </div>
+        </div>
+        <div class="flex flex-col items-center">
+          <img data-id="pg044_im004_crop_v1" src="images/pg044_im004_crop_v1.png" alt="Monumenti i Skënderbeut mbi kalë pranë një flamuri të madh shqiptar, me male në sfond." class="w-full h-auto block rounded-md shadow-sm">
+          <div class="mt-2 text-center">
+            <span data-id="pg044_n0019" class="adt-caption text-gray-900">Prizreni / Skënderbeu</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="bg-purple-100 max-sm:bg-purple-50 p-4 pl-0 max-sm:pl-4">
+        <div class="flex items-start max-sm:block">
+          <div class="bg-purple-500 text-white w-28 min-h-20 flex items-center justify-center mr-4 max-sm:w-full max-sm:min-h-14 max-sm:mb-4 rounded-r-md max-sm:rounded-md">
+            <span class="text-5xl leading-none font-bold" aria-hidden="true">?</span>
+          </div>
+          <div class="flex-1 space-y-6">
+            <div>
+              <p class="adt-body text-gray-900"><span data-id="pg044_n0022">Vazhdoni situatën, duke propozuar zgjidhje të tjera.</span></p>
+              <label for="activity-item-1" class="sr-only">Vazhdoni situatën, duke propozuar zgjidhje të tjera.</label>
+              <textarea id="activity-item-1" data-activity-item="item-1" aria-label="Vazhdoni situatën, duke propozuar zgjidhje të tjera." class="mt-2 w-full min-h-32 max-sm:min-h-28 rounded-md border border-purple-200 bg-white px-3 py-3 focus:outline-none focus:ring-2 focus:ring-purple-300"></textarea>
+            </div>
+            <div>
+              <p class="adt-body text-gray-900"><span data-id="pg044_n0024">Listoni argumente ku të mbështesni zgjedhjet tuaja.</span></p>
+              <label for="activity-item-2" class="sr-only">Listoni argumente ku të mbështesni zgjedhjet tuaja.</label>
+              <textarea id="activity-item-2" data-activity-item="item-2" aria-label="Listoni argumente ku të mbështesni zgjedhjet tuaja." class="mt-2 w-full min-h-32 max-sm:min-h-28 rounded-md border border-purple-200 bg-white px-3 py-3 focus:outline-none focus:ring-2 focus:ring-purple-300"></textarea>
+            </div>
+            <div>
+              <p class="adt-body text-gray-900"><span data-id="pg044_n0026">Në cilën mënyrë mendoni se e respektoni mendimin e tjetrit?</span></p>
+              <label for="activity-item-3" class="sr-only">Në cilën mënyrë mendoni se e respektoni mendimin e tjetrit?</label>
+              <textarea id="activity-item-3" data-activity-item="item-3" aria-label="Në cilën mënyrë mendoni se e respektoni mendimin e tjetrit?" class="mt-2 w-full min-h-32 max-sm:min-h-28 rounded-md border border-purple-200 bg-white px-3 py-3 focus:outline-none focus:ring-2 focus:ring-purple-300"></textarea>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <div class="flex items-start gap-5 max-sm:block mb-3">
+        <div class="bg-yellow-300 text-gray-900 px-4 py-1 min-w-[10rem] text-right max-sm:inline-block max-sm:mb-3">
+          <h3 class="adt-h3 font-normal"><span data-id="pg044_n0027">Situata 2.</span></h3>
+        </div>
+        <div class="flex-1 adt-body leading-relaxed text-gray-900">
+          <p>
+            <span data-id="pg044_n0029">Shpesh, me prindërit diskutojmë për gjëra të ndryshme në familje, p.sh.:</span>
+            <span data-id="pg044_n0030">si mund t’i ndihmojmë ata t'i kalojnë shqetësimet që lidhen me punët e shtëpisë ose kujdesin për gjyshërit.</span>
+            <span data-id="pg044_n0031">Vëllai i madh punon, pothuajse, gjithë ditën dhe shpeshherë nuk është i pranishëm në diskutimet tona</span>
+          </p>
+        </div>
+      </div>
+      <div class="pl-[11.25rem] max-sm:pl-0">
+        <label for="activity-item-4" class="sr-only">Përgjigjja për Situata 2</label>
+        <textarea id="activity-item-4" data-activity-item="item-4" aria-label="Përgjigjja për Situata 2" class="w-full min-h-32 max-sm:min-h-28 rounded-md border border-yellow-300 bg-yellow-50 px-3 py-3 focus:outline-none focus:ring-2 focus:ring-yellow-300"></textarea>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg059_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="73">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk"><section data-section-type="text_and_images" data-section-id="pg059_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 text-slate-800 max-sm:px-4">
+  <div class="mb-8">
+    <div class="h-3 w-full bg-purple-400"></div>
+    <div class="pt-4">
+      <h1 data-id="pg059_n0003" class="adt-h2 text-left font-bold text-slate-800">Vizitë në një studio ligjore</h1>
+      <div aria-hidden="true" class="mt-2 h-1 w-80 max-w-full bg-purple-300"></div>
+    </div>
+  </div>
+
+  <p class="adt-body mb-6 text-left leading-relaxed">
+    <span data-id="pg059_n0005">Shikoni figurat e mëposhtme.</span>
+    <span data-id="pg059_n0006" class="ml-1">Lexoni fjalitë poshtë secilës figurë.</span>
+  </p>
+
+  <div class="mb-6 grid grid-cols-2 gap-3 max-lg:grid-cols-1">
+    <figure class="flex flex-col justify-between border-2 border-amber-300 bg-white p-4">
+      <img data-id="pg059_im001_seg001_v1" src="images/pg059_im001_seg001_v1.png" alt="Gjyqtarja shqyrton dokumentet dhe merr vendimin në gjykatë." class="mx-auto w-full h-auto object-contain">
+      <figcaption data-id="pg059_n0011" class="adt-caption mt-3 text-center leading-snug text-slate-800">Gjyqtarja shqyrton faktet, dëgjon dëshmitarët dhe merr vendimin.</figcaption>
+    </figure>
+    <figure class="flex flex-col justify-between border-2 border-amber-300 bg-white p-4">
+      <img data-id="pg059_im001_seg002_v1" src="images/pg059_im001_seg002_v1.png" alt="Prokurori paraqet faktet kundër të akuzuarit." class="mx-auto w-full h-auto object-contain">
+      <figcaption data-id="pg059_n0014" class="adt-caption mt-3 text-center leading-snug text-slate-800">Prokurori paraqet në gjykatë faktet kundër të akuzuarit.</figcaption>
+    </figure>
+    <figure class="flex flex-col justify-between border-2 border-amber-300 bg-white p-4">
+      <img data-id="pg059_im001_seg003_v1" src="images/pg059_im001_seg003_v1.png" alt="Noteri vërteton dokumentet në zyrë." class="mx-auto w-full h-auto object-contain">
+      <figcaption data-id="pg059_n0018" class="adt-caption mt-3 text-center leading-snug text-slate-800">Noteri dëshmon për vërtetësinë e dokumenteve.</figcaption>
+    </figure>
+    <figure class="flex flex-col justify-between border-2 border-amber-300 bg-white p-4">
+      <img data-id="pg059_im001_seg004_v1" src="images/pg059_im001_seg004_v1.png" alt="Avokatja mbron të akuzuarit duke përdorur fakte dhe ligje." class="mx-auto w-full h-auto object-contain">
+      <figcaption data-id="pg059_n0021" class="adt-caption mt-3 text-center leading-snug text-slate-800">Avokatja mbron të akuzuarit nëpërmjet fakteve, duke interpretuar ligjet.</figcaption>
+    </figure>
+  </div>
+
+  <div class="mb-5 border border-purple-300 bg-purple-200/80 p-0">
+    <div class="p-3">
+      <p class="adt-body text-left leading-relaxed text-slate-800">
+        <span data-id="pg059_n0023">- Flisni rreth përshtypjeve që keni nga vizita e organizuar në studion ligjore.</span>
+      </p>
+    </div>
+    <div class="border-t border-purple-300 bg-purple-100/70 p-3">
+      <label for="item-1" class="sr-only">- Flisni rreth përshtypjeve që keni nga vizita e organizuar në studion ligjore.</label>
+      <textarea id="item-1" data-activity-item="item-1" aria-label="- Flisni rreth përshtypjeve që keni nga vizita e organizuar në studion ligjore." class="min-h-11 w-full rounded-md border-2 border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500" rows="4"></textarea>
+    </div>
+  </div>
+
+  <div class="mb-8 border-2 border-purple-300 bg-white p-4">
+    <p class="adt-body text-left italic leading-relaxed text-slate-800">
+      <span data-id="pg059_n0026">Zgjidhja e konflikteve bazohet në ligjet e Kosovës dhe ligjet ndërkombëtare, që mbrojnë të drejtat e njeriut.</span>
+      <span data-id="pg059_n0027" class="ml-1">Çdo vend duhet të ketë një sistem të drejtësisë që funksionon mirë, është i drejtë, i hapur dhe i ndershëm me të gjithë qytetarët.</span>
+      <span data-id="pg059_n0028" class="ml-1">Ligjet janë shumë të rëndësishme dhe duhen zbatuar për të mbrojtur njerëzit dhe për të ndihmuar shoqërinë të jetë e drejtë dhe demokratike.</span>
+      <span data-id="pg059_n0029" class="ml-1">Avokatët janë persona që e njohin mirë ligjin dhe ndihmojnë njerëzit kur ata kanë probleme.</span>
+      <span data-id="pg059_n0030" class="ml-1">Ata duhet të jenë të përgjegjshëm dhe të sillen me ndershmëri, që drejtësia të funksionojë si duhet.</span>
+      <span data-id="pg059_n0031" class="ml-1">Drejtësia është përmirësuar me kohën, që të jetë më e mirë për të gjithë.</span>
+    </p>
+  </div>
+
+  <div class="border-t border-slate-200 pt-4">
+    <p class="adt-body text-left leading-relaxed text-slate-800">
+      <span data-id="pg059_n0033" class="font-semibold">Fjalët kyçe:</span>
+      <span data-id="pg059_n0034" class="ml-1">drejtësi, studio, prokuror, gjyqtar, avokat, noter, ligj.</span>
+    </p>
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

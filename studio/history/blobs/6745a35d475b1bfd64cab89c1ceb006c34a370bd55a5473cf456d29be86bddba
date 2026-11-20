@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg112_sec003_p2">
+    <meta name="page-section-id" content="151">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+      #content.bk.bk.bk.bk { padding-top: var(--bk-gap); overflow: visible; }
+      #content.bk.bk.bk.bk .bk-card--outline { border-color: var(--bk-primary); }
+      #content.bk.bk.bk .bk-card p { max-width: 720px; margin: 0; }
+      #content.bk.bk.bk .bk-card p + p { margin-top: 12px; }
+      #content.bk.bk.bk em { font-style: normal; font-weight: 600; }
+      #content.bk.bk.bk.bk strong { font-weight: 700; }
+      #page-heading, #nav-container, #nav-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands),
+      #interface-container, #interface-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands) { font-family: BookPoppins, Poppins, sans-serif; }
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk">
+        <section data-section-type="boxed_text" data-section-id="pg112_sec003_p2" class="bk-stack">
+          <div class="bk-card bk-card--outline">
+            <p class="bk-body"><em><span data-id="pg112_n0034">Ndotja e ujit ndodh kur ndotësit hidhen në ujë, pa treguar kujdes për të hequr përbërjet e dëmshme.</span> <span data-id="pg112_n0035">Ndotja e ujit prek bimët dhe organizmat që jetojnë në këto ujëra dhe shkakton efekte të dëmshme në to.</span> <span data-id="pg112_n0036">Ndotësit kryesorë dhe shkaktarë të sëmundjeve të shumta infektive janë ujërat e zeza.</span> <span data-id="pg112_n0037">Secili vend duhet të ketë kujdes për ndërtimin e sistemit të derdhjes së ujërave të zeza.</span></em></p>
+          </div>
+          <p class="bk-body"><strong data-id="pg112_n0040">Fjalët kyçe:</strong> <span data-id="pg112_n0041">ujë, lumë, ndotje, kursim, jetesë.</span></p>
+        </section>
+      </div>
+    </main>
+    <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

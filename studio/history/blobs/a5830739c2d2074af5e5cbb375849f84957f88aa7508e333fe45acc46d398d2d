@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg081_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="113">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="collaborative-project" id="content" class="container mx-auto max-w-5xl bg-white rounded-lg px-16 max-lg:px-10 max-sm:px-4 pt-10 pb-12 opacity-0 bk">
+  <section class="bg-white mx-auto" role="region" data-section-type="activity_sorting" data-section-id="pg081_sec002">
+    <div class="mb-8 rounded-md bg-green-100 px-8 py-6 max-sm:px-5 max-sm:py-5">
+      <div class="space-y-3 text-left">
+        <p class="adt-body leading-relaxed" data-id="pg081_n0034">Kërkoni që të japë një mesazh për brezat e rinj.</p>
+        <p class="adt-body leading-relaxed" data-id="pg081_n0035">Në pamundësi të pjesëmarrjes së ndonjë të ftuari në klasën tuaj, ju mund të krijoni një ekspozitë me fotografitë e personave të njohur dhe veprat e tyre.</p>
+        <p class="adt-body leading-relaxed" data-id="pg081_n0036">Aktivitet: mësuesi përgatit etiketa me emrat e njerëzve të njohur të vendit tuaj.</p>
+        <p class="adt-body leading-relaxed" data-id="pg081_n0037">Ti dhe shokët e tu i merrni ato dhe i vendosni sipas kategorive.</p>
+      </div>
+    </div>
+
+    <div class="space-y-6">
+      <div class="overflow-x-auto max-sm:overflow-visible">
+        <table class="w-full border-collapse table-fixed max-sm:block" aria-label="Kategoritë">
+          <tbody class="max-sm:flex max-sm:flex-col max-sm:gap-4">
+            <tr class="max-sm:flex max-sm:flex-col max-sm:gap-0 max-sm:border-2 max-sm:border-green-400 max-sm:rounded-md max-sm:overflow-hidden">
+              <td class="border-2 border-green-400 px-4 py-3 text-center align-middle max-sm:border-0 max-sm:border-b-2 max-sm:border-green-400 max-sm:bg-white">
+                <span class="adt-body" data-id="pg081_n0042">Sportist/e</span>
+              </td>
+              <td class="border-2 border-l-0 border-green-400 p-3 max-sm:border-0 max-sm:bg-white">
+                <label for="activity-item-1" class="sr-only">Sportist/e</label>
+                <input id="activity-item-1" data-activity-item="item-1" type="text" aria-label="Sportist/e" class="min-h-11 w-full rounded-md border border-green-400 bg-white px-3 py-2">
+              </td>
+              <td class="border-2 border-l-0 border-green-400 px-4 py-3 text-center align-middle max-sm:border-0 max-sm:border-t-2 max-sm:border-green-400 max-sm:bg-white">
+                <span class="adt-body" data-id="pg081_n0044">Mjek/e</span>
+              </td>
+              <td class="border-2 border-l-0 border-green-400 p-3 max-sm:border-0 max-sm:bg-white">
+                <label for="activity-item-2" class="sr-only">Mjek/e</label>
+                <input id="activity-item-2" data-activity-item="item-2" type="text" aria-label="Mjek/e" class="min-h-11 w-full rounded-md border border-green-400 bg-white px-3 py-2">
+              </td>
+              <td class="border-2 border-l-0 border-green-400 px-4 py-3 text-center align-middle max-sm:border-0 max-sm:border-t-2 max-sm:border-green-400 max-sm:bg-white">
+                <span class="adt-body" data-id="pg081_n0046">Këngëtar/e</span>
+              </td>
+              <td class="border-2 border-l-0 border-green-400 p-3 max-sm:border-0 max-sm:bg-white">
+                <label for="activity-item-3" class="sr-only">Këngëtar/e</label>
+                <input id="activity-item-3" data-activity-item="item-3" type="text" aria-label="Këngëtar/e" class="min-h-11 w-full rounded-md border border-green-400 bg-white px-3 py-2">
+              </td>
+              <td class="border-2 border-l-0 border-green-400 px-4 py-3 text-center align-middle max-sm:border-0 max-sm:border-t-2 max-sm:border-green-400 max-sm:bg-white">
+                <span class="adt-body" data-id="pg081_n0048">Aktor/e</span>
+              </td>
+              <td class="border-2 border-l-0 border-green-400 p-3 max-sm:border-0 max-sm:bg-white">
+                <label for="activity-item-4" class="sr-only">Aktor/e</label>
+                <input id="activity-item-4" data-activity-item="item-4" type="text" aria-label="Aktor/e" class="min-h-11 w-full rounded-md border border-green-400 bg-white px-3 py-2">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="flex justify-center">
+        <table class="w-3/4 border-collapse table-fixed max-lg:w-5/6 max-sm:w-full max-sm:block" aria-label="Kategoritë e tjera">
+          <tbody class="max-sm:flex max-sm:flex-col max-sm:gap-4">
+            <tr class="max-sm:flex max-sm:flex-col max-sm:gap-0 max-sm:border-2 max-sm:border-green-400 max-sm:rounded-md max-sm:overflow-hidden">
+              <td class="border-2 border-green-400 px-4 py-3 text-center align-middle max-sm:border-0 max-sm:border-b-2 max-sm:border-green-400 max-sm:bg-white">
+                <span class="adt-body" data-id="pg081_n0056">Mësues/e</span>
+              </td>
+              <td class="border-2 border-l-0 border-green-400 p-3 max-sm:border-0 max-sm:bg-white">
+                <label for="activity-item-5" class="sr-only">Mësues/e</label>
+                <input id="activity-item-5" data-activity-item="item-5" type="text" aria-label="Mësues/e" class="min-h-11 w-full rounded-md border border-green-400 bg-white px-3 py-2">
+              </td>
+              <td class="border-2 border-l-0 border-green-400 px-4 py-3 text-center align-middle max-sm:border-0 max-sm:border-t-2 max-sm:border-green-400 max-sm:bg-white">
+                <span class="adt-body" data-id="pg081_n0058">Biznesmen/e</span>
+              </td>
+              <td class="border-2 border-l-0 border-green-400 p-3 max-sm:border-0 max-sm:bg-white">
+                <label for="activity-item-6" class="sr-only">Biznesmen/e</label>
+                <input id="activity-item-6" data-activity-item="item-6" type="text" aria-label="Biznesmen/e" class="min-h-11 w-full rounded-md border border-green-400 bg-white px-3 py-2">
+              </td>
+              <td class="border-2 border-l-0 border-green-400 px-4 py-3 text-center align-middle max-sm:border-0 max-sm:border-t-2 max-sm:border-green-400 max-sm:bg-white">
+                <span class="adt-body" data-id="pg081_n0060">Luftëtar/e</span>
+              </td>
+              <td class="border-2 border-l-0 border-green-400 p-3 max-sm:border-0 max-sm:bg-white">
+                <label for="activity-item-7" class="sr-only">Luftëtar/e</label>
+                <input id="activity-item-7" data-activity-item="item-7" type="text" aria-label="Luftëtar/e" class="min-h-11 w-full rounded-md border border-green-400 bg-white px-3 py-2">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"","item-2":"","item-3":"","item-4":"","item-5":"","item-6":"","item-7":""}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

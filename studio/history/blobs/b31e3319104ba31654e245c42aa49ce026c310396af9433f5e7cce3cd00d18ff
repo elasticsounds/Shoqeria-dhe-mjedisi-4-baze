@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title><meta name="title-id" content="pg081_sec002_p2"><meta name="page-section-id" content="109">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet">
+<style>
+body,body button,body input,body select,body textarea{font-family:BookPoppins,Poppins,Arial,sans-serif}
+#content.bk [data-band]{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:var(--bk-gap);align-items:start;margin:0}
+#content.bk [data-band="three"]{grid-template-columns:repeat(3,minmax(0,1fr));width:75%;margin-inline:auto}
+#content.bk [data-band] > div{min-width:0}
+#content.bk [data-band] dt{background:var(--bk-accent2);color:var(--bk-ink);padding:12px;overflow-wrap:anywhere}
+#content.bk [data-band] dd{margin:12px 0 0}
+@media(max-width:767px){#content.bk [data-band],#content.bk [data-band="three"]{grid-template-columns:minmax(0,1fr);width:100%}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+<div id="content" class="opacity-0 bk" data-family="collaborative-project">
+<section data-section-id="pg081_sec002_p2" class="bk-activity" data-activity-pattern="offline-action">
+<div class="bk-card bk-card--surface2 bk-activity">
+<p class="bk-body" data-id="pg081_n0036">Aktivitet: mësuesi përgatit etiketa me emrat e njerëzve të njohur të vendit tuaj.</p>
+<p class="bk-body" data-id="pg081_n0037">Ti dhe shokët e tu i merrni ato dhe i vendosni sipas kategorive.</p>
+</div>
+<p class="bk-body">Shënime opsionale për kategoritë:</p>
+<dl class="bk-row" data-band="four">
+<div><dt class="bk-label"><span data-id="pg081_n0042">Sportist/e</span></dt><dd><label for="activity-item-1" class="bk-sr-only">Sportist/e</label><input class="bk-field" id="activity-item-1" data-activity-item="item-1" type="text" aria-label="Sportist/e"></dd></div>
+<div><dt class="bk-label"><span data-id="pg081_n0044">Mjek/e</span></dt><dd><label for="activity-item-2" class="bk-sr-only">Mjek/e</label><input class="bk-field" id="activity-item-2" data-activity-item="item-2" type="text" aria-label="Mjek/e"></dd></div>
+<div><dt class="bk-label"><span data-id="pg081_n0046">Këngëtar/e</span></dt><dd><label for="activity-item-3" class="bk-sr-only">Këngëtar/e</label><input class="bk-field" id="activity-item-3" data-activity-item="item-3" type="text" aria-label="Këngëtar/e"></dd></div>
+<div><dt class="bk-label"><span data-id="pg081_n0048">Aktor/e</span></dt><dd><label for="activity-item-4" class="bk-sr-only">Aktor/e</label><input class="bk-field" id="activity-item-4" data-activity-item="item-4" type="text" aria-label="Aktor/e"></dd></div>
+</dl>
+<dl class="bk-row" data-band="three">
+<div><dt class="bk-label"><span data-id="pg081_n0056">Mësues/e</span></dt><dd><label for="activity-item-5" class="bk-sr-only">Mësues/e</label><input class="bk-field" id="activity-item-5" data-activity-item="item-5" type="text" aria-label="Mësues/e"></dd></div>
+<div><dt class="bk-label"><span data-id="pg081_n0058">Biznesmen/e</span></dt><dd><label for="activity-item-6" class="bk-sr-only">Biznesmen/e</label><input class="bk-field" id="activity-item-6" data-activity-item="item-6" type="text" aria-label="Biznesmen/e"></dd></div>
+<div><dt class="bk-label"><span data-id="pg081_n0060">Luftëtar/e</span></dt><dd><label for="activity-item-7" class="bk-sr-only">Luftëtar/e</label><input class="bk-field" id="activity-item-7" data-activity-item="item-7" type="text" aria-label="Luftëtar/e"></dd></div>
+</dl>
+<p class="bk-feedback" role="status" aria-live="polite" id="record-status">Shënimet ruhen në këtë pajisje.</p>
+<button class="bk-btn bk-btn--secondary" type="button" id="retry-save" hidden>Provo ruajtjen përsëri</button>
+</section></div></main>
+<script>window.activityAnswerTextIds = JSON.parse('{}'); window.correctAnswers = JSON.parse('{"item-1":"","item-2":"","item-3":"","item-4":"","item-5":"","item-6":"","item-7":""}');</script>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+<script>
+(function(){
+ var fields=Array.from(document.querySelectorAll('#content input[data-activity-item]'));
+ var status=document.getElementById('record-status'), retry=document.getElementById('retry-save');
+ var prefix='Shoqeria-dhe-Mjedisi-4:pg081_sec002:';
+ function save(){try{fields.forEach(function(f){localStorage.setItem(prefix+f.getAttribute('data-activity-item'),f.value)});status.textContent='✓ U ruajt.';retry.hidden=true}catch(e){status.textContent='⚠ Nuk u ruajt. Provo ruajtjen përsëri.';retry.hidden=false}}
+ fields.forEach(function(f){try{var v=localStorage.getItem(prefix+f.getAttribute('data-activity-item'));if(v!==null)f.value=v}catch(e){status.textContent='⚠ Shënimet nuk mund të lexohen në këtë pajisje.';retry.hidden=false}f.addEventListener('input',save)});
+ retry.addEventListener('click',save);
+})();
+</script>
+</body></html>

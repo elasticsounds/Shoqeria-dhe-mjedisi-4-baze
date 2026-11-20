@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg076_sec002_p2">
+<meta name="page-section-id" content="101">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+body:has(#content.bk){display:block}
+#interface-container :is(button,span,p,label,input,select),#nav-container :is(button,span,p,label,input,select){font-family:BookPoppins,Poppins,Arial,sans-serif!important}
+#nav-container > div[aria-label]:not([role]):has(button){position:static!important;transform:none!important;background:transparent!important;box-shadow:none!important;margin:0 auto 96px!important}
+#nav-container > div[aria-label]:not([role]):has(button) button{min-height:48px;padding:10px 20px;border:2px solid var(--bk-primary);border-radius:var(--bk-r-button);background:var(--bk-primary)!important;color:var(--bk-on-primary)!important}
+#content.bk details summary {cursor:pointer}
+#content.bk details[open] > :not(summary) {margin-top:12px}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+<h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+<div data-family="lesson-discussion" class="bk" id="content">
+<section data-section-type="activity_open_ended_answer" data-section-id="pg076_sec002_p2" role="region" class="bk-stack">
+<section class="bk-activity bk-card bk-card--surface1" data-activity-pattern="discussion" data-activity-variant="group-discussion">
+<label for="activity-item-3" class="bk-label bk-prompt"><span data-id="pg076_n0026">- Pse mendon se këta njerëz nuk duhet të harrohen? Përmend së paku tri arsye.</span></label>
+<details><summary>Shënime (opsionale)</summary>
+<textarea id="activity-item-3" data-activity-item="item-3" class="bk-field" rows="3"></textarea>
+<p class="bk-feedback" role="status" aria-live="polite" hidden></p><button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+</details></section>
+</section></div>
+</main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');</script>
+<script>
+(function () {
+  var fields = document.querySelectorAll('#content textarea[data-activity-item]');
+  fields.forEach(function (field) {
+    var details = field.closest('details'), status = details.querySelector('[role=status]'), retry = details.querySelector('[data-action=retry-save]');
+    var key = 'Shoqeria-dhe-Mjedisi-4:pg076_sec002:' + field.dataset.activityItem;
+    try { var value = localStorage.getItem(key); if (value !== null) { field.value = value; if (value) details.open = true; } } catch (e) { status.hidden = false; status.textContent = '⚠ Nuk u ruajt.'; retry.hidden = false; }
+    function save() {
+      try { localStorage.setItem(key, field.value); if (localStorage.getItem(key) !== field.value) throw new Error('save'); status.textContent = '✓ U ruajt.'; status.hidden = false; retry.hidden = true; }
+      catch (e) { status.textContent = '⚠ Nuk u ruajt.'; status.hidden = false; retry.hidden = false; }
+    }
+    field.addEventListener('input', save); retry.addEventListener('click', save);
+  });
+}());
+</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body></html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title><meta name="title-id" content="pg019_sec001"><meta name="page-section-id" content="29">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet">
+<style>
+body,button,input,textarea,select{font-family:BookPoppins,Poppins,sans-serif;font-size:var(--bk-body)}
+#content.bk{overflow:visible;padding-top:24px}
+#content p{margin:0}#content .bk-banner{margin-top:-24px;padding:16px 20px;border-radius:var(--bk-r-card)}
+#content .bk-banner img{width:64px;height:auto;flex:none}#content .bk-banner h1{flex:1;min-width:0}
+#content .bk-chip{background:var(--bk-accent3);border:0}
+#content .bk-figure{width:100%;max-width:720px}#content .bk-figure img{width:100%;border-radius:0}
+#content em{font-style:normal;font-weight:600}
+#content dialog{width:calc(100% - 32px);max-width:1000px;max-height:calc(100dvh - 48px);padding:var(--bk-pad);border:var(--bk-border) solid var(--bk-primary);border-radius:var(--bk-r-card);overflow:auto;color:var(--bk-ink);background:var(--bk-paper)}
+#content dialog::backdrop{background:rgb(40 40 60 / .6)}#content dialog img{width:100%;height:auto}
+#content dialog [data-detail]{overflow:auto}#content dialog [data-detail][data-large] img{width:1491px;max-width:none}
+#content :is(a,button,textarea,summary){scroll-margin-block:24px 120px}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body><main><div id="content" class="bk" data-family="lesson-discussion">
+<section data-section-type="text_and_single_image" data-section-id="pg019_sec001">
+<header class="bk-banner bk-row"><h1 class="bk-title" data-id="pg019_n0002">Secili ka të drejta dhe përgjegjësi</h1><img src="studio/assets/pg019_sec001-scales.png" alt="" aria-hidden="true" width="64" height="99"></header>
+<div class="bk-stack">
+<h2 class="bk-heading" data-id="pg019_n0004">Institucionet që na mbrojnë</h2>
+<p class="bk-body"><span class="bk-label bk-chip" data-id="pg019_n0006">Situata 2.</span> <span data-id="pg019_n0008">Në qytetin tonë të zhurmshëm, vijon tradita e bashkëpunimit me policinë rrugore.</span> <span data-id="pg019_n0009">Ka kohë që, në oraret kur ne hyjmë e dalim nga shkolla, polici bllokon qarkullimin dhe qëndron te vijat e bardha.</span> <span data-id="pg019_n0010">Kështu, ndihemi të sigurt ndaj çdo rreziku.</span></p>
+<figure class="bk-figure"><img id="pg019_im001" data-id="pg019_im001" src="studio/assets/pg019_sec001-crossing.png" alt="Polici rrugor ndalon veturat te vijat e bardha, ndërsa dy nxënës me çanta kalojnë rrugën të sigurt."><div class="bk-row"><button type="button" class="bk-btn bk-btn--secondary" id="inspect">Shiko figurën nga afër</button></div></figure>
+</div></section>
+<dialog aria-label="Figura e situatës" id="scene-view"><div class="bk-stack"><div class="bk-row"><button class="bk-btn bk-btn--secondary" type="button" id="close-view">Kthehu te situata</button><button class="bk-btn bk-btn--secondary" type="button" id="zoom-view" aria-pressed="false">Zmadho figurën</button></div><div data-detail="" tabindex="0" role="region" aria-label="Figura; pas zmadhimit mund të lëvizni horizontalisht dhe vertikalisht"><img src="studio/assets/pg019_sec001-crossing.png" alt="Polici, dy nxënësit, dy veturat dhe kalimi për këmbësorë."></div></div></dialog>
+</div></main>
+<script>window.activityAnswerTextIds=JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+<script>(()=>{const d=document.getElementById('scene-view'),b=document.getElementById('inspect'),z=document.getElementById('zoom-view');b.onclick=()=>d.showModal();document.getElementById('close-view').onclick=()=>d.close();d.addEventListener('close',()=>b.focus());z.onclick=()=>{const area=d.querySelector('[data-detail]'),large=area.toggleAttribute('data-large');z.setAttribute('aria-pressed',large);z.textContent=large?'Përshtat figurën':'Zmadho figurën';};})();</script>
+</body></html>

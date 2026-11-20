@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg038_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="51">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" class="container mx-auto max-w-5xl bg-white rounded-lg px-24 max-lg:px-12 max-sm:px-6 pt-12 pb-12 opacity-0 bk" id="content"><section data-section-type="activity_fill_in_the_blank" data-section-id="pg038_sec001" role="region" class="max-w-5xl mx-auto"><div class="mb-10"><div class="h-4 bg-purple-400 w-full mb-4"></div><h1 class="adt-h2 text-left text-gray-900 border-b-4 border-purple-400 pb-3 inline-block" data-id="pg038_n0003">Mbështesim njëri-tjetrin</h1></div><div class="mb-8"><h3 class="adt-h3 mb-5"><span class="inline-block bg-green-400/80 text-gray-900 px-5 py-2" data-id="pg038_n0004">Situata 1.</span></h3><p class="adt-body leading-relaxed text-left text-gray-900"><span data-id="pg038_n0006">Në familje gjithkush jep kontributin e vet.</span> <span data-id="pg038_n0007">Disa nga pjesëtarët e familjes japin edhe kontribut financiar.</span> <span data-id="pg038_n0008">Vëllai im i madh punon në një televizion dhe paguhet sipas orëve që punon.</span> <span data-id="pg038_n0009">Muajin e kaluar, ai ishte i ngarkuar me lyerjen e shtëpisë dhe pothuajse nuk punoi.</span> <span data-id="pg038_n0010">E kuptova edhe nga frutat e zakonshme që më munguan.</span> <span data-id="pg038_n0011">Kur ai paguhej, më blinte frutat e preferuara.</span> <span data-id="pg038_n0012">Ndihej në siklet që nuk m’i bleu, ndërkohë unë bëra sikur harrova.</span> <span data-id="pg038_n0013">Në mbrëmje nëna erdhi në shtëpi me disa fruta dhe një ëmbëlsirë të madhe.</span> <span data-id="pg038_n0014">"Këto i keni nga unë sot", - tha duke buzëqeshur.</span></p></div><div class="mb-0"><img src="images/pg038_im001_crop_v1.png" alt="Në kuzhinë, nëna mban një pjatë me tortë, vajza po merr një copë, ndërsa vëllai i madh qëndron pranë; skenë e mbështetjes dhe ndarjes në familje." data-id="pg038_im001_crop_v1" class="w-full h-auto mx-auto shadow-md"></div><div class="bg-purple-200 mt-0 p-6 max-sm:p-4"><div class="space-y-6"><div><label for="activity-item-1" class="block adt-body text-gray-900 mb-2"><span data-id="pg038_n0016">A kontribuuan të gjithë në familje?</span></label><textarea id="activity-item-1" class="w-full min-h-11 h-24 rounded-xl border border-gray-400 bg-white/70 px-4 py-3 resize-none" data-activity-item="item-1" aria-label="A kontribuuan të gjithë në familje?"></textarea></div><div><label for="activity-item-2" class="block adt-body text-gray-900 mb-2"><span data-id="pg038_n0017">Cilët kontribuuan financiarisht?</span></label><textarea id="activity-item-2" class="w-full min-h-11 h-24 rounded-xl border border-gray-400 bg-white/70 px-4 py-3 resize-none" data-activity-item="item-2" aria-label="Cilët kontribuuan financiarisht?"></textarea></div><div><label for="activity-item-3" class="block adt-body text-gray-900 mb-2"><span data-id="pg038_n0018">Po vëllai i madh, si kontribuoi?</span></label><textarea id="activity-item-3" class="w-full min-h-11 h-24 rounded-xl border border-gray-400 bg-white/70 px-4 py-3 resize-none" data-activity-item="item-3" aria-label="Po vëllai i madh, si kontribuoi?"></textarea></div></div></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{"item-1":"pg038_sec001_ans_item-1","item-2":"pg038_sec001_ans_item-2","item-3":"pg038_sec001_ans_item-3"}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"Po, të gjithë kontribuuan në familje.","item-2":"Financiarisht kontribuuan nëna dhe vëllai i madh.","item-3":"Vëllai i madh kontribuoi duke punuar në televizion dhe, kur paguhej, blinte frutat e mia të preferuara."}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg008_sec003_p2">
+    <meta name="page-section-id" content="16">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+        body, button, input, textarea, select { font-family: BookPoppins, Poppins, sans-serif; }
+        #content.bk.bk.bk { padding-top: var(--bk-gap); overflow: visible; }
+        #content.bk.bk.bk .bk-card--outline { border-color: var(--bk-primary); }
+        #content.bk.bk.bk .bk-body { margin: 0; max-width: 720px; }
+        #content.bk.bk.bk em { font-style: normal; font-weight: 600; }
+        #content.bk.bk.bk strong { font-weight: 700; }
+        @media (max-width: 767px) { #content.bk.bk.bk { padding-inline: 16px; } }
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+    <main>
+        <div data-family="lesson-discussion" id="content" class="bk">
+            <h1 class="bk-sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+            <section data-section-type="boxed_text" data-section-id="pg008_sec003_p2" aria-label="Disa komunitete formohen" class="bk-stack">
+                <div class="bk-card bk-card--outline bk-stack">
+                    <p class="bk-body"><em><span id="pg008_n0032" data-id="pg008_n0032">Disa komunitete formohen sepse njerëzit jetojnë në vend të njëjtë, lagje, fshat etj., ndërsa disa të tjera formohen, sepse njerëzit punojnë së bashku ose mësojnë në të njëjtën shkollë.</span></em></p>
+                    <p class="bk-body"><em><span id="pg008_n0034" data-id="pg008_n0034">Njerëzit në komunitet ndihmojnë njëri-tjetrin, komunikojnë dhe bashkëpunojnë për nevojat e tyre.</span> <span id="pg008_n0035" data-id="pg008_n0035">Kështu, ata e lehtësojnë mënyrën e jetesës së tyre dhe ndihen të lumtur.</span></em></p>
+                </div>
+                <p class="bk-body"><strong id="pg008_n0016" data-id="pg008_n0016">Fjalët kyçe:</strong> <span id="pg008_n0017" data-id="pg008_n0017">komunitet, grup njerëzish, bashkëpunim, mirëkuptim.</span></p>
+            </section>
+        </div>
+    </main>
+    <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg023_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="36">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk"><section data-section-type="text_and_single_image" data-section-id="pg023_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 text-slate-800 max-sm:px-5">
+  <div class="-mx-8 mb-8 max-sm:-mx-5">
+    <div class="bg-purple-400 px-8 py-6 max-sm:px-5 max-sm:py-5">
+      <div class="mx-auto flex w-full max-w-5xl items-center justify-between gap-5">
+        <div class="min-w-0 flex-1 pl-4 max-sm:pl-0">
+          <h1 class="adt-h2 mb-3 border-b-4 border-purple-300 pb-3 font-semibold text-slate-900" data-id="pg023_n0003">Respektojmë diversitetin kulturor</h1>
+        </div>
+        <div aria-hidden="true" class="flex h-20 w-20 shrink-0 items-center justify-center rounded-2xl bg-purple-300 text-white shadow-sm max-sm:h-16 max-sm:w-16">🤍</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mb-6 rounded-3xl border border-amber-200 bg-amber-50 px-5 py-5 shadow-sm max-sm:px-4">
+    <h3 class="adt-h3 mb-3 inline-block rounded-full bg-amber-300 px-4 py-2 font-semibold text-slate-900" data-id="pg023_n0005">Situata 2.</h3>
+    <p class="adt-body leading-relaxed text-left">
+      <span data-id="pg023_n0007">Ngjyrat e çdo luleje ndryshojnë kuptimin nga një kulturë në tjetrën.</span>
+      <span data-id="pg023_n0008">E verdha përfaqëson diellin, jetën e gëzimin.</span>
+      <span data-id="pg023_n0009">Në Japoni, ngjyra e verdhë tregon trimërinë dhe kurajën.</span>
+      <span data-id="pg023_n0010">Në Egjipt, kjo ngjyrë është simbol i zisë.</span>
+      <span data-id="pg023_n0011">E bardha në Perëndim është simbol i pastërtisë.</span>
+      <span data-id="pg023_n0012">Në Lindje është simbol i zisë dhe i mërzisë.</span>
+      <span data-id="pg023_n0013">Në Kinë e Japoni, ngjyra e bardhë ta kujton dhimbjen dhe trishtimin.</span>
+      <span data-id="pg023_n0014">E kuqja në Kinë është simbol i fatit të mirë, ndërsa në Perëndim simbolizon rrezikun.</span>
+      <span data-id="pg023_n0015">Tulipanët kanë domethënie pozitive në të gjitha kulturat.</span>
+      <span data-id="pg023_n0016">Ata tregojnë rilindje, gëzim.</span>
+      <span data-id="pg023_n0017">Shoku ynë i klasës, Luja, kishte ditëlindjen.</span>
+      <span data-id="pg023_n0018">Ai jeton me familjen e tij, e cila ka një biznes familjar në Prishtinë.</span>
+      <span data-id="pg023_n0019">Vendosëm që ta uronim me një buqetë lulesh.</span>
+      <span data-id="pg023_n0020">Në vend që ta gëzonte, dhurata e shqetësoi Lunë</span>
+    </p>
+  </div>
+
+  <div class="mb-8 overflow-hidden rounded-[2rem] border border-amber-200 bg-amber-100 shadow-sm">
+    <img data-id="pg023_im001" src="images/pg023_im001.png" alt="Vajza i dhuron djalit një buqetë me lule të bardha, ndërsa ai duket i mërzitur dhe i shqetësuar." class="block h-auto w-full">
+  </div>
+
+  <div class="mt-2 border-2 border-purple-300 bg-white px-5 py-5 shadow-sm max-sm:px-4">
+    <div class="mb-4 flex justify-end">
+      <div aria-hidden="true" class="flex h-16 w-20 items-center justify-center bg-purple-400 text-white shadow-sm">📖</div>
+    </div>
+    <p class="adt-body leading-relaxed text-left italic">
+      <span data-id="pg023_n0023">Çdo popull ka një kulturë të veten që quhet kulturë kombëtare.</span>
+      <span data-id="pg023_n0024">Kultura përfshin zakonet, traditat, gjuhën, veshjet, festat dhe mënyrën se si jetojnë njerëzit.</span>
+      <span data-id="pg023_n0025">Ajo mësohet në familje, në shkollë dhe në shoqëri.</span>
+      <span data-id="pg023_n0026">Njerëz dhe grupe të ndryshme mund të kenë kultura të ndryshme.</span>
+      <span data-id="pg023_n0027">Llojllojshmëria kulturore shfaq dallimet kulturore që njerëzit, përkatësisht grupet e njerëzve, mund të kenë ndërmjet tyre.</span>
+      <span data-id="pg023_n0028">Çdo kulturë duhet të respektohet, sepse ka vlerat e veta.</span>
+      <span data-id="pg023_n0029">Ne duhet të mësojmë për të gjitha kulturat.</span>
+      <span data-id="pg023_n0030">Duke mësuar për to, i kuptojmë më mirë ato, vlerat e tyre dhe dallimet me kulturën tonë.</span>
+      <span data-id="pg023_n0031">Pra, duke mësuar për kulturat e tjera, ne e kuptojmë më mirë edhe kulturën tonë, edhe veten tonë.</span>
+      <span data-id="pg023_n0032">Kjo do të thotë që dallimet kulturore nuk bëhen pengesë për bashkëpunim, por lehtësim në komunikim.</span>
+      <span data-id="pg023_n0033">Në fund, e kuptojmë se, megjithëse jemi të ndryshëm, të gjithë jemi njerëz dhe duhet të jetojmë së bashku me respekt dhe tolerancë.</span>
+    </p>
+  </div>
+
+  <div class="mt-5 px-3 py-2">
+    <p class="adt-body font-medium text-left" data-id="pg023_n0034">Fjalët kyçe: diversitet kulturor, kulturë kombëtare, bashkëjetesë.</p>
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

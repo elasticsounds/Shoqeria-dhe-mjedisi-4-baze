@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg073_sec002" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="91" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div id="content" class="container opacity-0">
+  <section data-section-type="boxed_text" data-section-id="pg073_sec002" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8">
+    <div class="border-2 border-fuchsia-300 bg-white rounded-sm p-6 max-sm:p-4 shadow-sm">
+      <p class="adt-body italic text-gray-800 mb-6">
+        <span data-id="pg073_n0027">Ekonomia studion si prodhohen, si shp&#xeb;rndahen dhe si p&#xeb;rdoren mallrat dhe sh&#xeb;rbimet.</span>
+      </p>
+      <p class="adt-body italic text-gray-800 mb-5">
+        <span data-id="pg073_n0029">Deg&#xeb;t e ekonomis&#xeb; jan&#xeb;:</span>
+      </p>
+      <div class="space-y-5 mb-6">
+        <div class="adt-body italic text-gray-800 flex items-start gap-3">
+          <span aria-hidden="true" class="mt-1">&#x2013;</span>
+          <div><span data-id="pg073_n0032">Bujq&#xeb;sia, blegtoria dhe peshkimi, t&#xeb; cilat merren me prodhimin e ushqimeve q&#xeb; quhen prodhime bujq&#xeb;sore.</span></div>
+        </div>
+        <div class="adt-body italic text-gray-800 flex items-start gap-3">
+          <span aria-hidden="true" class="mt-1">&#x2013;</span>
+          <div>
+            <span data-id="pg073_n0034">Industria merret me prodhimet q&#xeb; dalin nga fabrikat, pun&#xeb;torit&#xeb; e minierat.</span>
+            <span data-id="pg073_n0035">K&#xeb;to prodhime quhen prodhime industriale.</span>
+          </div>
+        </div>
+        <div class="adt-body italic text-gray-800 flex items-start gap-3">
+          <span aria-hidden="true" class="mt-1">&#x2013;</span>
+          <div><span data-id="pg073_n0037">Tregtia, hotelieria dhe turizmi.</span></div>
+        </div>
+      </div>
+      <p class="adt-body italic text-gray-800 mb-6">
+        <span data-id="pg073_n0039">T&#xeb; gjitha deg&#xeb;t e ekonomis&#xeb; ekzistojn&#xeb; qysh nga koh&#xeb;t e vjetra.</span>
+        <span data-id="pg073_n0040">At&#xeb;koh&#xeb;, puna &#xeb;sht&#xeb; kryer nga nj&#xeb; num&#xeb;r i madh i pun&#xeb;tor&#xeb;ve me mjete primitive dhe sasit&#xeb; e prodhimeve ishin t&#xeb; vogla.</span>
+      </p>
+      <p class="adt-body italic text-gray-800 mb-6">
+        <span data-id="pg073_n0042">Sot, puna kryhet me num&#xeb;r m&#xeb; t&#xeb; vog&#xeb;l t&#xeb; pun&#xeb;tor&#xeb;ve, me makineri t&#xeb; specializuara dhe sasit&#xeb; e prodhimeve jan&#xeb; shum&#xeb; m&#xeb; t&#xeb; m&#xeb;dha.</span>
+      </p>
+      <div class="space-y-5">
+        <div class="adt-body italic text-gray-800 flex items-start gap-3">
+          <span aria-hidden="true" class="mt-1">&#x2013;</span>
+          <div><span data-id="pg073_n0045">N&#xeb; Kosov&#xeb;, dikur njer&#xeb;zit siguronin t&#xeb; ardhurat nga punimi i tok&#xeb;s &#x2013; bujq&#xeb;sia, nga rritja e kafsh&#xeb;ve dhe zejet e ndryshme.</span></div>
+        </div>
+        <div class="adt-body italic text-gray-800 flex items-start gap-3">
+          <span aria-hidden="true" class="mt-1">&#x2013;</span>
+          <div>
+            <span data-id="pg073_n0047">Sot, Kosova ka ekonomi t&#xeb; zhvilluar me tregti, sh&#xeb;rbime, industri, nd&#xeb;rtimtari etj.</span>
+            <span data-id="pg073_n0048">K&#xeb;to ndryshime kan&#xeb; ndikuar n&#xeb; krijimin e nj&#xeb; jete m&#xeb; t&#xeb; mir&#xeb; n&#xeb; vendin ton&#xeb;.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <p class="adt-body text-gray-900 mt-8">
+      <span data-id="pg073_n0050" class="font-semibold">Fjal&#xeb;t ky&#xe7;e:</span>
+      <span data-id="pg073_n0051">ekonomi, prodhim bujq&#xeb;sor, prodhim industrial.</span>
+    </p>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

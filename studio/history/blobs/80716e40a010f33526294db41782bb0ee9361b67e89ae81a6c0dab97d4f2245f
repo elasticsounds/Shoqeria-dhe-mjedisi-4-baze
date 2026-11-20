@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg089_sec002_p2">
+    <meta name="page-section-id" content="119">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>#content.bk .bk-card{max-width:720px} #content.bk em{font-style:normal;font-weight:600}</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" id="content" class="bk">
+        <section data-section-type="text_only" data-section-id="pg089_sec002_p2" class="bk-card bk-card--outline bk-stack">
+          <p class="bk-body"><em><span data-id="pg089_n0026">Festat mund të jenë individuale, familjare, shtetërore, kombëtare, ndërkombëtare, fetare etj.</span>
+            <span data-id="pg089_n0027">Festat individuale janë festa që i takojnë një individi, p.sh., festa e ditëlindjes.</span>
+            <span data-id="pg089_n0028">Festat shtetërore janë festa që feston një shtet, p.sh., Pavarësia e Kosovës.</span>
+            <span data-id="pg089_n0029">Festa kombëtare është festë që feston një komb, një popull kudo që ndodhet, p.sh., të gjithë shqiptarët që jetojnë nëpër vende të ndryshme të botës festojnë Pavarësinë e Shqipërisë.</span></em></p>
+          <p class="bk-body"><em><span data-id="pg089_n0031">Festa ndërkombëtare është festë që festohet në të gjithë botën, p.sh. Dita e Gruas.</span></em></p>
+        </section>
+      </div>
+    </main>
+    <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

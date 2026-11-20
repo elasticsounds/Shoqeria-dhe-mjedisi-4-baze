@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg070_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="92">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="structured-response" class="container mx-auto max-w-5xl bg-white px-10 max-lg:px-8 max-sm:px-4 pt-8 pb-10 opacity-0 bk" id="content">
+  <section data-section-type="activity_fill_in_the_blank" data-section-id="pg070_sec001" class="mx-auto max-w-5xl">
+    <div class="mb-10 flex items-stretch max-sm:flex-col max-sm:gap-3">
+      <div class="flex w-36 shrink-0 items-center justify-center rounded-l-2xl rounded-r-md bg-purple-500 text-white max-sm:w-full max-sm:min-h-24 max-sm:rounded-2xl">
+        <div class="h-20 w-12 rounded-full border-4 border-white/90 border-t-[6px] border-b-[6px]"></div>
+      </div>
+      <div class="flex-1 pt-6 max-sm:pt-0">
+        <div class="bg-purple-500 px-4 py-3 text-white">
+          <h1 class="adt-h3" data-id="pg070_n0002">Jeta në Kosovë dikur dhe sot</h1>
+        </div>
+        <div class="max-w-2xl border-b-4 border-purple-400 px-2 py-4">
+          <h2 class="adt-h2 text-black" data-id="pg070_n0004">Fshati dikur dhe sot</h2>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-8 flex items-start gap-4 max-sm:gap-3">
+      <div class="mt-1 flex h-11 min-h-11 min-w-11 shrink-0 items-center justify-center rounded-full bg-green-600 px-3 font-bold text-white">
+        <span data-id="pg070_n0006">1.</span>
+      </div>
+      <div class="flex-1 pt-1">
+        <p class="adt-body leading-relaxed text-left">
+          <span data-id="pg070_n0007">Vështro fotografitë e dhëna dhe mundohu të bësh krahasimin mes fshatit dikur dhe sot.</span>
+        </p>
+      </div>
+    </div>
+
+    <div class="grid grid-cols-3 gap-x-8 gap-y-4 items-start mb-6 text-center max-lg:grid-cols-1 max-lg:gap-y-6">
+      <div>
+        <span class="adt-body block mb-3" data-id="pg070_n0008">Fshati dikur</span>
+      </div>
+      <div>
+        <span class="adt-body block mb-3" data-id="pg070_n0009">Të përbashkëtat</span>
+      </div>
+      <div>
+        <span class="adt-body block mb-3" data-id="pg070_n0010">Fshati sot</span>
+      </div>
+
+      <div class="flex justify-center">
+        <img data-id="pg070_im001" src="images/pg070_im001.png" alt="Dy bujq punojnë arën me parmendë të tërhequr nga qe, në fshat dikur." class="w-full max-w-[260px] h-auto rounded-sm shadow-sm">
+      </div>
+      <div class="max-lg:hidden"></div>
+      <div class="flex justify-center">
+        <img data-id="pg070_im002" src="images/pg070_im002.png" alt="Traktor modern me makinë mbjellëse duke punuar arën në fshat sot." class="w-full max-w-[260px] h-auto rounded-sm shadow-sm">
+      </div>
+    </div>
+
+    <div class="mt-6">
+      <div class="relative mx-auto w-full max-w-4xl aspect-[694/442]">
+        <img data-id="pg070_im005" src="images/pg070_im005.png" alt="Diagram i Venit me dy rrathë të mbivendosur për krahasimin e fshatit dikur dhe sot." class="absolute inset-0 z-0 h-full w-full object-contain">
+
+        <label for="activity-response-1" class="sr-only">Fshati dikur</label>
+        <textarea id="activity-response-1" data-activity-item="item-1" aria-label="Fshati dikur" class="absolute left-[7%] top-[25%] z-10 h-[42%] w-[28%] min-h-11 rounded-full border-2 border-green-300 bg-white/10 p-6 resize-none focus:outline-none focus:ring-2 focus:ring-green-500 max-sm:left-[10%] max-sm:top-[27%] max-sm:h-[38%] max-sm:w-[27%] max-sm:p-3"></textarea>
+
+        <label for="activity-response-2" class="sr-only">Të përbashkëtat</label>
+        <textarea id="activity-response-2" data-activity-item="item-2" aria-label="Të përbashkëtat" class="absolute left-[36%] top-[25%] z-10 h-[42%] w-[28%] min-h-11 rounded-full border-2 border-green-300 bg-white/10 p-6 resize-none focus:outline-none focus:ring-2 focus:ring-green-500 max-sm:left-[36.5%] max-sm:top-[27%] max-sm:h-[38%] max-sm:w-[27%] max-sm:p-3"></textarea>
+
+        <label for="activity-response-3" class="sr-only">Fshati sot</label>
+        <textarea id="activity-response-3" data-activity-item="item-3" aria-label="Fshati sot" class="absolute right-[7%] top-[25%] z-10 h-[42%] w-[28%] min-h-11 rounded-full border-2 border-green-300 bg-white/10 p-6 resize-none focus:outline-none focus:ring-2 focus:ring-green-500 max-sm:right-[10%] max-sm:top-[27%] max-sm:h-[38%] max-sm:w-[27%] max-sm:p-3"></textarea>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"","item-2":"","item-3":""}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

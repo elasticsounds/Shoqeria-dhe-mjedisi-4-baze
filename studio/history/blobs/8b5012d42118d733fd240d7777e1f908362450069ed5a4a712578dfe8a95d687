@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg062_sec002_p2">
+    <meta name="page-section-id" content="82">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>#content.bk em{font-style:normal;font-weight:600} #content.bk strong{font-weight:700} #content.bk figure img{width:100%;height:auto;object-fit:contain}</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk">
+        <section data-section-type="text_and_single_image" data-section-id="pg062_sec002_p2" class="bk-stack">
+          <div class="bk-card bk-card--outline bk-stack">
+            <p class="bk-body"><span data-id="pg062_n0025"><strong>Flamuri i Kosovës</strong> <em>ka ngjyrën e kaltër, mbi të është vënë një hartë e verdhë e Kosovës dhe ka gjashtë yje të bardha sipër saj.</em></span> <span data-id="pg062_n0026"><em>Yjet nënkuptojnë gjashtë popujt – komunitetet etnike që jetojnë në Kosovë.</em></span></p>
+            <p class="bk-body"><span data-id="pg062_n0028"><strong>Stema e Kosovës</strong> <em>është simbol i Republikës së Kosovës.</em></span></p>
+            <p class="bk-body"><span data-id="pg062_n0030"><strong>Himni</strong> <em>është një këngë solemne, e cila ekzekutohet në ceremonitë shtetërore, në çdo veprimtari ndërkombëtare, në ngjarjet sportive ku vendi ynë është pjesëmarrës, si dhe në raste të tjera të përcaktuara me ligje përkatëse.</em></span></p>
+          </div>
+          <figure class="bk-figure"><img data-id="pg062_im001" src="images/pg062_im001.png" alt="Flamuri i Kosovës me sfond të kaltër, hartën e verdhë të Kosovës në qendër dhe gjashtë yje të bardhë sipër."></figure>
+        </section>
+      </div>
+    </main>
+    <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

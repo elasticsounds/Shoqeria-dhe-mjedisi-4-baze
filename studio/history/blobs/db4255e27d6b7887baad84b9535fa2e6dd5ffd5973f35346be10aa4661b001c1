@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe Mjedisi 4</title>
+  <meta name="title-id" content="pg118_sec001_p2">
+  <meta name="page-section-id" content="157">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  
+  <style>
+    #content .bk-body { max-width: 720px; }
+    #content.bk.bk.bk section.bk-stack { gap: 12px; }
+    #nav-container, #nav-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands),
+    #interface-container, #interface-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands) { font-family: BookPoppins, Poppins, Arial, sans-serif; }
+  </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <div data-family="illustrated-reading" id="content" class="bk">
+      <section data-section-type="text_and_single_image" data-section-id="pg118_sec001_p2" class="bk-stack">
+        <p class="bk-body"><span data-id="pg118_n0009">Jona pyeti prindërit e saj: - Përse njerëzit udhëtonin me autobus kur nuk kishin vend dhe duhej të rrinin në këmbë?</span></p>
+        <p class="bk-body"><span data-id="pg118_n0010">Babai buzëqeshi dhe e pyeti Jonën: - Këta njerëz po i bënin mirë ambientit apo dëm?</span></p>
+        <p class="bk-body"><span data-id="pg118_n0011">Jona u mendua pak dhe u përgjigj: - Natyrisht që po i bënin mirë.</span> <span data-id="pg118_n0012">Po të përdorte secili nga këta njerëz veturën, atëherë do të digjeshin më shumë lëndë djegëse dhe do të ndotej ambienti.</span> <span data-id="pg118_n0013">Sa i dobishëm qenka përdorimi i autobusit, - shtoi ajo.</span></p>
+      </section>
+    </div>
+  </main>
+  <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

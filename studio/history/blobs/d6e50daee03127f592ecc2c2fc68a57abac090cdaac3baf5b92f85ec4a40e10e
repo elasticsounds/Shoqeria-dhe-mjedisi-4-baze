@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg088_sec001_p3">
+<meta name="page-section-id" content="118">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>
+body,button,input,textarea,select{font-family:BookPoppins,Poppins,sans-serif}
+#content.bk.bk.bk{padding-top:24px;overflow-x:visible}
+#content.bk.bk.bk .bk-figure{width:100%;max-width:400px;margin-inline:auto;gap:12px}
+#content.bk.bk.bk .bk-figure a{display:block}
+#content.bk.bk.bk .bk-figure img{display:block;width:100%;height:auto;border:2px solid #64C878;border-radius:0}
+#content.bk.bk.bk p{margin:24px 0 0;text-align:right}
+@media(min-width:768px){#content.bk.bk.bk{padding-inline:32px}}
+@media(max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+#interface-container :not(i):not([class*="fa-"]),#nav-container :not(i):not([class*="fa-"]){font-family:BookPoppins,Poppins,sans-serif!important;font-size:18px}
+:is(#interface-container,#nav-container) :is(button,a,input,select){min-height:48px;min-width:48px}
+:is(#interface-container,#nav-container) :focus-visible{outline:3px solid #143C78;outline-offset:3px}
+@media(prefers-reduced-motion:reduce){body *,body *::before,body *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div id="content" class="bk" data-family="illustrated-reading" data-source-page="88">
+<section data-section-type="text_and_images" data-section-id="pg088_sec001_p3" aria-label="Dasmat dikur dhe sot">
+<figure class="bk-figure">
+<figcaption class="bk-caption" data-id="pg088_n0017">Dasmat dikur dhe sot</figcaption>
+<a href="images/pg088_im002.png" target="_blank" rel="noopener" aria-label="Hap fotografinë e dasmës tradicionale në skedë të re"><img data-id="pg088_im002" src="images/pg088_im002.png" alt="Dasmë tradicionale me valltarë në rreth, muzikantë dhe të ftuar të veshur me kostume popullore."></a>
+<a href="images/pg088_im001.png" target="_blank" rel="noopener" aria-label="Hap fotografinë e sallës së dasmës në skedë të re"><img data-id="pg088_im001" src="images/pg088_im001.png" alt="Sallë moderne dasme me tavolina të rregulluara, dekorime me lule dhe ambient festiv."></a>
+</figure>
+<p class="bk-caption" aria-label="Faqja e shtypur 88">88</p>
+</section>
+</div>
+</main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

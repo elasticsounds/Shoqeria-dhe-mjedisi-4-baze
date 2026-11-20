@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg081_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="104">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="collaborative-project" class="container mx-auto max-w-5xl bg-white px-8 max-lg:px-6 max-sm:px-4 pt-8 pb-12 opacity-0 bk" id="content">
+  <section data-section-type="activity_fill_in_the_blank" data-section-id="pg081_sec001" class="mx-auto">
+    <div class="mb-5">
+      <div class="bg-purple-400 text-white rounded-r-3xl py-3 px-6 w-full max-w-[54rem]">
+        <h1 class="adt-h1 text-left leading-tight"><span data-id="pg081_n0002">Jeta në Kosovë dikur dhe sot</span></h1>
+      </div>
+    </div>
+
+    <div class="mb-8 pl-6 max-sm:pl-2">
+      <h2 class="adt-h2 text-left text-gray-900 leading-tight border-b-4 border-purple-400 inline-block pb-2 max-w-full"><span data-id="pg081_n0004">Takim: “Mësojmë nga jeta e personaliteteve tona”</span></h2>
+    </div>
+
+    <div class="bg-green-100 px-8 py-6 mb-8 max-sm:px-5 rounded-none">
+      <p class="adt-body text-left mb-2 leading-relaxed"><span data-id="pg081_n0007">Bashkë me mësuesen/in ftoni në klasë një personalitet të njohur të qytetit/fshatit tuaj.</span></p>
+      <ul class="adt-body text-left ml-6 space-y-1 leading-relaxed">
+        <li><span aria-hidden="true">- </span><span data-id="pg081_n0010">Mjek/e</span></li>
+        <li><span aria-hidden="true">- </span><span data-id="pg081_n0012">Ekonomist/e</span></li>
+        <li><span aria-hidden="true">- </span><span data-id="pg081_n0014">Biznesmen/e</span></li>
+        <li><span aria-hidden="true">- </span><span data-id="pg081_n0016">Sportist/e</span></li>
+        <li><span aria-hidden="true">- </span><span data-id="pg081_n0018">Muzikant/e</span></li>
+        <li><span aria-hidden="true">- </span><span data-id="pg081_n0020">Veteran/e arsimi ose njerëz të suksesshëm të ndonjë fushe tjetër.</span></li>
+      </ul>
+    </div>
+
+    <div class="mb-10 pl-6 max-sm:pl-2 space-y-1 text-left text-gray-900">
+      <p class="adt-body leading-relaxed"><span data-id="pg081_n0022">Përgatitni disa pyetje për të intervistuar të ftuarin tuaj, që të njiheni me veprën e tij.</span></p>
+      <p class="adt-body leading-relaxed"><span data-id="pg081_n0023">Përmes pyetjeve, mundohuni të kuptoni jetën dhe punën e tij.</span></p>
+      <p class="adt-body leading-relaxed"><span data-id="pg081_n0024">Shkruani pyetjet për intervistë.</span></p>
+    </div>
+
+    <div class="space-y-5 pl-6 max-sm:pl-2">
+      <div>
+        <p class="adt-body mb-2"><span data-id="pg081_n0025">1.</span></p>
+        <label for="answer-1" class="sr-only">Pyetja 1 për intervistë</label>
+        <input id="answer-1" data-activity-item="item-1" type="text" aria-label="Pyetja 1 për intervistë" class="w-full min-h-11 bg-transparent border-0 border-b-2 border-gray-400 rounded-none px-0 py-2 focus:outline-none focus:ring-0 focus:border-purple-500">
+      </div>
+      <div>
+        <p class="adt-body mb-2"><span data-id="pg081_n0026">2.</span></p>
+        <label for="answer-2" class="sr-only">Pyetja 2 për intervistë</label>
+        <input id="answer-2" data-activity-item="item-2" type="text" aria-label="Pyetja 2 për intervistë" class="w-full min-h-11 bg-transparent border-0 border-b-2 border-gray-400 rounded-none px-0 py-2 focus:outline-none focus:ring-0 focus:border-purple-500">
+      </div>
+      <div>
+        <p class="adt-body mb-2"><span data-id="pg081_n0027">3.</span></p>
+        <label for="answer-3" class="sr-only">Pyetja 3 për intervistë</label>
+        <input id="answer-3" data-activity-item="item-3" type="text" aria-label="Pyetja 3 për intervistë" class="w-full min-h-11 bg-transparent border-0 border-b-2 border-gray-400 rounded-none px-0 py-2 focus:outline-none focus:ring-0 focus:border-purple-500">
+      </div>
+      <div>
+        <p class="adt-body mb-2"><span data-id="pg081_n0028">4.</span></p>
+        <label for="answer-4" class="sr-only">Pyetja 4 për intervistë</label>
+        <input id="answer-4" data-activity-item="item-4" type="text" aria-label="Pyetja 4 për intervistë" class="w-full min-h-11 bg-transparent border-0 border-b-2 border-gray-400 rounded-none px-0 py-2 focus:outline-none focus:ring-0 focus:border-purple-500">
+      </div>
+      <div>
+        <p class="adt-body mb-2"><span data-id="pg081_n0029">5.</span></p>
+        <label for="answer-5" class="sr-only">Pyetja 5 për intervistë</label>
+        <input id="answer-5" data-activity-item="item-5" type="text" aria-label="Pyetja 5 për intervistë" class="w-full min-h-11 bg-transparent border-0 border-b-2 border-gray-400 rounded-none px-0 py-2 focus:outline-none focus:ring-0 focus:border-purple-500">
+      </div>
+      <div>
+        <p class="adt-body mb-2"><span data-id="pg081_n0030">6.</span></p>
+        <label for="answer-6" class="sr-only">Pyetja 6 për intervistë</label>
+        <input id="answer-6" data-activity-item="item-6" type="text" aria-label="Pyetja 6 për intervistë" class="w-full min-h-11 bg-transparent border-0 border-b-2 border-gray-400 rounded-none px-0 py-2 focus:outline-none focus:ring-0 focus:border-purple-500">
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"","item-2":"","item-3":"","item-4":"","item-5":"","item-6":""}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

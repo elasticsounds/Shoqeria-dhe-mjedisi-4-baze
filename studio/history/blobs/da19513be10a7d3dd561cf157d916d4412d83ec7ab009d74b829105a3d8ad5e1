@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg112_sec001">
+    <meta name="page-section-id" content="148">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-reading" id="content" class="container opacity-0 bk">
+        <section data-section-type="text_only" data-section-id="pg112_sec001">
+          <header class="bk-banner">
+            <div class="bk-row"><img src="./studio/assets/pg112_sec001-emblem.png" alt="" width="48" height="48" style="width:48px;height:48px;object-fit:contain"><h1 data-id="pg112_n0002" class="bk-title">Mjedisi i vendit tim</h1></div>
+          </header>
+          <div class="bk-stack" style="max-width:720px">
+            <h2 data-id="pg112_n0003" class="bk-heading">Ndotja e ujërave</h2>
+            <p class="bk-body"><span data-id="pg112_n0005">Mali vizitonte dajat e tij çdo pushim pranveror.</span> <span data-id="pg112_n0006">Aq shumë e donte natyrën e fshatit, saqë nuk pranonte kurrsesi të kalonte diku tjetër pushimet.</span> <span data-id="pg112_n0007">Çdo gjë i dukej e mrekullueshme në fshat: relievi, harmonia e njerëzve, lidhja e tyre me natyrën, mënyra se si e punonin tokën, produktet që merrnin nga toka.</span> <span data-id="pg112_n0008">E vetmja gjë që e shqetësonte ishte lumi i fshatit.</span></p>
+          </div>
+        </section>
+      </div>
+    </main>
+    <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

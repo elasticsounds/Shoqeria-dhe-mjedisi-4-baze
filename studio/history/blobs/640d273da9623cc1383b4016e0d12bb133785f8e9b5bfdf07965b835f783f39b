@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg015_sec001_p3">
+<meta name="page-section-id" content="25">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+body,button,input,textarea,select{font-family:BookPoppins,Poppins,sans-serif!important}
+#interface-container,#nav-container{font-family:BookPoppins,Poppins,sans-serif;font-size:var(--bk-body)}
+#content.bk.bk.bk{padding-top:24px;overflow:visible}
+#content p{margin:0}
+#content details>summary{display:list-item;width:fit-content;max-width:100%;padding-inline:20px;list-style-position:inside}
+#content details[open]>summary{margin-bottom:12px}
+#content details textarea{margin-top:12px}
+#content .bk-feedback:empty{display:none}
+#content .bk-feedback:not(:empty){margin-top:12px}
+#content button[hidden]{display:none}
+@media (min-width:768px){#content.bk.bk.bk{padding-inline:32px}}
+@media (max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div data-family="lesson-discussion" id="content" class="bk">
+<section class="bk-stack" data-section-type="text_and_single_image" data-section-id="pg015_sec001_p3" data-source-page="15">
+<section class="bk-activity bk-card" data-activity-pattern="discussion" data-activity-variant="">
+<p class="bk-prompt bk-label" id="pg015-prompt-1" data-id="pg015_n0017">Çfarë kërkonte mësuesja nga nxënësit?</p>
+<details><summary class="bk-btn">Shënime (opsionale)</summary><label for="item-1" class="bk-sr-only">Çfarë kërkonte mësuesja nga nxënësit?</label><textarea id="item-1" data-activity-item="item-1" aria-label="Çfarë kërkonte mësuesja nga nxënësit?" aria-describedby="pg015-note-1" class="bk-field" rows="3"></textarea><p id="pg015-note-1" class="bk-caption">Shënime private, opsionale.</p><p class="bk-feedback" role="status" aria-live="polite"></p><button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button></details>
+</section>
+<section class="bk-activity bk-card" data-activity-pattern="discussion" data-activity-variant="">
+<p class="bk-prompt bk-label" id="pg015-prompt-2" data-id="pg015_n0019">Po ju, a i respektoni rregullat në klasë?</p>
+<details><summary class="bk-btn">Shënime (opsionale)</summary><label for="item-2" class="bk-sr-only">Po ju, a i respektoni rregullat në klasë?</label><textarea id="item-2" data-activity-item="item-2" aria-label="Po ju, a i respektoni rregullat në klasë?" aria-describedby="pg015-note-2" class="bk-field" rows="3"></textarea><p id="pg015-note-2" class="bk-caption">Shënime private, opsionale.</p><p class="bk-feedback" role="status" aria-live="polite"></p><button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button></details>
+</section>
+<section class="bk-activity bk-card" data-activity-pattern="discussion" data-activity-variant="">
+<p class="bk-prompt bk-label" id="pg015-prompt-3" data-id="pg015_n0022">Cilat janë disa nga të drejtat tuaja?</p>
+<details><summary class="bk-btn">Shënime (opsionale)</summary><label for="item-3" class="bk-sr-only">Cilat janë disa nga të drejtat tuaja?</label><textarea id="item-3" data-activity-item="item-3" aria-label="Cilat janë disa nga të drejtat tuaja?" aria-describedby="pg015-note-3" class="bk-field" rows="3"></textarea><p id="pg015-note-3" class="bk-caption">Shënime private, opsionale.</p><p class="bk-feedback" role="status" aria-live="polite"></p><button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button></details>
+</section>
+<p class="bk-caption" aria-label="Faqja e burimit 15">15</p>
+</section>
+</div>
+</main>
+<script>window.activityAnswerTextIds=JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+<script>
+(function(){
+function init(){document.querySelectorAll('#content textarea[data-activity-item]').forEach(function(field){
+var details=field.closest('details'),status=details.querySelector('[role="status"]'),retry=details.querySelector('[data-action="retry-save"]');
+var key='ShoqeriaMjedisi4:pg015_sec001:'+field.dataset.activityItem;
+var draft=field.value,dirty=false;
+try{var saved=localStorage.getItem(key);if(saved!==null){field.value=saved;draft=saved;}}catch(e){status.textContent='⚠ Nuk u ruajt. Ruajtja lokale nuk është e disponueshme.';retry.hidden=false;}
+function save(){draft=field.value;dirty=true;try{localStorage.setItem(key,draft);dirty=false;status.textContent='✓ U ruajt.';retry.hidden=true;}catch(e){status.textContent='⚠ Nuk u ruajt. Shënimi mbetet në këtë faqe; provoni përsëri.';retry.hidden=false;}}
+field.addEventListener('input',save);field.addEventListener('change',save);retry.addEventListener('click',save);
+window.addEventListener('pagehide',function(){if(dirty)save();});
+window.addEventListener('pageshow',function(){if(dirty){field.value=draft;return;}try{var saved=localStorage.getItem(key);if(saved!==null)field.value=saved;}catch(e){}});
+});}
+if(document.readyState==='complete')init();else window.addEventListener('load',init,{once:true});
+})();
+</script>
+</body>
+</html>

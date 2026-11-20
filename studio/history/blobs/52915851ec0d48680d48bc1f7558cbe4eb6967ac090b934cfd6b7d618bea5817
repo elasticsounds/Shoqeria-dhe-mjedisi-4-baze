@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg063_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="78">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0 bk"><section data-section-type="text_and_single_image" data-section-id="pg063_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 text-zinc-800 max-sm:px-5"><div class="mb-10 flex min-h-[92px] w-full items-center bg-purple-400 px-8 max-sm:min-h-[72px] max-sm:px-5"><h1 data-id="pg063_n0002" class="adt-h1 font-bold text-white">Vendi ku jetoj</h1></div><div class="mb-10"><h2 data-id="pg063_n0004" class="adt-h2 mb-3 inline-block border-b-4 border-purple-400 pb-2 text-left font-semibold">Rajonet e Kosovës</h2></div><div class="mb-5"><h3 data-id="pg063_n0006" class="adt-h3 inline-block rounded-sm bg-green-400 px-4 py-2 font-semibold text-zinc-900">Situata 1.</h3><p class="adt-body mt-4 text-left leading-relaxed"><span data-id="pg063_n0008">Luna dhe Lisi janë shokë të mirë.</span> <span data-id="pg063_n0009">Ata vendosën të mësonin mësimin “Rajonet e Kosovës”, në shtëpinë e Lisit, sepse nëna e tij është mësuese gjeografie.</span> <span data-id="pg063_n0010">Të gjithë nxënësit e duan shumë mësuesen Lirikë, sepse ajo shpjegon mësimin përmes lojës.</span></p></div><p class="adt-body mb-5 text-left leading-relaxed"><span data-id="pg063_n0012">Mësuesja Lirikë kishte përgatitur hartën e Kosovës, ku një pjesë të saj e kishte ngjyrosur me të kaltër e një pjesë me të verdhë.</span> <span data-id="pg063_n0013">Ajo shpjegoi se Kosova është e ndarë në dy rajone: Fusha e Kosovës dhe Rrafshi i Dukagjinit.</span> <span data-id="pg063_n0014">Ajo vazhdoi duke iu treguar se Kosova ka shtatë qendra rajonale.</span> <span data-id="pg063_n0015">Mori etiketat me emra dhe i vendosi tri në Rrafshin e Dukagjinit: Gjakova, Peja dhe Prizreni, kurse katër të tjera në Fushën e Kosovës: Ferizaji, Gjilani, Mitrovica dhe Prishtina.</span> <span data-id="pg063_n0016">Etiketën me emrin e Prishtinës e kishte me ngjyrë të kuqe, që të dallohej nga qendrat e tjera rajonale, sepse Prishtina është kryeqyteti i Kosovës.</span></p><p class="adt-body mb-10 text-left leading-relaxed"><span data-id="pg063_n0018">Luna dhe Lisi u kënaqën shumë.</span> <span data-id="pg063_n0019">- Nuk do t’i harrojmë asnjëherë këto që mësuam sot,</span> <span data-id="pg063_n0020">- thanë ata.</span></p><figure class="mx-auto mt-2 w-full max-w-3xl overflow-hidden rounded-2xl border border-purple-200 bg-white p-4 shadow-sm max-sm:p-2"><img data-id="pg063_im004" src="images/pg063_im004.png" alt="Harta e Kosovës e ndarë në dy rajone: Rrafshi i Dukagjinit në të verdhë dhe Fusha e Kosovës në të gjelbër, me qendrat rajonale Peja, Gjakova, Prizreni, Mitrovica, Prishtina, Gjilani dhe Ferizaj." class="block h-auto w-full object-contain"><figcaption class="sr-only"><span data-id="pg063_n0022">Mitrovica</span> <span data-id="pg063_n0023">Peja</span> <span data-id="pg063_n0024">Prishtina</span> <span data-id="pg063_n0025">Rrafshi i Dukagjinit</span> <span data-id="pg063_n0026">Fusha e Kosovës</span> <span data-id="pg063_n0027">Gjilani</span> <span data-id="pg063_n0028">Gjakova</span> <span data-id="pg063_n0029">Ferizaj</span> <span data-id="pg063_n0030">Prizreni</span></figcaption></figure></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

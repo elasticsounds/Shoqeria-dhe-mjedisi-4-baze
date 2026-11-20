@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg069_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="92">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container bg-white opacity-0 bk">
+  <section data-section-type="text_and_images" data-section-id="pg069_sec001" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-3">
+    <div class="mb-6 flex items-stretch overflow-hidden rounded-tr-3xl max-sm:flex-col">
+      <div class="flex min-h-[84px] flex-1 items-center bg-[#ad6bb0] px-8 max-sm:min-h-[68px] max-sm:px-4" aria-hidden="true"></div>
+      <div class="flex w-36 items-center justify-center rounded-bl-3xl rounded-tl-3xl bg-[#a565ab] text-white max-sm:h-24 max-sm:w-full max-sm:rounded-bl-none max-sm:rounded-tl-none max-sm:rounded-b-3xl" aria-hidden="true">
+        <span>⌛</span>
+      </div>
+    </div>
+
+    <h1 data-id="pg069_n0004" class="adt-h2 mb-5 border-b-4 border-[#b67ac1] pb-2 font-bold text-gray-800">Familja dikur dhe sot</h1>
+
+    <div class="mb-5 flex items-start gap-5 max-sm:block">
+      <div class="shrink-0 bg-[#69bb78] px-4 py-1.5 max-sm:mb-3 max-sm:inline-block">
+        <h3 data-id="pg069_n0006" class="adt-h3 font-semibold text-gray-900">Situata 1.</h3>
+      </div>
+      <p class="adt-body flex-1 leading-relaxed text-gray-800">
+        <span data-id="pg069_n0008">Dje, ulur para oxhakut në dhomën e ndenjjes, duke dëgjuar kërcitjen e zjarrit, kujtova shtëpinë e madhe të fëmijërisë sime, në fshatin tonë, që, po ashtu, kishte oxhak, rreth të cilit mblidheshim për t'i dëgjuar historitë e gjyshit tim.</span>
+        <span data-id="pg069_n0009">Nën një çati jetonim 27 anëtarë.</span>
+        <span data-id="pg069_n0010">Gratë e shtëpisë përgatitnin ushqimin dhe na shtronin sofrën me radhë: së pari fëmijët, më pas burrat e në fund hanin gratë.</span>
+        <span data-id="pg069_n0011">Detyrë e grave ishte të kryenin punët e shtëpisë, të kujdesishin e t'i rritnin fëmijët.</span>
+        <span data-id="pg069_n0012">Pak gra ishin të shkolluara e të punësuara.</span>
+        <span data-id="pg069_n0013">Vendimet në shtëpi i merrte gjyshi, se ishte i zoti i shtëpisë.</span>
+        <span data-id="pg069_n0014">Ishin kohë të vështira.</span>
+        <span data-id="pg069_n0015">Nuk kishim ujësjellës.</span>
+        <span data-id="pg069_n0016">Nuk kishim rrymë elektrike.</span>
+        <span data-id="pg069_n0017">Natën ndriçonim me qirinj ose me llambë vajguri.</span>
+        <span data-id="pg069_n0018">Tani jetoj në qytet, në Pejë.</span>
+        <span data-id="pg069_n0019">U ktheva nga puna.</span>
+        <span data-id="pg069_n0020">Po përgatis darkën për gruan time mjeke, e cila së shpejti do të kthehet nga spitali ku punon dhe për vajzën time studente që po vjen me makinë nga Prishtina.</span>
+        <span data-id="pg069_n0021">Ajo do të marrë në aeroport vëllanë e saj, i cili po studion në Londër.</span>
+        <span data-id="pg069_n0022">Epo, kësaj i thonë familje bashkëkohore!</span>
+      </p>
+    </div>
+
+    <div class="mb-8 grid grid-cols-2 gap-8 px-10 max-lg:grid-cols-1 max-lg:px-0 max-sm:gap-4">
+      <figure>
+        <img data-id="pg069_im001_seg001_v1" src="images/pg069_im001_seg001_v1.png" alt="Burrë i ulur në kolltuk pranë oxhakut të ndezur, duke kujtuar jetën e dikurshme familjare." class="h-auto w-full">
+      </figure>
+      <figure>
+        <img data-id="pg069_im001_seg002_v1" src="images/pg069_im001_seg002_v1.png" alt="Familje bashkëkohore me prindër dhe dy fëmijë ulur rreth tryezës, duke ngrënë dhe biseduar." class="h-auto w-full">
+      </figure>
+    </div>
+
+    <div class="mb-8 rounded-none bg-[#e7d8ef] px-4 py-4 max-sm:px-3">
+      <div class="mb-4 flex justify-end">
+        <div class="flex h-16 w-28 items-center justify-center bg-[#a565ab] text-white max-sm:h-14 max-sm:w-20" aria-hidden="true">
+          <span>?</span>
+        </div>
+      </div>
+      <div class="space-y-4">
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg069_n0025">Si ishte familja dikur?</span></p>
+          <label for="item-1" class="sr-only">Si ishte familja dikur?</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="Si ishte familja dikur?" class="mt-2 min-h-11 w-full rounded-md border border-purple-300 bg-white px-3 py-3 text-gray-800"></textarea>
+        </div>
+
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg069_n0027">Me çka merreshin gratë?</span></p>
+          <label for="item-2" class="sr-only">Me çka merreshin gratë?</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="Me çka merreshin gratë?" class="mt-2 min-h-11 w-full rounded-md border border-purple-300 bg-white px-3 py-3 text-gray-800"></textarea>
+        </div>
+
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg069_n0029">Pse ishte jeta e vështirë?</span></p>
+          <label for="item-3" class="sr-only">Pse ishte jeta e vështirë?</label>
+          <textarea id="item-3" data-activity-item="item-3" aria-label="Pse ishte jeta e vështirë?" class="mt-2 min-h-11 w-full rounded-md border border-purple-300 bg-white px-3 py-3 text-gray-800"></textarea>
+        </div>
+
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg069_n0031">Kush i merrte vendimet në familje?</span></p>
+          <label for="item-4" class="sr-only">Kush i merrte vendimet në familje?</label>
+          <textarea id="item-4" data-activity-item="item-4" aria-label="Kush i merrte vendimet në familje?" class="mt-2 min-h-11 w-full rounded-md border border-purple-300 bg-white px-3 py-3 text-gray-800"></textarea>
+        </div>
+
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg069_n0033">Si është familja bashkëkohore?</span> <span data-id="pg069_n0034">Si merren vendimet e si ndahen përgjegjësitë?</span></p>
+          <label for="item-5" class="sr-only">Si është familja bashkëkohore? Si merren vendimet e si ndahen përgjegjësitë?</label>
+          <textarea id="item-5" data-activity-item="item-5" aria-label="Si është familja bashkëkohore? Si merren vendimet e si ndahen përgjegjësitë?" class="mt-2 min-h-11 w-full rounded-md border border-purple-300 bg-white px-3 py-3 text-gray-800"></textarea>
+        </div>
+
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg069_n0036">Bëj një krahasim ndërmjet mënyrës se si kanë qenë familjet dikur dhe si janë sot.</span></p>
+          <label for="item-6" class="sr-only">Bëj një krahasim ndërmjet mënyrës se si kanë qenë familjet dikur dhe si janë sot.</label>
+          <textarea id="item-6" data-activity-item="item-6" aria-label="Bëj një krahasim ndërmjet mënyrës se si kanë qenë familjet dikur dhe si janë sot." class="mt-2 min-h-11 w-full rounded-md border border-purple-300 bg-white px-3 py-3 text-gray-800"></textarea>
+        </div>
+      </div>
+    </div>
+
+    <aside class="mb-4 border-2 border-[#c987cf] bg-white px-4 py-4">
+      <div class="mb-3 flex justify-end">
+        <div class="flex h-16 w-20 items-center justify-center bg-[#a565ab] text-white max-sm:h-14 max-sm:w-16" aria-hidden="true">
+          <span>📖</span>
+        </div>
+      </div>
+      <p class="adt-body leading-relaxed text-gray-800 italic">
+        <span data-id="pg069_n0039">Familja është grupi i parë dhe më i vogël shoqëror në të cilën fillon jeta e njeriut.</span>
+        <span data-id="pg069_n0040">Familja shqiptare historikisht përbëhej nga një numër i madh anëtarësh, në të cilën jetonin tre deri në katër breza: prindërit me fëmijët dhe gjyshërit.</span>
+        <span data-id="pg069_n0041">E nganjëherë edhe stërgjyshërit.</span>
+        <span data-id="pg069_n0042">Prandaj edhe quhej familje e zgjeruar.</span>
+        <span data-id="pg069_n0043">Familja ishte tradicionale dhe udhëhiqej nga i zoti i shtëpisë.</span>
+        <span data-id="pg069_n0044">Sot familja ka pësuar ndryshime të mëdha.</span>
+        <span data-id="pg069_n0045">Ndryshe prej familjeve tradicionale, në familjen bashkëkohore, e cila po zë vend gjithnjë e më shumë në Kosovë, jetojnë vetëm dy breza, që do të thotë se jetojnë prindërit me fëmijët.</span>
+        <span data-id="pg069_n0046">Ndarja e punëve në familje bëhet me marrëveshje.</span>
+        <span data-id="pg069_n0047">Kjo do të thotë se drejtimi i familjes bëhet bashkërisht, nga të dy prindërit.</span>
+      </p>
+    </aside>
+
+    <p class="adt-body text-gray-900">
+      <span data-id="pg069_n0049" class="font-semibold">Fjalët kyçe:</span>
+      <span data-id="pg069_n0050">familje, tradicionale, bashkëkohore, shumëgjeneratëshe.</span>
+    </p>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

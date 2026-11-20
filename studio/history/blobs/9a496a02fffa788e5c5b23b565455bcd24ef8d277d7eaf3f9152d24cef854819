@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg010_sec002">
+<meta name="page-section-id" content="18">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+#content.bk{padding-top:24px}#content.bk p{margin:0}#content.bk .bk-banner{margin-top:-24px;padding:16px 20px;border-radius:20px}#content.bk .bk-body{max-width:720px}#content.bk em{font-style:normal;font-weight:600}#content.bk .bk-row img{width:48px;height:48px;object-fit:contain;flex:none}#content.bk .bk-row h1{flex:1;min-width:0}#content.bk .bk-subheading{background:var(--bk-accent2);width:fit-content}#content.bk .bk-activity{gap:12px}
+#nav-container,#interface-container,#nav-container :is(div,span,a,button,p,label,input,select),#interface-container :is(div,span,a,button,p,label,input,select){font-family:BookPoppins,Poppins,Arial,sans-serif!important}
+@media(max-width:360px){#content.bk .bk-banner .bk-row{flex-direction:column;align-items:flex-start}#content.bk .bk-row h1{width:100%;overflow-wrap:anywhere}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body><main><div id="content" class="bk" data-family="lesson-discussion"><section data-section-type="text_and_single_image" data-section-id="pg010_sec002">
+<header class="bk-banner"><div class="bk-row"><img src="studio/assets/pg010_sec002-people.png" alt="" aria-hidden="true"><h1 class="bk-title"><span data-id="pg010_n0008">Lidhjet dhe bashkëpunimi me të tjerët</span></h1></div></header>
+<div class="bk-stack"><h2 class="bk-heading"><span data-id="pg010_n0009">Grupet shoqërore</span></h2>
+<div class="bk-activity"><h3 class="bk-subheading"><span data-id="pg010_n0011">Situata 1.</span></h3><p class="bk-body"><span data-id="pg010_n0013">Bora, së bashku me prindërit dhe vëllanë e madh, jeton në Prishtinë.</span> <span data-id="pg010_n0014">Ajo është në klasën e katërt.</span> <span data-id="pg010_n0015">Në shkollën e saj ka shumë grupe ku fëmijët bashkohen, sepse mendojnë njësoj, kanë dëshira e interesa të njëjtë dhe duan të arrijnë gjëra të përbashkëta.</span> <span data-id="pg010_n0016">Këto grupe të shkollës u mundësojnë nxënësve që t'i shprehin aftësitë dhe talentet e tyre të ndryshme.</span></p></div>
+<p class="bk-caption" aria-label="Faqja e burimit 10">10</p></div></section></div></main>
+<script>window.activityAnswerTextIds=JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+</body></html>

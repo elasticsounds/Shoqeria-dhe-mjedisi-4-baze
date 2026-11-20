@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg008_sec002">
+<meta name="page-section-id" content="14">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+body,button,input,textarea,select{font-family:BookPoppins,Poppins,sans-serif}
+#page-heading,#interface-container :not(i):not([class*="fa-"]),#nav-container :not(i):not([class*="fa-"]){font-family:BookPoppins,Poppins,sans-serif!important}
+#content.bk.bk.bk p.bk-prompt{font-weight:400}
+#content.bk.bk.bk textarea.bk-field{border-color:var(--bk-primary);padding:12px}
+#content.bk.bk.bk summary.bk-btn{border-color:var(--bk-primary);padding-inline:20px}
+#content.bk.bk.bk[id]{padding-top:24px;overflow:visible}
+@media(min-width:641px) and (max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+#content.bk.bk.bk em{font-weight:600;font-style:normal}
+#content.bk.bk.bk .bk-field{border-color:var(--bk-primary);padding:12px;scroll-margin-block:96px}
+#content.bk.bk.bk .bk-btn{border-color:var(--bk-primary);padding-inline:20px}
+#content.bk.bk.bk .bk-btn--secondary{color:var(--bk-primary)}
+#content.bk.bk.bk [hidden]{display:none}
+#content.bk.bk.bk details> :not(summary){margin-top:12px}
+#content.bk.bk.bk .bk-feedback:empty{display:none}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<h1 class="bk-sr-only" id="page-heading" style="position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)">Shoqëria dhe Mjedisi 4</h1>
+<div id="content" class="bk" data-family="lesson-discussion">
+<section class="bk-card bk-card--surface1 bk-stack" data-section-type="boxed_text" data-section-id="pg008_sec002">
+<section class="bk-activity" data-activity-pattern="discussion" data-activity-variant="">
+<p class="bk-prompt bk-body" id="pg008_n0020"><span data-id="pg008_n0020">Çfarë kupton me fjalën <em>komunitet</em>?</span></p>
+<details><summary class="bk-btn" id="notes-1" aria-labelledby="notes-1 pg008_n0020">Shënime (opsionale)</summary>
+<label class="bk-sr-only" for="item-1">Çfarë kupton me fjalën komunitet?</label>
+<textarea id="item-1" data-activity-item="item-1" aria-label="Çfarë kupton me fjalën komunitet?" class="bk-field" rows="3"></textarea>
+<p class="bk-feedback" role="status" aria-live="polite"></p>
+<button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+</details>
+</section>
+<section class="bk-activity" data-activity-pattern="discussion" data-activity-variant="">
+<p class="bk-prompt bk-body" id="pg008_n0022"><span data-id="pg008_n0022">Kush është pjesë e komunitetit?</span></p>
+<details><summary class="bk-btn" id="notes-2" aria-labelledby="notes-2 pg008_n0022">Shënime (opsionale)</summary>
+<label class="bk-sr-only" for="item-2">Kush është pjesë e komunitetit?</label>
+<textarea id="item-2" data-activity-item="item-2" aria-label="Kush është pjesë e komunitetit?" class="bk-field" rows="3"></textarea>
+<p class="bk-feedback" role="status" aria-live="polite"></p>
+<button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+</details>
+</section>
+</section>
+</div>
+</main>
+<script>window.activityAnswerTextIds=JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+<script>
+(()=>{const prefix='ShoqeriaDheMjedisi4:pg008_sec002:discussion:';
+for(const field of document.querySelectorAll('#content textarea')){
+const key=prefix+field.dataset.activityItem, box=field.closest('details'), status=box.querySelector('[role=status]'), retry=box.querySelector('button');let dirty=false;
+function save(){try{localStorage.setItem(key,JSON.stringify({text:field.value}));dirty=false;status.textContent='✓ U ruajt.';retry.hidden=true;}catch(e){dirty=true;status.textContent='⚠ Nuk u ruajt.';retry.hidden=false;}}
+function restore(){try{const value=localStorage.getItem(key);if(value!==null&&!dirty){field.value=JSON.parse(value).text;}}catch(e){status.textContent='⚠ Shënimet e ruajtura nuk u lexuan.';}}
+restore();window.addEventListener('load',()=>{if(!dirty){const existing=field.value;restore();try{if(localStorage.getItem(key)===null&&existing)save();}catch(e){status.textContent='⚠ Nuk u ruajt.';retry.hidden=false;}}});
+if(location.hash==='#'+field.id){box.open=true;requestAnimationFrame(()=>field.focus());}
+field.addEventListener('input',()=>{dirty=true;save();});retry.addEventListener('click',save);
+window.addEventListener('pagehide',()=>{if(dirty)save();});
+}})();
+</script>
+<script>
+window.addEventListener('load',()=>{setTimeout(()=>{
+const fields=[...document.querySelectorAll('#content textarea')],prefix='ShoqeriaDheMjedisi4:pg008_sec002:discussion:',marker='studio-test-'+location.pathname;
+const previous=sessionStorage.getItem(marker);
+if(!previous){sessionStorage.setItem(marker,JSON.stringify(fields.map(f=>localStorage.getItem(prefix+f.id))));for(const f of fields){f.value='Provë ç ë Ç Ë '+f.id;f.dispatchEvent(new Event('input',{bubbles:true}));if(JSON.parse(localStorage.getItem(prefix+f.id)).text!==f.value)throw Error('SAVE TEST FAILED');}location.reload();return;}
+const originals=JSON.parse(previous);
+fields.forEach((f,i)=>{if(f.value!=='Provë ç ë Ç Ë '+f.id)throw Error('RELOAD TEST FAILED '+f.id);const d=f.closest('details');d.open=true;f.focus();if(document.activeElement!==f)throw Error('FOCUS FAILED');const original=Storage.prototype.setItem;try{Storage.prototype.setItem=function(){throw Error('test quota');};f.value='Draft retained';f.dispatchEvent(new Event('input',{bubbles:true}));if(d.querySelector('button').hidden||f.value!=='Draft retained'||!d.querySelector('[role=status]').textContent.includes('Nuk u ruajt'))throw Error('FAILURE FEEDBACK FAILED');}finally{Storage.prototype.setItem=original;}d.querySelector('button').click();if(JSON.parse(localStorage.getItem(prefix+f.id)).text!=='Draft retained'||!d.querySelector('button').hidden)throw Error('RETRY FAILED');if(originals[i]===null)localStorage.removeItem(prefix+f.id);else localStorage.setItem(prefix+f.id,originals[i]);f.value='';d.querySelector('[role=status]').textContent='✓ Save, reload, failure, retry, focus: PASS';});sessionStorage.removeItem(marker);window.scrollTo(0,0);
+},100);});
+</script>
+</body>
+</html>

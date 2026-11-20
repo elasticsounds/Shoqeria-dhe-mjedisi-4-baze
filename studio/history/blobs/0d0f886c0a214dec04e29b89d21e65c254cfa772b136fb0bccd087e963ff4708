@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg025_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="35">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk"><section data-section-type="text_and_single_image" data-section-id="pg025_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 text-slate-800 max-sm:px-5">
+  <div class="mb-6 overflow-hidden rounded-[2rem] bg-gradient-to-r from-purple-600 to-fuchsia-500">
+    <div class="px-8 py-6 max-sm:px-5">
+      <h1 class="adt-h2 text-left text-slate-900" data-id="pg025_n0003">Ndihem i/e barabartë</h1>
+      <div aria-hidden="true" class="mt-3 h-1 w-40 rounded-full bg-purple-200 max-sm:w-32"></div>
+    </div>
+  </div>
+
+  <div class="mb-8 rounded-3xl bg-amber-50 px-5 py-5 ring-1 ring-amber-200">
+    <h3 class="adt-h3 inline-block rounded-xl bg-amber-300 px-3 py-1 font-semibold text-slate-900" data-id="pg025_n0005">Situata 2.</h3>
+    <p class="adt-body mt-4 text-left leading-relaxed text-slate-800">
+      <span data-id="pg025_n0006">Nora kishte kohë që mendonte se si ta ndihmonte shokun e saj të bankës.</span>
+      <span data-id="pg025_n0007" class="ml-1">Ai kishte vështirësi në matematikë.</span>
+      <span data-id="pg025_n0008" class="ml-1">Shpeshherë, mësuesja i tërhiqte vëmendjen, pasi ai nuk i zgjidhte saktë ushtrimet dhe problemat.</span>
+    </p>
+  </div>
+
+  <div class="mb-8 overflow-hidden rounded-3xl bg-slate-50 shadow-md ring-1 ring-slate-200">
+    <img data-id="pg025_im002" src="images/pg025_im002.png" alt="Nora dhe shoku i saj i bankës shkruajnë në fletore, ulur pranë njëri-tjetrit në klasë." class="h-auto w-full object-cover">
+  </div>
+
+  <aside class="mb-10 rounded-3xl bg-purple-100 px-5 py-5 ring-1 ring-purple-200">
+    <div class="space-y-5">
+      <div>
+        <p class="adt-body text-left text-slate-800" data-id="pg025_n0010">– Vazhdоje tregimin ashtu siç do ti të zhvillohen ngjarjet!</p>
+        <label for="item-1" class="sr-only">– Vazhdоje tregimin ashtu siç do ti të zhvillohen ngjarjet!</label>
+        <textarea id="item-1" data-activity-item="item-1" aria-label="– Vazhdоje tregimin ashtu siç do ti të zhvillohen ngjarjet!" class="mt-3 min-h-11 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+      </div>
+      <div>
+        <p class="adt-body text-left text-slate-800" data-id="pg025_n0011">– Si mendoi që ta zgjidhte Nora problemin e shokut të saj?</p>
+        <label for="item-2" class="sr-only">– Si mendoi që ta zgjidhte Nora problemin e shokut të saj?</label>
+        <textarea id="item-2" data-activity-item="item-2" aria-label="– Si mendoi që ta zgjidhte Nora problemin e shokut të saj?" class="mt-3 min-h-11 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+      </div>
+      <div>
+        <p class="adt-body text-left text-slate-800" data-id="pg025_n0012">– Po ju, si do të vepronit në një situatë të tillë?</p>
+        <label for="item-3" class="sr-only">– Po ju, si do të vepronit në një situatë të tillë?</label>
+        <textarea id="item-3" data-activity-item="item-3" aria-label="– Po ju, si do të vepronit në një situatë të tillë?" class="mt-3 min-h-11 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+      </div>
+    </div>
+  </aside>
+
+  <div class="mb-8 rounded-3xl border-2 border-purple-300 bg-white px-5 py-4 shadow-sm">
+    <p class="adt-body text-left italic leading-relaxed text-slate-700">
+      <span data-id="pg025_n0015">Fëmijëve, që kanë vështirësi të ndryshme, duhet t’u jepen të njëjtat mundësi, për të bërë një jetë dinjitoze, si gjithë të tjerët.</span>
+      <span data-id="pg025_n0016" class="ml-1">Fëmijët me vështirësi në të nxënë kanë nevojë për kujdes dhe arsimim të veçantë për mirërritjen e tyre.</span>
+      <span data-id="pg025_n0017" class="ml-1">Mësuesi duhet t’u ofrojë besim dhe mbështetje për zhvillim të plotë.</span>
+      <span data-id="pg025_n0018" class="ml-1">Ata janë pjesë e rëndësishme e shoqërisë.</span>
+      <span data-id="pg025_n0019" class="ml-1">Secili prej tyre duhet të ndihmohet për të qenë i pavarur dhe t’i sigurohet pjesëmarrje aktive në komunitetin e tij.</span>
+    </p>
+  </div>
+
+  <p class="adt-body text-left text-slate-800" data-id="pg025_n0020">Fjalët kyçe: aftësi e kufizuar, vështirësi, nevojë e veçantë.</p>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

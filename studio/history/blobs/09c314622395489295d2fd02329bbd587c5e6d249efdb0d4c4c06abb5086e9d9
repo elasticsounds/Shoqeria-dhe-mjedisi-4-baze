@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe Mjedisi 4</title>
+  <meta name="title-id" content="pg089_sec001_p2">
+  <meta name="page-section-id" content="118">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  <style>
+    #interface-container :is(button,span,a,p,div):not([class*="fa-"]), #nav-container :is(button,span,a,p,div,li,h3):not([class*="fa-"]) { font-family:BookPoppins,Poppins,Arial,sans-serif !important; }
+    #content.bk details .bk-field, #content.bk details .bk-feedback, #content.bk details button { margin-top:12px; }
+    #content.bk .bk-feedback:empty { display:none; }
+    #content.bk summary.bk-btn::before { content:"▸"; }
+    #content.bk details[open] summary.bk-btn::before { content:"▾"; }
+  </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <div class="bk" data-family="lesson-discussion" id="content">
+      <section data-section-type="boxed_text" data-section-id="pg089_sec001_p2" class="bk-stack">
+        <div class="bk-card bk-card--surface1 bk-stack">
+          <section class="bk-activity" data-activity-pattern="discussion" data-activity-variant="group-discussion">
+            <label class="bk-prompt bk-label" for="item-3"><span data-id="pg089_n0015">Si duhet të veprojmë gjatë një feste, në të cilën jemi mikpritësit?</span></label>
+            <details><summary class="bk-btn bk-btn--secondary">Shënime (opsionale)</summary>
+              <textarea class="bk-field" id="item-3" data-activity-item="item-3" rows="3"></textarea>
+              <p class="bk-feedback" role="status" aria-live="polite"></p><button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+            </details>
+          </section>
+          <section class="bk-activity" data-activity-pattern="discussion" data-activity-variant="group-discussion">
+            <label class="bk-prompt bk-label" for="item-4"><span data-id="pg089_n0017">Cila festë ju pëlqen më shumë dhe pse?</span></label>
+            <details><summary class="bk-btn bk-btn--secondary">Shënime (opsionale)</summary>
+              <textarea class="bk-field" id="item-4" data-activity-item="item-4" rows="3"></textarea>
+              <p class="bk-feedback" role="status" aria-live="polite"></p><button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+            </details>
+          </section>
+        </div>
+        <p class="bk-body"><span data-id="pg089_n0006">Fjalët kyçe: festë, ditëlindje, urim, gëzim.</span></p>
+      </section>
+    </div>
+  </main>
+  <script>window.activityAnswerTextIds = JSON.parse('{}');</script>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+  <script>
+  (function () {
+    document.querySelectorAll('#content textarea[data-activity-item]').forEach(function (field) {
+      var key = 'ShoqeriaDheMjedisi4:pg089_sec001:' + field.dataset.activityItem;
+      var details = field.closest('details'), status = details.querySelector('[role="status"]'), retry = details.querySelector('[data-action="retry-save"]');
+      function fail() { status.textContent = '⚠ Nuk u ruajt. Shënimi mbetet këtu; provoni përsëri.'; retry.hidden = false; }
+      function save() {
+        try { localStorage.setItem(key, field.value); if (localStorage.getItem(key) !== field.value) throw new Error('save'); status.textContent = '✓ U ruajt.'; retry.hidden = true; }
+        catch (error) { fail(); }
+      }
+      try { var saved = localStorage.getItem(key); if (saved !== null) field.value = saved; }
+      catch (error) { fail(); }
+      field.addEventListener('input', save);
+      retry.addEventListener('click', save);
+    });
+  }());
+  </script>
+</body>
+</html>

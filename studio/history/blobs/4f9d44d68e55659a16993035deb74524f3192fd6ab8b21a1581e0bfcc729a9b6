@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg024_sec001">
+    <meta name="page-section-id" content="37">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+      body, button, input, textarea, select {font-family:BookPoppins,Poppins,sans-serif;}
+      #interface-container :is(button,a,span,p,label), #nav-container :is(button,a,span,p,label) {font-family:BookPoppins,Poppins,sans-serif;font-size:16px;}
+      #content.bk.bk.bk {padding:24px 32px 96px;overflow-x:visible;}
+      #content.bk.bk.bk .bk-banner {margin:0;padding:16px 20px;border-radius:20px;}
+      #content.bk.bk.bk [data-emblem] {width:48px;height:48px;object-fit:contain;flex:none;}
+      #content.bk.bk.bk .bk-heading {font-weight:600;line-height:1.25;}
+      #content.bk.bk.bk .bk-subheading {line-height:1.25;}
+      #content.bk.bk.bk .bk-chip {background:var(--bk-accent2);}
+      #content.bk.bk.bk [data-passage] {max-width:720px;}
+      #content.bk.bk.bk p {margin:0;}
+      @media(max-width:767px){#content.bk.bk.bk {padding-inline:16px;}}
+      body :is(button,a,span,p,label) {font-family:BookPoppins,Poppins,sans-serif!important;}
+      #content.bk.bk.bk.bk {padding:24px 32px 96px;overflow:visible;}
+      #content.bk.bk.bk.bk .bk-banner {margin:0;padding:16px 20px;border-radius:20px;}
+      #content.bk.bk.bk.bk .bk-heading {font-weight:600;line-height:1.25;}
+      #content.bk.bk.bk.bk .bk-subheading {line-height:1.25;}
+      #content.bk.bk.bk.bk .bk-chip {background:var(--bk-accent2);}
+      @media(max-width:767px){#content.bk.bk.bk.bk {padding-inline:16px;}}
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+    <main>
+      <div data-family="illustrated-reading" id="content" class="bk">
+        <section data-section-type="text_and_single_image" data-section-id="pg024_sec001" data-source-page="24" class="bk-stack" aria-labelledby="unit-title">
+          <header class="bk-banner"><h1 id="unit-title" class="bk-title">Mirëkuptimi, solidariteti, empatia dhe respekti ndaj të tjerëve</h1></header>
+          <div class="bk-row">
+            <img data-emblem="" src="studio/assets/pg024_sec001-emblem.png" width="48" height="48" alt="Zemër e mbajtur nga dy duar">
+            <h2 data-id="pg024_n0004" class="bk-heading">Ndihem i/e barabartë</h2>
+          </div>
+          <div data-passage="">
+            <h3 data-id="pg024_n0006" class="bk-subheading bk-chip">Situata 1.</h3>
+            <p class="bk-body">
+              <span data-id="pg024_n0008">Të ndihesh i barabartë me të tjerët është prirje krejtësisht e natyrshme.</span>
+              <span data-id="pg024_n0009">Sytë e qeshur të Besës, e cila ishte ulur në karrocën me rrota, dukeshin sikur luanin me topin që godiste herë një kosh, herë një tjetër në fushën e basketbollit.</span>
+              <span data-id="pg024_n0010">Sa entuziazëm shprehnin sytë e saj!</span>
+              <span data-id="pg024_n0011">Kishte kohë që ndiqte lojërat tona, madje ishte tifozja jonë e përhershme.</span>
+              <span data-id="pg024_n0012">Trajneri i basketbollit na njoftoi se kishte menduar diçka të veçantë.</span>
+              <span data-id="pg024_n0013">Dhe vërtet ashtu ndodhi</span>…
+            </p>
+          </div>
+          <p class="bk-caption" aria-label="Faqja e shtypur 24">24</p>
+        </section>
+      </div>
+    </main>
+    <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

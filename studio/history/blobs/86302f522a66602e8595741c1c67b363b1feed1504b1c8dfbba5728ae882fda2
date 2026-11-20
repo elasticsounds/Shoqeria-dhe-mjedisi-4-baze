@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg100_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="128" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto max-w-5xl bg-white px-16 max-lg:px-10 max-sm:px-6 pt-8 pb-12 opacity-0">
+  <section class="bg-white mx-auto" role="region" data-section-type="activity_sorting" data-section-id="pg100_sec001">
+    <div class="mb-10">
+      <div class="flex items-stretch max-sm:flex-col max-sm:gap-4">
+        <div class="w-32 max-sm:w-full bg-purple-500 rounded-l-2xl max-sm:rounded-2xl flex items-center justify-center py-8">
+          <div class="w-16 h-16 border-4 border-white rounded-full opacity-80"></div>
+        </div>
+        <div class="flex-1 pt-10 max-sm:pt-0">
+          <div class="bg-purple-500 px-4 py-3">
+            <h1 class="adt-h1 font-bold text-white" data-id="pg100_n0002">Resurset dhe trash&#xeb;gimia e vendit tim</h1>
+          </div>
+          <div class="inline-block border-b-4 border-purple-400 px-2 pt-4 pb-2 max-sm:block">
+            <h2 class="adt-h2 font-semibold text-slate-800" data-id="pg100_n0003">Pasurit&#xeb; njer&#xeb;zore</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-8">
+      <div class="flex items-start gap-6 max-sm:flex-col max-sm:gap-3">
+        <div class="bg-green-400 px-5 py-2 min-w-[12rem] text-center rounded-sm max-sm:min-w-0 max-sm:w-fit">
+          <h3 class="adt-h3 font-semibold text-slate-900" data-id="pg100_n0005">Situata 1.</h3>
+        </div>
+        <div class="flex-1">
+          <p class="adt-body mb-2"><span data-id="pg100_n0007">Nj&#xeb; dit&#xeb;, Rona n&#xeb; nj&#xeb; revist&#xeb; pa nj&#xeb; detyr&#xeb;, ku kishte shum&#xeb; fotografi.</span></p>
+          <p class="adt-body mb-1"><span data-id="pg100_n0008">Mbi to shkruhej udh&#xeb;zimi:</span></p>
+          <ul class="list-disc pl-8 mb-2 adt-body">
+            <li><span data-id="pg100_n0011">Luaj dhe m&#xeb;so.</span></li>
+            <li><span data-id="pg100_n0013">Ndaj fotografit&#xeb; n&#xeb; dy grupe.</span></li>
+            <li><span data-id="pg100_n0015">Trego se &#xe7;ka jan&#xeb; pasurit&#xeb; natyrore dhe ato njer&#xeb;zore.</span></li>
+          </ul>
+          <p class="adt-body"><span data-id="pg100_n0017">Rona ka d&#xeb;shir&#xeb; t&#xeb; tregoj&#xeb; zgjidhjen e detyr&#xeb;s, prandaj edhe e publikoi at&#xeb; n&#xeb; librin ton&#xeb;.</span></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="grid grid-cols-[1.15fr_0.85fr] gap-6 max-lg:grid-cols-1">
+      <div class="grid grid-cols-3 gap-4 max-sm:grid-cols-2">
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg001_v1" src="images/pg100_im001_seg001_v1.png" alt="Lum&#xeb; me nj&#xeb; ur&#xeb; t&#xeb; vog&#xeb;l druri.">
+          <label for="sort-item-1" class="sr-only">Klasifiko figur&#xeb;n Lum&#xeb; me ur&#xeb;</label>
+          <input id="sort-item-1" data-activity-item="item-1" type="text" list="sort-options" aria-label="Klasifiko figur&#xeb;n Lum&#xeb; me ur&#xeb; si pasuri natyrore ose njer&#xeb;zore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg002_v1" src="images/pg100_im001_seg002_v1.png" alt="M&#xeb;suese duke folur para tabel&#xeb;s.">
+          <label for="sort-item-2" class="sr-only">Klasifiko figur&#xeb;n M&#xeb;suese para tabel&#xeb;s</label>
+          <input id="sort-item-2" data-activity-item="item-2" type="text" list="sort-options" aria-label="Klasifiko figur&#xeb;n M&#xeb;suese para tabel&#xeb;s si pasuri natyrore ose njer&#xeb;zore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg003_v1" src="images/pg100_im001_seg003_v1.png" alt="Kuzhiniere me uniform&#xeb; t&#xeb; bardh&#xeb; dhe kapel&#xeb; kuzhinieri.">
+          <label for="sort-item-3" class="sr-only">Klasifiko figur&#xeb;n Kuzhiniere</label>
+          <input id="sort-item-3" data-activity-item="item-3" type="text" list="sort-options" aria-label="Klasifiko figur&#xeb;n Kuzhiniere si pasuri natyrore ose njer&#xeb;zore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg004_v1" src="images/pg100_im001_seg004_v1.png" alt="Dielli me rreze t&#xeb; verdha n&#xeb; qiell t&#xeb; kalt&#xeb;r.">
+          <label for="sort-item-4" class="sr-only">Klasifiko figur&#xeb;n Dielli</label>
+          <input id="sort-item-4" data-activity-item="item-4" type="text" list="sort-options" aria-label="Klasifiko figur&#xeb;n Dielli si pasuri natyrore ose njer&#xeb;zore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg005_v1" src="images/pg100_im001_seg005_v1.png" alt="Mjek me mantil t&#xeb; bardh&#xeb; dhe stetoskop.">
+          <label for="sort-item-5" class="sr-only">Klasifiko figur&#xeb;n Mjek</label>
+          <input id="sort-item-5" data-activity-item="item-5" type="text" list="sort-options" aria-label="Klasifiko figur&#xeb;n Mjek si pasuri natyrore ose njer&#xeb;zore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg006_v1" src="images/pg100_im001_seg006_v1.png" alt="Pem&#xeb; e gjelb&#xeb;r.">
+          <label for="sort-item-6" class="sr-only">Klasifiko figur&#xeb;n Pem&#xeb;</label>
+          <input id="sort-item-6" data-activity-item="item-6" type="text" list="sort-options" aria-label="Klasifiko figur&#xeb;n Pem&#xeb; si pasuri natyrore ose njer&#xeb;zore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg007_v1_crop_v1" src="images/pg100_im001_seg007_v1_crop_v1.png" alt="Lule e kuqe me gjethe t&#xeb; gjelb&#xeb;r.">
+          <label for="sort-item-7" class="sr-only">Klasifiko figur&#xeb;n Lule</label>
+          <input id="sort-item-7" data-activity-item="item-7" type="text" list="sort-options" aria-label="Klasifiko figur&#xeb;n Lule si pasuri natyrore ose njer&#xeb;zore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg008_v1" src="images/pg100_im001_seg008_v1.png" alt="Bredh i gjelb&#xeb;r.">
+          <label for="sort-item-8" class="sr-only">Klasifiko figur&#xeb;n Bredh</label>
+          <input id="sort-item-8" data-activity-item="item-8" type="text" list="sort-options" aria-label="Klasifiko figur&#xeb;n Bredh si pasuri natyrore ose njer&#xeb;zore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg009_v1" src="images/pg100_im001_seg009_v1.png" alt="Murator duke nd&#xeb;rtuar me tulla.">
+          <label for="sort-item-9" class="sr-only">Klasifiko figur&#xeb;n Nd&#xeb;rtues</label>
+          <input id="sort-item-9" data-activity-item="item-9" type="text" list="sort-options" aria-label="Klasifiko figur&#xeb;n Nd&#xeb;rtues si pasuri natyrore ose njer&#xeb;zore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+        <div class="flex flex-col items-center rounded-xl border-2 border-slate-300 bg-white p-3 shadow-sm">
+          <img class="w-full h-auto object-contain max-h-40" data-id="pg100_im001_seg010_v1" src="images/pg100_im001_seg010_v1.png" alt="Police me uniform&#xeb;.">
+          <label for="sort-item-10" class="sr-only">Klasifiko figur&#xeb;n Police</label>
+          <input id="sort-item-10" data-activity-item="item-10" type="text" list="sort-options" aria-label="Klasifiko figur&#xeb;n Police si pasuri natyrore ose njer&#xeb;zore" class="w-full min-h-11 mt-3 rounded-md border border-slate-300 px-3 py-2">
+        </div>
+      </div>
+
+      <div class="flex flex-col gap-4 max-lg:mt-2">
+        <div class="bg-green-200 border border-green-300 rounded p-4 min-h-[18rem] max-lg:min-h-[8rem]">
+          <p class="font-semibold text-center mb-2" data-id="pg100_sec001_activity_c94d4e1c6d33f2a6ccbf982a">Pasurit&#xeb; natyrore</p>
+        </div>
+        <div class="bg-purple-200 border border-purple-300 rounded p-4 min-h-[18rem] max-lg:min-h-[8rem]">
+          <p class="font-semibold text-center mb-2" data-id="pg100_sec001_activity_190ed872f19b68922b21a435">Pasurit&#xeb; njer&#xeb;zore</p>
+        </div>
+      </div>
+    </div>
+
+    <datalist id="sort-options">
+      <option value="Pasurit&#xeb; natyrore"></option>
+      <option value="Pasurit&#xeb; njer&#xeb;zore"></option>
+    </datalist>
+
+    <div class="mt-8 rounded-2xl border-2 border-slate-200 bg-slate-50 p-4">
+      <label for="response-pg100-sec001" class="block mb-2 font-semibold text-slate-800">
+        <span data-id="pg100_sec001_activity_5a03f68d5aeb129b34312c70">P&#xeb;rgjigjja</span>
+      </label>
+      <textarea id="response-pg100-sec001" data-activity-item="item-11" aria-label="Shkruaj p&#xeb;rgjigjen p&#xeb;r pasurit&#xeb; natyrore dhe njer&#xeb;zore" class="w-full min-h-[140px] rounded-xl border-2 border-slate-300 p-4"></textarea>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{"item-1":"pg100_sec001_ans_item-1","item-2":"pg100_sec001_ans_item-2","item-3":"pg100_sec001_ans_item-3","item-4":"pg100_sec001_ans_item-4","item-5":"pg100_sec001_ans_item-5","item-6":"pg100_sec001_ans_item-6","item-7":"pg100_sec001_ans_item-7","item-8":"pg100_sec001_ans_item-8","item-9":"pg100_sec001_ans_item-9","item-10":"pg100_sec001_ans_item-10"}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"activity_gen_pasurite_natyrore","item-2":"activity_gen_pasurite_njerezore","item-3":"activity_gen_pasurite_njerezore","item-4":"activity_gen_pasurite_natyrore","item-5":"activity_gen_pasurite_njerezore","item-6":"activity_gen_pasurite_natyrore","item-7":"activity_gen_pasurite_natyrore","item-8":"activity_gen_pasurite_natyrore","item-9":"activity_gen_pasurite_njerezore","item-10":"activity_gen_pasurite_njerezore","item-11":""}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

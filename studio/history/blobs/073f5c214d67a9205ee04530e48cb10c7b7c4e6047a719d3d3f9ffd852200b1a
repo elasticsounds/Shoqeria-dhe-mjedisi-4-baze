@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg021_sec003">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="35">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk"><section data-section-type="boxed_text" data-section-id="pg021_sec003" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-white"><aside class="rounded-3xl bg-amber-100 border-2 border-amber-200 p-6 shadow-sm"><h1 class="adt-h4 font-bold text-slate-800 mb-5" data-id="pg021_n0025">Këshilla:</h1><ul class="space-y-3 text-slate-800 adt-body"><li class="flex items-start gap-3"><span aria-hidden="true" class="mt-2 h-2.5 w-2.5 rounded-full bg-amber-500 shrink-0"></span><span data-id="pg021_n0028">Njihu me masat parandaluese ndaj sëmundjeve!</span></li><li class="flex items-start gap-3"><span aria-hidden="true" class="mt-2 h-2.5 w-2.5 rounded-full bg-amber-500 shrink-0"></span><span data-id="pg021_n0030">Sigurohu që t’i marrësh të gjitha vaksinimet e nevojshme!</span></li><li class="flex items-start gap-3"><span aria-hidden="true" class="mt-2 h-2.5 w-2.5 rounded-full bg-amber-500 shrink-0"></span><span data-id="pg021_n0032">Kujdesu që të pajisesh me librezë shëndetësore ose kartë shëndeti!</span></li><li class="flex items-start gap-3"><span aria-hidden="true" class="mt-2 h-2.5 w-2.5 rounded-full bg-amber-500 shrink-0"></span><span data-id="pg021_n0034">Njihu me shërbimet shëndetësore që të ofrohen nga mjeku i familjes!</span></li><li class="flex items-start gap-3"><span aria-hidden="true" class="mt-2 h-2.5 w-2.5 rounded-full bg-amber-500 shrink-0"></span><span data-id="pg021_n0036">Bëj kontroll të herëpashershëm për vlerësimin e gjendjes shëndetësore!</span></li></ul></aside><div class="mt-8 rounded-2xl border border-fuchsia-200 bg-fuchsia-50 px-5 py-4 adt-body text-slate-800"><span class="font-semibold" data-id="pg021_n0038">Fjalët kyçe:</span><span class="ml-2" data-id="pg021_n0039">qendër shëndetësore, shërbim, mjek familjar, kujdes shëndetësor.</span></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

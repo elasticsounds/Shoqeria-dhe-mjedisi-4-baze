@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg020_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="25">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" class="container mx-auto max-w-5xl bg-white px-16 max-lg:px-10 max-sm:px-5 pt-8 pb-12 opacity-0 bk" id="content"><section data-section-type="activity_open_ended_answer" data-section-id="pg020_sec001" class="mx-auto max-w-5xl">
+  <div class="mb-10">
+    <div class="flex items-stretch max-sm:flex-col">
+      <div class="w-36 shrink-0 rounded-2xl bg-purple-500 flex items-center justify-center max-sm:w-full max-sm:min-h-24 max-sm:rounded-b-none" aria-hidden="true">
+        <span class="text-white text-6xl leading-none">⚖</span>
+      </div>
+      <div class="flex-1 self-center pl-0">
+        <div class="bg-purple-500 px-6 py-3 text-white max-sm:rounded-none">
+          <h1 class="adt-h1 font-bold leading-tight"><span data-id="pg020_n0002">Secili ka të drejta dhe përgjegjësi</span></h1>
+        </div>
+        <div class="border-b-4 border-purple-400 px-3 py-4 max-w-4xl">
+          <h3 class="adt-h3 leading-tight text-neutral-900"><span data-id="pg020_n0003">Veprimtaria 2: “Vizitë në një qendër shëndetësore”</span></h3>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mb-10 space-y-6">
+    <img data-id="pg020_im001_seg001_v1" src="images/pg020_im001_seg001_v1.png" alt="Mjeku po e kontrollon një vajzë me stetoskop në qendër shëndetësore." class="block w-full h-auto">
+    <div class="grid grid-cols-2 gap-6 max-sm:grid-cols-1">
+      <img data-id="pg020_im001_seg002_v1_crop_v1" src="images/pg020_im001_seg002_v1_crop_v1.png" alt="Punëtorja shëndetësore po ia mat gjatësinë një djali gjatë kontrollit mjekësor." class="block w-full h-auto">
+      <img data-id="pg020_im001_seg003_v1_crop_v1" src="images/pg020_im001_seg003_v1_crop_v1.png" alt="Dentistja po ia kontrollon dhëmbët një djali në karrigen dentare." class="block w-full h-auto">
+    </div>
+  </div>
+
+  <div class="bg-purple-100 px-6 py-5 max-sm:px-4">
+    <div class="flex items-start gap-4 max-sm:flex-col max-sm:gap-3">
+      <div class="bg-purple-500 text-white flex items-center justify-center w-20 min-h-20 shrink-0" aria-hidden="true">
+        <span class="text-5xl leading-none">?</span>
+      </div>
+      <div class="flex-1 space-y-5">
+        <div>
+          <p class="adt-body mb-2"><span data-id="pg020_n0007">Çfarë shihni në secilën figurë?</span></p>
+          <label for="activity-item-1" class="sr-only">Përgjigjja për pyetjen Çfarë shihni në secilën figurë?</label>
+          <textarea id="activity-item-1" data-activity-item="item-1" aria-label="Përgjigjja për pyetjen Çfarë shihni në secilën figurë?" class="w-full min-h-24 rounded-md border border-gray-300 bg-white px-3 py-3 min-h-11"></textarea>
+        </div>
+        <div>
+          <p class="adt-body mb-2"><span data-id="pg020_n0009">Me cilën të drejtë lidhet secili rast?</span></p>
+          <label for="activity-item-2" class="sr-only">Përgjigjja për pyetjen Me cilën të drejtë lidhet secili rast?</label>
+          <textarea id="activity-item-2" data-activity-item="item-2" aria-label="Përgjigjja për pyetjen Me cilën të drejtë lidhet secili rast?" class="w-full min-h-24 rounded-md border border-gray-300 bg-white px-3 py-3 min-h-11"></textarea>
+        </div>
+        <div>
+          <p class="adt-body mb-2"><span data-id="pg020_n0011">Kush kujdeset për shëndetin tuaj?</span></p>
+          <label for="activity-item-3" class="sr-only">Përgjigjja për pyetjen Kush kujdeset për shëndetin tuaj?</label>
+          <textarea id="activity-item-3" data-activity-item="item-3" aria-label="Përgjigjja për pyetjen Kush kujdeset për shëndetin tuaj?" class="w-full min-h-16 rounded-md border border-gray-300 bg-white px-3 py-3 min-h-11"></textarea>
+        </div>
+        <div>
+          <p class="adt-body mb-2"><span data-id="pg020_n0013">A e njihni mjekun e familjes?</span></p>
+          <label for="activity-item-4" class="sr-only">Përgjigjja për pyetjen A e njihni mjekun e familjes?</label>
+          <textarea id="activity-item-4" data-activity-item="item-4" aria-label="Përgjigjja për pyetjen A e njihni mjekun e familjes?" class="w-full min-h-16 rounded-md border border-gray-300 bg-white px-3 py-3 min-h-11"></textarea>
+        </div>
+        <div>
+          <p class="adt-body mb-2"><span data-id="pg020_n0015">Çfarë bëni zakonisht për të ruajtur shëndetin tuaj?</span></p>
+          <label for="activity-item-5" class="sr-only">Përgjigjja për pyetjen Çfarë bëni zakonisht për të ruajtur shëndetin tuaj?</label>
+          <textarea id="activity-item-5" data-activity-item="item-5" aria-label="Përgjigjja për pyetjen Çfarë bëni zakonisht për të ruajtur shëndetin tuaj?" class="w-full min-h-24 rounded-md border border-gray-300 bg-white px-3 py-3 min-h-11"></textarea>
+        </div>
+        <div>
+          <p class="adt-body mb-2"><span data-id="pg020_n0017">Si mendon se kujdesesh për shëndetin tënd në krahasim me shokët e klasës?</span></p>
+          <label for="activity-item-6" class="sr-only">Përgjigjja për pyetjen Si mendon se kujdesesh për shëndetin tënd në krahasim me shokët e klasës?</label>
+          <textarea id="activity-item-6" data-activity-item="item-6" aria-label="Përgjigjja për pyetjen Si mendon se kujdesesh për shëndetin tënd në krahasim me shokët e klasës?" class="w-full min-h-32 rounded-md border border-gray-300 bg-white px-3 py-3 min-h-11"></textarea>
+        </div>
+      </div>
+    </div>
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

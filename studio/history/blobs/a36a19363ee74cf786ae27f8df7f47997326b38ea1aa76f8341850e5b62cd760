@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe Mjedisi 4</title>
+  <meta name="title-id" content="pg118_sec001_p3">
+  <meta name="page-section-id" content="158">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  
+  <style>
+    #content .bk-figure { max-width: 720px; }
+    #content.bk.bk.bk section.bk-stack { gap: 12px; }
+    #content.bk.bk.bk section.bk-stack .bk-figure { margin-top: 12px; }
+    #content .bk-figure img { width: 100%; height: auto; }
+    #nav-container, #nav-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands),
+    #interface-container, #interface-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands) { font-family: BookPoppins, Poppins, Arial, sans-serif; }
+  </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <div data-family="illustrated-reading" id="content" class="bk">
+      <section data-section-type="text_and_single_image" data-section-id="pg118_sec001_p3" class="bk-stack">
+        <p class="bk-body"><span data-id="pg118_n0014">Nëna, e lumturuar nga përgjigjet e Jonës, shtoi: - Ky lloj transporti quhet transport publik dhe është i destinuar për të gjithë qytetarët.</span> <span data-id="pg118_n0015">Ai funksionon sipas një orari, ndjek një linjë rruge të caktuar dhe për të shfrytëzuar atë caktohet një çmim standard.</span></p>
+        <p class="bk-body"><span data-id="pg118_n0016">- Mendoj që edhe ne, - tha Jona, - duhet të udhëtojmë me transport publik tash e tutje.</span> <span data-id="pg118_n0017">Prindërve u pëlqeu ideja e saj.</span></p>
+        <figure class="bk-figure"><img data-id="pg118_im001" src="studio/assets/pg118_sec001-bus.png" alt="Autobus i verdhë i transportit publik, me ndërtesa të qytetit në sfond."></figure>
+      </section>
+    </div>
+  </main>
+  <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

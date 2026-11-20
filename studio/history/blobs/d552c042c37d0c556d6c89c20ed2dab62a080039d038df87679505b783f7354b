@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg031_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="40" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0">
+  <section data-section-type="text_and_single_image" data-section-id="pg031_sec001" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5">
+    <div class="mb-8 border-b-4 border-purple-400 pb-3">
+      <h1 class="adt-h2 font-semibold text-gray-800" data-id="pg031_n0003">Vlerat</h1>
+    </div>
+
+    <div class="mb-8 rounded-2xl bg-white">
+      <div class="mb-3">
+        <h3 class="adt-h3 inline-block rounded-md bg-amber-300 px-3 py-1 font-semibold text-gray-900" data-id="pg031_n0005">Situata 2.</h3>
+      </div>
+      <p class="adt-body text-left leading-relaxed text-gray-800">
+        <span data-id="pg031_n0006">M&#xeb;simi n&#xeb; distanc&#xeb; shkaktoi disa probleme, t&#xeb; cilave nuk mund t&apos;u gjenim zgjidhje.</span>
+        <span data-id="pg031_n0007">P&#xeb;r shembull, shoku yn&#xeb; i klas&#xeb;s nuk kishte telefon p&#xeb;r t&#xeb; komunikuar.</span>
+        <span data-id="pg031_n0008">&#xc7;do gj&#xeb; n&#xeb; k&#xeb;t&#xeb; koh&#xeb; ishte e lidhur me teknologjin&#xeb;.</span>
+        <span data-id="pg031_n0009">U kujtova q&#xeb; gjyshes sime i kishin dhuruar nj&#xeb; telefon.</span>
+        <span data-id="pg031_n0010">Mendova se Besmirit n&#xeb; k&#xeb;to momente do t&#x2019;i sh&#xeb;rbente m&#xeb; shum&#xeb;</span>
+      </p>
+    </div>
+
+    <div class="mb-8 overflow-hidden rounded-3xl bg-amber-50 p-4 shadow-sm">
+      <img data-id="pg031_im001" src="images/pg031_im001.png" alt="Djali rri pran&#xeb; gjyshes s&#xeb; ulur n&#xeb; kolltuk, nd&#xeb;rsa ajo mban telefonin n&#xeb; dor&#xeb; p&#xeb;r ta ndihmuar." class="mx-auto w-full h-auto max-w-4xl">
+    </div>
+
+    <div class="mb-10 rounded-2xl bg-purple-200 p-5 shadow-sm">
+      <div class="space-y-5">
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg031_n0014">&#xc7;far&#xeb; mendon se b&#xeb;ri djali?</span></p>
+          <label for="item-1" class="sr-only">&#xc7;far&#xeb; mendon se b&#xeb;ri djali?</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="&#xc7;far&#xeb; mendon se b&#xeb;ri djali?" class="mt-2 min-h-11 w-full rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-500"></textarea>
+        </div>
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg031_n0016">Vazhdoje tregimin ashtu si&#xe7; mendon ti se do t&#xeb; zhvillohet m&#xeb; tutje.</span></p>
+          <label for="item-2" class="sr-only">Vazhdoje tregimin ashtu si&#xe7; mendon ti se do t&#xeb; zhvillohet m&#xeb; tutje.</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="Vazhdoje tregimin ashtu si&#xe7; mendon ti se do t&#xeb; zhvillohet m&#xeb; tutje." class="mt-2 min-h-11 w-full rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-500"></textarea>
+        </div>
+        <div>
+          <p class="adt-body text-gray-900"><span data-id="pg031_n0018">Po ti, si do t&#xeb; veproje n&#xeb; nj&#xeb; situat&#xeb; t&#xeb; till&#xeb;?</span></p>
+          <label for="item-3" class="sr-only">Po ti, si do t&#xeb; veproje n&#xeb; nj&#xeb; situat&#xeb; t&#xeb; till&#xeb;?</label>
+          <textarea id="item-3" data-activity-item="item-3" aria-label="Po ti, si do t&#xeb; veproje n&#xeb; nj&#xeb; situat&#xeb; t&#xeb; till&#xeb;?" class="mt-2 min-h-11 w-full rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-500"></textarea>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-8 rounded-2xl border-2 border-purple-300 bg-white p-5 shadow-sm">
+      <p class="adt-body text-left italic leading-relaxed text-gray-800">
+        <span data-id="pg031_n0021">Njer&#xeb;z t&#xeb; ndrysh&#xeb;m kan&#xeb; nevoja t&#xeb; ndryshme, prandaj duhet t&#x2019;u q&#xeb;ndrojm&#xeb; atyre pran&#xeb;, duke u dh&#xeb;n&#xeb; ndihm&#xeb;n ton&#xeb;.</span>
+        <span data-id="pg031_n0022">Nj&#xeb; njeri q&#xeb; nuk d&#xeb;gjon apo nj&#xeb; i verb&#xeb;r, ka nevoj&#xeb; q&#xeb; t&#xeb; shoq&#xeb;rohet nga dikush, pra p&#xeb;r m&#xeb; shum&#xeb; kujdes.</span>
+        <span data-id="pg031_n0023">Dikush q&#xeb; ka v&#xeb;shtir&#xeb;si n&#xeb; m&#xeb;sime, ka nevoj&#xeb; q&#xeb; t&#xeb; ndihmohet nga shoqet ose shok&#xeb;t q&#xeb; kan&#xeb; rezultate m&#xeb; t&#xeb; mira n&#xeb; m&#xeb;sime.</span>
+        <span data-id="pg031_n0024">Motra apo v&#xeb;llai m&#xeb; i vog&#xeb;l ka nevoj&#xeb; p&#xeb;r m&#xeb; shum&#xeb; kujdes.</span>
+        <span data-id="pg031_n0025">N&#xeb; nj&#xeb; situat&#xeb; t&#xeb; till&#xeb;, kur ne u ofrojm&#xeb; atyre mb&#xeb;shtetje, kemi treguar vlerat tona t&#xeb; v&#xeb;rteta.</span>
+        <span data-id="pg031_n0026">Respekti duhet t&#xeb; ekzistoj&#xeb; te t&#xeb; gjith&#xeb; dhe p&#xeb;r t&#xeb; gjith&#xeb; pa dallim race, gjinie dhe moshe.</span>
+        <span data-id="pg031_n0027">&#xcb;sht&#xeb; e r&#xeb;nd&#xeb;sishme q&#xeb; njer&#xeb;zit kan&#xeb; nevoj&#xeb; ta din&#xeb; se mund t&#xeb; mb&#xeb;shteten tek t&#xeb; tjer&#xeb;t.</span>
+        <span data-id="pg031_n0028">Ata duhet t&#xeb; trajtohen n&#xeb; m&#xeb;nyr&#xeb; t&#xeb; barabart&#xeb; dhe me dinjitet.</span>
+      </p>
+    </div>
+
+    <p class="adt-body text-left text-gray-900">
+      <span data-id="pg031_n0030" class="font-semibold">Fjal&#xeb;t ky&#xe7;e:</span>
+      <span data-id="pg031_n0031">liri, paqe, respekt, toleranc&#xeb;, barazi.</span>
+    </p>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

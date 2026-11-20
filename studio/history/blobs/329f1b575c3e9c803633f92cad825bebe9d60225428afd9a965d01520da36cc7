@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg011_sec001">
+<meta name="page-section-id" content="19">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+body,body :is(p,h1,h2,h3,span,div,button,input,textarea,select){font-family:BookPoppins,sans-serif}
+#nav-container,#interface-container,#nav-container *:not([class*="fa"]),#interface-container *:not([class*="fa"]){font-family:BookPoppins,sans-serif!important;font-size:var(--bk-caption)}
+#content.bk.bk.bk.bk{padding-top:var(--bk-gap);overflow:visible}
+#content.bk.bk.bk.bk .bk-banner{margin:0;padding:16px var(--bk-pad);border-radius:var(--bk-r-card);display:flex;align-items:center;gap:12px}
+#content .bk-banner h1{flex:1;min-width:0}
+#content .bk-banner img{width:48px;height:48px;object-fit:contain;flex:none}
+#content.bk.bk.bk.bk .bk-heading{font-weight:600}
+#content #scene{width:min(720px,100%);margin-inline:auto}
+#content #scene[data-part="2"]{width:min(604px,83.9%)}
+#content.bk.bk.bk .bk-figure img{width:100%;height:auto;object-fit:contain;border-radius:0}
+#content .bk-row{justify-content:center}
+#content .bk-row .bk-caption{margin:0}
+#content.bk.bk.bk.bk .bk-btn{padding-inline:var(--bk-pad);border-color:var(--bk-primary)}
+#content.bk.bk.bk.bk .bk-btn--secondary{color:var(--bk-primary)}
+#content dialog{width:calc(100% - 32px);max-width:var(--bk-shell);max-height:calc(100dvh - 32px);overflow:auto;padding:var(--bk-pad);border:var(--bk-border) solid var(--bk-primary);border-radius:var(--bk-r-card);color:var(--bk-ink);background:var(--bk-paper)}
+#content dialog::backdrop{background:rgb(40 40 60 / .7)}
+#content dialog img{display:block;width:100%;max-width:none;height:auto;margin-top:var(--bk-gap);border-radius:0}
+#content dialog .bk-row{justify-content:space-between}
+@media(min-width:641px) and (max-width:767px){#content.bk.bk.bk.bk{padding-inline:16px}}
+@media(min-width:1000px){
+#content section:has(#scene[data-part="1"]){display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center}
+#content section:has(#scene[data-part="1"]) #part-content{display:contents}
+#content section:has(#scene[data-part="1"]) .bk-banner{grid-column:1/-1;grid-row:1}
+#content section:has(#scene[data-part="1"]) h2{grid-column:1;grid-row:2}
+#content section:has(#scene[data-part="1"]) nav{grid-column:2;grid-row:2}
+#content section:has(#scene[data-part="1"]) #scene{grid-column:1/-1;grid-row:3}
+}
+@media(max-width:360px){#content.bk.bk.bk.bk .bk-banner{flex-wrap:wrap}#content .bk-banner h1{flex-basis:100%}#content .bk-banner img{margin-left:auto}}
+#content.bk.bk.bk.bk dialog img[data-zoom="true"]{width:200%;max-width:none}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div data-family="illustrated-opener" id="content" class="bk">
+<section data-section-type="separator" data-section-id="pg011_sec001" class="bk-stack" aria-label="Lidhjet dhe bashkëpunimi me të tjerët">
+<div id="part-content" class="bk-stack">
+<header class="bk-banner">
+<h1 data-id="pg011_n0002" class="bk-title">Lidhjet dhe bashkëpunimi me të tjerët</h1>
+<img src="studio/assets/pg011_sec001-people.png" alt="" aria-hidden="true" width="48" height="48">
+</header>
+<h2 data-id="pg011_n0004" class="bk-heading">Grupet shoqërore</h2>
+<figure id="scene" class="bk-figure" data-part="1">
+<img data-id="pg011_im001" src="images/pg011_im001.png" alt="Tre fëmijë vallëzojnë të lumtur së bashku, me duart lart dhe nota muzikore përreth.">
+</figure>
+</div>
+<nav class="bk-row" aria-label="Pamjet e faqes 11">
+<button id="previous-scene" type="button" class="bk-btn bk-btn--secondary" hidden>Pamja e mëparshme</button>
+<button id="inspect-scene" type="button" class="bk-btn bk-btn--secondary" aria-haspopup="dialog">Zmadho figurën</button>
+<button id="next-scene" type="button" class="bk-btn bk-btn--secondary">Pamja tjetër</button>
+<p class="bk-caption">11 · <span id="part-status" role="status" aria-live="polite">1 / 2</span></p>
+</nav>
+</section>
+<dialog id="image-view" aria-label="Figura e zmadhuar">
+<div class="bk-row"><p class="bk-label">Figura e zmadhuar</p><button id="zoom-view" type="button" class="bk-btn bk-btn--secondary" aria-pressed="false">Zmadho 2×</button><button id="close-view" type="button" class="bk-btn bk-btn--secondary">Mbyll</button></div>
+<img id="large-scene" alt="">
+</dialog>
+</div>
+</main>
+<template id="dance-part">
+<header class="bk-banner"><h1 data-id="pg011_n0002" class="bk-title">Lidhjet dhe bashkëpunimi me të tjerët</h1><img src="studio/assets/pg011_sec001-people.png" alt="" aria-hidden="true" width="48" height="48"></header>
+<h2 data-id="pg011_n0004" class="bk-heading">Grupet shoqërore</h2>
+<figure id="scene" class="bk-figure" data-part="1"><img data-id="pg011_im001" src="images/pg011_im001.png" alt="Tre fëmijë vallëzojnë të lumtur së bashku, me duart lart dhe nota muzikore përreth."></figure>
+</template>
+<template id="football-part"><figure id="scene" class="bk-figure" data-part="2"><img data-id="pg011_im002" src="images/pg011_im002.png" alt="Një djalë me këmbën mbi topin e futbollit dhe një vajzë përballë tij në një fushë me bar."></figure></template>
+<script>window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div id="interface-container"></div>
+<div id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+<script>
+(function(){
+const content=document.getElementById('part-content'),previous=document.getElementById('previous-scene'),next=document.getElementById('next-scene'),inspect=document.getElementById('inspect-scene'),dialog=document.getElementById('image-view');
+function show(part,focus){
+content.replaceChildren(document.getElementById(part===2?'football-part':'dance-part').content.cloneNode(true));
+previous.hidden=part===1;next.hidden=part===2;
+document.getElementById('part-status').textContent=part+' / 2';
+if(focus){inspect.focus({preventScroll:true});window.scrollTo({top:0,behavior:'instant'});}
+}
+previous.addEventListener('click',()=>{history.replaceState(null,'',location.pathname+location.search);show(1,true)});
+next.addEventListener('click',()=>{history.replaceState(null,'',location.pathname+location.search+'#pamja-2');show(2,true)});
+inspect.addEventListener('click',()=>{const image=content.querySelector('figure img'),large=document.getElementById('large-scene');large.src=image.getAttribute('src');large.alt=image.alt;large.dataset.zoom='false';document.getElementById('zoom-view').setAttribute('aria-pressed','false');dialog.showModal();document.getElementById('close-view').focus()});
+document.getElementById('zoom-view').addEventListener('click',function(){const large=document.getElementById('large-scene'),zoom=large.dataset.zoom!=='true';large.dataset.zoom=String(zoom);this.setAttribute('aria-pressed',String(zoom));});
+document.getElementById('close-view').addEventListener('click',()=>dialog.close());
+dialog.addEventListener('close',()=>inspect.focus());
+show(2,false); // Temporary second-view rendering probe; restore the first-view default after verification.
+})();
+</script>
+</body>
+</html>

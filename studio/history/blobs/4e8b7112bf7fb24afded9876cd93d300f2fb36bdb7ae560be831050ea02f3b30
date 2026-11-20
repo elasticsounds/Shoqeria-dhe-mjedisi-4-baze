@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg008_sec003" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="10" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div id="content" class="container opacity-0"><section data-section-type="boxed_text" data-section-id="pg008_sec003" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5"><div class="overflow-hidden rounded-3xl border-2 border-fuchsia-300 bg-white shadow-[0_8px_24px_rgba(168,85,247,0.12)]"><div class="flex items-stretch max-lg:flex-col"><div aria-hidden="true" class="flex w-28 items-center justify-center bg-purple-500 max-lg:h-20 max-lg:w-full"><div class="flex h-12 w-12 items-center justify-center rounded-2xl bg-white/20 text-white">&#x1f4d6;</div></div><div class="flex-1 p-6 max-sm:p-4"><p class="adt-body leading-relaxed italic text-slate-800"><span data-id="pg008_n0028">Komuniteti &#xeb;sht&#xeb; nj&#xeb; grup njer&#xeb;zish q&#xeb; jetojn&#xeb; n&#xeb; t&#xeb; nj&#xeb;jtin vend ose b&#xeb;jn&#xeb; gj&#xeb;ra t&#xeb; ngjashme.</span></p><p class="adt-body mt-5 leading-relaxed italic text-slate-800"><span data-id="pg008_n0030">Njer&#xeb;zit n&#xeb; nj&#xeb; komunitet mund t&#xeb; ken&#xeb; vlera, zakone, q&#xeb;llime ose interesa t&#xeb; p&#xeb;rbashk&#xeb;t.</span></p><p class="adt-body mt-5 leading-relaxed italic text-slate-800"><span data-id="pg008_n0032">Disa komunitete formohen sepse njer&#xeb;zit jetojn&#xeb; n&#xeb; vend t&#xeb; nj&#xeb;jt&#xeb;, lagje, fshat etj., nd&#xeb;rsa disa t&#xeb; tjera formohen, sepse njer&#xeb;zit punojn&#xeb; s&#xeb; bashku ose m&#xeb;sojn&#xeb; n&#xeb; t&#xeb; nj&#xeb;jt&#xeb;n shkoll&#xeb;.</span></p><p class="adt-body mt-5 leading-relaxed italic text-slate-800"><span data-id="pg008_n0034">Njer&#xeb;zit n&#xeb; komunitet ndihmojn&#xeb; nj&#xeb;ri-tjetrin, komunikojn&#xeb; dhe bashk&#xeb;punojn&#xeb; p&#xeb;r nevojat e tyre.</span> <span data-id="pg008_n0035">K&#xeb;shtu, ata e leht&#xeb;sojn&#xeb; m&#xeb;nyr&#xeb;n e jetes&#xeb;s s&#xeb; tyre dhe ndihen t&#xeb; lumtur.</span></p></div></div></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg038_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="47" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div class="container mx-auto max-w-5xl bg-white rounded-lg px-24 max-lg:px-12 max-sm:px-6 pt-12 pb-12 opacity-0" id="content"><section data-section-type="activity_fill_in_the_blank" data-section-id="pg038_sec001" role="region" class="max-w-5xl mx-auto"><div class="mb-10"><div class="h-4 bg-purple-400 w-full mb-4"></div><h1 class="adt-h2 text-left text-gray-900 border-b-4 border-purple-400 pb-3 inline-block" data-id="pg038_n0003">Mb&#xeb;shtesim nj&#xeb;ri-tjetrin</h1></div><div class="mb-8"><h3 class="adt-h3 mb-5"><span class="inline-block bg-green-400/80 text-gray-900 px-5 py-2" data-id="pg038_n0004">Situata 1.</span></h3><p class="adt-body leading-relaxed text-left text-gray-900"><span data-id="pg038_n0006">N&#xeb; familje gjithkush jep kontributin e vet.</span> <span data-id="pg038_n0007">Disa nga pjes&#xeb;tar&#xeb;t e familjes japin edhe kontribut financiar.</span> <span data-id="pg038_n0008">V&#xeb;llai im i madh punon n&#xeb; nj&#xeb; televizion dhe paguhet sipas or&#xeb;ve q&#xeb; punon.</span> <span data-id="pg038_n0009">Muajin e kaluar, ai ishte i ngarkuar me lyerjen e sht&#xeb;pis&#xeb; dhe pothuajse nuk punoi.</span> <span data-id="pg038_n0010">E kuptova edhe nga frutat e zakonshme q&#xeb; m&#xeb; munguan.</span> <span data-id="pg038_n0011">Kur ai paguhej, m&#xeb; blinte frutat e preferuara.</span> <span data-id="pg038_n0012">Ndihej n&#xeb; siklet q&#xeb; nuk m&#x2019;i bleu, nd&#xeb;rkoh&#xeb; un&#xeb; b&#xeb;ra sikur harrova.</span> <span data-id="pg038_n0013">N&#xeb; mbr&#xeb;mje n&#xeb;na erdhi n&#xeb; sht&#xeb;pi me disa fruta dhe nj&#xeb; &#xeb;mb&#xeb;lsir&#xeb; t&#xeb; madhe.</span> <span data-id="pg038_n0014">&quot;K&#xeb;to i keni nga un&#xeb; sot&quot;, - tha duke buz&#xeb;qeshur.</span></p></div><div class="mb-0"><img src="images/pg038_im001_crop_v1.png" alt="N&#xeb; kuzhin&#xeb;, n&#xeb;na mban nj&#xeb; pjat&#xeb; me tort&#xeb;, vajza po merr nj&#xeb; cop&#xeb;, nd&#xeb;rsa v&#xeb;llai i madh q&#xeb;ndron pran&#xeb;; sken&#xeb; e mb&#xeb;shtetjes dhe ndarjes n&#xeb; familje." data-id="pg038_im001_crop_v1" class="w-full h-auto mx-auto shadow-md"></div><div class="bg-purple-200 mt-0 p-6 max-sm:p-4"><div class="space-y-6"><div><label for="activity-item-1" class="block adt-body text-gray-900 mb-2"><span data-id="pg038_n0016">A kontribuuan t&#xeb; gjith&#xeb; n&#xeb; familje?</span></label><textarea id="activity-item-1" class="w-full min-h-11 h-24 rounded-xl border border-gray-400 bg-white/70 px-4 py-3 resize-none" data-activity-item="item-1" aria-label="A kontribuuan t&#xeb; gjith&#xeb; n&#xeb; familje?"></textarea></div><div><label for="activity-item-2" class="block adt-body text-gray-900 mb-2"><span data-id="pg038_n0017">Cil&#xeb;t kontribuuan financiarisht?</span></label><textarea id="activity-item-2" class="w-full min-h-11 h-24 rounded-xl border border-gray-400 bg-white/70 px-4 py-3 resize-none" data-activity-item="item-2" aria-label="Cil&#xeb;t kontribuuan financiarisht?"></textarea></div><div><label for="activity-item-3" class="block adt-body text-gray-900 mb-2"><span data-id="pg038_n0018">Po v&#xeb;llai i madh, si kontribuoi?</span></label><textarea id="activity-item-3" class="w-full min-h-11 h-24 rounded-xl border border-gray-400 bg-white/70 px-4 py-3 resize-none" data-activity-item="item-3" aria-label="Po v&#xeb;llai i madh, si kontribuoi?"></textarea></div></div></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{"item-1":"pg038_sec001_ans_item-1","item-2":"pg038_sec001_ans_item-2","item-3":"pg038_sec001_ans_item-3"}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"Po, të gjithë kontribuuan në familje.","item-2":"Financiarisht kontribuuan nëna dhe vëllai i madh.","item-3":"Vëllai i madh kontribuoi duke punuar në televizion dhe, kur paguhej, blinte frutat e mia të preferuara."}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

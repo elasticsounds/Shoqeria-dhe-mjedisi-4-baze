@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg051_sec001">
+<meta name="page-section-id" content="66">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+#interface-container, #nav-container, #interface-container *, #nav-container * { font-family: BookPoppins, Poppins, Arial, sans-serif !important; }
+#content.bk em { font-style: normal; font-weight: 600; }
+#content.bk .bk-figure > img { width: auto; height: auto; max-width: 100%; max-height: 320px; object-fit: contain; }
+#content.bk dialog { width: min(100%, 1000px); max-height: calc(100vh - 48px); overflow: auto; }
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+<div data-family="lesson-discussion" id="content" class="container mx-auto bg-white opacity-0 bk">
+<section data-section-type="text_and_single_image" data-section-id="pg051_sec001">
+<header class="bk-banner"><div class="bk-row"><h1 class="bk-title" data-id="pg051_n0002">Mendime të ndryshme, vendime të përbashkëta</h1><img src="studio/assets/pg051_sec001-speech.png" alt="" width="48" height="48"></div></header>
+<div class="bk-stack">
+<h2 class="bk-heading" data-id="pg051_n0003">Në familje vendosim së bashku</h2>
+<figure class="bk-figure"><img id="pg051_im001_crop_v1" data-id="pg051_im001_crop_v1" src="studio/assets/pg051_sec001-family.png" alt="Pesë pjesëtarë të familjes bisedojnë rreth një tavoline me letra dhe lapsa."></figure>
+<div class="bk-row"><button class="bk-btn bk-btn--secondary" id="pg051-inspect" type="button">Shiko figurën më të madhe</button><a class="bk-btn bk-btn--secondary" id="pg051-return" href="pg051_sec001_p2.html" hidden>Kthehu te pyetjet</a></div>
+<dialog id="pg051-image-dialog" aria-label="Figura e familjes"><div class="bk-stack"><img src="studio/assets/pg051_sec001-family.png" alt="Pesë pjesëtarë të familjes bisedojnë rreth një tavoline me letra dhe lapsa."><div class="bk-row"><button type="button" class="bk-btn bk-btn--secondary" id="pg051-close">Mbyll figurën</button></div></div></dialog>
+</div>
+</section>
+</div>
+</main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+<script>
+(function () {
+  var trigger = document.getElementById('pg051-inspect');
+  var dialog = document.getElementById('pg051-image-dialog');
+  var close = document.getElementById('pg051-close');
+  trigger.addEventListener('click', function () { dialog.showModal(); });
+  close.addEventListener('click', function () { dialog.close(); });
+  dialog.addEventListener('close', function () { trigger.focus(); });
+  if (new URLSearchParams(location.search).get('referim') === 'pyetjet') document.getElementById('pg051-return').hidden = false;
+}());
+</script>
+</body>
+</html>

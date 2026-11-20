@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg054_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="65">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-reading" id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-white opacity-0 bk">
+  <section data-section-type="text_and_single_image" data-section-id="pg054_sec001" class="w-full">
+    <div class="w-full rounded-3xl overflow-hidden mb-8 shadow-sm border border-purple-100">
+      <div class="bg-purple-500 px-6 py-5 flex items-center gap-4 max-sm:gap-3">
+        <div aria-hidden="true" class="shrink-0 w-20 h-20 max-sm:w-16 max-sm:h-16 rounded-2xl bg-purple-400/80 flex items-center justify-center">
+          <div class="relative w-12 h-10 max-sm:w-10 max-sm:h-8">
+            <div class="absolute left-0 top-1 w-7 h-7 bg-white rounded-full"></div>
+            <div class="absolute left-4 top-0 w-8 h-8 bg-white rounded-full border-4 border-purple-400/80"></div>
+            <div class="absolute left-2 bottom-0 w-0 h-0 border-l-[8px] border-l-transparent border-r-[2px] border-r-transparent border-t-[10px] border-t-white"></div>
+            <div class="absolute right-0 bottom-0 w-0 h-0 border-l-[2px] border-l-transparent border-r-[8px] border-r-transparent border-t-[10px] border-t-white"></div>
+            <div class="absolute left-[26px] top-[11px] w-1.5 h-1.5 bg-purple-400 rounded-full"></div>
+            <div class="absolute left-[34px] top-[11px] w-1.5 h-1.5 bg-purple-400 rounded-full"></div>
+            <div class="absolute left-[42px] top-[11px] w-1.5 h-1.5 bg-purple-400 rounded-full"></div>
+          </div>
+        </div>
+        <div class="flex-1 min-w-0">
+          <h1 data-id="pg054_n0002" class="adt-h1 font-bold text-white leading-tight text-left">Mendime të ndryshme, vendime të përbashkëta</h1>
+          <h2 data-id="pg054_n0003" class="adt-h2 mt-3 bg-white text-gray-900 rounded-r-xl px-4 py-3 font-semibold text-left inline-block">Institucionet dhe vendimet</h2>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-8">
+      <h3 data-id="pg054_n0005" class="adt-h3 inline-block bg-green-400 text-gray-900 font-semibold px-4 py-2 rounded-md mb-4 text-left">Situata 1.</h3>
+      <p class="adt-body text-gray-800 leading-relaxed text-left">
+        <span data-id="pg054_n0007">Kishte ditë që kishim ndërprerje të ujit të pijshëm në banesë.</span>
+        <span data-id="pg054_n0008" class="ml-1">Ndërmarrja e ujësjellësit nuk kishte njoftuar për mungesën e ujit.</span>
+        <span data-id="pg054_n0009" class="ml-1">Dukej se kishte një defekt.</span>
+        <span data-id="pg054_n0010" class="ml-1">Babai pyeti nënën nëse ishte përshkruar në kontratë ndërprerja për arsye teknike.</span>
+        <span data-id="pg054_n0011" class="ml-1">Ishte hera e parë që e dëgjoja dhe nuk isha interesuar kurrë për këto shërbime.</span>
+      </p>
+    </div>
+
+    <div class="w-full rounded-[2rem] overflow-hidden bg-gradient-to-b from-green-50 to-purple-50 p-4 max-sm:p-3">
+      <img data-id="pg054_im001" src="images/pg054_im001.png" alt="Prindërit bisedojnë në dhomë të ndejës për një dokument ose kontratë, ndërsa fëmija i dëgjon i ulur pranë tyre." class="w-full h-auto rounded-[1.5rem] object-contain">
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

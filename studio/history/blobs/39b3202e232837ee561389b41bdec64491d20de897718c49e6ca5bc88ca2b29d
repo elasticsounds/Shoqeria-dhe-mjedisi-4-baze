@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg122_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="167">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" class="container mx-auto max-w-5xl bg-white px-8 max-lg:px-6 max-sm:px-4 py-10 opacity-0 bk" id="content"><section role="region" data-section-type="activity_fill_in_the_blank" data-section-id="pg122_sec002" class="mx-auto max-w-5xl"><div class="mx-auto max-w-4xl"><div class="flex items-start max-sm:flex-col max-sm:items-stretch"><div class="shrink-0 w-24 h-20 bg-purple-500 rounded-sm flex items-center justify-center text-white shadow-sm max-sm:w-full max-sm:h-14"><span class="text-5xl leading-none" aria-hidden="true">?</span></div><div class="flex-1 bg-purple-100 border border-purple-200 rounded-sm p-6 max-lg:p-5 max-sm:p-4 -ml-3 mt-4 max-sm:ml-0 max-sm:mt-0"><div class="space-y-6"><div><p class="adt-body leading-snug text-gray-900 mb-2"><span data-id="pg122_n0030">Çfarë kupton me fjalën komunitet?</span></p><label for="activity-item-1" class="sr-only">Çfarë kupton me fjalën komunitet?</label><textarea id="activity-item-1" data-activity-item="item-1" aria-label="Çfarë kupton me fjalën komunitet?" class="w-full min-h-11 h-24 rounded border border-purple-300 bg-white px-3 py-2 text-gray-900 resize-none focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea></div><div><p class="adt-body leading-snug text-gray-900 mb-2"><span data-id="pg122_n0031">Si duhet të sillemi në ambiente publike?</span></p><label for="activity-item-2" class="sr-only">Si duhet të sillemi në ambiente publike?</label><textarea id="activity-item-2" data-activity-item="item-2" aria-label="Si duhet të sillemi në ambiente publike?" class="w-full min-h-11 h-24 rounded border border-purple-300 bg-white px-3 py-2 text-gray-900 resize-none focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea></div><div><p class="adt-body leading-snug text-gray-900 mb-2"><span data-id="pg122_n0032">Çfarë masash duhet të ndërmarrim për pastrimin e lagjes?</span></p><label for="activity-item-3" class="sr-only">Çfarë masash duhet të ndërmarrim për pastrimin e lagjes?</label><textarea id="activity-item-3" data-activity-item="item-3" aria-label="Çfarë masash duhet të ndërmarrim për pastrimin e lagjes?" class="w-full min-h-11 h-24 rounded border border-purple-300 bg-white px-3 py-2 text-gray-900 resize-none focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea></div><div><p class="adt-body leading-snug text-gray-900 mb-2"><span data-id="pg122_n0033">Përmend tri veprime jo të mira që ndikojnë në higjienën në komunitet.</span></p><label for="activity-item-4" class="sr-only">Përmend tri veprime jo të mira që ndikojnë në higjienën në komunitet.</label><textarea id="activity-item-4" data-activity-item="item-4" aria-label="Përmend tri veprime jo të mira që ndikojnë në higjienën në komunitet." class="w-full min-h-11 h-24 rounded border border-purple-300 bg-white px-3 py-2 text-gray-900 resize-none focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea></div><div><p class="adt-body leading-snug text-gray-900 mb-2"><span data-id="pg122_n0034">Shkruaj një rregull që ndihmon për ta mbajtur komunitetin të pastër.</span></p><label for="activity-item-5" class="sr-only">Shkruaj një rregull që ndihmon për ta mbajtur komunitetin të pastër.</label><textarea id="activity-item-5" data-activity-item="item-5" aria-label="Shkruaj një rregull që ndihmon për ta mbajtur komunitetin të pastër." class="w-full min-h-11 h-24 rounded border border-purple-300 bg-white px-3 py-2 text-gray-900 resize-none focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea></div></div></div></div></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"","item-2":"","item-3":"","item-4":"","item-5":""}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

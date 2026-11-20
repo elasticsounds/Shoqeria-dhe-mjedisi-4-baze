@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title><meta name="title-id" content="pg124_sec001_p3"><meta name="page-section-id" content="166">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet">
+<style>#interface-container :not(i):not(svg):not(path),#nav-container :not(i):not(svg):not(path){font-family:BookPoppins,Poppins,Arial,sans-serif!important} #content.bk em{font-style:normal;font-weight:600}</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full"><div id="content" class="bk" data-family="collaborative-project"><section role="region" data-section-id="pg124_sec001_p3">
+<section class="bk-activity bk-card bk-card--surface2" data-activity-pattern="offline-action" data-activity-variant="plan-and-act">
+<h1 class="bk-subheading"><span class="bk-chip" style="background:var(--bk-accent2)" data-id="pg124_n0017">Grupi i dytë:</span></h1>
+<p class="bk-body"><em data-id="pg124_n0018">Largo mbeturinat nga hapësira e përzgjedhur.</em></p><p class="bk-body" data-id="pg124_n0019">Plani i veprimit është:</p>
+<span class="bk-sr-only" data-id="pg124_n0020"></span><label class="bk-sr-only" for="activity-item-5">Plani i veprimit është, Grupi i dytë, rreshti 1</label><input class="bk-field" id="activity-item-5" data-activity-item="item-5" type="text" aria-label="Plani i veprimit është, Grupi i dytë, rreshti 1">
+<span class="bk-sr-only" data-id="pg124_n0021"></span><label class="bk-sr-only" for="activity-item-6">Plani i veprimit është, Grupi i dytë, rreshti 2</label><input class="bk-field" id="activity-item-6" data-activity-item="item-6" type="text" aria-label="Plani i veprimit është, Grupi i dytë, rreshti 2">
+<span class="bk-sr-only" data-id="pg124_n0022"></span><label class="bk-sr-only" for="activity-item-7">Plani i veprimit është, Grupi i dytë, rreshti 3</label><input class="bk-field" id="activity-item-7" data-activity-item="item-7" type="text" aria-label="Plani i veprimit është, Grupi i dytë, rreshti 3">
+<span class="bk-sr-only" data-id="pg124_n0023"></span><label class="bk-sr-only" for="activity-item-8">Plani i veprimit është, Grupi i dytë, rreshti 4</label><input class="bk-field" id="activity-item-8" data-activity-item="item-8" type="text" aria-label="Plani i veprimit është, Grupi i dytë, rreshti 4">
+<p class="bk-feedback" role="status" aria-live="polite" hidden></p><button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+</section><p class="bk-caption">124</p></section></div></main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');</script><div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div><script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+<script>
+(function(){var fields=Array.from(document.querySelectorAll('#content input[data-activity-item]'));var status=document.querySelector('.bk-feedback');var retry=document.querySelector('[data-action="retry-save"]');var prefix='Shoqeria-dhe-Mjedisi-4:pg124_sec001:';function key(f){return prefix+f.dataset.activityItem}function report(ok){status.hidden=false;status.textContent=ok?'✓ U ruajt.':'⚠ Nuk u ruajt. Provo ruajtjen përsëri.';retry.hidden=ok}function save(){try{fields.forEach(function(f){localStorage.setItem(key(f),f.value)});report(true)}catch(e){report(false)}}try{fields.forEach(function(f){var value=localStorage.getItem(key(f));if(value!==null)f.value=value})}catch(e){report(false)}fields.forEach(function(f){f.addEventListener('input',save)});retry.addEventListener('click',save)})();
+</script></body></html>

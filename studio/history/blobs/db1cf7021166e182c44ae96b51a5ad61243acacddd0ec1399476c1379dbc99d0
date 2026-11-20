@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg089_sec002" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="113" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 opacity-0">
+  <section data-section-type="text_only" data-section-id="pg089_sec002" class="bg-white py-8">
+    <div class="rounded-sm border-2 border-purple-300 bg-white shadow-sm overflow-hidden">
+      <div class="flex items-stretch max-lg:flex-col">
+        <div class="flex-1 p-6 max-sm:p-4">
+          <p class="adt-body italic leading-relaxed text-gray-800">
+            <span data-id="pg089_n0021">Festa &#xeb;sht&#xeb; nj&#xeb; dit&#xeb; q&#xeb; ve&#xe7;ohet nga t&#xeb; tjerat, sepse lidhet me nj&#xeb; ngjarje t&#xeb; caktuar gazmore.</span>
+            <span data-id="pg089_n0022">Dita e fest&#xeb;s dallon nga dit&#xeb;t e tjera sepse p&#xeb;rgatitet ushqim m&#xeb; i ve&#xe7;ant&#xeb;, veshjet dallojn&#xeb; nga ato t&#xeb; p&#xeb;rditshmet etj.</span>
+            <span data-id="pg089_n0023">Gjat&#xeb; dit&#xeb;ve t&#xeb; festave, jemi t&#xeb; lumtur dhe festojm&#xeb; s&#xeb; bashku me prind&#xeb;rit, kush&#xeb;rinjt&#xeb;, miqt&#xeb; dhe shok&#xeb;t.</span>
+            <span data-id="pg089_n0024">Zakonisht gjat&#xeb; festave marrim dhe japim dhurata, vall&#xeb;zojm&#xeb;, k&#xeb;ndojm&#xeb; etj.</span>
+          </p>
+
+          <p class="adt-body italic leading-relaxed text-gray-800 mt-4">
+            <span data-id="pg089_n0026">Festat mund t&#xeb; jen&#xeb; individuale, familjare, shtet&#xeb;rore, komb&#xeb;tare, nd&#xeb;rkomb&#xeb;tare, fetare etj.</span>
+            <span data-id="pg089_n0027">Festat individuale jan&#xeb; festa q&#xeb; i takojn&#xeb; nj&#xeb; individi, p.sh., festa e dit&#xeb;lindjes.</span>
+            <span data-id="pg089_n0028">Festat shtet&#xeb;rore jan&#xeb; festa q&#xeb; feston nj&#xeb; shtet, p.sh., Pavar&#xeb;sia e Kosov&#xeb;s.</span>
+            <span data-id="pg089_n0029">Festa komb&#xeb;tare &#xeb;sht&#xeb; fest&#xeb; q&#xeb; feston nj&#xeb; komb, nj&#xeb; popull kudo q&#xeb; ndodhet, p.sh., t&#xeb; gjith&#xeb; shqiptar&#xeb;t q&#xeb; jetojn&#xeb; n&#xeb;p&#xeb;r vende t&#xeb; ndryshme t&#xeb; bot&#xeb;s festojn&#xeb; Pavar&#xeb;sin&#xeb; e Shqip&#xeb;ris&#xeb;.</span>
+          </p>
+
+          <p class="adt-body italic leading-relaxed text-gray-800 mt-4">
+            <span data-id="pg089_n0031">Festa nd&#xeb;rkomb&#xeb;tare &#xeb;sht&#xeb; fest&#xeb; q&#xeb; festohet n&#xeb; t&#xeb; gjith&#xeb; bot&#xeb;n, p.sh. Dita e Gruas.</span>
+          </p>
+        </div>
+        <div class="w-28 bg-purple-500 flex items-start justify-center pt-4 max-lg:w-full max-lg:h-20 max-lg:pt-0 max-lg:items-center" aria-hidden="true">
+          <div class="h-14 w-10 rounded-sm border-2 border-white bg-white/90 shadow-md relative">
+            <div class="absolute -right-1 top-2 h-0 w-0 border-y-[6px] border-l-[10px] border-y-transparent border-l-white"></div>
+            <div class="absolute inset-x-1 bottom-1 h-1 rounded-full bg-purple-200"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

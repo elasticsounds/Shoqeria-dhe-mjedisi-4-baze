@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Respektojmë diversitetin kulturor</title>
+<meta name="title-id" content="pg023_sec002_p2"><meta name="page-section-id" content="37">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet">
+<style>
+#content.bk.bk.bk{padding-top:24px;overflow:visible}
+#content.bk.bk.bk textarea.bk-field{height:96px;padding:12px;border-color:var(--bk-primary)}
+#content.bk .bk-feedback:empty{display:none}
+#content.bk [hidden]{display:none}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body><main><div id="content" class="bk" data-family="lesson-discussion"><h1 class="bk-title bk-sr-only" id="page-heading">Respektojmë diversitetin kulturor</h1>
+<section data-section-type="activity_open_ended_answer" data-section-id="pg023_sec002_p2" class="bk-stack" aria-labelledby="page-heading">
+<section class="bk-activity bk-card bk-card--surface1" data-activity-pattern="extended-response" data-activity-variant="one-question">
+<p class="bk-body bk-prompt"><span data-id="pg023_n0039">Çfarë kuptimi kishte ngjyra e bardhë për Lunë?</span></p><label for="activity-item-3" class="bk-sr-only">Çfarë kuptimi kishte ngjyra e bardhë për Lunë?</label><textarea id="activity-item-3" data-activity-item="item-3" aria-label="Çfarë kuptimi kishte ngjyra e bardhë për Lunë?" class="bk-field" rows="3"></textarea>
+<p class="bk-feedback" role="status" aria-live="polite"></p><button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+</section>
+<section class="bk-activity bk-card bk-card--surface1" data-activity-pattern="extended-response" data-activity-variant="one-question">
+<p class="bk-body bk-prompt"><span data-id="pg023_n0040">A mendoni se është e rëndësishme që t'i njohim kulturat e vendeve të ndryshme? Pse?</span></p><label for="activity-item-4" class="bk-sr-only">A mendoni se është e rëndësishme që t'i njohim kulturat e vendeve të ndryshme? Pse?</label><textarea id="activity-item-4" data-activity-item="item-4" aria-label="A mendoni se është e rëndësishme që t'i njohim kulturat e vendeve të ndryshme? Pse?" class="bk-field" rows="3"></textarea>
+<p class="bk-feedback" role="status" aria-live="polite"></p><button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+</section></section></div></main>
+<script>window.activityAnswerTextIds={};</script>
+<div id="interface-container"></div><div id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+<script>
+(()=>{document.querySelectorAll('textarea[data-activity-item]').forEach(field=>{const card=field.closest('.bk-activity'),status=card.querySelector('[role=status]'),retry=card.querySelector('button'),key='shoqeria-mjedisi-4:pg023_sec002:'+field.dataset.activityItem;let dirty=false;try{const draft=localStorage.getItem(key);if(draft!==null)field.value=draft;}catch(e){status.textContent='! Nuk u ruajt.';retry.hidden=false;}function save(){try{localStorage.setItem(key,field.value);dirty=false;status.textContent='✓ U ruajt.';retry.hidden=true;}catch(e){dirty=true;status.textContent='! Nuk u ruajt.';retry.hidden=false;}}field.addEventListener('input',()=>{dirty=true;save();});retry.addEventListener('click',save);window.addEventListener('pagehide',()=>{if(dirty)save();});});})();
+</script></body></html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg040_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="49" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div class="container mx-auto max-w-5xl bg-white px-16 max-lg:px-10 max-sm:px-6 pt-8 pb-12 opacity-0" id="content"><section data-section-type="activity_open_ended_answer" data-section-id="pg040_sec001" role="region" class="mx-auto w-full"><h1 class="adt-h2 text-gray-900 mb-8" data-id="pg040_n0003">Me mendje dhe zem&#xeb;r p&#xeb;r njer&#xeb;zit</h1><div class="mb-6 flex items-start gap-6 max-sm:block"><h3 class="adt-h3 shrink-0"><span data-id="pg040_n0005" class="inline-block bg-green-400 text-gray-900 px-5 py-2">Situata 1.</span></h3><p class="adt-body text-gray-800 leading-relaxed max-sm:mt-4"><span data-id="pg040_n0007">Besmiri ishte nj&#xeb; djal&#xeb; 10-vje&#xe7;ar q&#xeb; kishte probleme me shikimin p&#xeb;r shkak t&#xeb; nj&#xeb; s&#xeb;mundjeje n&#xeb; sy.</span> <span data-id="pg040_n0008">Ai nuk mund t&#xeb; shihte mir&#xeb; dhe rrezikonte t&#xeb; mos vazhdonte shkoll&#xeb;n.</span> <span data-id="pg040_n0009">Nj&#xeb; institucion arsimor, sapo d&#xeb;gjoi rastin e tij, pranoi t&#xeb; pun&#xeb;sonte nj&#xeb; m&#xeb;suese t&#xeb; ve&#xe7;ant&#xeb; p&#xeb;r Besmirin.</span> <span data-id="pg040_n0010">U siguruan t&#xeb; gjitha pajisjet ndihm&#xeb;se, q&#xeb; djaloshi t&#xeb; mos ndihej ndryshe nga moshatar&#xeb;t.</span> <span data-id="pg040_n0011">Prind&#xeb;rit e Besmirit u shpreh&#xeb;n mir&#xeb;njohje t&#xeb; thell&#xeb; drejtuesve t&#xeb; shkoll&#xeb;s.</span></p></div><div class="mb-10"><img src="images/pg040_im001.png" alt="Besmiri me prind&#xeb;rit takohen me p&#xeb;rfaq&#xeb;suesen e shkoll&#xeb;s n&#xeb; zyr&#xeb; p&#xeb;r t&#xeb; siguruar ndihm&#xeb; dhe kushte q&#xeb; ai t&#xeb; vazhdoj&#xeb; m&#xeb;simin." data-id="pg040_im001" class="w-full h-auto rounded-none shadow-none"></div><div class="bg-purple-100 px-6 py-6 max-sm:px-4"><div class="space-y-6"><div><p class="adt-body text-gray-900 mb-3"><span data-id="pg040_n0012">- Pse Besmiri ishte i shqet&#xeb;suar?</span></p><label for="activity-item-1" class="sr-only">- Pse Besmiri ishte i shqet&#xeb;suar?</label><textarea id="activity-item-1" data-activity-item="item-1" aria-label="- Pse Besmiri ishte i shqet&#xeb;suar?" class="w-full min-h-24 rounded-md border border-gray-400 bg-white px-3 py-3 leading-relaxed"></textarea></div><div><p class="adt-body text-gray-900 mb-3"><span data-id="pg040_n0013">- Cili institucion mund ta ket&#xeb; ndihmuar Besmirin?</span></p><label for="activity-item-2" class="sr-only">- Cili institucion mund ta ket&#xeb; ndihmuar Besmirin?</label><textarea id="activity-item-2" data-activity-item="item-2" aria-label="- Cili institucion mund ta ket&#xeb; ndihmuar Besmirin?" class="w-full min-h-24 rounded-md border border-gray-400 bg-white px-3 py-3 leading-relaxed"></textarea></div><div><p class="adt-body text-gray-900 mb-3"><span data-id="pg040_n0014">- Si u ndien prind&#xeb;rit e Besmirit? Pse?</span></p><label for="activity-item-3" class="sr-only">- Si u ndien prind&#xeb;rit e Besmirit? Pse?</label><textarea id="activity-item-3" data-activity-item="item-3" aria-label="- Si u ndien prind&#xeb;rit e Besmirit? Pse?" class="w-full min-h-24 rounded-md border border-gray-400 bg-white px-3 py-3 leading-relaxed"></textarea></div><div><p class="adt-body text-gray-900 mb-3"><span data-id="pg040_n0015">- Po Besmiri, &#xe7;far&#xeb; ka p&#xeb;rjetuar n&#xeb; ato momente?</span></p><label for="activity-item-4" class="sr-only">- Po Besmiri, &#xe7;far&#xeb; ka p&#xeb;rjetuar n&#xeb; ato momente?</label><textarea id="activity-item-4" data-activity-item="item-4" aria-label="- Po Besmiri, &#xe7;far&#xeb; ka p&#xeb;rjetuar n&#xeb; ato momente?" class="w-full min-h-24 rounded-md border border-gray-400 bg-white px-3 py-3 leading-relaxed"></textarea></div><div><p class="adt-body text-gray-900 mb-3"><span data-id="pg040_n0016">- &#xc7;far&#xeb; do t&#xeb; b&#xeb;je ti p&#xeb;r Besmirin, po t&#xeb; ishte n&#xeb; klas&#xeb;n t&#xeb;nde?</span></p><label for="activity-item-5" class="sr-only">- &#xc7;far&#xeb; do t&#xeb; b&#xeb;je ti p&#xeb;r Besmirin, po t&#xeb; ishte n&#xeb; klas&#xeb;n t&#xeb;nde?</label><textarea id="activity-item-5" data-activity-item="item-5" aria-label="- &#xc7;far&#xeb; do t&#xeb; b&#xeb;je ti p&#xeb;r Besmirin, po t&#xeb; ishte n&#xeb; klas&#xeb;n t&#xeb;nde?" class="w-full min-h-32 rounded-md border border-gray-400 bg-white px-3 py-3 leading-relaxed"></textarea></div></div></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

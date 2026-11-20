@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg039_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="55">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container bg-white opacity-0 bk">
+  <section data-section-type="text_and_single_image" data-section-id="pg039_sec001" class="w-full overflow-hidden">
+    <div class="w-full bg-white">
+      <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-4 pt-8 pb-4">
+        <div class="relative">
+          <div class="h-12 w-full bg-purple-500"></div>
+          <div class="pt-5">
+            <h1 data-id="pg039_n0004" class="adt-h2 text-left font-bold text-gray-900 inline-block border-b-4 border-purple-400 pb-2">Mbështesim njëri-tjetrin</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-4 pb-8 space-y-6">
+      <div class="bg-white rounded-[2rem] border border-purple-100 shadow-sm px-6 py-6 max-sm:px-4 max-sm:py-4">
+        <div class="mb-3">
+          <h3 data-id="pg039_n0006" class="adt-h3 inline-block text-left font-bold text-gray-900 bg-yellow-300 px-4 py-2 leading-none">Situata 2.</h3>
+        </div>
+        <p class="adt-body text-left text-gray-800 leading-relaxed">
+          <span data-id="pg039_n0007">Genti ishte një lojtar futbolli shumë i mirë.</span>
+          <span data-id="pg039_n0008">Ai stërvitej vazhdimisht me skuadrën e tij.</span>
+          <span data-id="pg039_n0009">Shpesh, skuadra ishte fituese në kampionatet mes shkollave.</span>
+          <span data-id="pg039_n0010">Në kampionatin e radhës, skuadra e futbollit ku Genti ishte lojtar kishte vështirësi për organizimin e lojës.</span>
+          <span data-id="pg039_n0011">Ai mendoi t'i kërkonte ndihmë shokut të tij të fëmijërisë, i cili luante po aq mirë sa Genti.</span>
+          <span data-id="pg039_n0012">Të dy së bashku do të ishin një skuadër e fortë</span>
+        </p>
+      </div>
+
+      <div class="rounded-[2rem] overflow-hidden bg-white border border-amber-100 shadow-sm">
+        <img data-id="pg039_im001_crop_v1" src="images/pg039_im001_crop_v1.png" alt="Dy djem bisedojnë përkrah një topi futbolli, duke treguar mbështetje dhe bashkëpunim mes shokëve." class="w-full h-auto block min-h-[260px] object-contain max-sm:min-h-0">
+      </div>
+
+      <div class="bg-purple-100 border border-purple-200 rounded-none px-6 py-5 max-sm:px-4 max-sm:py-4">
+        <ul class="space-y-5 max-sm:space-y-4">
+          <li class="flex flex-col gap-2">
+            <div class="adt-body text-left text-gray-900 flex items-start gap-2">
+              <span aria-hidden="true" class="mt-1 text-purple-700">–</span>
+              <span data-id="pg039_n0016">Vazhdoje tregimin duke menduar një zgjidhje për të.</span>
+            </div>
+            <label for="item-1" class="sr-only">Vazhdoje tregimin duke menduar një zgjidhje për të.</label>
+            <textarea id="item-1" data-activity-item="item-1" aria-label="Vazhdoje tregimin duke menduar një zgjidhje për të." class="w-full min-h-11 rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-500" rows="4"></textarea>
+          </li>
+          <li class="flex flex-col gap-2">
+            <div class="adt-body text-left text-gray-900 flex items-start gap-2">
+              <span aria-hidden="true" class="mt-1 text-purple-700">–</span>
+              <span data-id="pg039_n0018">Si e mbështet ti shokun apo shoqen tënde?</span>
+            </div>
+            <label for="item-2" class="sr-only">Si e mbështet ti shokun apo shoqen tënde?</label>
+            <textarea id="item-2" data-activity-item="item-2" aria-label="Si e mbështet ti shokun apo shoqen tënde?" class="w-full min-h-11 rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-500" rows="3"></textarea>
+          </li>
+          <li class="flex flex-col gap-2">
+            <div class="adt-body text-left text-gray-900 flex items-start gap-2">
+              <span aria-hidden="true" class="mt-1 text-purple-700">–</span>
+              <span data-id="pg039_n0020">Si e mbështet motrën apo vëllanë?</span>
+            </div>
+            <label for="item-3" class="sr-only">Si e mbështet motrën apo vëllanë?</label>
+            <textarea id="item-3" data-activity-item="item-3" aria-label="Si e mbështet motrën apo vëllanë?" class="w-full min-h-11 rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-500" rows="3"></textarea>
+          </li>
+          <li class="flex flex-col gap-2">
+            <div class="adt-body text-left text-gray-900 flex items-start gap-2">
+              <span aria-hidden="true" class="mt-1 text-purple-700">–</span>
+              <span data-id="pg039_n0022">Çfarë bën për t'u ndier mirë shoqja apo shoku yt?</span>
+            </div>
+            <label for="item-4" class="sr-only">Çfarë bën për t'u ndier mirë shoqja apo shoku yt?</label>
+            <textarea id="item-4" data-activity-item="item-4" aria-label="Çfarë bën për t'u ndier mirë shoqja apo shoku yt?" class="w-full min-h-11 rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-500" rows="3"></textarea>
+          </li>
+          <li class="flex flex-col gap-2">
+            <div class="adt-body text-left text-gray-900 flex items-start gap-2">
+              <span aria-hidden="true" class="mt-1 text-purple-700">–</span>
+              <span>
+                <span data-id="pg039_n0024">Si ndihesh në një rast kur shoqja apo shoku yt arrin sukses?</span>
+                <span data-id="pg039_n0025">Po kur ai ndodhet në vështirësi?</span>
+              </span>
+            </div>
+            <label for="item-5" class="sr-only">Si ndihesh në një rast kur shoqja apo shoku yt arrin sukses? Po kur ai ndodhet në vështirësi?</label>
+            <textarea id="item-5" data-activity-item="item-5" aria-label="Si ndihesh në një rast kur shoqja apo shoku yt arrin sukses? Po kur ai ndodhet në vështirësi?" class="w-full min-h-11 rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-500" rows="3"></textarea>
+          </li>
+        </ul>
+      </div>
+
+      <div class="bg-white border-2 border-purple-300 px-6 py-5 max-sm:px-4 max-sm:py-4 shadow-sm">
+        <p class="adt-body text-left text-gray-800 leading-relaxed italic">
+          <span data-id="pg039_n0028">Njerëzit formojnë grupe shoqërore që janë pjesë përbërëse e shoqërisë.</span>
+          <span data-id="pg039_n0029">Edhe pse jemi të pavarur, ne kemi nevojë për ndihmën dhe mbështetjen e njëri-tjetrit.</span>
+          <span data-id="pg039_n0030">Kjo e bën një grup të vlefshëm dhe të fortë.</span>
+          <span data-id="pg039_n0031">Një individ mund të marrë pjesë në më shumë se një grup.</span>
+          <span data-id="pg039_n0032">Ai ka dhe aftësi të veçanta që e bëjnë atë pjesë të grupeve të caktuara.</span>
+          <span data-id="pg039_n0033">Në shkollë, çdo nxënës duhet të ndihet i mirëpritur dhe i përfshirë në procesin mësimor, duke u mbështetur kur ka vështirësi.</span>
+          <span data-id="pg039_n0034">Në familje ne ndihmojmë njëri-tjetrin për zgjidhjen e problemeve të ndryshme.</span>
+          <span data-id="pg039_n0035">Kur ka bashkëpunim në familje, shkollë dhe komunitet, punët shkojnë më mirë.</span>
+          <span data-id="pg039_n0036">Të gjithë duhet të përfshihen në veprimtari të përbashkëta, pasi kjo rrit bashkëpunimin dhe forcon miqësinë.</span>
+        </p>
+      </div>
+
+      <div class="px-2 pt-1">
+        <p class="adt-body text-left text-gray-900 font-medium">
+          <span data-id="pg039_n0038">Fjalët kyçe:</span>
+          <span data-id="pg039_n0039">mbështetje, interes, grup, individ, miqësi.</span>
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

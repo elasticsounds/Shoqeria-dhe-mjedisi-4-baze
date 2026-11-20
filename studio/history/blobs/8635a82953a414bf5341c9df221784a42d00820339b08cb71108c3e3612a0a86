@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg076_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="94" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0"><section data-section-type="text_and_images" data-section-id="pg076_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 text-stone-800 max-sm:px-4">
+  <div class="mb-8 flex items-stretch max-sm:flex-col">
+    <div class="flex w-36 shrink-0 items-center justify-center rounded-tl-3xl rounded-bl-3xl bg-purple-500 px-4 py-8 max-sm:w-full max-sm:rounded-t-3xl max-sm:rounded-bl-none max-sm:rounded-br-3xl max-sm:py-6" aria-hidden="true">
+      <div class="relative h-28 w-14">
+        <div class="absolute inset-x-1 top-0 h-1 rounded bg-white"></div>
+        <div class="absolute inset-x-1 bottom-0 h-1 rounded bg-white"></div>
+        <div class="absolute left-1/2 top-1 h-6 w-0.5 -translate-x-1/2 bg-white"></div>
+        <div class="absolute left-1/2 bottom-1 h-6 w-0.5 -translate-x-1/2 bg-white"></div>
+        <div class="absolute left-1/2 top-5 h-8 w-8 -translate-x-1/2 rounded-b-full border-x-2 border-b-2 border-white"></div>
+        <div class="absolute left-1/2 bottom-5 h-8 w-8 -translate-x-1/2 rounded-t-full border-x-2 border-t-2 border-white"></div>
+        <div class="absolute left-1/2 top-1/2 mt-0 h-0 w-0 -translate-x-1/2 -translate-y-1/2 border-l-[14px] border-r-[14px] border-t-[18px] border-l-transparent border-r-transparent border-t-white"></div>
+        <div class="absolute left-1/2 top-1/2 mt-4 h-0 w-0 -translate-x-1/2 -translate-y-1/2 border-b-[18px] border-l-[14px] border-r-[14px] border-l-transparent border-r-transparent border-b-white"></div>
+      </div>
+    </div>
+    <div class="flex flex-1 flex-col justify-center max-sm:pt-0">
+      <div class="bg-purple-500 px-4 py-2 text-white">
+        <h1 class="adt-h3 font-bold" data-id="pg076_n0002">Jeta n&#xeb; Kosov&#xeb; dikur dhe sot</h1>
+      </div>
+      <div class="border-b-4 border-purple-400 px-1 py-3">
+        <h2 class="adt-h2 font-medium" data-id="pg076_n0003">Njer&#xeb;zit q&#xeb; nuk harrohen</h2>
+      </div>
+    </div>
+  </div>
+
+  <div class="mb-10 flex items-start gap-6 max-sm:flex-col max-sm:gap-3">
+    <div class="min-w-56 bg-green-500 px-6 py-2 text-stone-900 max-sm:min-w-0">
+      <h3 class="adt-h3 font-medium" data-id="pg076_n0005">Situata 1.</h3>
+    </div>
+    <p class="adt-body flex-1 leading-relaxed">
+      <span data-id="pg076_n0007">Ne jemi t&#xeb; lumtur q&#xeb; kemi shkollat n&#xeb; gjuh&#xeb;n shqipe.</span>
+      <span data-id="pg076_n0008">Cil&#xeb;t jan&#xeb; njer&#xeb;zit q&#xeb; kontribuuan p&#xeb;r hapjen e tyre?</span>
+      <span data-id="pg076_n0009">Ata jan&#xeb; shum&#xeb;.</span>
+      <span data-id="pg076_n0010">M&#xeb;so p&#xeb;r disa nga ta, t&#xeb; cil&#xeb;t jan&#xeb; t&#xeb; paharruesh&#xeb;m p&#xeb;r ne dhe gjeneratat q&#xeb; do t&#xeb; vijn&#xeb;.</span>
+    </p>
+  </div>
+
+  <div class="space-y-8">
+    <div class="bg-green-100 p-6 max-sm:p-4">
+      <div class="flex items-start gap-6 max-lg:flex-col max-lg:gap-4">
+        <img src="images/pg076_im008_seg001_v1_crop_v1.png" alt="Portret i Ernest Koliqit, veprimtar i r&#xeb;nd&#xeb;sish&#xeb;m p&#xeb;r hapjen e shkollave shqipe n&#xeb; Kosov&#xeb;." data-id="pg076_im008_seg001_v1_crop_v1" class="h-auto w-40 self-start object-cover shadow-md max-sm:w-36">
+        <p class="adt-caption flex-1 leading-relaxed">
+          <span data-id="pg076_n0013">Ernest Koliqi pati rol t&#xeb; r&#xeb;nd&#xeb;sish&#xeb;m n&#xeb; hapjen e shkollave shqipe n&#xeb; Kosov&#xeb;.</span>
+          <span data-id="pg076_n0014">P&#xeb;r shkak t&#xeb; munges&#xeb;s s&#xeb; m&#xeb;suesve n&#xeb; Kosov&#xeb;, ai u kujdes q&#xeb; t&#xeb; sillte m&#xeb;sues nga Shqip&#xeb;ria.</span>
+        </p>
+      </div>
+    </div>
+
+    <div class="flex items-start gap-6 max-lg:flex-col">
+      <div class="flex shrink-0 gap-2 self-start max-sm:w-full max-sm:justify-start">
+        <img src="images/pg076_im008_seg002_v1_crop_v1.png" alt="Portret i nj&#xeb; m&#xeb;suesi t&#xeb; p&#xeb;rmendur si kontribuues n&#xeb; p&#xeb;rhapjen e dijes n&#xeb; Kosov&#xeb;." data-id="pg076_im008_seg002_v1_crop_v1" class="h-auto w-28 object-cover shadow-md max-sm:w-[42%]">
+        <img src="images/pg076_im008_seg003_v1_crop_v1.png" alt="M&#xeb;sues i moshuar duke mbajtur nj&#xeb; abetare, si simbol i p&#xeb;rkushtimit ndaj arsimit shqip." data-id="pg076_im008_seg003_v1_crop_v1" class="h-auto w-36 object-cover shadow-md max-sm:w-[50%]">
+      </div>
+      <div class="flex-1 bg-amber-100 p-5 max-sm:p-4">
+        <p class="adt-body leading-relaxed" data-id="pg076_n0017">Disa nga m&#xeb;suesit q&#xeb; ndikuan n&#xeb; p&#xeb;rhapjen e dijes n&#xeb; Kosov&#xeb; ishin: Mehmet Gjevori, Tajar Hatipi, Vezire Xherina, Beqir Kastrati e shum&#xeb; t&#xeb; tjer&#xeb;, t&#xeb; cil&#xeb;t lan&#xeb; gjurm&#xeb; t&#xeb; pashlyeshme n&#xeb; arsimin e vendit ton&#xeb;.</p>
+      </div>
+    </div>
+
+    <div class="bg-green-100 p-5 max-sm:p-4">
+      <div class="flex items-start gap-5 max-sm:flex-col">
+        <img src="images/pg076_im005.png" alt="Portret i Mati Logorecit, m&#xeb;suesi i par&#xeb; n&#xeb; &#x201c;Shkoll&#xeb;n Shqipe e Djemve&#x201d; n&#xeb; Prizren." data-id="pg076_im005" class="h-auto w-40 self-start object-cover shadow-md max-sm:w-36">
+        <p class="adt-caption flex-1 leading-relaxed" data-id="pg076_n0019">Mati Logoreci ishte m&#xeb;suesi i par&#xeb; n&#xeb; shkoll&#xeb;n &#x201c;Shkolla Shqipe e Djemve&#x201d; n&#xeb; Prizren.</p>
+      </div>
+    </div>
+
+    <div class="bg-green-100 p-5 max-sm:p-4">
+      <div class="flex items-end gap-6 max-sm:flex-col max-sm:items-start">
+        <img src="images/pg076_im010.png" alt="Portret i Sevasti Qiriazit, atdhetare dhe nism&#xeb;tare e arsimit shqip p&#xeb;r gra." data-id="pg076_im010" class="h-auto w-44 object-cover shadow-md max-sm:w-32">
+        <div class="min-h-32 flex-1"></div>
+      </div>
+    </div>
+
+    <div class="bg-amber-100 p-6 max-sm:p-4">
+      <p class="adt-body leading-relaxed" data-id="pg076_n0021">Sot, n&#xeb; vendin ton&#xeb;, punon nj&#xeb; num&#xeb;r i madh i m&#xeb;simdh&#xeb;n&#xeb;sve profesionist&#xeb;, t&#xeb; cil&#xeb;t jan&#xeb; t&#xeb; vet&#xeb;dijsh&#xeb;m p&#xeb;r p&#xeb;rgjegj&#xeb;sin&#xeb; q&#xeb; kan&#xeb; p&#xeb;r arsimimin e brezave t&#xeb; rinj dhe punojn&#xeb; me p&#xeb;rkushtim e dashuri.</p>
+    </div>
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

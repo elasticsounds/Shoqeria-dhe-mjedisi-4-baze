@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe Mjedisi 4</title><meta name="title-id" content="pg078_sec001_p2"><meta name="page-section-id" content="104">
+  <link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet">
+  <style>
+    #content .bk-grid {align-items:start}
+    #content .bk-card p {margin:12px 0 0}
+    #content .bk-figure {gap:12px}
+    #content .bk-figure button {display:block;padding:0;border:0;background:transparent;cursor:pointer;width:max-content;max-width:100%}
+    #content .bk-figure button img {width:auto;max-width:100%;max-height:192px;border-radius:0;object-fit:contain}
+    #content dialog {max-width:min(90vw, 1000px);max-height:90vh;overflow:auto;padding:20px;border:2px solid var(--bk-primary);border-radius:var(--bk-r-card);background:var(--bk-paper);color:var(--bk-ink)}
+    #content dialog::backdrop {background:rgba(40,40,60,.8)}
+    #content dialog img {display:block;max-width:100%;height:auto;margin:12px auto}
+  </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div data-family="illustrated-reading" id="content" class="container opacity-0 bk">
+<section data-section-type="text_and_images" data-section-id="pg078_sec001_p2">
+  <div class="bk-grid bk-grid--2">
+    <div class="bk-card bk-card--outline">
+      <h1 class="bk-subheading" data-id="pg078_n0011">Grupi i parë: Sportet kolektive</h1>
+      <p class="bk-body"><span data-id="pg078_n0012">Sportet më të njohura në Kosovë janë: futbolli, basketbolli, hendbolli dhe volejbolli.</span> <span data-id="pg078_n0013">Ne si grup mblodhëm shënime për futbollin.</span></p>
+      <p class="bk-body"><span data-id="pg078_n0014">Futbolli në Kosovë është një ndër sportet më të zhvilluara.</span> <span data-id="pg078_n0015">Në tërë Kosovën ka shkolla të futbollit në të cilat ushtrohen shumë fëmijë dhe nga aty kanë dalë shumë talentë.</span></p>
+    </div>
+    <figure class="bk-figure">
+      <button type="button" id="pg078_fadil_open" aria-label="Zmadho fotografinë: Fadil Vokrri" aria-haspopup="dialog"><img data-id="pg078_im002" src="images/pg078_im002.png" alt="Fadil Vokrri duke luajtur futboll në fushë, me fanellë bardh e zi."></button>
+      <figcaption class="bk-caption" data-id="pg078_n0017">Në fotografi është paraqitur Fadil Vokrri, emër i njohur i futbollit kosovar.</figcaption>
+    </figure>
+  </div>
+  <dialog id="pg078_fadil_dialog" aria-label="Fotografia e Fadil Vokrrit"><button class="bk-btn bk-btn--secondary" type="button" id="pg078_fadil_close">Mbyll</button><img src="images/pg078_im002.png" alt="Fadil Vokrri duke luajtur futboll në fushë, me fanellë bardh e zi."></dialog>
+</section></div></main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');
+(function(){const open=document.getElementById('pg078_fadil_open'), dialog=document.getElementById('pg078_fadil_dialog'), close=document.getElementById('pg078_fadil_close');open.addEventListener('click',()=>dialog.showModal());close.addEventListener('click',()=>dialog.close());dialog.addEventListener('close',()=>open.focus());})();</script>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+</body></html>

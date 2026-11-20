@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg111_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="152">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" class="container mx-auto max-w-5xl bg-[#d8f1f1] px-6 max-lg:px-6 max-sm:px-4 pt-8 pb-6 opacity-0 bk" id="content">
+  <section data-section-type="activity_fill_in_the_blank" data-section-id="pg111_sec001" role="region" class="mx-auto">
+    <div class="mb-6 max-w-4xl mx-auto">
+      <div class="flex items-stretch justify-between gap-0 max-sm:flex-col max-sm:gap-3">
+        <div class="flex-1 pt-10 max-sm:pt-0">
+          <div class="bg-[#a86aae] text-white px-4 py-3 w-full">
+            <h1 class="adt-h1" data-id="pg111_n0002">Mjedisi i vendit tim</h1>
+          </div>
+          <div class="mt-4 px-4 max-sm:px-2">
+            <h2 class="adt-h2 text-left text-neutral-900" data-id="pg111_n0003">Njeriu mbron natyrën</h2>
+            <div class="mt-2 h-1 w-56 max-sm:w-44 bg-[#a86aae]"></div>
+          </div>
+        </div>
+        <div class="w-36 shrink-0 rounded-b-xl bg-[#a86aae] flex items-center justify-center py-6 px-4 max-sm:w-full max-sm:rounded-xl max-sm:py-4" aria-hidden="true">
+          <div class="text-white text-center leading-none">
+            <div class="text-4xl">🍃</div>
+            <div class="text-5xl mt-2">🫴</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="max-w-4xl mx-auto mb-7 bg-[#cfd0e8] px-4 py-5 border border-[#b8b7d6] relative overflow-visible">
+      <div class="absolute right-0 top-6 translate-x-1/2 bg-[#a86aae] text-white w-24 h-20 flex items-center justify-center text-5xl max-lg:w-20 max-lg:h-16 max-lg:text-4xl max-sm:hidden" aria-hidden="true">?</div>
+      <div class="space-y-4">
+        <div>
+          <div class="adt-body text-neutral-800" data-id="pg111_n0005">- Ç’kupton me fjalën natyrë?</div>
+          <label for="activity-item-1" class="sr-only">- Ç’kupton me fjalën natyrë?</label>
+          <textarea id="activity-item-1" data-activity-item="item-1" aria-label="- Ç’kupton me fjalën natyrë?" class="mt-2 w-full min-h-11 rounded-md border border-emerald-300 bg-white/95 px-3 py-2"></textarea>
+        </div>
+        <div>
+          <div class="adt-body text-neutral-800" data-id="pg111_n0006">- Cilat prej veprimeve i sheh si të dëmshme Era?</div>
+          <label for="activity-item-2" class="sr-only">- Cilat prej veprimeve i sheh si të dëmshme Era?</label>
+          <textarea id="activity-item-2" data-activity-item="item-2" aria-label="- Cilat prej veprimeve i sheh si të dëmshme Era?" class="mt-2 w-full min-h-11 rounded-md border border-sky-300 bg-white/95 px-3 py-2"></textarea>
+        </div>
+        <div>
+          <div class="adt-body text-neutral-800" data-id="pg111_n0007">- Shkruaj emrat e mbeturinave sipas ngjyrës së shportave ricikluese.</div>
+          <div class="mt-3 grid grid-cols-2 gap-4 max-sm:grid-cols-1">
+            <div class="flex flex-col rounded-2xl border-2 border-red-300 bg-red-50/30 p-3">
+              <div class="mx-auto mb-3 h-14 w-14 rounded-xl bg-red-500" aria-hidden="true"></div>
+              <label for="activity-item-3" class="sr-only">Shkruaj emrin e mbeturinave për shportën e kuqe</label>
+              <input id="activity-item-3" type="text" data-activity-item="item-3" aria-label="Shkruaj emrin e mbeturinave për shportën e kuqe" class="w-full min-h-11 rounded-md border border-red-300 bg-white px-3 py-2 text-center">
+            </div>
+            <div class="flex flex-col rounded-2xl border-2 border-green-300 bg-green-50/30 p-3">
+              <div class="mx-auto mb-3 h-14 w-14 rounded-xl bg-green-500" aria-hidden="true"></div>
+              <label for="activity-item-4" class="sr-only">Shkruaj emrin e mbeturinave për shportën e gjelbër</label>
+              <input id="activity-item-4" type="text" data-activity-item="item-4" aria-label="Shkruaj emrin e mbeturinave për shportën e gjelbër" class="w-full min-h-11 rounded-md border border-green-300 bg-white px-3 py-2 text-center">
+            </div>
+            <div class="flex flex-col rounded-2xl border-2 border-yellow-400 bg-yellow-50/30 p-3">
+              <div class="mx-auto mb-3 h-14 w-14 rounded-xl bg-yellow-400" aria-hidden="true"></div>
+              <label for="activity-item-5" class="sr-only">Shkruaj emrin e mbeturinave për shportën e verdhë</label>
+              <input id="activity-item-5" type="text" data-activity-item="item-5" aria-label="Shkruaj emrin e mbeturinave për shportën e verdhë" class="w-full min-h-11 rounded-md border border-yellow-400 bg-white px-3 py-2 text-center">
+            </div>
+            <div class="flex flex-col rounded-2xl border-2 border-blue-300 bg-blue-50/30 p-3">
+              <div class="mx-auto mb-3 h-14 w-14 rounded-xl bg-blue-500" aria-hidden="true"></div>
+              <label for="activity-item-6" class="sr-only">Shkruaj emrin e mbeturinave për shportën blu</label>
+              <input id="activity-item-6" type="text" data-activity-item="item-6" aria-label="Shkruaj emrin e mbeturinave për shportën blu" class="w-full min-h-11 rounded-md border border-blue-300 bg-white px-3 py-2 text-center">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="max-w-4xl mx-auto mb-6 border-2 border-[#b86bb8] bg-transparent px-4 py-4 text-neutral-800 relative overflow-visible">
+      <div class="absolute right-0 top-0 -translate-y-1/2 translate-x-1/2 bg-[#a86aae] text-white w-24 h-20 flex items-center justify-center text-4xl max-lg:w-20 max-lg:h-16 max-sm:hidden" aria-hidden="true">📖</div>
+      <p class="adt-body italic leading-relaxed">
+        <span data-id="pg111_n0010">Ndotja e mjedisit natyror me ndotës të ndryshëm shkakton ndryshime të shumta në tokë, ujë dhe ajër, të cilët drejtpërdrejt ndikojnë edhe në jetën e qenieve të gjalla.</span>
+        <span data-id="pg111_n0011">Njeriu ka për detyrë të mbrojë mjedisin në të cilin jeton dhe vepron.</span>
+        <span data-id="pg111_n0012">Ky kujdes ndaj natyrës duhet të jetë i vazhdueshëm dhe i përhershëm, në mënyrë individuale dhe grupore.</span>
+        <span data-id="pg111_n0013">Njeriu çdo ditë duhet ta mbrojë natyrën.</span>
+        <span data-id="pg111_n0014">Ndotja e natyrës shkatërron edhe jetën e qenieve të gjalla në planetin tonë.</span>
+        <span data-id="pg111_n0015">Për një jetë të shëndetshme, duhet të kemi një mjedis të pastër.</span>
+      </p>
+    </div>
+
+    <div class="max-w-4xl mx-auto relative">
+      <img src="images/pg111_im001.png" alt="Katër shporta ricikluese me ngjyra të kuqe, të gjelbër, të verdhë dhe blu në një park, ndërsa një fëmijë ecën pranë tyre mes pemëve." data-id="pg111_im001" class="w-full h-auto rounded-md object-cover max-sm:min-h-[280px]">
+      <div class="mt-4 max-sm:mt-3 px-2">
+        <span class="adt-body inline-block text-neutral-800" data-id="pg111_n0016">Fjalët kyçe: natyrë, gjelbërim, kujdes, riciklim, mjedis.</span>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"","item-2":"","item-3":"","item-4":"","item-5":"","item-6":""}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

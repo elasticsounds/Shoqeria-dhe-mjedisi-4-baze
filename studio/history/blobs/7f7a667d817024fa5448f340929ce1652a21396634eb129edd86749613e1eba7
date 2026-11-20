@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg013_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="16">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk"><section data-section-type="text_and_single_image" data-section-id="pg013_sec001" class="mx-auto w-full max-w-5xl px-8 max-sm:px-4 py-8 bg-white text-slate-800">
+  <div class="-mx-8 max-sm:-mx-4 bg-gradient-to-r from-purple-700 via-fuchsia-600 to-purple-500">
+    <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-4 py-6 max-sm:py-4 flex items-center justify-between gap-6 max-sm:flex-col max-sm:items-start">
+      <div class="min-w-0 flex-1">
+        <h1 data-id="pg013_n0002" class="adt-h1 font-bold text-white">Lidhjet dhe bashkëpunimi me të tjerët</h1>
+        <h2 data-id="pg013_n0003" class="adt-h2 text-slate-900 border-b-4 border-purple-200 inline-block pb-2 mt-4">Së bashku ia dalim</h2>
+      </div>
+      <div aria-hidden="true" class="shrink-0 w-32 h-32 max-lg:w-28 max-lg:h-28 max-sm:w-20 max-sm:h-20 rounded-2xl bg-purple-400/80 flex items-center justify-center self-start">
+        <div class="relative w-14 h-10 max-sm:w-10 max-sm:h-8">
+          <span class="absolute left-1/2 top-0 -translate-x-1/2 w-4 h-4 max-sm:w-3 max-sm:h-3 rounded-full bg-white"></span>
+          <span class="absolute left-1 top-1 w-3.5 h-3.5 max-sm:w-2.5 max-sm:h-2.5 rounded-full bg-white"></span>
+          <span class="absolute right-1 top-1 w-3.5 h-3.5 max-sm:w-2.5 max-sm:h-2.5 rounded-full bg-white"></span>
+          <span class="absolute left-1/2 bottom-0 -translate-x-1/2 w-9 h-6 max-sm:w-7 max-sm:h-5 rounded-t-full bg-white"></span>
+          <span class="absolute left-0 bottom-0 w-5 h-4 max-sm:w-4 max-sm:h-3 rounded-t-full bg-white"></span>
+          <span class="absolute right-0 bottom-0 w-5 h-4 max-sm:w-4 max-sm:h-3 rounded-t-full bg-white"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mt-8">
+    <h3 data-id="pg013_n0005" class="adt-h3 inline-block bg-green-400 text-slate-900 px-4 py-2 font-semibold rounded-sm">Situata 1.</h3>
+    <p class="adt-body mt-4 leading-relaxed text-left">
+      <span data-id="pg013_n0007">Ishin ditët e fundit të gushtit, kur Lisi po rregullonte dhomën e tij të gjumit para fillimit të vitit shkollor.</span>
+      <span data-id="pg013_n0008">Do ta fillonte klasën e katërt dhe kjo e bënte më përgjegjës ndaj gjërave të tij.</span>
+      <span data-id="pg013_n0009">Lisi është idhtar i ripërdorimit dhe i riciklimit dhe ai çdo vit shikon se çfarë i ka mbetur nga viti i kaluar shkollor për t’i përdorur në vitin e ardhshëm.</span>
+      <span data-id="pg013_n0010">Mirëpo, diçka që nuk i duhej më, por që kishin shumë vlerë për të, ishin librat e tij të parë.</span>
+      <span data-id="pg013_n0011">Mendoi t’i vendoste diku në shtëpi për t’i ruajtur, por e dinte që kështu nuk bënte mirë për askënd.</span>
+      <span data-id="pg013_n0012">Kur bisedoi me prindërit për këtë çështje, ata i dhanë një ide të shkëlqyeshme.</span>
+      <span data-id="pg013_n0013">- Pse nuk mbledh libra edhe nga shokët e klasës dhe të krijoni bibliotekën e klasës? - ishte ideja e përbashkët e prindërve.</span>
+      <span data-id="pg013_n0014">Lisi u lumturua shumë nga kjo ide.</span>
+      <span data-id="pg013_n0015">E mendonte sa mirë do të bëhej kur të gjithë fëmijët e klasës do të mblidhnin librat e tyre dhe t’i shkëmbenin me njëri-tjetrin.</span>
+    </p>
+  </div>
+
+  <div class="mt-6 rounded-xl overflow-hidden shadow-sm border border-slate-200 bg-slate-50">
+    <img data-id="pg013_im002" src="images/pg013_im002.png" alt="Lisi mban në duar një grumbull librash pranë rafteve të mbushura me libra, ndërsa prindërit e tij shihen në sfond në shtëpi." class="w-full h-auto block">
+  </div>
+
+  <aside class="mt-6 bg-purple-100 border-l-8 border-purple-400 p-4 max-sm:p-3 rounded-r-xl">
+    <div class="flex items-start justify-between gap-4 max-lg:flex-col">
+      <div class="flex-1 space-y-4 w-full order-1">
+        <div class="space-y-2">
+          <div data-id="pg013_n0019" class="adt-body">Sa e vlerëson bashkëpunimin me të tjerët për të bërë një veprim të mirë për komunitetin?</div>
+          <label for="item-1" class="sr-only">Sa e vlerëson bashkëpunimin me të tjerët për të bërë një veprim të mirë për komunitetin?</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="Sa e vlerëson bashkëpunimin me të tjerët për të bërë një veprim të mirë për komunitetin?" class="w-full min-h-11 rounded-lg border border-purple-300 bg-white px-3 py-3 text-slate-800 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+        </div>
+        <div class="space-y-2">
+          <div data-id="pg013_n0021" class="adt-body">Si përfiton komuniteti nga veprimi i Lisit me shokët?</div>
+          <label for="item-2" class="sr-only">Si përfiton komuniteti nga veprimi i Lisit me shokët?</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="Si përfiton komuniteti nga veprimi i Lisit me shokët?" class="w-full min-h-11 rounded-lg border border-purple-300 bg-white px-3 py-3 text-slate-800 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+        </div>
+        <div class="space-y-2">
+          <div data-id="pg013_n0023" class="adt-body">A ke bërë ndonjëherë ndonjë aktivitet/veprim për të mirën e të tjerëve?</div>
+          <label for="item-3" class="sr-only">A ke bërë ndonjëherë ndonjë aktivitet/veprim për të mirën e të tjerëve?</label>
+          <textarea id="item-3" data-activity-item="item-3" aria-label="A ke bërë ndonjëherë ndonjë aktivitet/veprim për të mirën e të tjerëve?" class="w-full min-h-11 rounded-lg border border-purple-300 bg-white px-3 py-3 text-slate-800 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+        </div>
+        <div class="space-y-2">
+          <div data-id="pg013_n0025" class="adt-body">Si e vlerëson idenë e prindërve të Lisit për krijimin e bibliotekës së klasës?</div>
+          <label for="item-4" class="sr-only">Si e vlerëson idenë e prindërve të Lisit për krijimin e bibliotekës së klasës?</label>
+          <textarea id="item-4" data-activity-item="item-4" aria-label="Si e vlerëson idenë e prindërve të Lisit për krijimin e bibliotekës së klasës?" class="w-full min-h-11 rounded-lg border border-purple-300 bg-white px-3 py-3 text-slate-800 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+        </div>
+        <div class="space-y-2">
+          <div data-id="pg013_n0027" class="adt-body">Sa është e rëndësishme që shkollat të kenë biblioteka?</div>
+          <label for="item-5" class="sr-only">Sa është e rëndësishme që shkollat të kenë biblioteka?</label>
+          <textarea id="item-5" data-activity-item="item-5" aria-label="Sa është e rëndësishme që shkollat të kenë biblioteka?" class="w-full min-h-11 rounded-lg border border-purple-300 bg-white px-3 py-3 text-slate-800 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+        </div>
+      </div>
+      <div aria-hidden="true" class="order-2 shrink-0 w-16 h-16 rounded-xl bg-purple-400 flex items-center justify-center relative overflow-hidden max-lg:self-start">
+        <span class="absolute left-1/2 top-2 -translate-x-1/2 w-1.5 h-1.5 rounded-full bg-white"></span>
+        <span class="absolute left-1/2 top-4 -translate-x-1/2 w-4 h-6 border-2 border-white border-b-0 rounded-t-full"></span>
+        <span class="absolute left-1/2 bottom-3 -translate-x-1/2 w-1.5 h-1.5 rounded-full bg-white"></span>
+      </div>
+    </div>
+  </aside>
+
+  <div class="mt-6 border-2 border-purple-300 bg-white p-4 rounded-xl shadow-sm">
+    <div class="flex items-start justify-between gap-4 max-sm:flex-col">
+      <p class="adt-body leading-relaxed italic text-left flex-1">
+        <span data-id="pg013_n0030">Njerëzit dallojnë nga njëri-tjetri.</span>
+        <span data-id="pg013_n0031">Ata jetojnë në familje, mjedise të ndryshme, kanë edukatë dhe kultura të ndryshme.</span>
+        <span data-id="pg013_n0032">Kështu që, secili njeri ka mendimet e veta.</span>
+        <span data-id="pg013_n0033">Nëse respektojmë kulturat dhe mendimet e të tjerëve dhe i shkëmbejmë ato në mes nesh, atëherë çdo punë bëhet më mirë dhe ne bëhemi më të ditur, pasi përfitojmë shumë nga të tjerët.</span>
+        <span data-id="pg013_n0034">Punë në ekip do të thotë kur disa persona punojnë së bashku për të arritur një qëllim të përbashkët ose për të kryer një detyrë sa më mirë.</span>
+        <span data-id="pg013_n0035">Puna në ekip nuk njeh moshë.</span>
+        <span data-id="pg013_n0036">Ajo është e njëjtë për të gjitha moshat.</span>
+        <span data-id="pg013_n0037">Anëtarët e grupit ndajnë në mënyrë të barabartë përgjegjësitë dhe detyrat e tyre.</span>
+      </p>
+      <div aria-hidden="true" class="shrink-0 w-16 h-12 rounded-sm bg-purple-500 relative max-sm:self-end">
+        <div class="absolute top-2 right-2 w-9 h-8 border-2 border-white rounded-sm"></div>
+        <div class="absolute top-1 right-4 w-9 h-8 border-2 border-white rounded-sm"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mt-5">
+    <p data-id="pg013_n0038" class="adt-body font-semibold text-left">Fjalët kyçe: bashkëpunim, kujdes, ndërveprim, vlerësim.</p>
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

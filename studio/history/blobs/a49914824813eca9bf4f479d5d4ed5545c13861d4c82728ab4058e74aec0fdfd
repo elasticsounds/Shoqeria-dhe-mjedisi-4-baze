@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg107_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="136" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto max-w-5xl bg-white px-10 max-lg:px-8 max-sm:px-4 pt-8 pb-12 opacity-0">
+  <section data-section-type="activity_fill_in_a_table" data-section-id="pg107_sec001" class="mx-auto max-w-5xl">
+    <div class="mb-8">
+      <div class="bg-purple-500 px-6 py-4 rounded-r-[2rem] rounded-l-none">
+        <h1 class="adt-h1 font-bold text-white" data-id="pg107_n0002">Resurset dhe trash&#xeb;gimia e vendit tim</h1>
+      </div>
+      <div class="mt-5 max-w-3xl">
+        <h2 class="adt-h2 font-semibold text-zinc-900" data-id="pg107_n0004">Ndihmojm&#xeb; p&#xeb;r nj&#xeb; mjedis t&#xeb; past&#xeb;r</h2>
+        <div class="mt-2 h-1 w-80 bg-purple-500 max-sm:w-48"></div>
+      </div>
+    </div>
+
+    <div class="mb-8 bg-purple-100 p-5 max-sm:p-4">
+      <ul class="space-y-4 list-none">
+        <li class="bg-white/40 p-4">
+          <div class="max-sm:block grid grid-cols-[1.1fr_1.6fr] gap-4 items-start">
+            <div>
+              <span data-id="pg107_n0008" class="block">A &#xeb;sht&#xeb; e r&#xeb;nd&#xeb;sishme q&#xeb; secili t&#xeb; kontribuoj&#xeb; p&#xeb;r ruajtjen e mjedisit?</span>
+              <span data-id="pg107_n0009" class="block">Pse?</span>
+            </div>
+            <div>
+              <label for="field1" class="sr-only">A &#xeb;sht&#xeb; e r&#xeb;nd&#xeb;sishme q&#xeb; secili t&#xeb; kontribuoj&#xeb; p&#xeb;r ruajtjen e mjedisit? Pse?</label>
+              <textarea id="field1" data-activity-item="item-1" aria-label="A &#xeb;sht&#xeb; e r&#xeb;nd&#xeb;sishme q&#xeb; secili t&#xeb; kontribuoj&#xeb; p&#xeb;r ruajtjen e mjedisit? Pse?" class="w-full min-h-11 h-28 rounded border border-zinc-300 bg-white px-3 py-2 resize-none max-sm:mt-3"></textarea>
+            </div>
+          </div>
+        </li>
+        <li class="bg-white/40 p-4">
+          <div class="max-sm:block grid grid-cols-[1.1fr_1.6fr] gap-4 items-start">
+            <div>
+              <span data-id="pg107_n0011" class="block">&#xc7;far&#xeb; b&#xeb;n ti p&#xeb;r nj&#xeb; mjedis t&#xeb; past&#xeb;r?</span>
+            </div>
+            <div>
+              <label for="field2" class="sr-only">&#xc7;far&#xeb; b&#xeb;n ti p&#xeb;r nj&#xeb; mjedis t&#xeb; past&#xeb;r?</label>
+              <textarea id="field2" data-activity-item="item-2" aria-label="&#xc7;far&#xeb; b&#xeb;n ti p&#xeb;r nj&#xeb; mjedis t&#xeb; past&#xeb;r?" class="w-full min-h-11 h-24 rounded border border-zinc-300 bg-white px-3 py-2 resize-none max-sm:mt-3"></textarea>
+            </div>
+          </div>
+        </li>
+        <li class="bg-white/40 p-4">
+          <div class="max-sm:block grid grid-cols-[1.1fr_1.6fr] gap-4 items-start">
+            <div>
+              <span data-id="pg107_n0013" class="block">&#xc7;far&#xeb; duhet t&#xeb; b&#xeb;jm&#xeb; p&#xeb;r mbrojtjen e tok&#xeb;s, t&#xeb; ujit dhe t&#xeb; ajrit?</span>
+            </div>
+            <div>
+              <label for="field3" class="sr-only">&#xc7;far&#xeb; duhet t&#xeb; b&#xeb;jm&#xeb; p&#xeb;r mbrojtjen e tok&#xeb;s, t&#xeb; ujit dhe t&#xeb; ajrit?</label>
+              <textarea id="field3" data-activity-item="item-3" aria-label="&#xc7;far&#xeb; duhet t&#xeb; b&#xeb;jm&#xeb; p&#xeb;r mbrojtjen e tok&#xeb;s, t&#xeb; ujit dhe t&#xeb; ajrit?" class="w-full min-h-11 h-24 rounded border border-zinc-300 bg-white px-3 py-2 resize-none max-sm:mt-3"></textarea>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+
+    <p class="mb-8 text-zinc-900">
+      <span data-id="pg107_n0015">Krahaso punimin t&#xeb;nd me t&#xeb; shokut t&#xeb; bank&#xeb;s e m&#xeb; pas diskutoni n&#xeb; klas&#xeb;.</span>
+    </p>
+
+    <div class="mb-6 overflow-x-auto max-sm:overflow-x-visible">
+      <table class="w-full border-collapse table-fixed max-sm:block">
+        <caption class="sr-only">Tabela p&#xeb;r t&#xeb; shkruar mendime p&#xeb;r tok&#xeb;n, ujin dhe ajrin</caption>
+        <thead class="max-sm:block">
+          <tr class="max-sm:grid max-sm:grid-cols-3">
+            <th scope="col" class="bg-green-500 border-r-2 border-white px-4 py-3 text-center font-normal text-zinc-900 max-sm:block">
+              <span data-id="pg107_n0020">Toka</span>
+            </th>
+            <th scope="col" class="bg-green-500 border-r-2 border-white px-4 py-3 text-center font-normal text-zinc-900 max-sm:block">
+              <span data-id="pg107_n0022">Uji</span>
+            </th>
+            <th scope="col" class="bg-green-500 px-4 py-3 text-center font-normal text-zinc-900 max-sm:block">
+              <span data-id="pg107_n0024">Ajri</span>
+            </th>
+          </tr>
+        </thead>
+        <tbody class="max-sm:block">
+          <tr class="max-sm:grid max-sm:grid-cols-3">
+            <th class="align-top border-2 border-green-400 p-4 h-[24rem] max-sm:h-72 max-sm:block" scope="row">
+              <label for="field4" class="sr-only">Toka</label>
+              <textarea id="field4" data-activity-item="item-4" aria-label="Toka" class="w-full min-h-11 h-full rounded border border-zinc-300 bg-white px-3 py-2 resize-none"></textarea>
+            </th>
+            <td class="align-top border-2 border-green-400 p-4 h-[24rem] max-sm:h-72 max-sm:block">
+              <label for="field5" class="sr-only">Uji</label>
+              <textarea id="field5" data-activity-item="item-5" aria-label="Uji" class="w-full min-h-11 h-full rounded border border-zinc-300 bg-white px-3 py-2 resize-none"></textarea>
+            </td>
+            <td class="align-top border-2 border-green-400 p-4 h-[24rem] max-sm:h-72 max-sm:block">
+              <label for="field6" class="sr-only">Ajri</label>
+              <textarea id="field6" data-activity-item="item-6" aria-label="Ajri" class="w-full min-h-11 h-full rounded border border-zinc-300 bg-white px-3 py-2 resize-none"></textarea>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"","item-2":"","item-3":"","item-4":"","item-5":"","item-6":""}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

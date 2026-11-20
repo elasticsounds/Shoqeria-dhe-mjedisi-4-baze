@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg030_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="39">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div class="container mx-auto max-w-5xl bg-white px-10 max-lg:px-8 max-sm:px-4 pt-8 pb-12 opacity-0 bk" id="content"><section data-section-type="activity_open_ended_answer" data-section-id="pg030_sec001" role="region" class="mx-auto max-w-5xl"><div class="mb-8"><div class="flex items-stretch max-sm:flex-col max-sm:gap-4"><div class="w-40 max-lg:w-32 max-sm:w-full bg-purple-500 rounded-2xl flex items-center justify-center px-4 py-6"><div class="text-white text-center"><div class="mx-auto mb-2 h-16 w-16 max-lg:h-14 max-lg:w-14 rounded-full border-4 border-white/80"></div></div></div><div class="flex-1 flex items-center bg-purple-500 rounded-r-2xl max-sm:rounded-2xl px-6 py-5"><div class="h-4 w-full rounded bg-white/0"></div></div></div><div class="mt-5"><h1 class="adt-h2 text-neutral-800 mb-2" data-id="pg030_n0003">Vlerat</h1><div class="h-1 w-[58%] bg-purple-400 max-lg:w-1/2 max-sm:w-2/3"></div></div></div><div class="mb-10"><div class="flex items-start gap-6 max-sm:flex-col max-sm:gap-4"><div class="shrink-0 bg-green-500 text-neutral-900 px-5 py-2 rounded-sm min-w-[122px] text-center"><h3 class="adt-h3 leading-none" data-id="pg030_n0005">Situata 1.</h3></div><div class="flex-1"><p class="adt-body leading-relaxed text-neutral-800"><span data-id="pg030_n0007">Motra e vogël e Dritanit po tërhiqte këmbët zvarrë e nuk po na arrinte dot.</span> <span data-id="pg030_n0008">M’u duk sikur po qante.</span> <span data-id="pg030_n0009">Unë me Dritanin nxituam hapat dhe kështu u larguam shumë prej saj.</span> <span data-id="pg030_n0010">Dikur, zëri i saj nuk dëgjohej më.</span> <span data-id="pg030_n0011">Ne nxituam për të arritur në teatrin e kukullave, për të siguruar orarin, por nuk kishim qëllim ta linim jashtë.</span> <span data-id="pg030_n0012">Sapo arritëm te dera e teatrit, një plak, i kërrusur, por energjik, po e sillte drejt nesh në krahë.</span> <span data-id="pg030_n0013">U ndiem në faj</span></p></div></div></div><div class="mb-8"><img src="images/pg030_im001.png" alt="Një plak mban në krahë një vajzë të vogël, ndërsa dy fëmijë e shikojnë me shqetësim." data-id="pg030_im001" class="w-full h-auto max-w-4xl mx-auto"></div><div class="bg-purple-100/90 overflow-hidden"><div class="flex items-stretch max-sm:flex-col"><div class="w-24 max-sm:w-full bg-purple-500 min-h-20"></div><div class="flex-1 p-6 max-sm:p-4 space-y-6"><div><p class="adt-body text-neutral-900 mb-2"><span data-id="pg030_n0015">- Vazhdoni dialogun me plakun.</span></p><label for="activity-item-1" class="sr-only">- Vazhdoni dialogun me plakun.</label><textarea id="activity-item-1" data-activity-item="item-1" aria-label="- Vazhdoni dialogun me plakun." class="w-full min-h-28 max-sm:min-h-24 rounded border border-gray-300 bg-white px-3 py-3 leading-8 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea></div><div><p class="adt-body text-neutral-900 mb-2"><span data-id="pg030_n0016">- Vazhdoni dialogun me motrën.</span></p><label for="activity-item-2" class="sr-only">- Vazhdoni dialogun me motrën.</label><textarea id="activity-item-2" data-activity-item="item-2" aria-label="- Vazhdoni dialogun me motrën." class="w-full min-h-28 max-sm:min-h-24 rounded border border-gray-300 bg-white px-3 py-3 leading-8 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea></div><div><p class="adt-body text-neutral-900 mb-2"><span data-id="pg030_n0017">- Si u sollën me motrën e vogël të Dritanit?</span></p><label for="activity-item-3" class="sr-only">- Si u sollën me motrën e vogël të Dritanit?</label><textarea id="activity-item-3" data-activity-item="item-3" aria-label="- Si u sollën me motrën e vogël të Dritanit?" class="w-full min-h-28 max-sm:min-h-24 rounded border border-gray-300 bg-white px-3 py-3 leading-8 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea></div><div><p class="adt-body text-neutral-900 mb-2"><span data-id="pg030_n0018">- Jepni mendimet tuaja për situatën dhe diskutoni.</span></p><label for="activity-item-4" class="sr-only">- Jepni mendimet tuaja për situatën dhe diskutoni.</label><textarea id="activity-item-4" data-activity-item="item-4" aria-label="- Jepni mendimet tuaja për situatën dhe diskutoni." class="w-full min-h-32 rounded border border-gray-300 bg-white px-3 py-3 leading-8 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea></div><div><p class="adt-body text-neutral-900 mb-2"><span data-id="pg030_n0019">- Çfarë ndihme mund t'u ofrojë njerëzve të vetmuar?</span></p><label for="activity-item-5" class="sr-only">- Çfarë ndihme mund t'u ofrojë njerëzve të vetmuar?</label><textarea id="activity-item-5" data-activity-item="item-5" aria-label="- Çfarë ndihme mund t'u ofrojë njerëzve të vetmuar?" class="w-full min-h-32 rounded border border-gray-300 bg-white px-3 py-3 leading-8 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea></div></div></div></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

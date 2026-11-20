@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg016_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="25">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-reading" id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 bg-[#f6eef4] py-8 opacity-0 bk">
+  <section data-section-type="text_and_single_image" data-section-id="pg016_sec001" class="w-full">
+    <div class="mb-8">
+      <div class="flex items-start max-sm:flex-col">
+        <div class="w-36 max-sm:w-full bg-[#a86aae] rounded-tl-xl rounded-bl-xl max-sm:rounded-bl-none max-sm:rounded-tr-xl flex items-center justify-center py-10 max-sm:py-6">
+          <div aria-hidden="true" class="text-white leading-none">⚖</div>
+        </div>
+        <div class="flex-1 pt-14 max-lg:pt-12 max-sm:pt-0">
+          <h1 class="adt-h1 font-bold text-white bg-[#a86aae] px-4 py-3 text-left" data-id="pg016_n0002">Secili ka të drejta dhe përgjegjësi</h1>
+          <div class="max-w-[30rem] border-b-4 border-[#b779c6] pt-4 pb-2 max-sm:max-w-full max-sm:pt-3">
+            <h2 class="adt-h2 text-[#222222] text-left" data-id="pg016_n0004">Të drejtat dhe përgjegjësitë e mia</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-8">
+      <h3 class="adt-h3 inline-block bg-[#f4c542] text-[#222222] px-4 py-2 font-semibold text-left" data-id="pg016_n0006">Situata 2.</h3>
+      <p class="adt-body text-[#2b2b2b] mt-4 leading-relaxed text-left max-w-[62rem]">
+        <span data-id="pg016_n0008">Në familjen time, ne zakonisht në mbrëmje këqyrim televizor.</span>
+        <span data-id="pg016_n0009">Kur jepen informacione për ngjarje të ndryshme, tregohem e pavëmendshme, pasi nuk kam interes që t’i dëgjoj.</span>
+        <span data-id="pg016_n0010">Nëna më këshillon të tregoj kujdes, pasi aty mund të marr informacione që ndikojnë në jetën time.</span>
+        <span data-id="pg016_n0011">Si për shembull, një natë u raportua për sëmundjet ngjitëse, me ç'rast kuptova se duhej të mbaja distancën e duhur fizike nga shoqet dhe shokët.</span>
+      </p>
+    </div>
+
+    <div class="clear-both">
+      <img data-id="pg016_im001" src="images/pg016_im001.png" alt="Nëna dhe vajza e saj bisedojnë të ulura në divan në shtëpi." class="w-full h-auto block">
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg084_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="107">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div class="container mx-auto max-w-5xl bg-white px-8 max-lg:px-6 max-sm:px-4 pt-10 pb-12 opacity-0 bk" id="content"><section data-section-type="activity_fill_in_the_blank" data-section-id="pg084_sec002" role="region" class="mx-auto max-w-5xl"><div class="flex items-stretch max-sm:flex-col max-sm:gap-0"><div class="flex w-28 shrink-0 items-center justify-center bg-purple-600 text-white max-sm:w-full max-sm:rounded-t-lg max-sm:py-4" aria-hidden="true"><div class="text-6xl font-semibold leading-none">?</div></div><div class="flex-1 bg-purple-100 px-8 py-6 max-sm:rounded-b-lg max-sm:px-4"><div class="space-y-5"><div><label for="activity-answer-1" class="mb-2 block adt-body leading-snug text-gray-900"><span data-id="pg084_n0018">Cilat janë institucionet kulturore në Kosovë?</span></label><textarea id="activity-answer-1" data-activity-item="item-1" aria-label="Cilat janë institucionet kulturore në Kosovë?" class="min-h-11 w-full rounded-md border border-purple-300 bg-white px-4 py-3 text-gray-900 shadow-sm outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea></div><div><label for="activity-answer-2" class="mb-2 block adt-body leading-snug text-gray-900"><span data-id="pg084_n0019">Përmend disa institucione kulturore në qytetin tënd.</span></label><textarea id="activity-answer-2" data-activity-item="item-2" aria-label="Përmend disa institucione kulturore në qytetin tënd." class="min-h-11 w-full rounded-md border border-purple-300 bg-white px-4 py-3 text-gray-900 shadow-sm outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea></div><div><label for="activity-answer-3" class="mb-2 block adt-body leading-snug text-gray-900"><span data-id="pg084_n0020">Pse Borës i bëri përshtypje Biblioteka Kombëtare?</span></label><textarea id="activity-answer-3" data-activity-item="item-3" aria-label="Pse Borës i bëri përshtypje Biblioteka Kombëtare?" class="min-h-11 w-full rounded-md border border-purple-300 bg-white px-4 py-3 text-gray-900 shadow-sm outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea></div><div><label for="activity-answer-4" class="mb-2 block adt-body leading-snug text-gray-900"><span data-id="pg084_n0021">Çfarë rëndësie kanë institucionet kulturore?</span></label><textarea id="activity-answer-4" data-activity-item="item-4" aria-label="Çfarë rëndësie kanë institucionet kulturore?" class="min-h-11 w-full rounded-md border border-purple-300 bg-white px-4 py-3 text-gray-900 shadow-sm outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea></div></div></div></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"","item-2":"","item-3":"","item-4":""}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

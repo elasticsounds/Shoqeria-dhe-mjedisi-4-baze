@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg079_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="99" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container bg-white opacity-0">
+  <section data-section-type="text_and_images" data-section-id="pg079_sec001" class="pb-12">
+    <div class="w-full bg-[#b06ab3]">
+      <div class="mx-auto flex w-full max-w-5xl items-center justify-between px-8 py-6 max-sm:px-5">
+        <h1 class="adt-h1 font-bold text-white" data-id="pg079_n0002">Jeta n&#xeb; Kosov&#xeb; dikur dhe sot</h1>
+        <div aria-hidden="true" class="ml-6 flex h-24 w-24 items-center justify-center rounded-2xl bg-[#a261ab] text-white max-sm:h-20 max-sm:w-20">
+          <div>&#x231b;</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mx-auto w-full max-w-5xl px-8 pt-5 max-sm:px-5">
+      <h2 class="adt-h2 border-b-4 border-[#b06ab3] pb-3 font-semibold text-neutral-800" data-id="pg079_n0004">Kultura &#x2013; pasuri komb&#xeb;tare</h2>
+
+      <div class="mt-10 grid grid-cols-12 gap-0 border-2 border-[#c78bc9] max-lg:grid-cols-1">
+        <div class="col-span-6 border-r-2 border-[#c78bc9] p-5 max-lg:border-r-0 max-lg:border-b-2">
+          <h3 class="adt-h3 mb-3 font-bold text-neutral-800" data-id="pg079_n0007">Grupi i tret&#xeb;: Muzika n&#xeb; Kosov&#xeb;</h3>
+          <p class="adt-body leading-relaxed text-neutral-800">
+            <span data-id="pg079_n0009">Muzika &#xeb;sht&#xeb; pjes&#xeb; e kultur&#xeb;s s&#xeb; nj&#xeb; populli.</span> <span data-id="pg079_n0010">N&#xeb; Kosov&#xeb; fillimisht ishte e zhvilluar muzika folklorike, popullore e m&#xeb; pas u zhvilluan edhe zhanret e tjera, si: muzika klasike, moderne e t&#xeb; tjera.</span>
+          </p>
+        </div>
+        <div class="col-span-6 flex gap-4 p-5 max-sm:flex-col">
+          <img src="images/pg079_im008_seg001_v1_crop_v1.png" alt="Ymer Riza i ulur me &#xe7;ifteli n&#xeb; duar, n&#xeb; nj&#xeb; fotografi bardh&#xeb; e zi." data-id="pg079_im008_seg001_v1_crop_v1" class="h-56 w-48 flex-none border border-[#c78bc9] object-cover max-sm:h-auto max-sm:w-full">
+          <p class="adt-body z-10 leading-relaxed text-neutral-800">
+            <span data-id="pg079_n0013">Ymer Riza ishte nj&#xeb;ri prej k&#xeb;ng&#xeb;tar&#xeb;ve t&#xeb; par&#xeb; shqiptar&#xeb; t&#xeb; muzik&#xeb;s popullore me sharki e &#xe7;ifteli.</span> <span data-id="pg079_n0014">Ai u konsiderua si legjenda e folklorit shqiptar.</span>
+          </p>
+        </div>
+      </div>
+
+      <div class="grid grid-cols-12 gap-0 border-x-2 border-b-2 border-[#c78bc9] max-lg:grid-cols-1">
+        <div class="col-span-7 border-r-2 border-[#c78bc9] p-5 max-lg:border-r-0 max-lg:border-b-2">
+          <div class="flex gap-4 max-sm:flex-col">
+            <img src="images/pg079_im008_seg002_v1_crop_v1.png" alt="Nexhmije Pagarusha e buz&#xeb;qeshur, e veshur me kostum tradicional, n&#xeb; nj&#xeb; fotografi bardh&#xeb; e zi." data-id="pg079_im008_seg002_v1_crop_v1" class="h-72 w-52 flex-none border border-[#c78bc9] object-cover max-sm:h-auto max-sm:w-full">
+            <p class="adt-body z-10 leading-relaxed text-neutral-800">
+              <span data-id="pg079_n0017">Nexhmije Pagarusha, k&#xeb;ng&#xeb;tare e muzik&#xeb;s popullore dhe e oper&#xeb;s.</span> <span data-id="pg079_n0018">Ajo ishte edhe aktore e suksesshme n&#xeb; film dhe n&#xeb; teat&#xeb;r.</span> <span data-id="pg079_n0019">Njihet si Bilbili i Kosov&#xeb;s dhe Mbret&#xeb;resha e muzik&#xeb;s shqiptare.</span>
+            </p>
+          </div>
+        </div>
+        <div class="col-span-5 p-5">
+          <p class="adt-body mb-5 leading-relaxed text-neutral-800">
+            <span data-id="pg079_n0022">K&#xeb;ng&#xeb;taret me prejardhje nga vendi yn&#xeb;, q&#xeb; jan&#xeb; b&#xeb;r&#xeb; shum&#xeb; t&#xeb; famshme dhe kan&#xeb; arritur sukses t&#xeb; madh n&#xeb;p&#xeb;r bot&#xeb;, jan&#xeb; Rita Ora dhe Dua Lipa.</span>
+          </p>
+          <div class="grid grid-cols-2 gap-3 max-sm:grid-cols-1">
+            <div class="flex flex-col items-center border-2 border-[#c78bc9] p-2">
+              <img src="images/pg079_im008_seg003_v1_crop_v1.png" alt="Rita Ora duke buz&#xeb;qeshur, me flok&#xeb; t&#xeb; drejta bionde dhe xhaket&#xeb; t&#xeb; kalt&#xeb;r t&#xeb; &#xe7;el&#xeb;t." data-id="pg079_im008_seg003_v1_crop_v1" class="h-44 w-full object-cover">
+              <div class="adt-caption mt-3 text-center text-neutral-800" data-id="pg079_n0024">Rita Ora</div>
+            </div>
+            <div class="flex flex-col items-center border-2 border-[#c78bc9] p-2">
+              <img src="images/pg079_im002.png" alt="Dua Lipa n&#xeb; portret me sfond t&#xeb; zi, me flok&#xeb; t&#xeb; lidhura lart dhe bluz&#xeb; t&#xeb; gjelb&#xeb;r t&#xeb; ndezur." data-id="pg079_im002" class="h-44 w-full object-cover">
+              <div class="adt-caption mt-3 text-center text-neutral-800" data-id="pg079_n0026">Dua Lipa</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-5 grid grid-cols-12 gap-0 border-2 border-[#c78bc9] max-lg:grid-cols-1">
+        <div class="col-span-6 border-r-2 border-[#c78bc9] max-lg:border-r-0 max-lg:border-b-2">
+          <div class="border-b-2 border-[#c78bc9] p-5">
+            <h3 class="adt-h3 font-bold text-neutral-800" data-id="pg079_n0029">Grupi i kat&#xeb;rt: Filmi, drama e piktura n&#xeb; Kosov&#xeb;</h3>
+          </div>
+          <div class="flex gap-4 p-5 max-sm:flex-col">
+            <img src="images/pg079_im009_seg001_v1_crop_v1.png" alt="Bekim Fehmiu n&#xeb; portret bardh&#xeb; e zi, i veshur me kostum dhe papijon." data-id="pg079_im009_seg001_v1_crop_v1" class="h-64 w-52 flex-none border border-[#c78bc9] object-cover max-sm:h-auto max-sm:w-full">
+            <p class="adt-body z-10 leading-relaxed text-neutral-800">
+              <span data-id="pg079_n0032">Bekim Fehmiu ishte aktori i par&#xeb; kosovar i teatrit dhe i filmit.</span> <span data-id="pg079_n0033">Ai luajti n&#xeb; m&#xeb; shum&#xeb; se 40 filma.</span>
+            </p>
+          </div>
+        </div>
+        <div class="col-span-6 p-5">
+          <div class="flex gap-4 max-sm:flex-col">
+            <img src="images/pg079_im009_seg002_v1_crop_v1.png" alt="Zake Prelvukaj me penela n&#xeb; dor&#xeb;, para nj&#xeb; pikture me ngjyra t&#xeb; gjalla." data-id="pg079_im009_seg002_v1_crop_v1" class="h-52 w-44 flex-none border border-[#c78bc9] object-cover max-sm:h-auto max-sm:w-full">
+            <p class="adt-body z-10 leading-relaxed text-neutral-800">
+              <span data-id="pg079_n0036">Zake Prelvukaj &#xeb;sht&#xeb; piktore e njohur kosovare.</span> <span data-id="pg079_n0037">Ajo njihet p&#xeb;r:</span> <span data-id="pg079_n0038">piktura me ngjyra t&#xeb; forta dhe t&#xeb; gjalla; trajtimin e figur&#xeb;s s&#xeb; gruas shqiptare; elemente nga tradita dhe kultura komb&#xeb;tare.</span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

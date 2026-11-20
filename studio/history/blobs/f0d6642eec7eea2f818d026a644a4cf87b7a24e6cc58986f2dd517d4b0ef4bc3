@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg108_sec002" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="139" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div id="content" class="container mx-auto max-w-5xl bg-white rounded-lg px-24 max-lg:px-12 max-sm:px-6 pt-12 pb-12 opacity-0">
+  <section data-section-type="activity_open_ended_answer" data-section-id="pg108_sec002" role="region" class="mx-auto max-w-5xl">
+    <div class="mb-8 flex items-start gap-5 max-sm:gap-4">
+      <span data-id="pg108_n0040" class="inline-flex min-h-11 items-center justify-center bg-green-400 text-black font-semibold px-4 py-1 rounded-sm shrink-0">2.</span>
+      <div class="flex-1 pt-1">
+        <p class="adt-body leading-relaxed text-left">
+          <span data-id="pg108_n0041">Shkruani vendet q&#xeb; vendos&#xeb;t t&#x2019;i vizitoni dhe tregoni arsyet pse.</span>
+        </p>
+        <span data-id="pg108_n0042" class="block sr-only"></span>
+      </div>
+    </div>
+
+    <div class="mx-auto max-w-4xl rounded-[2rem] border-2 border-stone-700 bg-white px-8 py-8 max-lg:px-6 max-lg:py-6 max-sm:px-4 max-sm:py-4">
+      <div class="mx-auto mb-4 h-10 w-3/4 rounded-full bg-amber-300/90 max-sm:h-8 max-sm:w-4/5"></div>
+
+      <label for="activity-item-1" class="sr-only">Shkruani vendet q&#xeb; vendos&#xeb;t t&#x2019;i vizitoni dhe tregoni arsyet pse.</label>
+      <textarea id="activity-item-1" data-activity-item="item-1" aria-label="Shkruani vendet q&#xeb; vendos&#xeb;t t&#x2019;i vizitoni dhe tregoni arsyet pse." class="w-full min-h-64 max-sm:min-h-52 rounded-xl border border-stone-300 bg-[repeating-linear-gradient(to_bottom,white_0,white_26px,#cbd5e1_27px,white_28px)] px-4 py-3 leading-7 resize-y focus:outline-none focus:ring-2 focus:ring-green-500"></textarea>
+
+      <div class="mx-auto mt-4 h-8 w-1/4 rounded-full bg-amber-300/90 max-sm:w-2/5"></div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

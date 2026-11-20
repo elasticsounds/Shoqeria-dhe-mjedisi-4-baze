@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg041_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="50" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0"><section data-section-type="text_and_single_image" data-section-id="pg041_sec001" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5 bg-white text-zinc-800">
+  <h1 class="adt-h2 font-semibold text-left border-b-4 border-fuchsia-300 inline-block pb-2 mb-8" data-id="pg041_n0003">Me mendje dhe zem&#xeb;r p&#xeb;r njer&#xeb;zit</h1>
+
+  <div class="mb-8">
+    <h3 class="adt-h3 text-left inline-block bg-amber-300 px-4 py-1 rounded-sm font-semibold mb-3" data-id="pg041_n0005">Situata 2.</h3>
+    <p class="adt-body text-left leading-relaxed">
+      <span data-id="pg041_n0006">N&#xeb;n&#xeb; Tereza u dha njer&#xeb;zve dashurin&#xeb; e mb&#xeb;shtetjen m&#xeb; t&#xeb; madhe.</span>
+      <span data-id="pg041_n0007" class="ml-1">Sa humane!</span>
+      <span data-id="pg041_n0008" class="ml-1">Shpesh, n&#xeb; or&#xeb;n e l&#xeb;nd&#xeb;s Shoq&#xeb;ria dhe mjedisi ne shprehim vler&#xeb;sim p&#xeb;r &#xe7;do kontribut n&#xeb; t&#xeb; mir&#xeb; t&#xeb; njer&#xeb;zve.</span>
+      <span data-id="pg041_n0009" class="ml-1">Secili nga ne b&#xeb;n aq sa mundet.</span>
+      <span data-id="pg041_n0010" class="ml-1">F&#xeb;mij&#xeb;t ndihmojn&#xeb; t&#xeb; moshuarit q&#xeb; kan&#xeb; pran&#xeb;.</span>
+      <span data-id="pg041_n0011" class="ml-1">Mjek&#xeb;t ndihmojn&#xeb; pacient&#xeb;t dhe k&#xeb;do q&#xeb; ka nevoj&#xeb; p&#xeb;r ta.</span>
+      <span data-id="pg041_n0012" class="ml-1">M&#xeb;suesit p&#xeb;rkujdesen q&#xeb; f&#xeb;mij&#xeb;t t&#xeb; marrin sa m&#xeb; shum&#xeb; dije.</span>
+      <span data-id="pg041_n0013" class="ml-1">Ata ndihmojn&#xeb; edhe f&#xeb;mij&#xeb;t q&#xeb; kan&#xeb; v&#xeb;shtir&#xeb;si.</span>
+      <span data-id="pg041_n0014" class="ml-1">Po ashtu, shok&#xeb;t ndihmojn&#xeb; nj&#xeb;ri-tjetrin n&#xeb; situata t&#xeb; v&#xeb;shtira.</span>
+    </p>
+  </div>
+
+  <figure class="mb-4">
+    <div class="relative rounded-lg overflow-hidden shadow-md bg-zinc-100">
+      <img src="images/pg041_im002.jpg" alt="N&#xeb;n&#xeb; Tereza u sh&#xeb;rben me p&#xeb;rkujdesje njer&#xeb;zve t&#xeb; s&#xeb;mur&#xeb; dhe n&#xeb; nevoj&#xeb;." data-id="pg041_im002" class="w-full h-auto block">
+      <div class="absolute top-0 left-0 z-10 bg-black/35 px-4 py-3 max-sm:px-3 max-sm:py-2">
+        <figcaption data-id="pg041_n0016" class="adt-caption text-white font-semibold">Anjez&#xeb; Gonxhe Bojaxhiu - N&#xeb;n&#xeb; Tereza</figcaption>
+      </div>
+    </div>
+  </figure>
+
+  <aside class="mb-8 bg-fuchsia-100 border-l-8 border-fuchsia-300 rounded-r-xl p-5 max-sm:p-4">
+    <div class="space-y-4">
+      <div>
+        <p data-id="pg041_n0018" class="adt-body">- &#xc7;far&#xeb; dini ju p&#xeb;r N&#xeb;n&#xeb; Terez&#xeb;n?</p>
+        <label for="item-1" class="sr-only">- &#xc7;far&#xeb; dini ju p&#xeb;r N&#xeb;n&#xeb; Terez&#xeb;n?</label>
+        <textarea id="item-1" data-activity-item="item-1" aria-label="- &#xc7;far&#xeb; dini ju p&#xeb;r N&#xeb;n&#xeb; Terez&#xeb;n?" class="mt-2 w-full min-h-11 rounded-lg border-2 border-fuchsia-200 bg-white px-4 py-3 outline-none focus:border-fuchsia-400" rows="3"></textarea>
+      </div>
+      <div>
+        <p data-id="pg041_n0019" class="adt-body">- Si u ka ndihmuar dhe si i ka mb&#xeb;shtetur ajo njer&#xeb;zit?</p>
+        <label for="item-2" class="sr-only">- Si u ka ndihmuar dhe si i ka mb&#xeb;shtetur ajo njer&#xeb;zit?</label>
+        <textarea id="item-2" data-activity-item="item-2" aria-label="- Si u ka ndihmuar dhe si i ka mb&#xeb;shtetur ajo njer&#xeb;zit?" class="mt-2 w-full min-h-11 rounded-lg border-2 border-fuchsia-200 bg-white px-4 py-3 outline-none focus:border-fuchsia-400" rows="3"></textarea>
+      </div>
+      <div>
+        <p data-id="pg041_n0020" class="adt-body">- Pse duhet ta ndihmojm&#xeb; nj&#xeb;ri-tjetrin?</p>
+        <label for="item-3" class="sr-only">- Pse duhet ta ndihmojm&#xeb; nj&#xeb;ri-tjetrin?</label>
+        <textarea id="item-3" data-activity-item="item-3" aria-label="- Pse duhet ta ndihmojm&#xeb; nj&#xeb;ri-tjetrin?" class="mt-2 w-full min-h-11 rounded-lg border-2 border-fuchsia-200 bg-white px-4 py-3 outline-none focus:border-fuchsia-400" rows="3"></textarea>
+      </div>
+      <div>
+        <p data-id="pg041_n0021" class="adt-body">- Po ju, a keni mb&#xeb;shtetur njer&#xeb;z n&#xeb; nevoj&#xeb;?</p>
+        <label for="item-4" class="sr-only">- Po ju, a keni mb&#xeb;shtetur njer&#xeb;z n&#xeb; nevoj&#xeb;?</label>
+        <textarea id="item-4" data-activity-item="item-4" aria-label="- Po ju, a keni mb&#xeb;shtetur njer&#xeb;z n&#xeb; nevoj&#xeb;?" class="mt-2 w-full min-h-11 rounded-lg border-2 border-fuchsia-200 bg-white px-4 py-3 outline-none focus:border-fuchsia-400" rows="3"></textarea>
+      </div>
+      <div>
+        <p data-id="pg041_n0022" class="adt-body">- N&#xeb;se do t&#xeb; ndiqje shembullin e N&#xeb;n&#xeb; Terez&#xeb;s, &#xe7;far&#xeb; veprimi t&#xeb; mir&#xeb; do t&#xeb; b&#xeb;je?</p>
+        <label for="item-5" class="sr-only">- N&#xeb;se do t&#xeb; ndiqje shembullin e N&#xeb;n&#xeb; Terez&#xeb;s, &#xe7;far&#xeb; veprimi t&#xeb; mir&#xeb; do t&#xeb; b&#xeb;je?</label>
+        <textarea id="item-5" data-activity-item="item-5" aria-label="- N&#xeb;se do t&#xeb; ndiqje shembullin e N&#xeb;n&#xeb; Terez&#xeb;s, &#xe7;far&#xeb; veprimi t&#xeb; mir&#xeb; do t&#xeb; b&#xeb;je?" class="mt-2 w-full min-h-11 rounded-lg border-2 border-fuchsia-200 bg-white px-4 py-3 outline-none focus:border-fuchsia-400" rows="3"></textarea>
+      </div>
+    </div>
+  </aside>
+
+  <div class="mb-10 border-2 border-fuchsia-300 bg-white rounded-xl p-5 italic text-left shadow-sm">
+    <p class="adt-body leading-relaxed">
+      <span data-id="pg041_n0025">N&#xeb; vendin ku jetojm&#xeb; ka njer&#xeb;z t&#xeb; ndrysh&#xeb;m.</span>
+      <span data-id="pg041_n0026" class="ml-1">Ne duhet t&#x2019;i pranojm&#xeb; dhe t&#x2019;i respektojm&#xeb; t&#xeb; gjith&#xeb;.</span>
+      <span data-id="pg041_n0027" class="ml-1">Kur dikush ka nevoj&#xeb; p&#xeb;r ndihm&#xeb; dhe ne p&#xeb;rpiqemi ta ndihmojm&#xeb;, kjo quhet empati.</span>
+      <span data-id="pg041_n0028" class="ml-1">Empatia do t&#xeb; thot&#xeb; t&#xeb; ndjesh se si ndihet nj&#xeb; person tjet&#xeb;r &#x2013; kur &#xeb;sht&#xeb; i m&#xeb;rzitur, i s&#xeb;mur&#xeb;, i shqet&#xeb;suar etj.</span>
+      <span data-id="pg041_n0029" class="ml-1">Ajo vet&#xeb;dij&#xeb;son p&#xeb;r vuajtjet, dhimbjet dhe g&#xeb;zimet e njer&#xeb;zve t&#xeb; tjer&#xeb;.</span>
+      <span data-id="pg041_n0030" class="ml-1">Kjo b&#xeb;n q&#xeb; ne t&#xeb; jemi t&#xeb; ndjesh&#xeb;m ndaj t&#xeb; tjer&#xeb;ve dhe t&#xeb; mendojm&#xeb; p&#xeb;r ndjenjat q&#xeb; p&#xeb;rjetojn&#xeb; ata, posa&#xe7;&#xeb;risht n&#xeb; gjendje dhe momente t&#xeb; v&#xeb;shtira.</span>
+    </p>
+  </div>
+
+  <p class="adt-body font-medium text-left" data-id="pg041_n0031">Fjal&#xeb;t ky&#xe7;e: empati, mjedis, ndjenj&#xeb;, shqet&#xeb;sim.</p>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

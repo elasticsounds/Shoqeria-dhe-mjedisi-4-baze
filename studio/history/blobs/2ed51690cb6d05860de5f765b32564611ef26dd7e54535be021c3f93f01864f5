@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg008_sec003">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="15">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+body, body :is(button,input,textarea,select), #interface-container *, #nav-container * { font-family:BookPoppins,Poppins,Arial,sans-serif !important; }
+#content.bk.bk.bk { padding-top:var(--bk-gap); overflow:visible; }
+#content.bk.bk.bk .bk-card--outline { border-color:var(--bk-primary); }
+#content.bk.bk.bk .bk-body { margin:0; max-width:720px; }
+#content.bk.bk.bk em { font-style:normal; font-weight:600; }
+#content.bk.bk.bk strong { font-weight:700; }
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+    <main id="page-heading" aria-label="Shoqëria dhe Mjedisi 4">
+      <div data-family="lesson-discussion" id="content" class="bk" data-source-page="8">
+        <section data-section-type="boxed_text" data-section-id="pg008_sec003" aria-label="Komuniteti" class="bk-stack">
+          <div class="bk-card bk-card--outline bk-stack">
+            <p class="bk-body"><em><span data-id="pg008_n0028">Komuniteti është një grup njerëzish që jetojnë në të njëjtin vend ose bëjnë gjëra të ngjashme.</span></em></p>
+            <p class="bk-body"><em><span data-id="pg008_n0030">Njerëzit në një komunitet mund të kenë vlera, zakone, qëllime ose interesa të përbashkët.</span></em></p>
+          </div>
+        </section>
+      </div>
+    </main>
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

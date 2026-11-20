@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg006_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="5" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container bg-[#f4d7d0] opacity-0">
+  <section data-section-type="text_and_single_image" data-section-id="pg006_sec001" class="pb-10">
+    <div class="w-full bg-[#a86bb0]">
+      <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-6">
+        <h1 data-id="pg006_n0002" class="adt-h1 text-left font-bold text-white">Un&#xeb; po rritem</h1>
+      </div>
+    </div>
+
+    <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 pt-8">
+      <h3 data-id="pg006_n0004" class="adt-h3 inline-block bg-[#69b874] px-4 py-2 text-left font-semibold text-black">Situata 1.</h3>
+
+      <p class="adt-body mt-5 text-left leading-relaxed text-[#2f2323]">
+        <span data-id="pg006_n0006">Un&#xeb; jam Linda.</span>
+        <span data-id="pg006_n0007">Jam n&#xeb; klas&#xeb;n e kat&#xeb;rt.</span>
+        <span data-id="pg006_n0008">Prind&#xeb;rit &#xe7;do dit&#xeb; m&#xeb; thon&#xeb;: &#x201c;Linda, ti po rritesh dhe po b&#xeb;hesh vajz&#xeb; e mbar&#xeb;!&#x201d;.</span>
+        <span data-id="pg006_n0009">Po ju tregoj se pse ata mendojn&#xeb; k&#xeb;shtu.</span>
+        <span data-id="pg006_n0010">M&#xeb; besoni, nuk po mburrem, vet&#xeb;m dua t&#xeb; ndaj k&#xeb;t&#xeb; k&#xeb;naq&#xeb;si me ju, moshatar&#xeb;t e mi.</span>
+        <span data-id="pg006_n0011">Tani un&#xeb; kam krijuar shprehit&#xeb; e mia.</span>
+        <span data-id="pg006_n0012">&#xc7;do m&#xeb;ngjes pastrohem, rregulloj dhom&#xeb;n time, vishem dhe mbath k&#xeb;puc&#xeb;t e p&#xeb;rshtatshme p&#xeb;r stin&#xeb;n.</span>
+        <span data-id="pg006_n0013">Ushqehem me orar dhe me ushqime t&#xeb; sh&#xeb;ndetshme.</span>
+        <span data-id="pg006_n0014">Shkoj n&#xeb; shkoll&#xeb; pasi t`i kem kryer t&#xeb; gjitha detyrat.</span>
+        <span data-id="pg006_n0015">Ushtroj balet, sepse &#xeb;sht&#xeb; pasioni im.</span>
+        <span data-id="pg006_n0016">Po ashtu, vijoj kurse t&#xeb; gjuh&#xeb;ve t&#xeb; huaja, sepse, si&#xe7; thon&#xeb; poet&#xeb;t tan&#xeb;: &quot;Sa gjuh&#xeb; di, aq vlen&quot;.</span>
+      </p>
+
+      <p class="adt-body mt-4 text-left leading-relaxed text-[#2f2323]">
+        <span data-id="pg006_n0018">Jasht&#xeb;, n&#xeb; shkoll&#xeb;, n&#xeb; teat&#xeb;r, n&#xeb; kinema e kudo sillem mir&#xeb; dhe respektoj rregullat.</span>
+        <span data-id="pg006_n0019">P&#xeb;rvojat ditore e sidomos ndonj&#xeb; shqet&#xeb;sim ose problem i diskutoj me prind&#xeb;rit.</span>
+        <span data-id="pg006_n0020">Mos t&#xeb; harroj t&#xeb; p&#xeb;rmend se u ndihmoj babait e n&#xeb;n&#xeb;s rreth pun&#xeb;ve t&#xeb; sht&#xeb;pis&#xeb;.</span>
+        <span data-id="pg006_n0021">M&#xeb; s&#xeb; shumti m&#xeb; p&#xeb;lqen t&#xeb; gatuaj dhe ta shtroj tryez&#xeb;n e ngr&#xeb;nies.</span>
+      </p>
+
+      <p class="adt-body mt-4 text-left leading-relaxed text-[#2f2323]">
+        <span data-id="pg006_n0023">N&#xeb; koh&#xeb;n e lir&#xeb; luaj me shok&#xeb;t e shoqet e mia, arg&#xeb;tohemi me prind&#xeb;rit dhe nganj&#xeb;her&#xeb; k&#xeb;qyri televizor.</span>
+        <span data-id="pg006_n0024">Af&#xeb;r shtratit gjithmon&#xeb; mbaj nj&#xeb; lib&#xeb;r dhe para gjumit lexoj, sepse leximi m&#xeb; qet&#xeb;son dhe m&#xeb; b&#xeb;n t&#xeb; &#xeb;nd&#xeb;rroj.</span>
+      </p>
+
+      <div class="mt-8 overflow-hidden rounded-3xl shadow-lg ring-4 ring-white/40">
+        <img data-id="pg006_im001" src="images/pg006_im001.png" alt="Linda duke lexuar nj&#xeb; lib&#xeb;r n&#xeb; tavolin&#xeb;n e dhom&#xeb;s s&#xeb; saj, pran&#xeb; krevatit dhe dritares me perde blu." class="w-full h-auto object-cover">
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

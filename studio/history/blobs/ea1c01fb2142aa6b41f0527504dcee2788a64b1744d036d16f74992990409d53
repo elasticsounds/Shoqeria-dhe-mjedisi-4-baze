@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title><meta name="title-id" content="pg095_sec001"><meta name="page-section-id" content="125">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet">
+
+<style>#nav-container *,#interface-container *{font-family:BookPoppins,Poppins,Arial,sans-serif!important} #content.bk.bk.bk .bk-banner{margin-bottom:0} #content .bk-banner .bk-row{flex-wrap:nowrap} #content .bk-banner .bk-title{flex:1;min-width:0} #content .bk-banner img{width:32px;height:auto} #content em{font-style:normal;font-weight:600}</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div data-family="lesson-discussion" id="content" class="bk opacity-0">
+<section data-section-type="text_and_single_image" data-section-id="pg095_sec001" class="bk-stack">
+<header class="bk-banner"><div class="bk-row"><h1 class="bk-title">Resurset dhe trashëgimia e vendit tim</h1><img src="studio/assets/pg095_sec001-wheat.png" alt="" aria-hidden="true"></div></header>
+<div><h2 data-id="pg095_n0003" class="bk-heading">Shfrytëzimi i pasurive nëntokësore</h2>
+<a href="pg094_sec001.html">Lexo situatën</a></div>
+<div class="bk-card bk-card--surface1 bk-stack">
+<section class="bk-activity" data-activity-pattern="discussion" data-activity-variant="group-discussion"><p class="bk-prompt" id="pg095_prompt_1"><span aria-hidden="true">– </span><span data-id="pg095_n0007">Bisedoni për situatën e dhënë.</span></p><details><summary class="bk-btn" aria-label="Shënime (opsionale): Bisedoni për situatën e dhënë.">Shënime (opsionale)</summary><label class="bk-label" for="item-1">Shënime</label><textarea class="bk-field" id="item-1" data-activity-item="item-1" aria-label="Bisedoni për situatën e dhënë." rows="3"></textarea><p class="bk-feedback" role="status" aria-live="polite" hidden></p><button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button></details></section>
+<section class="bk-activity" data-activity-pattern="discussion" data-activity-variant="group-discussion"><p class="bk-prompt" id="pg095_prompt_2"><span aria-hidden="true">– </span><span data-id="pg095_n0009">Cilat janë pasuritë nëntokësore të Kosovës?</span></p><details><summary class="bk-btn" aria-label="Shënime (opsionale): Cilat janë pasuritë nëntokësore të Kosovës?">Shënime (opsionale)</summary><label class="bk-label" for="item-2">Shënime</label><textarea class="bk-field" id="item-2" data-activity-item="item-2" aria-label="Cilat janë pasuritë nëntokësore të Kosovës?" rows="3"></textarea><p class="bk-feedback" role="status" aria-live="polite" hidden></p><button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button></details></section>
+<section class="bk-activity" data-activity-pattern="discussion" data-activity-variant="group-discussion"><p class="bk-prompt" id="pg095_prompt_3"><span aria-hidden="true">– </span><span data-id="pg095_n0011">Përse përdoren ato?</span></p><details><summary class="bk-btn" aria-label="Shënime (opsionale): Përse përdoren ato?">Shënime (opsionale)</summary><label class="bk-label" for="item-3">Shënime</label><textarea class="bk-field" id="item-3" data-activity-item="item-3" aria-label="Përse përdoren ato?" rows="3"></textarea><p class="bk-feedback" role="status" aria-live="polite" hidden></p><button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button></details></section>
+</div></section></div></main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+<script>
+(function(){'use strict';document.querySelectorAll('#content textarea[data-activity-item]').forEach(function(field){var key='ShoqeriaDheMjedisi4/pg095_sec001/'+field.dataset.activityItem;var group=field.closest('details');var status=group.querySelector('[role=status]');var retry=group.querySelector('[data-action=retry-save]');function message(ok){status.hidden=false;status.textContent=ok?'✓ U ruajt.':'⚠ Nuk u ruajt.';retry.hidden=ok}function save(){try{localStorage.setItem(key,field.value);message(true)}catch(e){message(false)}}try{var saved=localStorage.getItem(key);if(saved!==null)field.value=saved}catch(e){message(false)}field.addEventListener('input',save);retry.addEventListener('click',save)})})();
+</script></body></html>

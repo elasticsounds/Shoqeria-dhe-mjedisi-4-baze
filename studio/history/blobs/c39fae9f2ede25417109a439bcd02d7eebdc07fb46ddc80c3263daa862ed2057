@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg072_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="99">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-reading" id="content" class="container opacity-0 bk"><section data-section-type="text_and_single_image" data-section-id="pg072_sec001" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5 bg-[#eef5e8] text-left">
+  <div class="w-full overflow-hidden rounded-[28px] bg-[#a568ad] text-white mb-8">
+    <div class="mx-auto flex items-center gap-6 w-full max-w-5xl px-8 py-0 max-sm:px-5 max-sm:gap-4">
+      <div aria-hidden="true" class="flex h-40 w-36 shrink-0 items-center justify-center bg-[#9e63ab] max-sm:h-28 max-sm:w-24">
+        <div class="relative h-24 w-14 max-sm:h-16 max-sm:w-10">
+          <div class="absolute left-1/2 top-0 h-1.5 w-14 -translate-x-1/2 rounded bg-white max-sm:w-10"></div>
+          <div class="absolute left-1/2 top-1.5 h-1 w-12 -translate-x-1/2 rounded bg-white/80 max-sm:w-8"></div>
+          <div class="absolute left-1/2 top-4 h-16 w-10 -translate-x-1/2 overflow-hidden max-sm:h-11 max-sm:w-7">
+            <div class="absolute left-0 top-0 h-1/2 w-full rounded-b-full border-2 border-b-0 border-white"></div>
+            <div class="absolute bottom-0 left-0 h-1/2 w-full rounded-t-full border-2 border-t-0 border-white"></div>
+            <div class="absolute left-1/2 top-1/2 h-full w-0.5 -translate-x-1/2 -translate-y-1/2 bg-white"></div>
+            <div class="absolute left-1/2 top-[28%] h-0 w-0 -translate-x-1/2 border-l-[18px] border-r-[18px] border-t-[18px] border-l-transparent border-r-transparent border-t-white/95 max-sm:border-l-[12px] max-sm:border-r-[12px] max-sm:border-t-[12px]"></div>
+            <div class="absolute left-1/2 top-[52%] h-0 w-0 -translate-x-1/2 border-b-[18px] border-l-[18px] border-r-[18px] border-l-transparent border-r-transparent border-b-white/95 max-sm:border-b-[12px] max-sm:border-l-[12px] max-sm:border-r-[12px]"></div>
+          </div>
+          <div class="absolute bottom-1.5 left-1/2 h-1 w-12 -translate-x-1/2 rounded bg-white/80 max-sm:w-8"></div>
+          <div class="absolute bottom-0 left-1/2 h-1.5 w-14 -translate-x-1/2 rounded bg-white max-sm:w-10"></div>
+        </div>
+      </div>
+      <div class="flex-1 py-6">
+        <h1 class="adt-h1 font-bold leading-tight" data-id="pg072_n0002">Jeta në Kosovë dikur dhe sot</h1>
+        <h2 class="adt-h2 mt-4 border-b-4 border-[#b56ac1] pb-3 font-semibold text-[#222222]" data-id="pg072_n0003">Degët e ekonomisë</h2>
+      </div>
+    </div>
+  </div>
+
+  <div class="mb-8 max-sm:mb-6">
+    <h3 class="adt-h3 inline-block bg-[#67b875] px-6 py-2 rounded-r-xl shadow-sm text-[#1d1d1d] mb-3 max-sm:px-4" data-id="pg072_n0005">Situata 1.</h3>
+    <p class="adt-body leading-relaxed text-[#2a2a2a]">
+      <span data-id="pg072_n0007">Mësuesja u kërkoi nxënësve të mendonin dhe të shkruanin se çfarë u vinte në mendje kur përmendej ekonomia.</span>
+      <span data-id="pg072_n0008">Secili nxënës filloi të shkruante në fletore.</span>
+      <span data-id="pg072_n0009">Më pas, ata lexuan mendimet e tyre dhe mësuesja i shkroi në tabelë.</span>
+    </p>
+  </div>
+
+  <figure class="clear-both rounded-[24px] overflow-hidden shadow-lg bg-[#dbe7d2]">
+    <img data-id="pg072_im001" src="images/pg072_im001.jpg" alt="Mësuesja shkruan në tabelë mendime për ekonominë: ekonomia lidhet me prodhimin, vendet me ekonomi të zhvilluar janë të pasura, shumë njerëz janë të punësuar, në fshat punohet toka e rriten kafshë, ndërsa në qytet ndërtohen shumë fabrika." class="w-full h-auto block">
+    <figcaption class="sr-only">
+      <span data-id="pg072_n0011">Ekonomi do të thotë prodhim</span>
+      <span data-id="pg072_n0012">Vendet me ekonomi të zhvilluar janë të pasura</span>
+      <span data-id="pg072_n0013">Ekonomia e zhvilluar, shumë njerëz të punësuar.</span>
+      <span data-id="pg072_n0014">Në fshat zakonisht punojnë tokën dhe rrisin kafshët.</span>
+      <span data-id="pg072_n0015">Në qytet ndërtohen shumë fabrika.</span>
+    </figcaption>
+  </figure>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

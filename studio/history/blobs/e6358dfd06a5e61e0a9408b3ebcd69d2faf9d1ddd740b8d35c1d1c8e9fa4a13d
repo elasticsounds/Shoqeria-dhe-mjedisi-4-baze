@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="sq-XK"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Shoqëria dhe Mjedisi 4</title><meta name="title-id" content="pg013_sec001"><meta name="page-section-id" content="21">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet">
+<style>
+#content.bk.bk.bk{padding-top:24px;overflow:visible}#content .bk-banner{margin:0;padding:16px 20px;border-radius:20px}#content .bk-banner img{width:48px;height:48px;object-fit:contain;flex:none}#content .bk-banner h1{flex:1;min-width:0}#content p{margin:0}#content .bk-chip{background:var(--bk-accent2);border:0}#content .bk-body{max-width:720px}#interface-container :is(button,a,label,input,select,p,span),#nav-container :is(button,a,label,input,select,p,span){font-family:BookPoppins,Poppins,sans-serif!important;font-size:18px}#content :is(textarea,summary,button){scroll-margin-block:24px 120px}
+</style><link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head><body><main><div id="content" class="bk" data-family="lesson-discussion"><section data-section-type="text_and_single_image" data-section-id="pg013_sec001" class="bk-stack">
+<header class="bk-banner bk-row"><h1 data-id="pg013_n0002" class="bk-title">Lidhjet dhe bashkëpunimi me të tjerët</h1><img src="studio/assets/pg013_sec001-emblem.png" width="48" height="48" alt=""></header>
+<h2 data-id="pg013_n0003" class="bk-heading">Së bashku ia dalim</h2>
+<div><h3 data-id="pg013_n0005" class="bk-subheading bk-chip">Situata 1.</h3>
+<p class="bk-body"><span data-id="pg013_n0007">Ishin ditët e fundit të gushtit, kur Lisi po rregullonte dhomën e tij të gjumit para fillimit të vitit shkollor.</span> <span data-id="pg013_n0008">Do ta fillonte klasën e katërt dhe kjo e bënte më përgjegjës ndaj gjërave të tij.</span> <span data-id="pg013_n0009">Lisi është idhtar i ripërdorimit dhe i riciklimit dhe ai çdo vit shikon se çfarë i ka mbetur nga viti i kaluar shkollor për t’i përdorur në vitin e ardhshëm.</span> <span data-id="pg013_n0010">Mirëpo, diçka që nuk i duhej më, por që kishin shumë vlerë për të, ishin librat e tij të parë.</span></p></div>
+<p class="bk-caption" aria-label="Faqja e burimit 13">13</p></section></div></main>
+<script>window.activityAnswerTextIds=JSON.parse('{}');</script><div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div><script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script></body></html>

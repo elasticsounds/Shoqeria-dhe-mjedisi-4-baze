@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg066_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="82">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk">
+  <section data-section-type="text_and_single_image" data-section-id="pg066_sec001" class="w-full bg-white overflow-hidden">
+    <div class="w-full bg-white">
+      <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 pt-8 pb-6">
+        <div class="flex items-start gap-0 max-sm:items-start">
+          <div aria-hidden="true" class="shrink-0 w-36 h-56 max-sm:w-24 max-sm:h-28 bg-[#a86ab0] rounded-b-2xl flex items-center justify-center">
+            <div class="w-20 h-28 max-sm:w-12 max-sm:h-16 bg-white [clip-path:polygon(45%_0%,60%_10%,72%_22%,86%_35%,80%_48%,92%_62%,78%_72%,68%_86%,54%_90%,46%_100%,38%_88%,24%_80%,18%_66%,8%_56%,14%_42%,26%_30%,34%_18%)]"></div>
+          </div>
+          <div class="flex-1 pt-16 max-sm:pt-0">
+            <div class="bg-[#a86ab0] h-12 max-sm:h-9 flex items-center px-4">
+              <h1 class="adt-h3 font-bold text-white text-left" data-id="pg066_n0002">Vendi ku jetoj</h1>
+            </div>
+            <div class="pt-4 max-sm:pt-2">
+              <h2 class="adt-h2 font-semibold text-gray-900 text-left" data-id="pg066_n0003">Fqinjët e Kosovës</h2>
+              <div aria-hidden="true" class="mt-3 h-1 w-96 max-sm:w-52 bg-[#b06ab8]"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 pb-10">
+      <div class="mb-10 max-sm:mb-8">
+        <div class="flex items-start gap-3 max-sm:flex-col max-sm:gap-3">
+          <div class="flex items-center shrink-0">
+            <div class="h-8 w-56 max-sm:w-28 bg-[#69bf7a] flex items-center justify-end pr-2">
+              <span class="adt-body font-semibold text-gray-900" data-id="pg066_n0005">1.</span>
+            </div>
+          </div>
+          <div class="adt-body text-gray-900 leading-relaxed pt-0.5 max-sm:pt-0">
+            <span data-id="pg066_n0006">Shihni hartën e vendit tonë.</span>
+            <span class="ml-1 max-sm:ml-0" data-id="pg066_n0007">Diskutoni në klasë për shtetet me të cilat kufizohet Republika e Kosovës.</span>
+          </div>
+        </div>
+        <div class="mt-4 max-w-3xl ml-56 max-sm:ml-0">
+          <label for="activity-item-1" class="sr-only">Diskutoni në klasë për shtetet me të cilat kufizohet Republika e Kosovës.</label>
+          <textarea id="activity-item-1" data-activity-item="item-1" aria-label="Diskutoni në klasë për shtetet me të cilat kufizohet Republika e Kosovës." class="w-full min-h-11 rounded-2xl border-2 border-[#b8dfba] bg-white px-4 py-3 text-gray-900 outline-none focus:border-[#b06ab8]" rows="3"></textarea>
+        </div>
+      </div>
+
+      <div class="relative mx-auto max-w-5xl rounded-3xl bg-[#fcfcff] p-8 max-sm:p-3">
+        <img data-id="pg066_im002" src="images/pg066_im002.png" alt="Harta e Kosovës me kufijtë shtetërorë dhe ndarjet e brendshme komunale." class="block w-full h-auto rounded-2xl">
+
+        <div class="max-sm:mt-4">
+          <div class="absolute z-10 left-[45%] top-[14%] -translate-x-1/2 max-sm:static max-sm:translate-x-0 max-sm:mb-2 max-sm:inline-block max-sm:w-1/2 max-sm:align-top max-sm:px-1">
+            <span class="adt-caption text-gray-800 bg-white/80 px-2 py-1 rounded max-sm:bg-transparent max-sm:px-0" data-id="pg066_n0009">Mitrovica</span>
+          </div>
+          <div class="absolute z-10 left-[12%] top-[40%] max-sm:static max-sm:mb-2 max-sm:inline-block max-sm:w-1/2 max-sm:align-top max-sm:px-1">
+            <span class="adt-caption text-gray-800 bg-white/80 px-2 py-1 rounded max-sm:bg-transparent max-sm:px-0" data-id="pg066_n0010">Peja</span>
+          </div>
+          <div class="absolute z-10 left-[18%] top-[56%] max-sm:static max-sm:mb-2 max-sm:inline-block max-sm:w-1/2 max-sm:align-top max-sm:px-1">
+            <span class="adt-caption text-gray-800 bg-white/80 px-2 py-1 rounded max-sm:bg-transparent max-sm:px-0" data-id="pg066_n0011">Gjakova</span>
+          </div>
+          <div class="absolute z-10 left-[38%] top-[71%] max-sm:static max-sm:mb-2 max-sm:inline-block max-sm:w-1/2 max-sm:align-top max-sm:px-1">
+            <span class="adt-caption text-gray-800 bg-white/80 px-2 py-1 rounded max-sm:bg-transparent max-sm:px-0" data-id="pg066_n0012">Prizreni</span>
+          </div>
+          <div class="absolute z-10 left-[69%] top-[39%] max-sm:static max-sm:mb-2 max-sm:inline-block max-sm:w-1/2 max-sm:align-top max-sm:px-1">
+            <span class="adt-caption text-gray-800 bg-white/80 px-2 py-1 rounded max-sm:bg-transparent max-sm:px-0" data-id="pg066_n0013">Prishtina</span>
+          </div>
+          <div class="absolute z-10 right-[10%] top-[45%] max-sm:static max-sm:mb-2 max-sm:inline-block max-sm:w-1/2 max-sm:align-top max-sm:px-1">
+            <span class="adt-caption text-gray-800 bg-white/80 px-2 py-1 rounded max-sm:bg-transparent max-sm:px-0" data-id="pg066_n0014">Ferizaj</span>
+          </div>
+          <div class="absolute z-10 right-[20%] top-[58%] max-sm:static max-sm:mb-4 max-sm:inline-block max-sm:w-1/2 max-sm:align-top max-sm:px-1">
+            <span class="adt-caption text-gray-800 bg-white/80 px-2 py-1 rounded max-sm:bg-transparent max-sm:px-0" data-id="pg066_n0015">Gjilani</span>
+          </div>
+          <div class="absolute z-10 left-[1%] top-[32%] w-52 max-sm:static max-sm:block max-sm:w-full max-sm:mb-3 max-sm:clear-both">
+            <div class="max-sm:hidden border-b-[3px] border-[#69bf7a] w-full mb-1"></div>
+            <div class="max-sm:rounded-xl max-sm:border max-sm:border-[#b8dfba] max-sm:bg-[#f4fbf4] max-sm:px-4 max-sm:py-3">
+              <span class="adt-caption text-gray-800 bg-white/80 max-sm:bg-transparent px-2 py-1 rounded max-sm:px-0 max-sm:py-0" data-id="pg066_n0016">Mali i Zi</span>
+            </div>
+          </div>
+          <div class="absolute z-10 left-[8%] bottom-[21%] w-60 max-sm:static max-sm:block max-sm:w-full max-sm:mb-3">
+            <div class="max-sm:rounded-xl max-sm:border max-sm:border-[#b8dfba] max-sm:bg-[#f4fbf4] max-sm:px-4 max-sm:py-3">
+              <span class="adt-caption text-gray-800 bg-white/80 max-sm:bg-transparent px-2 py-1 rounded max-sm:px-0 max-sm:py-0" data-id="pg066_n0017">Shqipëria</span>
+            </div>
+            <div class="max-sm:hidden border-b-[3px] border-[#69bf7a] w-full mt-1"></div>
+          </div>
+          <div class="absolute z-10 right-[2%] top-[20%] w-56 max-sm:static max-sm:block max-sm:w-full max-sm:mb-3">
+            <div class="max-sm:rounded-xl max-sm:border max-sm:border-[#b8dfba] max-sm:bg-[#f4fbf4] max-sm:px-4 max-sm:py-3">
+              <span class="adt-caption text-gray-800 bg-white/80 max-sm:bg-transparent px-2 py-1 rounded max-sm:px-0 max-sm:py-0" data-id="pg066_n0018">Serbia</span>
+            </div>
+            <div class="max-sm:hidden border-b-[3px] border-[#69bf7a] w-full mt-1"></div>
+          </div>
+          <div class="absolute z-10 right-[9%] bottom-[8%] w-64 max-sm:static max-sm:block max-sm:w-full">
+            <div class="max-sm:rounded-xl max-sm:border max-sm:border-[#b8dfba] max-sm:bg-[#f4fbf4] max-sm:px-4 max-sm:py-3">
+              <span class="adt-caption text-gray-800 bg-white/80 max-sm:bg-transparent px-2 py-1 rounded max-sm:px-0 max-sm:py-0" data-id="pg066_n0019">Maqedonia e Veriut</span>
+            </div>
+            <div class="max-sm:hidden border-b-[3px] border-[#69bf7a] w-full mt-1"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

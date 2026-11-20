@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg115_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="148">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0 bk"><section data-section-type="boxed_text" data-section-id="pg115_sec001" class="mx-auto w-full max-w-5xl overflow-hidden bg-sky-100 px-8 max-sm:px-5">
+  <div class="-mx-8 max-sm:-mx-5 bg-sky-200 px-8 pb-8 pt-8 max-sm:px-5">
+    <div class="mx-auto w-full max-w-5xl">
+      <div class="flex items-stretch justify-between gap-6 max-sm:flex-col">
+        <div class="flex-1 pt-10 max-sm:pt-0">
+          <div class="-ml-8 mr-0 bg-purple-500 px-8 py-3 text-white max-sm:-mx-5 max-sm:px-5">
+            <h1 data-id="pg115_n0002" class="adt-h1 font-bold text-left">Mjedisi i vendit tim</h1>
+          </div>
+          <div class="pt-5 pl-0">
+            <h2 data-id="pg115_n0003" class="adt-h2 text-left text-slate-900">Ndotja e tokës</h2>
+            <div aria-hidden="true" class="mt-4 h-1 w-64 bg-purple-400 max-sm:w-40"></div>
+          </div>
+        </div>
+        <div aria-hidden="true" class="flex w-36 shrink-0 items-center justify-center rounded-xl bg-purple-500 text-white max-sm:w-20 max-sm:self-start">
+          <div class="rounded-lg bg-purple-400/70 px-4 py-10 max-sm:px-3 max-sm:py-5">🍃</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="space-y-8 py-10">
+    <aside class="border border-purple-300 bg-purple-200/75 px-4 py-5 max-sm:px-4 max-sm:py-4">
+      <div class="flex items-start gap-5 max-lg:flex-col">
+        <div class="flex-1 space-y-4">
+          <div>
+            <p class="adt-body text-left text-slate-900"><span data-id="pg115_n0007">Çfarë e dallon Tokën nga planetët e tjerë?</span></p>
+            <label for="activity-item-1" class="sr-only">Çfarë e dallon Tokën nga planetët e tjerë?</label>
+            <textarea id="activity-item-1" data-activity-item="item-1" aria-label="Çfarë e dallon Tokën nga planetët e tjerë?" class="mt-2 w-full min-h-11 rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-900 outline-none focus:border-purple-500"></textarea>
+          </div>
+          <div>
+            <p class="adt-body text-left text-slate-900"><span data-id="pg115_n0009">Çfarë mund të mbjellim në tokë?</span></p>
+            <label for="activity-item-2" class="sr-only">Çfarë mund të mbjellim në tokë?</label>
+            <input id="activity-item-2" data-activity-item="item-2" type="text" aria-label="Çfarë mund të mbjellim në tokë?" class="mt-2 w-full min-h-11 rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-900 outline-none focus:border-purple-500">
+          </div>
+          <div>
+            <p class="adt-body text-left text-slate-900"><span data-id="pg115_n0011">Cili mund të jetë kontributi ynë për Tokën?</span></p>
+            <label for="activity-item-3" class="sr-only">Cili mund të jetë kontributi ynë për Tokën?</label>
+            <textarea id="activity-item-3" data-activity-item="item-3" aria-label="Cili mund të jetë kontributi ynë për Tokën?" class="mt-2 w-full min-h-11 rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-900 outline-none focus:border-purple-500"></textarea>
+          </div>
+          <div>
+            <p class="adt-body text-left text-slate-900"><span data-id="pg115_n0013">Përmend një veprim që shkakton ndotjen e tokës.</span></p>
+            <label for="activity-item-4" class="sr-only">Përmend një veprim që shkakton ndotjen e tokës.</label>
+            <input id="activity-item-4" data-activity-item="item-4" type="text" aria-label="Përmend një veprim që shkakton ndotjen e tokës." class="mt-2 w-full min-h-11 rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-900 outline-none focus:border-purple-500">
+          </div>
+          <div>
+            <p class="adt-body text-left text-slate-900"><span data-id="pg115_n0015">Ndahuni në grupe dhe planifikoni pastrimin e oborrit të shkollës.</span></p>
+            <label for="activity-item-5" class="sr-only">Ndahuni në grupe dhe planifikoni pastrimin e oborrit të shkollës.</label>
+            <textarea id="activity-item-5" data-activity-item="item-5" aria-label="Ndahuni në grupe dhe planifikoni pastrimin e oborrit të shkollës." class="mt-2 w-full min-h-11 rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-900 outline-none focus:border-purple-500"></textarea>
+          </div>
+        </div>
+        <div aria-hidden="true" class="shrink-0 self-start bg-purple-500 px-6 py-5 text-white leading-none max-lg:self-end">?</div>
+      </div>
+    </aside>
+
+    <aside class="border-2 border-purple-300 bg-sky-100/70 px-4 py-3 max-sm:px-4 max-sm:py-4">
+      <div class="float-right mb-3 ml-6 w-28 max-lg:w-24 max-sm:float-none max-sm:ml-0 max-sm:mb-4 max-sm:w-full">
+        <div aria-hidden="true" class="flex h-20 items-center justify-center bg-purple-500 text-white max-sm:h-14">📖</div>
+      </div>
+      <p class="adt-body text-left italic text-slate-800"><span data-id="pg115_n0018">Toka është i vetmi planet në Sistemin Diellor, në të cilin zhvillohet jeta.</span> <span data-id="pg115_n0019">Njeriu duhet të kujdeset në mënyrë të vazhdueshme për tokën, duke mbjellë bimë dhe fidanë të ndryshëm, duke ricikluar dhe duke hedhur mbeturinat në vendin e duhur.</span> <span data-id="pg115_n0020">Ndotja e vazhdueshme e tokës shkakton dëmtime të drejtpërdrejta të mjedisit, të pjesëve të natyrës, të qenieve të gjalla dhe të shëndetit të njeriut.</span> <span data-id="pg115_n0021">Ndotja kërkohet të parandalohet duke kontrolluar burimet e ndotësve.</span> <span data-id="pg115_n0022">Veprimet e papërgjegjshme të njeriut rrezikojnë dhe ndotin tokën.</span></p>
+      <div class="clear-both"></div>
+    </aside>
+
+    <div aria-hidden="true" class="relative min-h-[620px] overflow-hidden bg-sky-100 max-lg:min-h-[420px] max-sm:min-h-[260px]">
+      <div class="absolute inset-x-0 bottom-0 h-32 bg-amber-100 max-sm:h-20"></div>
+      <div class="absolute -left-8 bottom-32 h-[360px] w-[250px] rounded-tr-[120px] rounded-br-[80px] border-r-2 border-t-2 border-slate-500 bg-gradient-to-br from-lime-100 to-lime-300 max-lg:h-[250px] max-lg:w-[180px] max-sm:-left-5 max-sm:bottom-20 max-sm:h-[150px] max-sm:w-[100px]"></div>
+      <div class="absolute left-[140px] bottom-32 h-[120px] w-[220px] rounded-t-[120px] border-2 border-slate-500 bg-gradient-to-r from-lime-100 to-lime-300 max-lg:left-[90px] max-lg:h-[90px] max-lg:w-[150px] max-sm:left-[45px] max-sm:bottom-20 max-sm:h-[45px] max-sm:w-[90px]"></div>
+      <div class="absolute left-[210px] bottom-26 h-[150px] w-[340px] rounded-t-[150px] border-2 border-slate-500 bg-gradient-to-r from-green-300 to-lime-300 max-lg:left-[130px] max-lg:h-[110px] max-lg:w-[230px] max-sm:left-[70px] max-sm:bottom-[74px] max-sm:h-[55px] max-sm:w-[110px]"></div>
+      <div class="absolute right-[-10px] bottom-32 h-[180px] w-[210px] rounded-tl-[90px] border-l-2 border-t-2 border-slate-500 bg-gradient-to-bl from-lime-100 to-lime-300 max-lg:h-[130px] max-lg:w-[160px] max-sm:right-[-10px] max-sm:bottom-20 max-sm:h-[75px] max-sm:w-[90px]"></div>
+
+      <div class="absolute left-3 bottom-0 max-sm:left-1">
+        <div class="absolute left-8 bottom-[116px] h-[200px] w-[2px] rotate-[-5deg] bg-slate-700 origin-bottom max-lg:h-[145px] max-sm:left-4 max-sm:bottom-[58px] max-sm:h-[82px]"></div>
+        <div class="absolute left-20 bottom-[114px] h-[145px] w-[2px] rotate-[22deg] bg-slate-700 origin-bottom max-lg:h-[110px] max-sm:left-9 max-sm:bottom-[58px] max-sm:h-[60px]"></div>
+        <div class="absolute left-[56px] bottom-0 h-[290px] w-[78px] rotate-6 rounded-t-full rounded-br-[36px] border-[3px] border-slate-700 bg-lime-300 max-lg:h-[210px] max-lg:w-[58px] max-sm:left-[26px] max-sm:h-[110px] max-sm:w-[34px]"></div>
+        <div class="absolute left-[108px] bottom-[42px] h-[92px] w-[3px] rotate-[42deg] bg-slate-700 origin-bottom max-lg:h-[68px] max-sm:left-[48px] max-sm:bottom-[18px] max-sm:h-[38px]"></div>
+      </div>
+
+      <div class="absolute left-[118px] bottom-[18px] flex items-end gap-1 max-lg:left-[82px] max-sm:left-[36px] max-sm:bottom-[8px]">
+        <div class="h-7 w-7 rotate-12 border-2 border-slate-700 bg-orange-500 max-sm:h-4 max-sm:w-4"></div>
+        <div class="h-10 w-4 -rotate-6 border-2 border-slate-700 bg-amber-400 max-sm:h-5 max-sm:w-2"></div>
+        <div class="h-8 w-8 rotate-45 border-2 border-slate-700 bg-slate-300 max-sm:h-4 max-sm:w-4"></div>
+        <div class="h-6 w-9 -rotate-12 border-2 border-slate-700 bg-orange-700 max-sm:h-4 max-sm:w-5"></div>
+      </div>
+      <div class="absolute left-[248px] bottom-[16px] h-14 w-7 rotate-3 rounded-sm border-2 border-slate-700 bg-orange-700 max-lg:left-[176px] max-lg:h-10 max-lg:w-5 max-sm:left-[102px] max-sm:bottom-[8px] max-sm:h-7 max-sm:w-4"></div>
+      <div class="absolute left-[286px] bottom-[18px] h-5 w-4 rotate-12 rounded-full border-2 border-slate-700 bg-slate-400 max-lg:left-[204px] max-sm:left-[120px] max-sm:bottom-[8px] max-sm:h-4 max-sm:w-3"></div>
+
+      <div class="absolute right-[40px] bottom-0 h-[250px] w-[520px] max-lg:right-[30px] max-lg:h-[180px] max-lg:w-[380px] max-sm:right-[18px] max-sm:h-[96px] max-sm:w-[190px]">
+        <div class="absolute bottom-0 left-0 h-[108px] w-5 -skew-x-12 border-[3px] border-slate-700 bg-amber-500 max-lg:h-[80px] max-sm:h-[48px] max-sm:w-3"></div>
+        <div class="absolute bottom-0 right-0 h-[108px] w-5 skew-x-12 border-[3px] border-slate-700 bg-amber-500 max-lg:h-[80px] max-sm:h-[48px] max-sm:w-3"></div>
+        <div class="absolute bottom-[58px] left-[12px] right-[12px] h-7 border-[3px] border-slate-700 bg-amber-400 max-lg:bottom-[44px] max-lg:h-6 max-sm:bottom-[20px] max-sm:left-[4px] max-sm:right-[4px] max-sm:h-4"></div>
+        <div class="absolute bottom-[88px] left-[6px] right-[6px] h-7 border-[3px] border-slate-700 bg-amber-400 max-lg:bottom-[66px] max-lg:h-6 max-sm:bottom-[36px] max-sm:left-[1px] max-sm:right-[1px] max-sm:h-4"></div>
+        <div class="absolute bottom-[118px] left-[18px] right-[18px] h-7 border-[3px] border-slate-700 bg-amber-400 max-lg:bottom-[88px] max-lg:h-6 max-sm:bottom-[52px] max-sm:left-[12px] max-sm:right-[12px] max-sm:h-4"></div>
+        <div class="absolute bottom-[148px] left-[30px] right-[30px] h-7 border-[3px] border-slate-700 bg-amber-400 max-lg:bottom-[110px] max-lg:h-6 max-sm:bottom-[68px] max-sm:left-[24px] max-sm:right-[24px] max-sm:h-4"></div>
+        <div class="absolute bottom-[178px] left-[42px] right-[42px] h-7 border-[3px] border-slate-700 bg-amber-400 max-lg:bottom-[132px] max-lg:h-6 max-sm:bottom-[84px] max-sm:left-[36px] max-sm:right-[36px] max-sm:h-4"></div>
+      </div>
+    </div>
+
+    <p class="adt-body pb-8 text-left text-slate-900"><span data-id="pg115_n0023">Fjalët kyçe: ujë, ndotje, kujdes, tokë, riciklim.</span></p>
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

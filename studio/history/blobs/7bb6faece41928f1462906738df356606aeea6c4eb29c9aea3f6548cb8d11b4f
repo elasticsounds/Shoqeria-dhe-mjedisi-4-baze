@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg103_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="137">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk"><section data-section-type="text_and_single_image" data-section-id="pg103_sec001" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-white text-slate-800">
+  <div class="-mx-8 max-sm:-mx-5 bg-purple-500">
+    <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-6 flex items-center justify-between gap-6 max-lg:flex-col max-lg:items-start">
+      <h1 class="adt-h1 font-bold text-white" data-id="pg103_n0002">Resurset dhe trashëgimia e vendit tim</h1>
+      <div aria-hidden="true" class="shrink-0 w-24 h-24 rounded-2xl bg-purple-400/80 flex items-center justify-center text-white">
+        <span aria-hidden="true">🌾</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pt-6">
+    <h2 class="adt-h2 font-semibold text-slate-900 border-b-4 border-purple-400 pb-2 inline-block" data-id="pg103_n0004">Ruajmë trashëgiminë kulturore</h2>
+  </div>
+
+  <aside class="mt-5 mb-6 rounded-2xl bg-purple-100 border border-purple-200 overflow-hidden shadow-sm">
+    <div class="flex items-stretch">
+      <div class="flex-1 p-5 max-sm:p-4">
+        <ul class="space-y-3 list-none">
+          <li class="adt-body flex items-start gap-2"><span aria-hidden="true" class="text-purple-600">–</span><span data-id="pg103_n0008">Çka bën pjesë në trashëgiminë kulturore jomateriale?</span></li>
+          <li class="adt-body flex items-start gap-2"><span aria-hidden="true" class="text-purple-600">–</span><span data-id="pg103_n0010">A duhet të krenohemi për trashëgiminë kulturore të vendit tonë? Pse?</span></li>
+          <li class="adt-body flex items-start gap-2"><span aria-hidden="true" class="text-purple-600">–</span><span data-id="pg103_n0013">Kur përdoren më shumë veshjet dhe gatimet tradicionale?</span></li>
+        </ul>
+      </div>
+      <div aria-hidden="true" class="w-24 max-sm:w-20 bg-purple-400 flex items-center justify-center text-white">
+        <span aria-hidden="true">?</span>
+      </div>
+    </div>
+  </aside>
+
+  <div class="rounded-xl border-2 border-purple-300 p-5 pr-28 max-sm:pr-5 bg-white relative shadow-sm">
+    <div aria-hidden="true" class="absolute top-0 right-0 w-20 h-20 bg-purple-400 rounded-bl-2xl rounded-tr-xl flex items-center justify-center text-white max-sm:hidden">📖</div>
+    <p class="adt-body italic leading-relaxed text-slate-700"><span data-id="pg103_n0016">Kosova ka një trashëgimi kulturore të larmishme, e cila e bën një vend tërheqës për të gjithë vizitorët.</span> <span data-id="pg103_n0017">Çdo pjesë e Kosovës ka një trashëgimi të pasur materiale me qendra arkeologjike, parqe natyrore, kala, kulla, monumente fetare, galeri të artit, rrugë të ngushta me kalldrëm, shatërvanë, muze, shtëpi të vjetra e objekte të tjera.</span></p>
+    <p class="adt-body italic leading-relaxed text-slate-700 mt-3"><span data-id="pg103_n0019">Kosova ka 7 muze aktivë, në të cilët ruhen shumë monumente kulturore që tregojnë për historinë e popullit tonë.</span> <span data-id="pg103_n0020">Ndër ta, vlen të theksohet Muzeu Historik Kombëtar, Muzeu Etnologjik “Emin Gjiku”, Muzeu i Prizrenit, i cili fillimisht ka funksionuar si banjë turke.</span> <span data-id="pg103_n0021">Po ashtu, Kosova ka edhe Kompleksin Memorial "Adem Jashari”.</span></p>
+    <p class="adt-body italic leading-relaxed text-slate-700 mt-3"><span data-id="pg103_n0023">Në Kosovë ka edhe shumë monumente të tjera.</span> <span data-id="pg103_n0024">Shumica e monumenteve janë manastire, kështjella, kisha dhe xhami.</span> <span data-id="pg103_n0025">Ndër objektet arkeologjike vlen të përmendet qyteti i lashtë i Ulpianës.</span> <span data-id="pg103_n0026">Gjithashtu, kemi Manastirin e Deçanit dhe Shtëpinë e Lidhjes së Prizrenit që përbëhet nga katër godina.</span></p>
+    <p class="adt-body italic leading-relaxed text-slate-700 mt-3"><span data-id="pg103_n0028">Të gjitha këto objekte i takojnë trashëgimisë kulturore materiale.</span> <span data-id="pg103_n0029">Këto objekte mbrohen me Ligjin për Trashëgiminë Kulturore.</span></p>
+    <p class="adt-body italic leading-relaxed text-slate-700 mt-3"><span data-id="pg103_n0031">Trashëgimia kulturore jomateriale përfshin gjuhën, krijimtaritë popullore, të cilat janë ruajtur dhe përcjellë ndër breza.</span></p>
+    <p class="adt-body italic leading-relaxed text-slate-700 mt-3"><span data-id="pg103_n0033">Një vend të veçantë në trashëgiminë kulturore të vendit tonë zënë edhe veshjet dhe ushqimet tradicionale.</span></p>
+  </div>
+
+  <figure class="mt-8 relative">
+    <img data-id="pg103_im001" src="images/pg103_im001.png" alt="Pamje ajrore e një kalaje historike me mure guri dhe oborr të brendshëm, e rrethuar nga qyteti dhe një xhami pranë saj." class="w-full h-auto rounded-none shadow-md">
+    <figcaption class="adt-caption absolute inset-x-0 bottom-0 z-10 px-4 py-3 text-center text-white bg-black/45"><span class="font-semibold" data-id="pg103_n0035">Fjalët kyçe: trashëgimi kulturore, objekt, muze, monument, veshje, ushqim.</span></figcaption>
+  </figure>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

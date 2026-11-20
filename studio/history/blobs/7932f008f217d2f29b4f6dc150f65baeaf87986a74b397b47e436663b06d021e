@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg065_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="82">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk">
+  <section data-section-type="text_and_images" data-section-id="pg065_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 text-zinc-800 max-sm:px-5">
+    <div class="-mx-8 mb-8 max-sm:-mx-5">
+      <div class="flex min-h-[128px] items-stretch bg-[#ad6bb0] max-sm:min-h-[120px]">
+        <div class="flex flex-1 items-end px-10 pb-5 pt-7 max-sm:px-5 max-sm:pb-4 max-sm:pt-5">
+          <div class="w-full max-w-2xl">
+            <h1 data-id="pg065_n0004" class="adt-h2 text-left font-semibold text-white">Komunitetet dhe veçoritë e tyre</h1>
+            <div aria-hidden="true" class="mt-3 h-1 w-80 bg-white/80 max-sm:w-48"></div>
+          </div>
+        </div>
+        <div class="flex w-[146px] shrink-0 items-center justify-center bg-[#a566ad] max-sm:w-[92px]">
+          <div aria-hidden="true" class="h-24 w-24 bg-white [clip-path:polygon(49%_3%,59%_12%,70%_20%,79%_31%,88%_44%,82%_57%,72%_66%,62%_76%,51%_95%,42%_83%,30%_75%,21%_64%,15%_52%,18%_39%,26%_27%,37%_16%)] max-sm:h-14 max-sm:w-14"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-5 inline-block bg-[#6fbe7e] px-4 py-1 max-sm:px-3">
+      <h3 data-id="pg065_n0006" class="adt-h3 text-left font-semibold text-zinc-900">Situata 1.</h3>
+    </div>
+
+    <div class="mb-6">
+      <p class="adt-body max-w-[62ch] text-left leading-relaxed max-lg:max-w-none">
+        <span data-id="pg065_n0008">Gjyshja e Kleas ka shumë dëshirë të qëndisë.</span>
+        <span data-id="pg065_n0009">Ajo i ka qëndisur Kleas shumë fustane e triko dhe të gjitha shoqeve u pëlqejnë.</span>
+        <span data-id="pg065_n0010">Në veshjet e Kleas duket se po çelin lulet shumëngyrëshe.</span>
+        <span data-id="pg065_n0011">Një ditë gjyshja vendosi të qëndiste flamurin e Kosovës.</span>
+        <span data-id="pg065_n0012">Punonte gjithë ditën se kishte dëshirë ta kishte gati për 17 Shkurtin - festën e Pavarësisë së Kosovës.</span>
+      </p>
+
+      <p class="adt-body mt-5 max-w-[62ch] text-left leading-relaxed max-lg:max-w-none">
+        <span data-id="pg065_n0014">- Ke duar të arta, moj gjyshe!</span>
+        <span data-id="pg065_n0015">Më dukesh si Marigona e Flamurit, - i tha Klea.</span>
+        <span data-id="pg065_n0016">- Nuk kam parë flamur më të bukur!</span>
+        <span data-id="pg065_n0017">Gjyshja po prekte me radhë yjet në flamur dhe po tregonte diçka nga tradita e secilit popull që jeton në vendin tonë.</span>
+        <span data-id="pg065_n0018">- Secili popull që jeton në vendin tonë ka zakonet e tij, kulturën e tij, që e karakterizon atë.</span>
+        <span data-id="pg065_n0019">Është e rëndësishme që të gjithë popujt t'i respektojnë kulturat e njëri-tjetrit dhe të jetojnë në harmoni.</span>
+        <span data-id="pg065_n0020">- Ti je si një libër historie, moj gjyshja ime e dashur, - tha Klea dhe e përqafoi me shumë dashuri.</span>
+      </p>
+    </div>
+
+    <div class="mb-6 flex justify-end max-lg:justify-center">
+      <div class="w-full max-w-[470px] max-sm:max-w-full">
+        <img data-id="pg065_im002" src="images/pg065_im002.jpg" alt="Gjyshja ulur në divan po qendis flamurin e Kosovës, ndërsa mbesa e saj bisedon me të e buzëqeshur." class="h-auto w-full rounded-3xl bg-white shadow-md">
+      </div>
+    </div>
+
+    <div class="mb-8 flex justify-center">
+      <div class="w-full max-w-[360px] max-sm:max-w-[260px]">
+        <img data-id="pg065_im001" src="images/pg065_im001.png" alt="Dy fëmijë të buzëqeshur mbajnë flamurin e Kosovës; njëri qëndron në këmbë, ndërsa tjetri është në karrocë." class="h-auto w-full rounded-2xl bg-white shadow-md">
+      </div>
+    </div>
+
+    <aside class="mt-4 rounded-none bg-[#ead7ee] p-4 max-sm:p-3">
+      <div class="space-y-4">
+        <div>
+          <p class="adt-body text-left text-zinc-900">
+            <span data-id="pg065_n0024">Përmend popujt që jetojnë në Republikën e Kosovës!</span>
+          </p>
+          <label for="item-1" class="sr-only">Përmend popujt që jetojnë në Republikën e Kosovës!</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="Përmend popujt që jetojnë në Republikën e Kosovës!" class="mt-2 min-h-11 w-full rounded-xl border-2 border-[#d7c3f2] bg-white px-4 py-3 outline-none focus:border-[#ad6bb0]" rows="3"></textarea>
+        </div>
+
+        <div>
+          <p class="adt-body text-left text-zinc-900">
+            <span data-id="pg065_n0026">Përshkruaj të drejtat e komuniteteve etnike në Republikën e Kosovës!</span>
+          </p>
+          <label for="item-2" class="sr-only">Përshkruaj të drejtat e komuniteteve etnike në Republikën e Kosovës!</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="Përshkruaj të drejtat e komuniteteve etnike në Republikën e Kosovës!" class="mt-2 min-h-11 w-full rounded-xl border-2 border-[#d7c3f2] bg-white px-4 py-3 outline-none focus:border-[#ad6bb0]" rows="3"></textarea>
+        </div>
+
+        <div>
+          <p class="adt-body text-left text-zinc-900">
+            <span data-id="pg065_n0028">Cilat gjuhë zyrtare fliten në Republikën e Kosovës?</span>
+          </p>
+          <label for="item-3" class="sr-only">Cilat gjuhë zyrtare fliten në Republikën e Kosovës?</label>
+          <input id="item-3" data-activity-item="item-3" type="text" aria-label="Cilat gjuhë zyrtare fliten në Republikën e Kosovës?" class="mt-2 min-h-11 w-full rounded-xl border-2 border-[#d7c3f2] bg-white px-4 py-3 outline-none focus:border-[#ad6bb0]">
+        </div>
+
+        <div>
+          <p class="adt-body text-left text-zinc-900">
+            <span data-id="pg065_n0030">A i respekton secili komunitet në vendin tonë traditat dhe zakonet e tij?</span>
+          </p>
+          <label for="item-4" class="sr-only">A i respekton secili komunitet në vendin tonë traditat dhe zakonet e tij?</label>
+          <textarea id="item-4" data-activity-item="item-4" aria-label="A i respekton secili komunitet në vendin tonë traditat dhe zakonet e tij?" class="mt-2 min-h-11 w-full rounded-xl border-2 border-[#d7c3f2] bg-white px-4 py-3 outline-none focus:border-[#ad6bb0]" rows="3"></textarea>
+        </div>
+      </div>
+    </aside>
+
+    <div class="mt-6 border-2 border-[#c58bcb] bg-white px-5 py-4 max-sm:px-4">
+      <p class="adt-body text-left italic leading-relaxed text-zinc-800">
+        <span data-id="pg065_n0033">Flamuri i Kosovës ka gjashtë yje të bardha.</span>
+        <span data-id="pg065_n0034">Yjet zyrtarisht nënkuptojnë gjashtë popujt - komunitetet etnike që jetojnë në Kosovë: shqiptarët, serbët, turqit, boshnjakët, romët dhe goranët.</span>
+        <span data-id="pg065_n0035">Gjuhë zyrtare në Kosovë janë: gjuha shqipe dhe gjuha serbe.</span>
+        <span data-id="pg065_n0036">Të gjithë kanë të drejtë të flasin gjuhën e tyre, t'i ndjekin zakonet, traditat, besimin fetar dhe të festojnë festat e tyre.</span>
+        <span data-id="pg065_n0037">Secili komunitet feston festat e veta, me veshjet, muzikën dhe ushqimet tradicionale të vendit të tyre.</span>
+        <span data-id="pg065_n0038">Kjo tregon se të gjitha komunitetet në Kosovë respektohen dhe kanë të drejta të barabarta.</span>
+      </p>
+    </div>
+
+    <div class="mt-6 bg-[#fbf4dc] px-4 py-3">
+      <p class="adt-body text-left">
+        <span data-id="pg065_n0040" class="font-semibold">Fjalët kyçe:</span>
+        <span data-id="pg065_n0041">komunitet etnik, pakicë kombëtare, gjuhë zyrtare.</span>
+      </p>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

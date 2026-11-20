@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg035_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="48">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk"><section data-section-type="text_and_images" data-section-id="pg035_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 text-slate-800 max-sm:px-4">
+  <div class="mb-8">
+    <h1 data-id="pg035_n0003" class="adt-h2 mb-2 inline-block border-b-4 border-purple-400 pb-2 font-semibold text-left text-slate-800">Barazi për të gjithë</h1>
+  </div>
+
+  <div class="mb-8 rounded-2xl border border-amber-300 bg-amber-50/40 px-5 py-4 max-sm:px-4 max-sm:py-3">
+    <p class="adt-body text-left leading-relaxed">
+      <span data-id="pg035_n0005" class="mr-3 inline-block rounded-md bg-amber-300 px-3 py-1 font-semibold text-slate-900">Situata 2.</span>
+      <span data-id="pg035_n0006">Asnjëherë nuk e kam parë veten të pabarabartë me shokët e shoqet, qofshin këta djem, qofshin vajza.</span>
+      <span data-id="pg035_n0007" class="ml-1">Në familjen tonë kjo ndjenjë ishte kultivuar që në fëmijërinë e hershme, ku prindërit nuk na ndanin punët në punë djemsh apo punë vajzash.</span>
+      <span data-id="pg035_n0008" class="ml-1">Nëna dhe babai ynë kujdeseshin për ne pa dallim</span>
+    </p>
+  </div>
+
+  <div class="mb-10 grid grid-cols-2 gap-8 max-lg:grid-cols-1 max-lg:gap-6">
+    <figure class="rounded-3xl bg-yellow-50 px-4 pt-4 pb-3 shadow-sm border border-yellow-100 max-sm:px-3 max-sm:pt-3">
+      <img data-id="pg035_im001_seg001_v1" src="images/pg035_im001_seg001_v1.png" alt="Djalë duke larë enët në lavaman, me pjata të grumbulluara dhe detergjent pranë." class="block w-full h-auto rounded-2xl">
+    </figure>
+    <figure class="rounded-3xl bg-yellow-50 px-4 pt-4 pb-3 shadow-sm border border-yellow-100 max-sm:px-3 max-sm:pt-3">
+      <img data-id="pg035_im001_seg002_v1" src="images/pg035_im001_seg002_v1.png" alt="Vajzë duke mbledhur dhe rregulluar lodrat në një kuti kartoni." class="block w-full h-auto rounded-2xl">
+    </figure>
+  </div>
+
+  <aside class="mb-10 rounded-none bg-purple-100 px-5 py-5 shadow-sm max-sm:rounded-3xl max-sm:border max-sm:border-purple-200 max-sm:px-4">
+    <div class="space-y-5">
+      <div>
+        <p class="adt-body mb-2 text-left leading-relaxed"><span data-id="pg035_n0012">Çfarë kujdesi kanë treguar nëna dhe babai?</span></p>
+        <label for="item-1" class="sr-only">Çfarë kujdesi kanë treguar nëna dhe babai?</label>
+        <textarea id="item-1" data-activity-item="item-1" aria-label="Çfarë kujdesi kanë treguar nëna dhe babai?" class="min-h-11 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500" rows="3"></textarea>
+      </div>
+      <div>
+        <p class="adt-body mb-2 text-left leading-relaxed"><span data-id="pg035_n0014">Çfarë të mirash sjell në shoqëri trajtimi në mënyrë të barabartë?</span></p>
+        <label for="item-2" class="sr-only">Çfarë të mirash sjell në shoqëri trajtimi në mënyrë të barabartë?</label>
+        <textarea id="item-2" data-activity-item="item-2" aria-label="Çfarë të mirash sjell në shoqëri trajtimi në mënyrë të barabartë?" class="min-h-11 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500" rows="3"></textarea>
+      </div>
+      <div>
+        <p class="adt-body mb-2 text-left leading-relaxed"><span data-id="pg035_n0016">Po mësuesi/ja, si ju trajton në klasë?</span></p>
+        <label for="item-3" class="sr-only">Po mësuesi/ja, si ju trajton në klasë?</label>
+        <textarea id="item-3" data-activity-item="item-3" aria-label="Po mësuesi/ja, si ju trajton në klasë?" class="min-h-11 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500" rows="3"></textarea>
+      </div>
+      <div>
+        <p class="adt-body mb-2 text-left leading-relaxed"><span data-id="pg035_n0018">Tregoni raste nëse jeni ndier të paragjykuar dhe jo të barabartë.</span></p>
+        <label for="item-4" class="sr-only">Tregoni raste nëse jeni ndier të paragjykuar dhe jo të barabartë.</label>
+        <textarea id="item-4" data-activity-item="item-4" aria-label="Tregoni raste nëse jeni ndier të paragjykuar dhe jo të barabartë." class="min-h-11 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500" rows="3"></textarea>
+      </div>
+    </div>
+  </aside>
+
+  <div class="mb-10 border-2 border-purple-300 bg-white px-5 py-4 shadow-sm max-sm:px-4">
+    <p class="adt-body text-left italic leading-relaxed text-slate-700">
+      <span data-id="pg035_n0021">Barazia do të thotë që të gjithë njerëzit të trajtohen njësoj dhe të kenë të njëjtat të drejta dhe mundësi.</span>
+      <span data-id="pg035_n0022" class="ml-1">Sipas ligjit, vajzat dhe djemtë kanë të njëjtat të drejta.</span>
+      <span data-id="pg035_n0023" class="ml-1">Pra, askush nuk duhet të trajtohet më keq ose më mirë vetëm pse është vajzë apo djalë.</span>
+      <span data-id="pg035_n0024" class="ml-1">Barazia ndërmjet vajzave dhe djemve është shumë e rëndësishme për një shoqëri të drejtë.</span>
+      <span data-id="pg035_n0025" class="ml-1">Nxënësit duhet të tregohen të kujdesshëm dhe të reagojnë kur shohin që dikujt po i bëhet padrejtësi.</span>
+      <span data-id="pg035_n0026" class="ml-1">Mësuesit duhet t’i trajtojnë të gjithë fëmijët njësoj, pa dallim.</span>
+      <span data-id="pg035_n0027" class="ml-1">Në shkollë, fëmijët mësojnë të respektojnë njëri-tjetrin dhe të mos bëjnë dallime për nga gjinia, ngjyra e lëkurës, prejardhja apo kultura.</span>
+      <span data-id="pg035_n0028" class="ml-1">Kështu, ndërtojmë një shoqëri më të mirë, ku të gjithë ndihen të barabartë dhe të respektuar.</span>
+    </p>
+  </div>
+
+  <div class="adt-body text-left">
+    <span data-id="pg035_n0030" class="font-semibold">Fjalët kyçe:</span>
+    <span data-id="pg035_n0031" class="ml-1">barazi, marrëdhënie, diskriminim, respekt.</span>
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg046_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="55" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 bg-white opacity-0">
+  <section data-section-type="text_and_single_image" data-section-id="pg046_sec001" class="pb-12 text-left text-zinc-800">
+    <div class="mb-10 pt-6">
+      <div class="flex items-stretch max-sm:flex-col max-sm:items-start">
+        <div class="flex h-56 w-36 shrink-0 items-center justify-center rounded-r-xl bg-purple-500 max-sm:h-28 max-sm:w-28 max-sm:rounded-2xl">
+          <div aria-hidden="true" class="relative h-16 w-20">
+            <div class="absolute left-0 top-2 h-10 w-10 rounded-full bg-white"></div>
+            <div class="absolute bottom-1 left-2 h-0 w-0 border-l-[10px] border-r-[2px] border-t-[10px] border-l-transparent border-r-transparent border-t-white"></div>
+            <div class="absolute right-0 top-4 h-10 w-10 rounded-full bg-white"></div>
+            <div class="absolute bottom-0 right-2 h-0 w-0 border-l-[8px] border-r-[2px] border-t-[8px] border-l-transparent border-r-transparent border-t-white"></div>
+            <div class="absolute right-5 top-8 flex gap-1">
+              <span class="h-1.5 w-1.5 rounded-full bg-purple-400"></span>
+              <span class="h-1.5 w-1.5 rounded-full bg-purple-400"></span>
+              <span class="h-1.5 w-1.5 rounded-full bg-purple-400"></span>
+            </div>
+          </div>
+        </div>
+        <div class="flex flex-1 flex-col justify-center pt-16 max-sm:pt-4 max-sm:w-full">
+          <div class="bg-purple-500 px-3 py-2">
+            <h1 class="adt-h1 font-bold text-white"><span data-id="pg046_n0002">Mendime t&#xeb; ndryshme, vendime t&#xeb; p&#xeb;rbashk&#xeb;ta</span></h1>
+          </div>
+          <div class="w-fit border-b-4 border-purple-400 pt-3 pb-2 pr-10 max-sm:pr-4">
+            <h2 class="adt-h2 font-medium text-zinc-900"><span data-id="pg046_n0003">Hapat e vendimmarrjes</span></h2>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-8">
+      <div class="flex items-start gap-6 max-sm:flex-col max-sm:gap-3">
+        <div class="shrink-0 bg-green-400 px-5 py-2">
+          <h3 class="adt-h3 font-medium text-zinc-900"><span data-id="pg046_n0005">Situata 1.</span></h3>
+        </div>
+        <p class="adt-body flex-1 leading-relaxed text-zinc-800">
+          <span data-id="pg046_n0007">Sot edhe f&#xeb;mij&#xeb;t marrin pjes&#xeb; n&#xeb; vendime.</span>
+          <span data-id="pg046_n0008">Ata mund t&#xeb; japin mendime dhe propozime p&#xeb;r aktivitetet q&#xeb; b&#xeb;hen n&#xeb; shkoll&#xeb;.</span>
+          <span data-id="pg046_n0009">Shum&#xeb; nx&#xeb;n&#xeb;s ndihmojn&#xeb; p&#xeb;r t&#xeb; planifikuar loj&#xeb;ra, projekte apo veprime t&#xeb; tjera dhe din&#xeb; si t&#xeb; punojn&#xeb; n&#xeb; grupe, ku secili ka nj&#xeb; rol dhe nj&#xeb; detyr&#xeb; t&#xeb; ve&#xe7;ant&#xeb;.</span>
+        </p>
+      </div>
+    </div>
+
+    <figure class="mb-8 px-8 max-sm:px-0">
+      <img data-id="pg046_im001" src="images/pg046_im001.png" alt="Pes&#xeb; nx&#xeb;n&#xeb;s t&#xeb; ulur rreth nj&#xeb; tavoline duke diskutuar s&#xeb; bashku; nj&#xeb;ri flet me dor&#xeb;n ngritur, nd&#xeb;rsa t&#xeb; tjer&#xeb;t d&#xeb;gjojn&#xeb; dhe marrin pjes&#xeb; n&#xeb; vendimmarrje." class="mx-auto h-auto w-full max-w-4xl">
+    </figure>
+
+    <aside class="mb-12 bg-purple-200/80 p-4 max-sm:p-4">
+      <div class="flex items-start gap-4 max-sm:flex-col max-sm:gap-3">
+        <div aria-hidden="true" class="relative flex h-20 w-20 shrink-0 items-center justify-center rounded-none bg-purple-500 max-sm:h-16 max-sm:w-16 max-sm:rounded-xl">
+          <span class="absolute h-10 w-3 rotate-45 rounded-full border-r-4 border-t-4 border-white"></span>
+          <span class="absolute bottom-4 h-2.5 w-2.5 rounded-full bg-white"></span>
+        </div>
+        <div class="flex-1 space-y-5">
+          <div>
+            <p class="adt-body text-zinc-900"><span data-id="pg046_n0011">- Si p&#xeb;rfshiheni n&#xeb; vendimmarrje n&#xeb; shkoll&#xeb;?</span></p>
+            <label for="item-1" class="sr-only">- Si p&#xeb;rfshiheni n&#xeb; vendimmarrje n&#xeb; shkoll&#xeb;?</label>
+            <textarea id="item-1" data-activity-item="item-1" aria-label="- Si p&#xeb;rfshiheni n&#xeb; vendimmarrje n&#xeb; shkoll&#xeb;?" class="mt-2 min-h-11 w-full rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-zinc-900 outline-none focus:border-purple-500"></textarea>
+          </div>
+          <div>
+            <p class="adt-body text-zinc-900"><span data-id="pg046_n0012">- &#xc7;far&#xeb; keni parasysh kur merrni vendime?</span></p>
+            <label for="item-2" class="sr-only">- &#xc7;far&#xeb; keni parasysh kur merrni vendime?</label>
+            <textarea id="item-2" data-activity-item="item-2" aria-label="- &#xc7;far&#xeb; keni parasysh kur merrni vendime?" class="mt-2 min-h-11 w-full rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-zinc-900 outline-none focus:border-purple-500"></textarea>
+          </div>
+          <div>
+            <p class="adt-body text-zinc-900"><span data-id="pg046_n0013">- Sa i r&#xeb;nd&#xeb;sish&#xeb;m &#xeb;sht&#xeb; roli i nx&#xeb;n&#xeb;sve n&#xeb; vendimmarrjen p&#xeb;r procesin m&#xeb;simor e sa p&#xeb;r veprimtarit&#xeb;?</span></p>
+            <label for="item-3" class="sr-only">- Sa i r&#xeb;nd&#xeb;sish&#xeb;m &#xeb;sht&#xeb; roli i nx&#xeb;n&#xeb;sve n&#xeb; vendimmarrjen p&#xeb;r procesin m&#xeb;simor e sa p&#xeb;r veprimtarit&#xeb;?</label>
+            <textarea id="item-3" data-activity-item="item-3" aria-label="- Sa i r&#xeb;nd&#xeb;sish&#xeb;m &#xeb;sht&#xeb; roli i nx&#xeb;n&#xeb;sve n&#xeb; vendimmarrjen p&#xeb;r procesin m&#xeb;simor e sa p&#xeb;r veprimtarit&#xeb;?" class="mt-2 min-h-11 w-full rounded-xl border-2 border-purple-300 bg-white px-4 py-3 text-zinc-900 outline-none focus:border-purple-500"></textarea>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <div>
+      <div class="flex items-start gap-6 max-sm:flex-col max-sm:gap-3">
+        <div class="shrink-0 bg-amber-300 px-5 py-2">
+          <h3 class="adt-h3 font-medium text-zinc-900"><span data-id="pg046_n0015">Situata 2.</span></h3>
+        </div>
+        <p class="adt-body flex-1 leading-relaxed text-zinc-800">
+          <span data-id="pg046_n0017">Shkolla jon&#xeb; kishte filluar t&#xeb; rind&#xeb;rtohej.</span>
+          <span data-id="pg046_n0018">F&#xeb;mij&#xeb;ve u p&#xeb;lqejn&#xeb; shum&#xeb; aktivitetet dhe loj&#xeb;rat.</span>
+          <span data-id="pg046_n0019">Para shkoll&#xeb;s ishte vendosur projekti i nd&#xeb;rtimit.</span>
+          <span data-id="pg046_n0020">Na p&#xeb;lqeu pamja e re q&#xeb; do t&#xeb; merrte nd&#xeb;rtesa, por kur v&#xeb;rejt&#xeb;m me kujdes, aty nuk ishte planifikuar palest&#xeb;r e sall&#xeb; loj&#xeb;rash.</span>
+          <span data-id="pg046_n0021">Vendos&#xeb;m t&#xeb; bisedonim me m&#xeb;suesin e edukat&#xeb;s fizike fillimisht.</span>
+          <span data-id="pg046_n0022">Pas diskutimeve, ai na tha se duhej t&#xeb; d&#xeb;rgonim nj&#xeb; k&#xeb;rkes&#xeb; me shkrim n&#xeb; drejtorin&#xeb; e shkoll&#xeb;s</span>
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

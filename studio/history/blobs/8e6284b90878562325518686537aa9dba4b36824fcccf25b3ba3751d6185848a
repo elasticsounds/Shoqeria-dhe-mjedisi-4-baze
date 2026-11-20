@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg066_sec001">
+<meta name="page-section-id" content="87">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+#content.bk .bk-banner img{width:48px;height:48px;object-fit:contain}
+#content.bk .bk-figure img{width:100%;border-radius:0}
+#content.bk.bk.bk .bk-chip{background:var(--bk-accent2)}
+#interface-container :is(div,span,button,a),#nav-container :is(div,span,button,a){font-family:BookPoppins,Poppins,Arial,sans-serif!important}
+#content.bk ul{padding-inline-start:24px}
+#content.bk details > :not(summary){margin-top:12px}
+#content.bk dialog{width:min(96vw,1000px);max-width:96vw;max-height:90vh;overflow:auto;background:var(--bk-paper);color:var(--bk-ink);border:2px solid var(--bk-primary);padding:20px}
+#content.bk dialog::backdrop{background:rgba(40,40,60,.8)}
+#content.bk.bk.bk dialog img{display:block;width:1200px;max-width:none;height:auto;margin-block:12px}
+#content.bk dialog [tabindex]{overflow:auto;max-height:65vh;max-width:100%}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+<div data-family="lesson-discussion" id="content" class="container opacity-0 bk">
+<section data-section-type="text_and_single_image" data-section-id="pg066_sec001" class="bk-stack">
+<header class="bk-banner"><div class="bk-row"><img src="studio/assets/pg066_sec001-emblem.png" alt="" aria-hidden="true"><h1 class="bk-title" data-id="pg066_n0002">Vendi ku jetoj</h1></div></header>
+<h2 class="bk-heading" data-id="pg066_n0003">Fqinjët e Kosovës</h2>
+<section class="bk-activity" data-activity-pattern="discussion" data-activity-variant="group-discussion" aria-labelledby="prompt-66">
+<div class="bk-row"><span class="bk-chip" data-id="pg066_n0005">1.</span><p class="bk-prompt" id="prompt-66"><span data-id="pg066_n0006">Shihni hartën e vendit tonë.</span> <span data-id="pg066_n0007">Diskutoni në klasë për shtetet me të cilat kufizohet Republika e Kosovës.</span></p></div>
+<figure class="bk-figure"><img data-id="pg066_im002" src="studio/assets/pg066_sec001-map.png" alt="Harta e Kosovës me ndarjet e brendshme, emrat e qyteteve dhe shtetet fqinje."></figure>
+<button class="bk-btn bk-btn--secondary" type="button" id="open-map">Shih hartën më të madhe</button>
+<dialog id="map-view" aria-labelledby="map-title"><h3 class="bk-subheading" id="map-title">Harta e Kosovës</h3><button class="bk-btn bk-btn--secondary" type="button" id="close-map">Mbyll</button><div tabindex="0" role="region" aria-label="Harta e zmadhuar; përdorni shigjetat për ta lëvizur"><img src="studio/assets/pg066_sec001-map.png" alt="Harta e Kosovës me ndarjet e brendshme, emrat e qyteteve dhe shtetet fqinje."></div></dialog>
+<div><p class="bk-label">Qytetet</p><ul><li data-id="pg066_n0009">Mitrovica</li><li data-id="pg066_n0010">Peja</li><li data-id="pg066_n0011">Gjakova</li><li data-id="pg066_n0012">Prizreni</li><li data-id="pg066_n0013">Prishtina</li><li data-id="pg066_n0014">Ferizaj</li><li data-id="pg066_n0015">Gjilani</li></ul></div>
+<div aria-describedby="prompt-66"><p class="bk-label">Shtetet fqinje</p><ul><li data-id="pg066_n0016">Mali i Zi</li><li data-id="pg066_n0017">Shqipëria</li><li data-id="pg066_n0018">Serbia</li><li data-id="pg066_n0019">Maqedonia e Veriut</li></ul></div>
+<details><summary class="bk-btn bk-btn--secondary">Shënime (opsionale)</summary><label class="bk-label" id="note-label-66" for="activity-item-1">Shënime</label><textarea class="bk-field" id="activity-item-1" data-activity-item="item-1" aria-labelledby="prompt-66 note-label-66" rows="3"></textarea><p class="bk-feedback" id="save-status-66" role="status" aria-live="polite"></p><button class="bk-btn bk-btn--secondary" type="button" id="retry-save-66" hidden>Provo ruajtjen përsëri</button></details>
+</section>
+</section>
+</div>
+</main>
+<script>
+window.activityAnswerTextIds = JSON.parse('{}');
+(function(){
+ const field=document.getElementById('activity-item-1'), status=document.getElementById('save-status-66'), retry=document.getElementById('retry-save-66');
+ const key='shoqeria-mjedisi-4:pg066_sec001:item-1';
+ let loaded=false;
+ function load(){try{const saved=localStorage.getItem(key);if(saved!==null)field.value=saved;loaded=true;field.readOnly=false;retry.hidden=true;status.textContent='';}catch(e){field.readOnly=true;status.textContent='⚠ Nuk u lexuan shënimet e ruajtura. Provoni përsëri.';retry.hidden=false;}}
+ function save(){if(!loaded)return;try{localStorage.setItem(key,field.value);status.textContent='✓ U ruajt.';retry.hidden=true;}catch(e){status.textContent='⚠ Nuk u ruajt. Shënimet mbeten këtu; provoni përsëri.';retry.hidden=false;}}
+ load();field.addEventListener('input',save);retry.addEventListener('click',()=>loaded?save():load());
+ const open=document.getElementById('open-map'), close=document.getElementById('close-map'), dialog=document.getElementById('map-view');
+ open.addEventListener('click',()=>{dialog.showModal();close.focus();}); close.addEventListener('click',()=>dialog.close()); dialog.addEventListener('close',()=>open.focus());
+})();
+</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

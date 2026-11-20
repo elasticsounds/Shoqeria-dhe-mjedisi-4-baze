@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg092_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="125">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-reading" id="content" class="container opacity-0 bk">
+  <section data-section-type="text_and_images" data-section-id="pg092_sec001" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-white text-neutral-900">
+    <div class="mb-6 border-b-4 border-fuchsia-400 pb-3">
+      <h1 data-id="pg092_n0003" class="adt-h2 font-bold text-left text-neutral-900">Shfrytëzimi i pasurive natyrore</h1>
+    </div>
+
+    <h3 data-id="pg092_n0004" class="adt-h3 inline-block bg-green-400 px-4 py-2 font-semibold text-left text-neutral-900 rounded-sm mb-5">Situata 1.</h3>
+
+    <p class="adt-body text-left leading-relaxed mb-8">
+      <span data-id="pg092_n0006">Buna: Përshëndetje, Rita!</span>
+      <span data-id="pg092_n0007">Më duhet të shkruaj një artikull informues për shfrytëzimin e pasurive natyrore në Kosovë dhe nuk kam asnjë ide se çfarë do të shkruaj.</span>
+      <span data-id="pg092_n0008">A mund të më ndihmosh me ndonjë informacion?</span>
+      <span data-id="pg092_n0009">Rita: Sigurisht.</span>
+      <span data-id="pg092_n0010">Atëherë, fillimisht duhet të përmendet që Kosova ka pasuri natyrore të bollshme.</span>
+      <span data-id="pg092_n0011">Ka pyje, lumenj, male, tokë bujqësore dhe shumë pasuri nëntokësore.</span>
+      <span data-id="pg092_n0012">Kosova për nga pasuritë natyrore është ndër vendet më të pasura në Evropë.</span>
+      <span data-id="pg092_n0013">Pasuritë natyrore ndahen në:</span>
+    </p>
+
+    <div class="overflow-x-auto mb-10">
+      <table class="w-full border-collapse table-fixed max-lg:table-auto">
+        <tr>
+          <th class="w-1/2 border-4 border-white bg-green-400 px-4 py-3 align-top text-left max-lg:block max-lg:w-full">
+            <h3 data-id="pg092_n0017" class="adt-h3 font-bold text-neutral-900">Pasuri mbitokësore</h3>
+          </th>
+          <th class="w-1/2 border-4 border-white bg-green-400 px-4 py-3 align-top text-left max-lg:block max-lg:w-full">
+            <h3 data-id="pg092_n0019" class="adt-h3 font-bold text-neutral-900">Pasuri nëntokësore</h3>
+          </th>
+        </tr>
+        <tr class="max-lg:block">
+          <td class="w-1/2 align-top border-2 border-green-400 px-4 py-4 max-lg:block max-lg:w-full">
+            <ul class="space-y-8">
+              <li class="adt-body text-left leading-relaxed"><span data-id="pg092_n0024">1. Toka e punueshme, e cila shfrytëzohet për zhvillimin e bujqësisë.</span></li>
+              <li class="adt-body text-left leading-relaxed"><span data-id="pg092_n0026">2. Lumenjtë, të cilët i shfrytëzojmë për ujë të pijshëm apo ujitje.</span></li>
+              <li class="adt-body text-left leading-relaxed"><span data-id="pg092_n0028">3. Liqenet artificiale, të cilat shfrytëzohen për ujë të pijshëm.</span></li>
+              <li class="adt-body text-left leading-relaxed">
+                <span data-id="pg092_n0030">4. Pyjet, drurët e të cilave shfrytëzohen për ngrohje apo për prodhimin e gjësendeve të ndryshme.</span>
+                <span data-id="pg092_n0031">Po ashtu, ato janë të rëndësishme për llojllojshmërinë e bimëve.</span>
+              </li>
+              <li class="adt-body text-left leading-relaxed"><span data-id="pg092_n0033">5. Kosova është e pasur me lloje të ndryshme bimore.</span></li>
+            </ul>
+          </td>
+          <td class="w-1/2 align-top border-2 border-green-400 px-4 py-4 max-lg:block max-lg:w-full">
+            <ul class="space-y-8 mb-6">
+              <li class="adt-body text-left leading-relaxed"><span data-id="pg092_n0037">1. Thëngjilli linjit, i cili shfrytëzohet për prodhimin e energjisë elektrike në Termocentralin “Kosova”.</span></li>
+              <li class="adt-body text-left leading-relaxed"><span data-id="pg092_n0039">2. Ka shumë minerale e më së shumti plumb, i cili nxirret nga minierat e Trepçës në Mitrovicë.</span></li>
+              <li class="adt-body text-left leading-relaxed"><span data-id="pg092_n0041">3. Xehe të shumta.</span></li>
+            </ul>
+            <div class="grid grid-cols-2 gap-3 max-sm:grid-cols-1">
+              <img data-id="pg092_im001" src="images/pg092_im001.png" alt="Termocentrali “Kosova” me oxhaqe të larta, ku shfrytëzohet thëngjilli për prodhimin e energjisë elektrike." class="w-full h-auto rounded-sm shadow-sm object-cover">
+              <img data-id="pg092_im002" src="images/pg092_im002.png" alt="Hyrja e një miniere në Trepçë, që lidhet me nxjerrjen e mineraleve në Mitrovicë." class="w-full h-auto rounded-sm shadow-sm object-cover">
+            </div>
+          </td>
+        </tr>
+      </table>
+    </div>
+
+    <p class="adt-body text-left leading-relaxed">
+      <span data-id="pg092_n0043">Buna: Uaaa, nuk e kam ditur që vendi ynë ka kaq shumë pasuri natyrore.</span>
+      <span data-id="pg092_n0044">Faleminderit, Rita!</span>
+      <span data-id="pg092_n0045">Besoj që me këto informacione artikulli im do të informojë shumë njerëz për pasuritë tona natyrore!</span>
+    </p>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

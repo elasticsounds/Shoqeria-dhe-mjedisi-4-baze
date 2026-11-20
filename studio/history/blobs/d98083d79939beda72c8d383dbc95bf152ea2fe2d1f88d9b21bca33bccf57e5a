@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg096_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="121" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-white opacity-0">
+  <section data-section-type="text_only" data-section-id="pg096_sec001" class="w-full">
+    <div class="mb-8 overflow-hidden rounded-2xl border border-purple-200 bg-purple-100">
+      <div class="bg-purple-500 px-6 py-4">
+        <h1 class="adt-h2 font-semibold text-white" data-id="pg096_n0003">Shfryt&#xeb;zimi i pasurive mbitok&#xeb;sore</h1>
+      </div>
+    </div>
+
+    <div class="rounded-3xl bg-gradient-to-b from-green-50 to-white p-6 shadow-sm ring-1 ring-green-100">
+      <div class="mb-5 inline-block rounded-xl bg-green-400 px-4 py-2">
+        <h3 class="adt-h3 font-semibold text-slate-900" data-id="pg096_n0005">Situata 1.</h3>
+      </div>
+
+      <p class="adt-body mb-4 leading-relaxed text-slate-800">
+        <span data-id="pg096_n0006">Nj&#xeb; dit&#xeb; Rona dhe Miri kishin m&#xeb;suar p&#xeb;r pasurit&#xeb; mbitok&#xeb;sore t&#xeb; Kosov&#xeb;s.</span> <span data-id="pg096_n0007">P&#xeb;r shkak se ishte shum&#xeb; i lodhur, Miri nuk e kishte kuptuar shum&#xeb; mir&#xeb; k&#xeb;t&#xeb; m&#xeb;sim.</span> <span data-id="pg096_n0008">- Jo! Nuk arrij ta kuptoj dot! Rona, a mund t&#xeb; m&#x2019;i p&#xeb;rmend&#xeb;sh edhe nj&#xeb; her&#xeb; disa shembuj?</span> <span data-id="pg096_n0009">- Po, sigurisht.</span> <span data-id="pg096_n0010">Pasurit&#xeb; mbitok&#xeb;sore jan&#xeb; t&#xeb; gjitha pasurit&#xeb; q&#xeb; gjenden mbi sip&#xeb;rfaqen e tok&#xeb;s.</span>
+      </p>
+
+      <p class="adt-body mb-4 leading-relaxed text-slate-800">
+        <span data-id="pg096_n0011">Pjesa m&#xeb; e madhe e tok&#xeb;s n&#xeb; Kosov&#xeb;, m&#xeb; tep&#xeb;r se gjysma e saj, &#xeb;sht&#xeb; tok&#xeb; e punueshme, nga e cila mund&#xeb;sohet zhvillimi i bujq&#xeb;sis&#xeb;.</span> <span data-id="pg096_n0012">Pjesa tjet&#xeb;r &#xeb;sht&#xeb; tok&#xeb; pyjore me malet m&#xeb; t&#xeb; njohura q&#xeb; jan&#xeb;: Bjeshk&#xeb;t e Nemuna, malet e Sharrit, malet e Pashtrikut e shum&#xeb; male t&#xeb; tjera.</span>
+      </p>
+
+      <p class="adt-body mb-4 leading-relaxed text-slate-800">
+        <span data-id="pg096_n0013">- Rona, m&#xeb; duket se p&#xeb;rve&#xe7; tokave, p&#xeb;rmend&#xeb;m edhe faktor&#xeb; t&#xeb; tjer&#xeb; q&#xeb; pasurojn&#xeb; vendin ton&#xeb;.</span> <span data-id="pg096_n0014">- Po, pasuri tjet&#xeb;r &#xeb;sht&#xeb; edhe druri.</span> <span data-id="pg096_n0015">&#xcb;sht&#xeb; shum&#xeb; e r&#xeb;nd&#xeb;sishme q&#xeb; prerja e drur&#xeb;ve t&#xeb; b&#xeb;het n&#xeb; m&#xeb;nyr&#xeb; t&#xeb; kontrolluar.</span>
+      </p>
+
+      <p class="adt-body mb-4 leading-relaxed text-slate-800">
+        <span data-id="pg096_n0016">- E m&#xeb; pas fol&#xeb;m p&#xeb;r pasurit&#xeb; ujore.</span> <span data-id="pg096_n0017">- Aq sa di un&#xeb;, pasurit&#xeb; ujore p&#xeb;rfshijn&#xeb; liqenet, lumenjt&#xeb;, uj&#xeb;rat minerale dhe termike.</span> <span data-id="pg096_n0018">- T&#xeb; lumt&#xeb;, Rona!</span>
+      </p>
+
+      <p class="adt-body leading-relaxed text-slate-800">
+        <span data-id="pg096_n0019">- Cili &#xeb;sht&#xeb; lumi m&#xeb; i gjat&#xeb; nga k&#xeb;ta q&#xeb; p&#xeb;rmende?</span> <span data-id="pg096_n0020">- Drini i Bardh&#xeb;.</span> <span data-id="pg096_n0021">- Po uj&#xeb;rat minerale dhe termike?</span> <span data-id="pg096_n0022">- Uj&#xeb;rat kryesore minerale dhe termike njihen si banja sh&#xeb;ruese, pasi p&#xeb;rmbajn&#xeb; minerale dhe shum&#xeb; njer&#xeb;z gjejn&#xeb; sh&#xeb;rim n&#xeb; k&#xeb;to uj&#xeb;ra.</span>
+      </p>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

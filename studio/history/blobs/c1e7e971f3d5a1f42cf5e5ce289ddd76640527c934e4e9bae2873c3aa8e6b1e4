@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg051_sec001_p4">
+<meta name="page-section-id" content="69">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+#interface-container, #nav-container, #interface-container *, #nav-container * { font-family: BookPoppins, Poppins, Arial, sans-serif !important; }
+#content.bk em { font-style: normal; font-weight: 600; }
+#content.bk .bk-figure > img { width: auto; height: auto; max-width: 100%; max-height: 320px; object-fit: contain; }
+#content.bk dialog { width: min(100%, 1000px); max-height: calc(100vh - 48px); overflow: auto; }
+#content.bk ul { list-style: disc; padding-inline-start: 1.5em; }
+#content.bk li + li { margin-top: 12px; }
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+<div data-family="lesson-discussion" id="content" class="container mx-auto bg-white opacity-0 bk">
+<section data-section-type="text" data-section-id="pg051_sec001_p4" class="bk-stack">
+<section class="bk-card bk-card--surface2 bk-activity" data-activity-pattern="offline-action" data-activity-variant="" lang="sq">
+<p class="bk-body" data-id="pg051_n0015">Ja disa këshilla që duhen pasur parasysh:</p>
+<ul class="bk-body">
+<li data-id="pg051_n0018">këshillohu në familje për problemet e ndryshme që mund të kesh;</li>
+<li data-id="pg051_n0020">mbaj një kalendar për festat më të rëndësishme në familje;</li>
+<li data-id="pg051_n0022">dëgjo me vëmendje se çfarë thonë pjesëtarët e tjerë të familjes;</li>
+<li data-id="pg051_n0024">trego respekt për mendimet e anëtarëve të familjes;</li>
+<li data-id="pg051_n0026">gjej fjalët e duhura për t’i përdorur në komunikim.</li>
+</ul>
+</section>
+<p class="bk-body" data-id="pg051_n0027"><strong>Fjalët kyçe:</strong> familje, pjesëmarrje, mendim i lirë, këshillë.</p>
+<p class="bk-caption">51</p>
+</section>
+</div>
+</main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

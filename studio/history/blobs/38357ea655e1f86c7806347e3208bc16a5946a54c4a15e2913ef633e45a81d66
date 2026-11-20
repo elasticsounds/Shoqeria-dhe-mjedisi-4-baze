@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg039_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="48" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container bg-white opacity-0">
+  <section data-section-type="text_and_single_image" data-section-id="pg039_sec001" class="w-full overflow-hidden">
+    <div class="w-full bg-white">
+      <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-4 pt-8 pb-4">
+        <div class="relative">
+          <div class="h-12 w-full bg-purple-500"></div>
+          <div class="pt-5">
+            <h1 data-id="pg039_n0004" class="adt-h2 text-left font-bold text-gray-900 inline-block border-b-4 border-purple-400 pb-2">Mb&#xeb;shtesim nj&#xeb;ri-tjetrin</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-4 pb-8 space-y-6">
+      <div class="bg-white rounded-[2rem] border border-purple-100 shadow-sm px-6 py-6 max-sm:px-4 max-sm:py-4">
+        <div class="mb-3">
+          <h3 data-id="pg039_n0006" class="adt-h3 inline-block text-left font-bold text-gray-900 bg-yellow-300 px-4 py-2 leading-none">Situata 2.</h3>
+        </div>
+        <p class="adt-body text-left text-gray-800 leading-relaxed">
+          <span data-id="pg039_n0007">Genti ishte nj&#xeb; lojtar futbolli shum&#xeb; i mir&#xeb;.</span>
+          <span data-id="pg039_n0008">Ai st&#xeb;rvitej vazhdimisht me skuadr&#xeb;n e tij.</span>
+          <span data-id="pg039_n0009">Shpesh, skuadra ishte fituese n&#xeb; kampionatet mes shkollave.</span>
+          <span data-id="pg039_n0010">N&#xeb; kampionatin e radh&#xeb;s, skuadra e futbollit ku Genti ishte lojtar kishte v&#xeb;shtir&#xeb;si p&#xeb;r organizimin e loj&#xeb;s.</span>
+          <span data-id="pg039_n0011">Ai mendoi t&apos;i k&#xeb;rkonte ndihm&#xeb; shokut t&#xeb; tij t&#xeb; f&#xeb;mij&#xeb;ris&#xeb;, i cili luante po aq mir&#xeb; sa Genti.</span>
+          <span data-id="pg039_n0012">T&#xeb; dy s&#xeb; bashku do t&#xeb; ishin nj&#xeb; skuad&#xeb;r e fort&#xeb;</span>
+        </p>
+      </div>
+
+      <div class="rounded-[2rem] overflow-hidden bg-white border border-amber-100 shadow-sm">
+        <img data-id="pg039_im001_crop_v1" src="images/pg039_im001_crop_v1.png" alt="Dy djem bisedojn&#xeb; p&#xeb;rkrah nj&#xeb; topi futbolli, duke treguar mb&#xeb;shtetje dhe bashk&#xeb;punim mes shok&#xeb;ve." class="w-full h-auto block min-h-[260px] object-contain max-sm:min-h-0">
+      </div>
+
+      <div class="bg-purple-100 border border-purple-200 rounded-none px-6 py-5 max-sm:px-4 max-sm:py-4">
+        <ul class="space-y-5 max-sm:space-y-4">
+          <li class="flex flex-col gap-2">
+            <div class="adt-body text-left text-gray-900 flex items-start gap-2">
+              <span aria-hidden="true" class="mt-1 text-purple-700">&#x2013;</span>
+              <span data-id="pg039_n0016">Vazhdoje tregimin duke menduar nj&#xeb; zgjidhje p&#xeb;r t&#xeb;.</span>
+            </div>
+            <label for="item-1" class="sr-only">Vazhdoje tregimin duke menduar nj&#xeb; zgjidhje p&#xeb;r t&#xeb;.</label>
+            <textarea id="item-1" data-activity-item="item-1" aria-label="Vazhdoje tregimin duke menduar nj&#xeb; zgjidhje p&#xeb;r t&#xeb;." class="w-full min-h-11 rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-500" rows="4"></textarea>
+          </li>
+          <li class="flex flex-col gap-2">
+            <div class="adt-body text-left text-gray-900 flex items-start gap-2">
+              <span aria-hidden="true" class="mt-1 text-purple-700">&#x2013;</span>
+              <span data-id="pg039_n0018">Si e mb&#xeb;shtet ti shokun apo shoqen t&#xeb;nde?</span>
+            </div>
+            <label for="item-2" class="sr-only">Si e mb&#xeb;shtet ti shokun apo shoqen t&#xeb;nde?</label>
+            <textarea id="item-2" data-activity-item="item-2" aria-label="Si e mb&#xeb;shtet ti shokun apo shoqen t&#xeb;nde?" class="w-full min-h-11 rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-500" rows="3"></textarea>
+          </li>
+          <li class="flex flex-col gap-2">
+            <div class="adt-body text-left text-gray-900 flex items-start gap-2">
+              <span aria-hidden="true" class="mt-1 text-purple-700">&#x2013;</span>
+              <span data-id="pg039_n0020">Si e mb&#xeb;shtet motr&#xeb;n apo v&#xeb;llan&#xeb;?</span>
+            </div>
+            <label for="item-3" class="sr-only">Si e mb&#xeb;shtet motr&#xeb;n apo v&#xeb;llan&#xeb;?</label>
+            <textarea id="item-3" data-activity-item="item-3" aria-label="Si e mb&#xeb;shtet motr&#xeb;n apo v&#xeb;llan&#xeb;?" class="w-full min-h-11 rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-500" rows="3"></textarea>
+          </li>
+          <li class="flex flex-col gap-2">
+            <div class="adt-body text-left text-gray-900 flex items-start gap-2">
+              <span aria-hidden="true" class="mt-1 text-purple-700">&#x2013;</span>
+              <span data-id="pg039_n0022">&#xc7;far&#xeb; b&#xeb;n p&#xeb;r t&apos;u ndier mir&#xeb; shoqja apo shoku yt?</span>
+            </div>
+            <label for="item-4" class="sr-only">&#xc7;far&#xeb; b&#xeb;n p&#xeb;r t&apos;u ndier mir&#xeb; shoqja apo shoku yt?</label>
+            <textarea id="item-4" data-activity-item="item-4" aria-label="&#xc7;far&#xeb; b&#xeb;n p&#xeb;r t&apos;u ndier mir&#xeb; shoqja apo shoku yt?" class="w-full min-h-11 rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-500" rows="3"></textarea>
+          </li>
+          <li class="flex flex-col gap-2">
+            <div class="adt-body text-left text-gray-900 flex items-start gap-2">
+              <span aria-hidden="true" class="mt-1 text-purple-700">&#x2013;</span>
+              <span>
+                <span data-id="pg039_n0024">Si ndihesh n&#xeb; nj&#xeb; rast kur shoqja apo shoku yt arrin sukses?</span>
+                <span data-id="pg039_n0025">Po kur ai ndodhet n&#xeb; v&#xeb;shtir&#xeb;si?</span>
+              </span>
+            </div>
+            <label for="item-5" class="sr-only">Si ndihesh n&#xeb; nj&#xeb; rast kur shoqja apo shoku yt arrin sukses? Po kur ai ndodhet n&#xeb; v&#xeb;shtir&#xeb;si?</label>
+            <textarea id="item-5" data-activity-item="item-5" aria-label="Si ndihesh n&#xeb; nj&#xeb; rast kur shoqja apo shoku yt arrin sukses? Po kur ai ndodhet n&#xeb; v&#xeb;shtir&#xeb;si?" class="w-full min-h-11 rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-500" rows="3"></textarea>
+          </li>
+        </ul>
+      </div>
+
+      <div class="bg-white border-2 border-purple-300 px-6 py-5 max-sm:px-4 max-sm:py-4 shadow-sm">
+        <p class="adt-body text-left text-gray-800 leading-relaxed italic">
+          <span data-id="pg039_n0028">Njer&#xeb;zit formojn&#xeb; grupe shoq&#xeb;rore q&#xeb; jan&#xeb; pjes&#xeb; p&#xeb;rb&#xeb;r&#xeb;se e shoq&#xeb;ris&#xeb;.</span>
+          <span data-id="pg039_n0029">Edhe pse jemi t&#xeb; pavarur, ne kemi nevoj&#xeb; p&#xeb;r ndihm&#xeb;n dhe mb&#xeb;shtetjen e nj&#xeb;ri-tjetrit.</span>
+          <span data-id="pg039_n0030">Kjo e b&#xeb;n nj&#xeb; grup t&#xeb; vlefsh&#xeb;m dhe t&#xeb; fort&#xeb;.</span>
+          <span data-id="pg039_n0031">Nj&#xeb; individ mund t&#xeb; marr&#xeb; pjes&#xeb; n&#xeb; m&#xeb; shum&#xeb; se nj&#xeb; grup.</span>
+          <span data-id="pg039_n0032">Ai ka dhe aft&#xeb;si t&#xeb; ve&#xe7;anta q&#xeb; e b&#xeb;jn&#xeb; at&#xeb; pjes&#xeb; t&#xeb; grupeve t&#xeb; caktuara.</span>
+          <span data-id="pg039_n0033">N&#xeb; shkoll&#xeb;, &#xe7;do nx&#xeb;n&#xeb;s duhet t&#xeb; ndihet i mir&#xeb;pritur dhe i p&#xeb;rfshir&#xeb; n&#xeb; procesin m&#xeb;simor, duke u mb&#xeb;shtetur kur ka v&#xeb;shtir&#xeb;si.</span>
+          <span data-id="pg039_n0034">N&#xeb; familje ne ndihmojm&#xeb; nj&#xeb;ri-tjetrin p&#xeb;r zgjidhjen e problemeve t&#xeb; ndryshme.</span>
+          <span data-id="pg039_n0035">Kur ka bashk&#xeb;punim n&#xeb; familje, shkoll&#xeb; dhe komunitet, pun&#xeb;t shkojn&#xeb; m&#xeb; mir&#xeb;.</span>
+          <span data-id="pg039_n0036">T&#xeb; gjith&#xeb; duhet t&#xeb; p&#xeb;rfshihen n&#xeb; veprimtari t&#xeb; p&#xeb;rbashk&#xeb;ta, pasi kjo rrit bashk&#xeb;punimin dhe forcon miq&#xeb;sin&#xeb;.</span>
+        </p>
+      </div>
+
+      <div class="px-2 pt-1">
+        <p class="adt-body text-left text-gray-900 font-medium">
+          <span data-id="pg039_n0038">Fjal&#xeb;t ky&#xe7;e:</span>
+          <span data-id="pg039_n0039">mb&#xeb;shtetje, interes, grup, individ, miq&#xeb;si.</span>
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

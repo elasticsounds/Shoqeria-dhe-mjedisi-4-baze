@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg048_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="58">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-reading" id="content" class="container opacity-0 bk"><section data-section-type="text_and_single_image" data-section-id="pg048_sec001" class="mx-auto w-full max-w-5xl bg-[#f2c8a8] px-8 pb-10 max-sm:px-5">
+  <div class="-mx-8 bg-[#efc4a3] max-sm:-mx-5">
+    <div class="mx-auto flex w-full max-w-5xl items-start gap-0 px-8 py-8 max-sm:flex-col max-sm:gap-4 max-sm:px-5">
+      <div aria-hidden="true" class="flex w-36 shrink-0 items-center justify-center rounded-r-2xl bg-[#a56ab1] py-7 max-sm:w-24 max-sm:rounded-2xl">
+        <div class="relative h-20 w-20">
+          <div class="absolute left-0 top-1 h-12 w-12 rounded-full bg-white"></div>
+          <div class="absolute left-8 top-4 h-12 w-12 rounded-full bg-white"></div>
+          <div class="absolute left-3 top-11 h-0 w-0 border-l-[10px] border-r-[2px] border-t-[14px] border-l-transparent border-r-transparent border-t-white"></div>
+          <div class="absolute left-16 top-14 h-0 w-0 border-l-[10px] border-r-[2px] border-t-[14px] border-l-transparent border-r-transparent border-t-white"></div>
+          <div class="absolute left-[34px] top-[31px] h-2 w-2 rounded-full bg-[#a56ab1]"></div>
+          <div class="absolute left-[47px] top-[31px] h-2 w-2 rounded-full bg-[#a56ab1]"></div>
+          <div class="absolute left-[60px] top-[31px] h-2 w-2 rounded-full bg-[#a56ab1]"></div>
+        </div>
+      </div>
+      <div class="flex-1 pt-2 max-sm:min-w-0 max-sm:w-full">
+        <div class="bg-[#a56ab1] px-4 py-3 text-white">
+          <h1 data-id="pg048_n0002" class="adt-h1 font-bold">Mendime të ndryshme, vendime të përbashkëta</h1>
+        </div>
+        <div class="px-2 pb-2 pt-4">
+          <h2 data-id="pg048_n0004" class="adt-h2 font-medium text-[#1f2937]">Eja të vendosim së bashku</h2>
+          <div class="mt-3 h-1 w-[58%] bg-[#b77ac0] max-sm:w-full"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pt-8">
+    <div class="mb-5 inline-block bg-[#69b96f] px-4 py-2">
+      <h3 data-id="pg048_n0006" class="adt-h3 font-medium text-[#1f2937]">Situata 1.</h3>
+    </div>
+    <p class="adt-body max-w-4xl leading-relaxed text-[#2b2b2b]">
+      <span data-id="pg048_n0008">Në fillim të çdo viti shkollor organizojmë takimin me prindër.</span><span data-id="pg048_n0009">Tashmë dihet që, për të ecur mirë procesi edukativo-mësimor, bëhen zgjedhjet e këshillit të prindërve.</span><span data-id="pg048_n0010">Isha kurioz të dija nëse edhe prindërit ndiqnin të njëjtat rregulla siç i ndiqnim ne në zgjedhje</span>
+    </p>
+  </div>
+
+  <div class="mt-10 overflow-hidden rounded-2xl border-4 border-[#e7b896] bg-[#efc4a3] shadow-md">
+    <img data-id="pg048_im002" src="images/pg048_im002.png" alt="Mësuesja dhe katër nxënës të ulur në rreth në klasë, duke diskutuar së bashku." class="block h-auto w-full">
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

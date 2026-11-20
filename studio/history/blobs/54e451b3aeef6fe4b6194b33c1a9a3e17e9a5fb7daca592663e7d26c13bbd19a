@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg014_sec001_p3">
+<meta name="page-section-id" content="24">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+body,button,input,textarea,select{font-family:BookPoppins,Poppins,sans-serif!important}main{width:100%}
+#content.bk.bk.bk{padding-top:24px;overflow:visible}
+#content p{margin:0}#content.bk.bk.bk .bk-activity.bk-stack{gap:24px}#content .bk-chip{align-self:flex-start;background:var(--bk-accent3);border-color:var(--bk-accent3)}
+#content .bk-figure img{width:auto;max-width:100%;max-height:320px;height:auto;align-self:center;object-fit:contain;border-radius:0}#content .bk-caption{margin-top:24px}
+@media(min-width:641px) and (max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full"><div data-family="collaborative-project" id="content" class="bk">
+<section data-section-type="text_and_images" data-section-id="pg014_sec001_p3" class="bk-activity bk-card bk-card--surface2 bk-stack" data-activity-pattern="offline-action" data-activity-variant="" aria-labelledby="group-two">
+<h3 id="group-two" data-id="pg014_n0013" class="bk-subheading bk-chip">Grupi i dytë:</h3>
+<p data-id="pg014_n0014" class="bk-prompt bk-body">Do të përgatitë kartolina të bukura (pa shkrim brenda), të dekoruara me materiale të ndryshme ricikluese.</p>
+<figure class="bk-figure"><img data-id="pg014_im001_seg002_v1" src="images/pg014_im001_seg002_v1.png" alt="Kartolinë e kaltër e zbukuruar me dy lule shumëngjyrëshe në ballinë."></figure>
+</section><footer class="bk-caption" aria-label="Faqja e burimit 14">14</footer>
+</div></main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body></html>

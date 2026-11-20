@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg023_sec001_p4">
+<meta name="page-section-id" content="38">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>
+/* Page-scoped token rules outrank the installer stylesheet, which is linked last. */
+#content.bk.bk.bk[data-source-page]{padding-top:24px;overflow:visible}
+#content.bk.bk.bk[data-source-page] .bk-banner{margin:0;padding:16px var(--bk-pad);border-radius:var(--bk-r-card)}
+#content.bk.bk.bk[data-source-page] .bk-heading{font-weight:600;line-height:1.25;overflow:visible}
+#content.bk.bk.bk[data-source-page] .bk-card--outline{border-color:var(--bk-primary)}
+#content.bk.bk.bk[data-source-page] strong{font-weight:700}
+@media(min-width:641px) and (max-width:767px){#content.bk.bk.bk[data-source-page]{padding-inline:16px}}
+body{font-family:BookPoppins,Poppins,sans-serif}
+#interface-container *,#nav-container *{font-family:BookPoppins,Poppins,sans-serif!important;font-size:var(--bk-label)!important}
+#content.bk.bk.bk{padding-top:24px;overflow:visible}
+#content.bk.bk.bk .bk-banner{margin:0;padding:16px var(--bk-pad);border-radius:var(--bk-r-card)}
+#content.bk.bk.bk .bk-banner .bk-row{flex-wrap:nowrap}
+#content.bk.bk.bk .bk-title{flex:1;min-width:0}
+#content.bk.bk.bk .bk-heading{font-weight:600;line-height:1.25}
+#content.bk.bk.bk .bk-subheading{line-height:1.25}
+#content.bk.bk.bk p{margin:0}
+#content.bk.bk.bk p.bk-body{max-width:720px}
+#content.bk.bk.bk em{font-style:normal;font-weight:600}
+#content.bk.bk.bk strong{font-weight:700}
+#content.bk.bk.bk [data-source-art="emblem"]{height:80px;width:auto;flex:none;border-radius:0}
+#content.bk.bk.bk [data-source-art="book"]{height:48px;width:auto;border-radius:0}
+#content.bk.bk.bk .bk-figure img{width:100%;height:auto;border-radius:0}
+#content.bk.bk.bk [data-situation]{display:flex;flex-direction:column;gap:12px}
+#content.bk.bk.bk [data-situation] h3{align-self:flex-start;background:var(--bk-accent3);padding:4px 16px}
+#content.bk.bk.bk .bk-card--outline{border-color:var(--bk-primary)}
+@media(min-width:641px) and (max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div id="content" class="bk" data-family="lesson-discussion" data-source-page="23">
+<section data-section-type="text_and_single_image" data-section-id="pg023_sec001_p4" class="bk-stack" aria-label="Llojllojshmëria kulturore">
+<div class="bk-card bk-card--outline">
+<p class="bk-body"><em>
+<span data-id="pg023_n0027">Llojllojshmëria kulturore shfaq dallimet kulturore që njerëzit, përkatësisht grupet e njerëzve, mund të kenë ndërmjet tyre.</span>
+<span data-id="pg023_n0028">Çdo kulturë duhet të respektohet, sepse ka vlerat e veta.</span>
+<span data-id="pg023_n0029">Ne duhet të mësojmë për të gjitha kulturat.</span>
+<span data-id="pg023_n0030">Duke mësuar për to, i kuptojmë më mirë ato, vlerat e tyre dhe dallimet me kulturën tonë.</span>
+<span data-id="pg023_n0031">Pra, duke mësuar për kulturat e tjera, ne e kuptojmë më mirë edhe kulturën tonë, edhe veten tonë.</span>
+<span data-id="pg023_n0032">Kjo do të thotë që dallimet kulturore nuk bëhen pengesë për bashkëpunim, por lehtësim në komunikim.</span>
+<span data-id="pg023_n0033">Në fund, e kuptojmë se, megjithëse jemi të ndryshëm, të gjithë jemi njerëz dhe duhet të jetojmë së bashku me respekt dhe tolerancë.</span>
+</em></p>
+</div>
+<footer class="bk-stack"><p class="bk-body" data-id="pg023_n0034"><strong>Fjalët kyçe:</strong> diversitet kulturor, kulturë kombëtare, bashkëjetesë.</p><p class="bk-caption" aria-label="Faqja e shtypur 23">23</p></footer>
+</section>
+</div>
+</main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div id="interface-container"></div><div id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

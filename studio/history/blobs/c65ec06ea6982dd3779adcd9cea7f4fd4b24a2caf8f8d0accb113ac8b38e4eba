@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg062_sec002" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="76" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div id="content" class="container opacity-0">
+  <section data-section-type="text_and_single_image" data-section-id="pg062_sec002" class="mx-auto w-full max-w-5xl px-8 py-8 bg-white text-zinc-800 max-sm:px-5">
+    <div class="mb-10 flex items-start max-sm:block">
+      <div aria-hidden="true" class="mt-4 mr-0 flex h-20 w-28 shrink-0 items-center justify-center bg-purple-500 text-white shadow-sm max-sm:mt-0 max-sm:mb-0 max-sm:h-16 max-sm:w-24">
+        <div class="flex h-12 w-12 items-center justify-center rounded-sm border-2 border-white/90 text-white adt-body italic">&#x1f4d6;</div>
+      </div>
+      <div class="flex-1 border-2 border-purple-300 bg-white px-5 py-5 shadow-sm max-sm:-mt-1 max-sm:px-4 max-sm:py-4">
+        <p class="adt-body italic leading-relaxed text-left">
+          <span data-id="pg062_n0020">Pavar&#xeb;sia e Kosov&#xeb;s u shpall m&#xeb; 17 shkurt 2008.</span>
+          <span data-id="pg062_n0021">Kjo dat&#xeb; sh&#xeb;non fest&#xeb;n m&#xeb; t&#xeb; r&#xeb;nd&#xeb;sishme t&#xeb; Kosov&#xeb;s dhe festohet me shum&#xeb; dashuri.</span>
+          <span data-id="pg062_n0022">N&#xeb; t&#xeb; gjith&#xeb; vendin ton&#xeb; dhe n&#xeb; t&#xeb; gjitha vendet ku jetojn&#xeb; shqiptar&#xeb;t, organizohen aktivitete festive p&#xeb;r ta sh&#xeb;nuar k&#xeb;t&#xeb; dit&#xeb;.</span>
+          <span data-id="pg062_n0023">Shteti yn&#xeb; krijoi simbolet shtet&#xeb;rore: flamurin, stem&#xeb;n dhe himnin shtet&#xeb;ror.</span>
+        </p>
+        <p class="mt-8 adt-body leading-relaxed text-left">
+          <span data-id="pg062_n0025">Flamuri i Kosov&#xeb;s ka ngjyr&#xeb;n e kalt&#xeb;r, mbi t&#xeb; &#xeb;sht&#xeb; v&#xeb;n&#xeb; nj&#xeb; hart&#xeb; e verdh&#xeb; e Kosov&#xeb;s dhe ka gjasht&#xeb; yje t&#xeb; bardha sip&#xeb;r saj.</span>
+          <span data-id="pg062_n0026">Yjet n&#xeb;nkuptojn&#xeb; gjasht&#xeb; popujt &#x2013; komunitetet etnike q&#xeb; jetojn&#xeb; n&#xeb; Kosov&#xeb;.</span>
+        </p>
+        <p class="mt-7 adt-body leading-relaxed text-left">
+          <span data-id="pg062_n0028">Stema e Kosov&#xeb;s &#xeb;sht&#xeb; simbol i Republik&#xeb;s s&#xeb; Kosov&#xeb;s.</span>
+        </p>
+        <p class="mt-7 adt-body leading-relaxed text-left">
+          <span data-id="pg062_n0030">Himni &#xeb;sht&#xeb; nj&#xeb; k&#xeb;ng&#xeb; solemne, e cila ekzekutohet n&#xeb; ceremonit&#xeb; shtet&#xeb;rore, n&#xeb; &#xe7;do veprimtari nd&#xeb;rkomb&#xeb;tare, n&#xeb; ngjarjet sportive ku vendi yn&#xeb; &#xeb;sht&#xeb; pjes&#xeb;marr&#xeb;s, si dhe n&#xeb; raste t&#xeb; tjera t&#xeb; p&#xeb;rcaktuara me ligje p&#xeb;rkat&#xeb;se.</span>
+        </p>
+      </div>
+    </div>
+
+    <figure class="mx-auto w-full max-w-3xl overflow-hidden rounded-[1.75rem] border border-zinc-300 shadow-lg">
+      <img data-id="pg062_im001" src="images/pg062_im001.png" alt="Flamuri i Kosov&#xeb;s me sfond t&#xeb; kalt&#xeb;r, hart&#xeb;n e verdh&#xeb; t&#xeb; Kosov&#xeb;s n&#xeb; qend&#xeb;r dhe gjasht&#xeb; yje t&#xeb; bardh&#xeb; sip&#xeb;r." class="block w-full h-auto object-cover">
+    </figure>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

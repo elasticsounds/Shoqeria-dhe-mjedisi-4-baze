@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title><meta name="title-id" content="pg089_sec001"><meta name="page-section-id" content="117">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div class="bk" id="content" data-family="lesson-discussion"><section data-section-type="boxed_text" data-section-id="pg089_sec001">
+<header class="bk-banner"><h1 class="bk-title" data-id="pg089_n0002">Traditat dhe trashëgimia jonë</h1></header>
+<div class="bk-stack"><h2 class="bk-heading" data-id="pg089_n0004">Pjesëmarrja jonë në festë</h2>
+<div class="bk-card bk-card--surface1 bk-stack">
+<section class="bk-activity" data-activity-pattern="discussion" data-activity-variant="group-discussion"><label class="bk-prompt bk-label" for="item-1" id="prompt-1" data-id="pg089_n0010">Pse është e rëndësishme të zbukurohet ambienti për një festë të caktuar?</label><details><summary class="bk-btn">Shënime (opsionale)</summary><textarea class="bk-field" id="item-1" data-activity-item="item-1" aria-labelledby="prompt-1" rows="3"></textarea><p class="bk-feedback" role="status" aria-live="polite" hidden></p><button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button></details></section>
+<section class="bk-activity" data-activity-pattern="discussion" data-activity-variant="group-discussion"><label class="bk-prompt bk-label" for="item-2" id="prompt-2" data-id="pg089_n0012">Si duhet të veprojmë gjatë festës, në të cilën jemi të ftuar?</label><details><summary class="bk-btn">Shënime (opsionale)</summary><textarea class="bk-field" id="item-2" data-activity-item="item-2" aria-labelledby="prompt-2" rows="3"></textarea><p class="bk-feedback" role="status" aria-live="polite" hidden></p><button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button></details></section>
+</div></div></section></div></main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+<script>
+(function(){document.querySelectorAll('#content textarea[data-activity-item]').forEach(function(field){var key='Shoqeria-dhe-Mjedisi-4:pg089_sec001:'+field.dataset.activityItem, detail=field.closest('details'), feedback=detail.querySelector('[role=status]'), retry=detail.querySelector('[data-action=retry-save]');try{var saved=localStorage.getItem(key);if(saved!==null)field.value=saved}catch(e){feedback.hidden=false;feedback.textContent='⚠ Nuk u lexuan shënimet e ruajtura.'}function save(){try{localStorage.setItem(key,field.value);feedback.textContent='✓ U ruajt.';retry.hidden=true}catch(e){feedback.textContent='⚠ Nuk u ruajt.';retry.hidden=false}feedback.hidden=false}field.addEventListener('input',save);retry.addEventListener('click',save)})})();
+</script></body></html>

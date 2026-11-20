@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg018_sec003">
+    <meta name="page-section-id" content="28">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    <style>
+      body:has(#content.bk) { font-family:BookPoppins,Poppins,Arial,sans-serif; }
+      body:has(#content.bk) :is(h1,button,input,textarea,select,label,summary),
+      body:has(#content.bk) :is(#interface-container,#nav-container) :is(div,span,p,a,button,label,input,select,h1,h2,h3) { font-family:BookPoppins,Poppins,Arial,sans-serif!important; }
+      body:has(#content.bk) :is(#interface-container,#nav-container) :is(span,p,a,button,label,input,select) { font-size:var(--bk-caption)!important; }
+      body:has(#content.bk) :is(#interface-container,#nav-container) button { min-height:var(--bk-target);min-width:var(--bk-target); }
+      body:has(#content.bk) :is(#interface-container,#nav-container) :is(a,button,input,select):focus-visible { outline:var(--bk-focus-w) solid var(--bk-focus);outline-offset:3px; }
+      #content.bk.bk.bk[data-family] { padding-top:var(--bk-gap);overflow:visible; }
+      #content.bk.bk.bk details:not([open]) > .bk-stack { display:none; }
+      #content.bk.bk.bk details > .bk-stack { margin-top:calc(var(--bk-gap)/2);gap:calc(var(--bk-gap)/2); }
+      #content.bk.bk.bk summary.bk-btn { justify-content:flex-start;max-width:100%;color:var(--bk-primary);border-color:var(--bk-primary);padding-inline:var(--bk-pad); }
+      #content.bk.bk.bk .bk-field { border-color:var(--bk-primary);padding:calc(var(--bk-gap)/2);scroll-margin-block:var(--bk-clear); }
+      #content.bk.bk.bk [hidden] { display:none!important; }
+      @media (min-width:641px) and (max-width:767px) { #content.bk.bk.bk { padding-inline:16px; } }
+      @media (prefers-reduced-motion:reduce) { body:has(#content.bk) *,body:has(#content.bk) *::before,body:has(#content.bk) *::after { animation:none!important;transition:none!important;scroll-behavior:auto!important; } }
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"><link href="./book-design/reading.css" rel="stylesheet">
+</head>
+<body>
+    <main>
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" id="content" data-book-theme="rights" data-reading-layout="text" class="bk">
+        <section role="region" aria-labelledby="pg018_n0025" data-section-type="discussion" data-section-id="pg018_sec003" class="bk-card bk-card--surface1 bk-activity" data-activity-pattern="discussion" data-activity-variant="paired-dialogue">
+          <p class="bk-prompt bk-body" id="pg018_n0025"><span data-id="pg018_n0025">Bëni një dialog në dyshe, ku njëri ka rolin e mjekut, kurse tjetri rolin e pacientit.</span></p>
+          <details id="pg018-notes">
+            <summary class="bk-btn bk-btn--secondary">Shënime (opsionale)</summary>
+            <div class="bk-stack">
+              <label for="activity-item-1" class="bk-sr-only">Bëni një dialog në dyshe, ku njëri ka rolin e mjekut, kurse tjetri rolin e pacientit.</label>
+              <textarea id="activity-item-1" data-activity-item="item-1" aria-label="Bëni një dialog në dyshe, ku njëri ka rolin e mjekut, kurse tjetri rolin e pacientit." aria-describedby="pg018-note-help" class="bk-field" rows="3"></textarea>
+              <p id="pg018-note-help" class="bk-caption">Shënime për përgatitje. Ruhen vetëm në këtë shfletues.</p>
+              <p id="pg018-save-status" class="bk-feedback" role="status" aria-live="polite" aria-atomic="true" hidden></p>
+              <button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+            </div>
+          </details>
+        </section>
+        <p class="bk-caption" aria-label="Faqja e burimit 18" style="margin-top:var(--bk-gap)">18</p>
+      </div>
+    </main>
+    <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+    <script>
+    (() => {
+      const field = document.getElementById('activity-item-1');
+      const status = document.getElementById('pg018-save-status');
+      const retry = document.querySelector('[data-action="retry-save"]');
+      const key = 'adt:shoqeria-dhe-mjedisi-4:pg018_sec003:item-1:notes:v1';
+      // Do not migrate bare item-1 / activity-item-1 keys: they occur on other pages.
+      let dirty = false;
+      function announce(text, failed) {
+        status.hidden = false;
+        status.textContent = text;
+        retry.hidden = !failed;
+        status.style.borderColor = failed ? 'var(--bk-warning)' : 'var(--bk-success)';
+      }
+      try {
+        const saved = localStorage.getItem(key);
+        if (saved !== null) {
+          const record = JSON.parse(saved);
+          if (record.section === 'pg018_sec003' && record.item === 'item-1' && typeof record.text === 'string') field.value = record.text;
+        }
+      } catch (_) { announce('⚠ Nuk u lexuan shënimet e ruajtura. Provo përsëri.', true); }
+      function save() {
+        if (!dirty) return;
+        try {
+          const record = JSON.stringify({section:'pg018_sec003',item:'item-1',text:field.value});
+          localStorage.setItem(key, record);
+          if (localStorage.getItem(key) !== record) throw new Error('save');
+          dirty = false;
+          announce('✓ U ruajt.', false);
+        } catch (_) { announce('⚠ Nuk u ruajt. Shënimet mbeten në fushë.', true); }
+      }
+      field.addEventListener('input', () => { dirty = true; save(); });
+      field.addEventListener('change', () => { dirty = true; save(); });
+      field.addEventListener('blur', save);
+      retry.addEventListener('click', () => {
+        if (!dirty) {
+          try {
+            const saved = localStorage.getItem(key);
+            if (saved !== null && !field.value) {
+              const record = JSON.parse(saved);
+              if (record.section === 'pg018_sec003' && record.item === 'item-1' && typeof record.text === 'string') field.value = record.text;
+            }
+          } catch (_) { announce('⚠ Nuk u lexuan shënimet e ruajtura. Provo përsëri.', true);return; }
+        }
+        dirty = true;save();
+      });
+      window.addEventListener('pagehide', save);
+      document.addEventListener('visibilitychange', () => { if (document.hidden) save(); });
+    })();
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

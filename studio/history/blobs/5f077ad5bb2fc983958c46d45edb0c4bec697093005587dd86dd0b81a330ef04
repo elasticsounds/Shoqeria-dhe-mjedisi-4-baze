@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg001_sec001">
+    <meta name="page-section-id" content="1">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+      #content.bk.bk.bk section[data-section-type="front_cover"] { text-align:center; color:var(--bk-primary); }
+      #content.bk.bk.bk section[data-section-type="front_cover"] .bk-heading { font-weight:600; }
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="cover" id="content" class="container opacity-0 bk">
+        <section data-section-type="front_cover" data-section-id="pg001_sec001" class="bk-stack">
+          <p class="bk-body" data-id="pg001_n0002">Dhurata Tara-Nixha, Miranda Stavileci, Lindita Lutaj</p>
+          <h1 class="bk-title" data-id="pg001_n0003">SHOQËRIA DHE MJEDISI 4</h1>
+          <h2 class="bk-heading" data-id="pg001_n0004">Për klasën e katërt të arsimit fillor</h2>
+        </section>
+      </div>
+    </main>
+    <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

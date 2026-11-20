@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe Mjedisi 4</title>
+  <meta name="title-id" content="pg099_sec001">
+  <meta name="page-section-id" content="132">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  
+  <style>
+    #nav-container, #nav-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands), #interface-container, #interface-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands) { font-family: BookPoppins, Poppins, Arial, sans-serif; }
+    #content.bk.bk.bk .bk-banner .bk-row { flex-wrap: nowrap; justify-content: space-between; }
+    #content.bk.bk.bk .bk-banner img, #content.bk.bk.bk .bk-card img { width: 48px; height: 48px; object-fit: contain; flex: none; }
+    #content.bk.bk.bk .bk-card { max-width: 720px; }
+    #content.bk.bk.bk .bk-card strong { font-weight: 700; }
+  </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"><link href="./book-design/reading.css" rel="stylesheet">
+</head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+  <div data-family="illustrated-reading" id="content" data-book-theme="resources" data-reading-layout="text" class="bk">
+    <section data-section-type="text_and_single_image" data-section-id="pg099_sec001">
+      <div class="bk-banner"><div class="bk-row"><h1 data-id="pg099_n0002" class="bk-title">Resurset dhe trashëgimia e vendit tim</h1><img src="studio/assets/pg099_sec001-wheat.png" alt="" aria-hidden="true"></div></div>
+      <div class="bk-stack">
+        <h2 data-id="pg099_n0005" class="bk-heading">Shfrytëzimi i arsyeshëm i pasurive natyrore</h2>
+        <div class="bk-card bk-card--outline">
+          <img src="studio/assets/pg099_sec001-book.png" alt="" aria-hidden="true">
+          <p class="bk-body"><span data-id="pg099_n0008">Pasuri natyrore ose burime natyrore janë të mirat materiale që gjenden në natyrë dhe që mund të përdoren nga njeriu.</span> <span data-id="pg099_n0009">Ato ndahen në burime <strong>të ripërtëritshme</strong> (që janë dielli e ajri) dhe <strong>të paripërtëritshme</strong> (lëndët djegëse, si qymyri, nafta dhe gazi natyror, si dhe uji).</span> <span data-id="pg099_n0010">Burimet natyrore duhet të shfrytëzohen në mënyrë të arsyeshme, sepse shfrytëzimi i pakontrolluar i tyre shkakton shterjen ose harxhimin e tyre, për shkak se ato janë të paripërtëritshme.</span> <span data-id="pg099_n0011">Po ashtu, shfrytëzimi i këtyre burimeve shkakton edhe ndotjen e ambientit.</span><br><span data-id="pg099_n0012">Në botë, sot po punohet që të prodhohet energjia me shfrytëzimin e rrezeve të diellit dhe të erës, sepse janë burime të ripërtëritshme dhe ruajnë ambientin nga ndotja.</span></p>
+        </div>
+      </div>
+    </section>
+  </div>
+</main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script>
+  // The reader can replace translated span contents; restore source emphasis without changing its text.
+  (() => {
+    const node = document.querySelector('[data-id="pg099_n0009"]');
+    const emphasize = () => {
+      if (!node || node.querySelector('strong')) return;
+      const text = node.textContent;
+      const parts = text.split(/(të ripërtëritshme|të paripërtëritshme)/g);
+      if (parts.length < 5) return;
+      const fragment = document.createDocumentFragment();
+      parts.forEach((part, index) => {
+        if (index % 2) { const strong = document.createElement('strong'); strong.textContent = part; fragment.appendChild(strong); }
+        else fragment.appendChild(document.createTextNode(part));
+      });
+      node.replaceChildren(fragment);
+    };
+    if (node) { new MutationObserver(emphasize).observe(node, {childList:true, characterData:true, subtree:true}); emphasize(); }
+  })();
+</script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

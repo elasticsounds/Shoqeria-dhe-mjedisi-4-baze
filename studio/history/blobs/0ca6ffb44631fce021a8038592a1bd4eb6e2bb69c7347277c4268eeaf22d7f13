@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg026_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="35" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 opacity-0">
+  <section data-section-type="text_and_single_image" data-section-id="pg026_sec001" class="bg-[#f7ebe4] text-slate-800 overflow-hidden">
+    <div class="w-full bg-[#ab6ab0] rounded-t-[2rem] rounded-bl-[2rem] mt-6 mb-6">
+      <div class="px-6 py-6 flex items-start justify-between gap-4 max-lg:flex-col max-lg:items-start">
+        <div class="flex-1 pt-2">
+          <h1 class="adt-h2 font-semibold text-white"><span data-id="pg026_n0003">Mendimi ndryshe</span></h1>
+          <div aria-hidden="true" class="mt-3 h-1 w-52 max-w-full rounded-full bg-white/80"></div>
+        </div>
+        <div aria-hidden="true" class="shrink-0 w-24 h-24 rounded-[1.5rem] bg-white/10 flex items-center justify-center text-white font-semibold">
+          <span>&#x1f91d;</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="pb-8">
+      <div class="mb-5 inline-block rounded-md bg-[#6fbd77] px-5 py-2 shadow-sm">
+        <h3 class="adt-h3 font-semibold text-slate-900"><span data-id="pg026_n0004">Situata 1.</span></h3>
+      </div>
+
+      <p class="adt-body leading-relaxed mb-5 text-left max-w-[58rem]">
+        <span data-id="pg026_n0006">M&#xeb;suesi i l&#xeb;nd&#xeb;s Shoq&#xeb;ria dhe mjedisi e nisi or&#xeb;n me nj&#xeb; pyetje q&#xeb; nxiti diskutim:</span>
+        <span data-id="pg026_n0007">- &#xc7;far&#xeb; mendoni, &#xeb;sht&#xeb; m&#xeb; mir&#xeb; t&#xeb; shikoni nj&#xeb; film apo t&#xeb; lexoni nj&#xeb; roman?</span>
+      </p>
+
+      <p class="adt-body leading-relaxed mb-8 text-left max-w-[58rem]">
+        <span data-id="pg026_n0009">Andi dhe Tea reaguan menj&#xeb;her&#xeb;, duke th&#xeb;n&#xeb; se filmi ta jep ngjarjen me pamje, &#xeb;sht&#xeb; m&#xeb; i leht&#xeb; p&#xeb;r t&apos;u mbajtur n&#xeb; mend dhe ta kursen koh&#xeb;n.</span>
+        <span data-id="pg026_n0010">Por, Trina dhe Agroni nuk e p&#xeb;rkrah&#xeb;n k&#xeb;t&#xeb; mendim.</span>
+        <span data-id="pg026_n0011">Ata than&#xeb; se libri &#xeb;sht&#xeb; m&#xeb; i mir&#xeb;, sepse t&#xeb; l&#xeb; hap&#xeb;sir&#xeb; p&#xeb;r t&#xeb; menduar, p&#xeb;r t&#xeb; imagjinuar dhe t&#xeb; b&#xeb;n m&#xeb; kreativ.</span>
+        <span data-id="pg026_n0012">K&#xeb;shtu, t&#xeb; gjith&#xeb; u p&#xeb;rfshin&#xeb; n&#xeb; diskutim, duke dh&#xeb;n&#xeb; mendime t&#xeb; ndryshme, por gjithmon&#xeb; duke pritur radh&#xeb;n p&#xeb;r t&#xeb; folur.</span>
+        <span data-id="pg026_n0013">M&#xeb;suesi e dinte q&#xeb; t&#xeb; dy kishin vler&#xeb;n e vet.</span>
+      </p>
+
+      <div class="mb-6 rounded-[2rem] border-[6px] border-[#d6a06d] bg-[#f3dfd2] shadow-md overflow-hidden clear-both">
+        <img data-id="pg026_im001" src="images/pg026_im001.png" alt="Kat&#xeb;r nx&#xeb;n&#xeb;s t&#xeb; ulur rreth nj&#xeb; tavoline n&#xeb; klas&#xeb; diskutojn&#xeb; me radh&#xeb;, me libra t&#xeb; hapur p&#xeb;rpara dhe tabel&#xeb;n e gjelb&#xeb;r pas tyre." class="w-full h-auto block">
+      </div>
+
+      <aside class="rounded-[1.75rem] bg-[#d9c3e6] border-2 border-white shadow-lg p-5 max-sm:p-4 text-left">
+        <div class="flex gap-4 items-start max-sm:flex-col">
+          <div aria-hidden="true" class="shrink-0 w-16 h-16 rounded-2xl bg-[#ab6ab0] text-white flex items-center justify-center font-semibold">
+            <span>?</span>
+          </div>
+          <div class="flex-1 space-y-5 w-full">
+            <div class="rounded-2xl bg-white/40 p-4">
+              <p class="adt-body leading-relaxed mb-3"><span data-id="pg026_n0015">- Po ty, a t&#xeb; p&#xeb;lqen m&#xeb; shum&#xeb; filmi apo libri? Argumentoje p&#xeb;rgjigjen t&#xeb;nde!</span></p>
+              <label for="item-1" class="sr-only">- Po ty, a t&#xeb; p&#xeb;lqen m&#xeb; shum&#xeb; filmi apo libri? Argumentoje p&#xeb;rgjigjen t&#xeb;nde!</label>
+              <textarea id="item-1" data-activity-item="item-1" aria-label="- Po ty, a t&#xeb; p&#xeb;lqen m&#xeb; shum&#xeb; filmi apo libri? Argumentoje p&#xeb;rgjigjen t&#xeb;nde!" class="w-full min-h-11 h-28 rounded-xl border-2 border-[#b06ab3] bg-white px-4 py-3 outline-none focus:ring-2 focus:ring-[#b06ab3]"></textarea>
+            </div>
+
+            <div class="rounded-2xl bg-white/40 p-4">
+              <p class="adt-body leading-relaxed mb-3"><span data-id="pg026_n0016">- A duhet t&#xeb; pajtohesh gjithmon&#xeb; me mendimin e t&#xeb; tjer&#xeb;ve? Sa &#xeb;sht&#xeb; i r&#xeb;nd&#xeb;sish&#xeb;m mendimi yt?</span></p>
+              <label for="item-2" class="sr-only">- A duhet t&#xeb; pajtohesh gjithmon&#xeb; me mendimin e t&#xeb; tjer&#xeb;ve? Sa &#xeb;sht&#xeb; i r&#xeb;nd&#xeb;sish&#xeb;m mendimi yt?</label>
+              <textarea id="item-2" data-activity-item="item-2" aria-label="- A duhet t&#xeb; pajtohesh gjithmon&#xeb; me mendimin e t&#xeb; tjer&#xeb;ve? Sa &#xeb;sht&#xeb; i r&#xeb;nd&#xeb;sish&#xeb;m mendimi yt?" class="w-full min-h-11 h-28 rounded-xl border-2 border-[#b06ab3] bg-white px-4 py-3 outline-none focus:ring-2 focus:ring-[#b06ab3]"></textarea>
+            </div>
+
+            <div class="rounded-2xl bg-white/40 p-4">
+              <p class="adt-body leading-relaxed mb-3"><span data-id="pg026_n0017">- Pasi e keni kuptuar sa i r&#xeb;nd&#xeb;sish&#xeb;m &#xeb;sht&#xeb; mendimi juaj, realizoni nj&#xeb; diskutim t&#xeb; ngjash&#xeb;m n&#xeb; klas&#xeb; p&#xeb;r sportet.</span></p>
+              <label for="item-3" class="sr-only">- Pasi e keni kuptuar sa i r&#xeb;nd&#xeb;sish&#xeb;m &#xeb;sht&#xeb; mendimi juaj, realizoni nj&#xeb; diskutim t&#xeb; ngjash&#xeb;m n&#xeb; klas&#xeb; p&#xeb;r sportet.</label>
+              <textarea id="item-3" data-activity-item="item-3" aria-label="- Pasi e keni kuptuar sa i r&#xeb;nd&#xeb;sish&#xeb;m &#xeb;sht&#xeb; mendimi juaj, realizoni nj&#xeb; diskutim t&#xeb; ngjash&#xeb;m n&#xeb; klas&#xeb; p&#xeb;r sportet." class="w-full min-h-11 h-24 rounded-xl border-2 border-[#b06ab3] bg-white px-4 py-3 outline-none focus:ring-2 focus:ring-[#b06ab3]"></textarea>
+            </div>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

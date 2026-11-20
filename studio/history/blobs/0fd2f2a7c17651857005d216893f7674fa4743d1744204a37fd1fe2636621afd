@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg087_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="120">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-2 py-8 bg-white opacity-0 bk">
+  <section data-section-type="text_and_images" data-section-id="pg087_sec001" class="w-full text-gray-900">
+    <div class="mb-5 flex items-stretch">
+      <div class="flex-1 bg-purple-500 px-6 py-4 flex items-center">
+        <h1 class="adt-h3 text-left font-bold text-white" data-id="pg087_n0002">Traditat dhe trashëgimia jonë</h1>
+      </div>
+      <div class="w-28 bg-purple-500 ml-4 rounded-md max-sm:hidden"></div>
+    </div>
+
+    <div class="mb-6 max-w-2xl">
+      <h2 class="adt-h2 text-left font-bold text-gray-800 mb-2" data-id="pg087_n0004">Veshjet tradicionale</h2>
+      <div class="h-1 w-56 bg-purple-400 max-sm:w-36"></div>
+    </div>
+
+    <aside class="mb-4 bg-purple-100 border border-purple-200 px-4 py-4 max-sm:px-2 max-sm:py-3">
+      <div class="flex justify-end mb-2">
+        <div class="bg-purple-500 text-white px-6 py-2 leading-none max-sm:px-3 max-sm:py-1">
+          <span class="adt-h2 leading-none" data-id="pg087_n0006">?</span>
+        </div>
+      </div>
+      <div class="space-y-5 max-sm:space-y-4">
+        <div>
+          <div class="adt-body text-gray-800"><span data-id="pg087_n0009">Çfarë rëndësie kanë veshjet tradicionale?</span></div>
+          <label for="item-1" class="sr-only">Çfarë rëndësie kanë veshjet tradicionale?</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="Çfarë rëndësie kanë veshjet tradicionale?" class="mt-2 w-full min-h-11 rounded-xl border border-purple-300 px-4 py-3 bg-white text-gray-800"></textarea>
+        </div>
+
+        <div>
+          <div class="adt-body text-gray-800"><span data-id="pg087_n0011">Përmend dy gjëra të veçanta që Klea i mësoi në këtë udhëtim.</span></div>
+          <label for="item-2" class="sr-only">Përmend dy gjëra të veçanta që Klea i mësoi në këtë udhëtim.</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="Përmend dy gjëra të veçanta që Klea i mësoi në këtë udhëtim." class="mt-2 w-full min-h-11 rounded-xl border border-purple-300 px-4 py-3 bg-white text-gray-800"></textarea>
+        </div>
+
+        <div>
+          <div class="adt-body text-gray-800"><span data-id="pg087_n0013">A keni dëgjuar për ndonjë veshje tjetër tradicionale?</span> <span data-id="pg087_n0014">Diskutoni së bashku.</span></div>
+          <label for="item-3" class="sr-only">A keni dëgjuar për ndonjë veshje tjetër tradicionale? Diskutoni së bashku.</label>
+          <textarea id="item-3" data-activity-item="item-3" aria-label="A keni dëgjuar për ndonjë veshje tjetër tradicionale? Diskutoni së bashku." class="mt-2 w-full min-h-11 rounded-xl border border-purple-300 px-4 py-3 bg-white text-gray-800"></textarea>
+        </div>
+
+        <div>
+          <div class="adt-body text-gray-800"><span data-id="pg087_n0016">A keni ndonjë veshje tradicionale?</span></div>
+          <label for="item-4" class="sr-only">A keni ndonjë veshje tradicionale?</label>
+          <input id="item-4" type="text" data-activity-item="item-4" aria-label="A keni ndonjë veshje tradicionale?" class="mt-2 w-full min-h-11 rounded-xl border border-purple-300 px-4 py-3 bg-white text-gray-800">
+        </div>
+
+        <div>
+          <div class="adt-body text-gray-800"><span data-id="pg087_n0018">Pse është e rëndësishme të njohim dhe të veshim rrobat tradicionale të vendit tonë?</span></div>
+          <label for="item-5" class="sr-only">Pse është e rëndësishme të njohim dhe të veshim rrobat tradicionale të vendit tonë?</label>
+          <textarea id="item-5" data-activity-item="item-5" aria-label="Pse është e rëndësishme të njohim dhe të veshim rrobat tradicionale të vendit tonë?" class="mt-2 w-full min-h-11 rounded-xl border border-purple-300 px-4 py-3 bg-white text-gray-800"></textarea>
+        </div>
+
+        <div>
+          <div class="adt-body text-gray-800"><span data-id="pg087_n0020">Vishuni me rroba tradicionale dhe bëni ekspozitë në shkollë.</span> <span data-id="pg087_n0021">Tregoni si u ndiet.</span></div>
+          <label for="item-6" class="sr-only">Vishuni me rroba tradicionale dhe bëni ekspozitë në shkollë. Tregoni si u ndiet.</label>
+          <textarea id="item-6" data-activity-item="item-6" aria-label="Vishuni me rroba tradicionale dhe bëni ekspozitë në shkollë. Tregoni si u ndiet." class="mt-2 w-full min-h-11 rounded-xl border border-purple-300 px-4 py-3 bg-white text-gray-800"></textarea>
+        </div>
+      </div>
+    </aside>
+
+    <div class="mb-8 border border-purple-400 px-4 py-4 bg-white">
+      <p class="adt-body text-left text-gray-800 mb-3 italic"><span data-id="pg087_n0024">Kostumet popullore janë veshje tradicionale që janë përdorur nga njerëzit në të kaluarën dhe që trashëgohen brez pas brezi.</span></p>
+      <p class="adt-body text-left text-gray-800 mb-3 italic"><span data-id="pg087_n0026">Secili rajon i një vendi dhe secili shtet ka veshjet tradicionale të tij, p.sh.: veshja e Rugovës, e Hasit, e Tropojës etj.</span></p>
+      <p class="adt-body text-left text-gray-800 mb-3 italic"><span data-id="pg087_n0028">Veshja popullore e grave të Hasit ka karakteristikë përdorimin e dërrasës, e cila mbulohet me veshje me motive dekorative, me ngjyra të ndryshme, ku mbizotëron e kuqja.</span> <span data-id="pg087_n0029">Po ashtu, interesante është veshja e grave të Rugovës, e përbërë nga këmisha me mëngë të shkurtra prej pëlhure.</span></p>
+      <p class="adt-body text-left text-gray-800 mb-3 italic"><span data-id="pg087_n0031">Çdo veshje ka një histori dhe karakterizohet nga elemente të veçanta që e veçojnë nga veshjet e tjera të një treve, të një krahine apo të një rajoni.</span> <span data-id="pg087_n0032">Veshjet popullore janë shumë të kërkuara për ditët e festave dhe për ahengje të ndryshme.</span></p>
+      <p class="adt-body text-left text-gray-800 italic"><span data-id="pg087_n0034">Veshjet e grave karakterizohen me qëndisje dhe ngjyra të ndryshme, kurse veshjet e burrave kryesisht janë punime leshi: tirq, këmishë, jelek dhe plisi që e karakterizon burrin tradicional shqiptar.</span></p>
+    </div>
+
+    <div class="mb-8 grid grid-cols-3 gap-x-10 gap-y-8 justify-items-center max-lg:grid-cols-2 max-sm:grid-cols-1 max-sm:gap-y-6">
+      <figure class="w-full max-w-[260px] flex flex-col items-center">
+        <img src="images/pg087_im008_seg001_v1_crop_v1.png" alt="Grua dhe burrë me veshje tradicionale të Rugovës, me qëndisje shumëngjyrëshe, përparëse të kuqe dhe plis të bardhë." data-id="pg087_im008_seg001_v1_crop_v1" class="w-full h-auto border-2 border-green-300 bg-white">
+        <figcaption class="adt-caption text-center text-gray-800 mt-2" data-id="pg087_n0036">Veshje e Rugovës</figcaption>
+      </figure>
+
+      <figure class="w-full max-w-[260px] flex flex-col items-center">
+        <img src="images/pg087_im008_seg002_v1_crop_v1.png" alt="Dy kostume tradicionale të Drenicës me xhamadan të errët, brez të kuq dhe tirq." data-id="pg087_im008_seg002_v1_crop_v1" class="w-full h-auto border-2 border-green-300 bg-white">
+        <figcaption class="adt-caption text-center text-gray-800 mt-2" data-id="pg087_n0038">Veshje e Drenicës</figcaption>
+      </figure>
+
+      <figure class="w-full max-w-[260px] flex flex-col items-center max-lg:col-span-2 max-lg:justify-self-center max-sm:col-span-1">
+        <img src="images/pg087_im008_seg003_v1.png" alt="Veshje tradicionale e Hasit, e zbukuruar me motive të dendura shumëngjyrëshe dhe stoli në pjesën e sipërme." data-id="pg087_im008_seg003_v1" class="w-full h-auto border-2 border-green-300 bg-white">
+        <figcaption class="adt-caption text-center text-gray-800 mt-2" data-id="pg087_n0040">Veshje e Hasit</figcaption>
+      </figure>
+
+      <figure class="w-full max-w-[260px] flex flex-col items-center max-lg:justify-self-end max-sm:justify-self-center">
+        <img src="images/pg087_im008_seg004_v1_crop_v1.png" alt="Xhubletë e zezë me brez dhe vija rozë, me fund të valëzuar tradicional." data-id="pg087_im008_seg004_v1_crop_v1" class="w-full h-auto border-2 border-green-300 bg-white">
+        <figcaption class="adt-caption text-center text-gray-800 mt-2" data-id="pg087_n0042">Xhubleta</figcaption>
+      </figure>
+
+      <figure class="w-full max-w-[260px] flex flex-col items-center max-lg:justify-self-start max-sm:justify-self-center">
+        <img src="images/pg087_im008_seg005_v1_crop_v1.png" alt="Dy veshje tradicionale të Tropojës me jelek të zi, këmishë të bardhë të qëndisur, fund të kuq dhe përparëse të bardhë." data-id="pg087_im008_seg005_v1_crop_v1" class="w-full h-auto border-2 border-green-300 bg-white">
+        <figcaption class="adt-caption text-center text-gray-800 mt-2" data-id="pg087_n0044">Veshje e Tropojës</figcaption>
+      </figure>
+    </div>
+
+    <p class="adt-body text-left text-gray-900"><span class="font-bold" data-id="pg087_n0046">Fjalët kyçe:</span> <span data-id="pg087_n0047">veshje tradicionale, traditë, kulturë, zakon.</span></p>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

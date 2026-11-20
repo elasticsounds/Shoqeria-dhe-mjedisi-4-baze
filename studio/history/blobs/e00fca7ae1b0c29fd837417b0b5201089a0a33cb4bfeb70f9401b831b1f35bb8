@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg128_sec001_p2">
+<meta name="page-section-id" content="169">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>
+body,button,input,textarea,select{font-family:BookPoppins,Poppins,sans-serif}
+#content.bk.bk.bk.bk{padding-top:24px;overflow-x:visible}
+#content.bk.bk.bk section{max-width:720px}
+#content.bk.bk.bk dl{margin:24px 0 0}
+#content.bk.bk.bk dl>div+div{margin-top:12px}
+#content.bk.bk.bk dt,#content.bk.bk.bk dd{display:inline;margin:0}
+#content.bk.bk.bk dt{font-weight:700}
+#content.bk.bk.bk dd{font-weight:400}
+#content.bk.bk.bk footer{margin-top:24px}
+@media(min-width:768px){#content.bk.bk.bk{padding-inline:32px}}
+@media(max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+#interface-container :not(i):not([class*="fa-"]),#nav-container :not(i):not([class*="fa-"]){font-family:BookPoppins,Poppins,sans-serif!important;font-size:18px}
+:is(#interface-container,#nav-container) :is(button,a,input,select){min-height:48px;min-width:48px}
+:is(#interface-container,#nav-container) :focus-visible{outline:3px solid #143C78;outline-offset:3px}
+@media(prefers-reduced-motion:reduce){body *,body *::before,body *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main><div data-family="glossary" data-source-page="128" id="content" class="bk">
+<section data-section-type="text_only" data-section-id="pg128_sec001_p2" aria-label="FJALORTHI">
+<h1 class="bk-title">FJALORTHI</h1>
+<dl class="bk-body">
+<div data-id="pg128_n0017"><dt>Qendër shëndetësore</dt> <dd>– Vend ku njerëzit marrin ndihmë mjekësore.</dd></div>
+<div data-id="pg128_n0019"><dt>Diversitet kulturor</dt> <dd>– Kur njerëz me kultura dhe zakone të ndryshme jetojnë së bashku.</dd></div>
+<div data-id="pg128_n0021"><dt>Respekt</dt> <dd>– Sjellje e mirë dhe vlerësim për të tjerët.</dd></div>
+<div data-id="pg128_n0023"><dt>Traditë</dt> <dd>– Zakone dhe mënyra jetese që përcillen nga brezi në brez.</dd></div>
+<div data-id="pg128_n0025"><dt>Paqe</dt> <dd>– Jetë pa luftë dhe pa dhunë.</dd></div>
+<div data-id="pg128_n0027"><dt>Tolerancë</dt> <dd>– Pranimi dhe respektimi i mendimeve ose i dallimeve të të tjerëve.</dd></div>
+</dl>
+<footer class="bk-caption" aria-label="Faqja 128">128</footer>
+</section></div></main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script>
+// The reader localizes each data-id as one string. Restore its semantic pair after localization.
+(() => {
+  const list = document.querySelector('#content dl');
+  function restorePairs() {
+    list.querySelectorAll(':scope > div[data-id]').forEach(entry => {
+      if (entry.querySelector(':scope > dt') && entry.querySelector(':scope > dd')) return;
+      const match = entry.textContent.match(/^\s*(.*?)\s([–-])\s([\s\S]*)$/);
+      if (!match) return;
+      const term = document.createElement('dt');
+      const definition = document.createElement('dd');
+      term.textContent = match[1];
+      definition.textContent = match[2] + ' ' + match[3];
+      entry.replaceChildren(term, document.createTextNode(' '), definition);
+    });
+  }
+  new MutationObserver(restorePairs).observe(list, {childList:true, subtree:true, characterData:true});
+  restorePairs();
+})();
+</script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

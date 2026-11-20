@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg112_sec002">
+    <meta name="page-section-id" content="149">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+      #content.bk details[open] > :not(summary) { margin-top: 12px; }
+      #interface-container, #nav-container { font-family: BookPoppins, Poppins, sans-serif; }
+      #interface-container :not(i):not(svg):not(path), #nav-container :not(i):not(svg):not(path) { font-family: inherit; }
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+    <div data-family="lesson-discussion" id="content" class="container opacity-0 bk">
+      <section data-section-type="boxed_text" data-section-id="pg112_sec002" class="bk-stack">
+        <section class="bk-activity bk-card bk-card--surface1" data-activity-pattern="discussion" data-activity-variant="group-discussion">
+          <p class="bk-prompt bk-body"><span data-id="pg112_n0023">- Çfarë i bënte përshtypje Malit në fshat?</span></p>
+          <details>
+            <summary class="bk-btn bk-btn--secondary">Shënime (opsionale)</summary>
+            <label for="item-1" class="bk-sr-only">- Çfarë i bënte përshtypje Malit në fshat?</label>
+            <textarea id="item-1" data-activity-item="item-1" aria-label="- Çfarë i bënte përshtypje Malit në fshat?" class="bk-field" rows="3"></textarea>
+            <p class="bk-feedback" role="status" aria-live="polite" hidden></p>
+            <button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+          </details>
+        </section>
+        <section class="bk-activity bk-card bk-card--surface1" data-activity-pattern="discussion" data-activity-variant="group-discussion">
+          <p class="bk-prompt bk-body"><span data-id="pg112_n0024">- Pse Mali thotë që uji është element kyç i jetës së gjallesave?</span></p>
+          <details>
+            <summary class="bk-btn bk-btn--secondary">Shënime (opsionale)</summary>
+            <label for="item-2" class="bk-sr-only">- Pse Mali thotë që uji është element kyç i jetës së gjallesave?</label>
+            <textarea id="item-2" data-activity-item="item-2" aria-label="- Pse Mali thotë që uji është element kyç i jetës së gjallesave?" class="bk-field" rows="3"></textarea>
+            <p class="bk-feedback" role="status" aria-live="polite" hidden></p>
+            <button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+          </details>
+        </section>
+      </section>
+    </div>
+  </main>
+  <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+  <script>
+  (function () {
+    function setup() {
+      document.querySelectorAll('#content textarea[data-activity-item]').forEach(function (field) {
+        var details = field.closest('details');
+        var status = details.querySelector('[role="status"]');
+        var retry = details.querySelector('[data-action="retry-save"]');
+        var key = 'Shoqeria-dhe-Mjedisi-4:' + location.pathname.replace(/[^/]*$/, '') + ':pg112_sec002:' + field.dataset.activityItem;
+        var edited = false;
+        function message(ok) {
+          status.textContent = ok ? '✓ U ruajt.' : '⚠ Nuk u ruajt.';
+          status.hidden = false;
+          retry.hidden = ok;
+        }
+        function restore() {
+          try {
+            var saved = localStorage.getItem(key);
+            if (saved !== null) field.value = saved;
+            status.hidden = true;
+            retry.hidden = true;
+          } catch (error) { message(false); }
+        }
+        function save() {
+          try {
+            localStorage.setItem(key, field.value);
+            if (localStorage.getItem(key) !== field.value) throw new Error('Save verification failed');
+            message(true);
+          } catch (error) { message(false); }
+        }
+        restore();
+        field.addEventListener('input', function () { edited = true; save(); });
+        retry.addEventListener('click', function () { if (edited) save(); else restore(); });
+      });
+    }
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', setup); else setup();
+  }());
+  </script>
+</body>
+</html>

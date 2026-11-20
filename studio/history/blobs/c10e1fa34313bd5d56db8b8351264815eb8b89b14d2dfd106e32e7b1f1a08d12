@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg128_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="163" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container bg-white opacity-0">
+  <section data-section-type="text_only" data-section-id="pg128_sec001" class="mx-auto w-full max-w-[62rem] px-16 py-16 max-lg:px-10 max-sm:px-5 max-sm:py-10">
+    <div class="max-w-[52rem]">
+      <h1 data-id="pg128_n0002" class="adt-h1 font-bold tracking-wide text-neutral-900 mb-12 max-sm:mb-8">FJALORTHI</h1>
+
+      <ul class="space-y-2 text-left list-none m-0 p-0">
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0005">Komunitet &#x2013; Grup njer&#xeb;zish q&#xeb; jetojn&#xeb; ose punojn&#xeb; s&#xeb; bashku dhe ndihmojn&#xeb; nj&#xeb;ri-tjetrin.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0007">Grup shoq&#xeb;ror &#x2013; Grup njer&#xeb;zish q&#xeb; kan&#xeb; interesa ose aktivitete t&#xeb; p&#xeb;rbashk&#xeb;ta.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0009">P&#xeb;rkrahje &#x2013; Ndihm&#xeb; dhe mb&#xeb;shtetje p&#xeb;r dik&#xeb;.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0011">Nd&#xeb;rveprim &#x2013; Komunikimi dhe bashk&#xeb;punimi mes njer&#xeb;zve.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0013">P&#xeb;rgjegj&#xeb;si &#x2013; Detyr&#xeb; q&#xeb; duhet ta kryejm&#xeb; me kujdes.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0015">Institucion &#x2013; Vend ku punojn&#xeb; njer&#xeb;z p&#xeb;r t&#x2019;u sh&#xeb;rbyer qytetar&#xeb;ve.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0017">Qend&#xeb;r sh&#xeb;ndet&#xeb;sore &#x2013; Vend ku njer&#xeb;zit marrin ndihm&#xeb; mjek&#xeb;sore.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0019">Diversitet kulturor &#x2013; Kur njer&#xeb;z me kultura dhe zakone t&#xeb; ndryshme jetojn&#xeb; s&#xeb; bashku.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0021">Respekt &#x2013; Sjellje e mir&#xeb; dhe vler&#xeb;sim p&#xeb;r t&#xeb; tjer&#xeb;t.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0023">Tradit&#xeb; &#x2013; Zakone dhe m&#xeb;nyra jetese q&#xeb; p&#xeb;rcillen nga brezi n&#xeb; brez.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0025">Paqe &#x2013; Jet&#xeb; pa luft&#xeb; dhe pa dhun&#xeb;.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0027">Toleranc&#xeb; &#x2013; Pranimi dhe respektimi i mendimeve ose i dallimeve t&#xeb; t&#xeb; tjer&#xeb;ve.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0029">Solidaritet &#x2013; Ndihm&#xeb; dhe mb&#xeb;shtetje p&#xeb;r njer&#xeb;zit q&#xeb; kan&#xeb; nevoj&#xeb;.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0031">Diskriminim &#x2013; Trajtim i padrejt&#xeb; i dikujt p&#xeb;r shkak t&#xeb; dallimeve.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0033">Individ &#x2013; Nj&#xeb; person i vet&#xeb;m.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0035">Empati &#x2013; T&#xeb; kuptosh dhe t&#xeb; ndjesh emocionet e dikujt tjet&#xeb;r.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0037">Dhun&#xeb; &#x2013; Sjellje q&#xeb; l&#xeb;ndon ose d&#xeb;mton dik&#xeb;.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0039">Vendimmarrje &#x2013; Procesi i zgjedhjes ose i marrjes s&#xeb; nj&#xeb; vendimi.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0041">Komun&#xeb; &#x2013; Nj&#xeb;si e qytetit ose e zon&#xeb;s, q&#xeb; kujdeset p&#xeb;r sh&#xeb;rbimet e qytetar&#xeb;ve.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0043">Prokuror &#x2013; Person q&#xeb; merret me hetimin e shkeljeve t&#xeb; ligjit.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0045">Gjyqtar &#x2013; Person q&#xeb; merr vendime n&#xeb; gjykat&#xeb; sipas ligjit.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0047">Avokat &#x2013; Person q&#xeb; ndihmon dhe mbron njer&#xeb;zit para ligjit.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0049">Noter &#x2013; Person q&#xeb; v&#xeb;rteton dokumente zyrtare.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0051">Ligj &#x2013; Rregulla q&#xeb; duhet t&#x2019;i zbatojn&#xeb; t&#xeb; gjith&#xeb;.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0053">Ekonomi &#x2013; Menaxhimi i parave, i pun&#xeb;s dhe i pasurive t&#xeb; nj&#xeb; vendi ose familjeje.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0055">Kontribut &#x2013; Ndihm&#xeb; ose pjes&#xeb;marrje p&#xeb;r nj&#xeb; pun&#xeb; t&#xeb; mir&#xeb;.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0057">Pasuri t&#xeb; parip&#xeb;rt&#xeb;ritshme &#x2013; Pasuri natyrore q&#xeb; harxhohen dhe nuk z&#xeb;vend&#xeb;sohen shpejt, si nafta dhe qymyri.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0059">Pasuri t&#xeb; rip&#xeb;rt&#xeb;ritshme &#x2013; Pasuri natyrore q&#xeb; mund t&#xeb; p&#xeb;rdoren p&#xeb;rs&#xeb;ri, si uji, era dhe dielli.</span></li>
+      </ul>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

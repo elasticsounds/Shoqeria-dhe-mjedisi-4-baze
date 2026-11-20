@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg123_sec001">
+    <meta name="page-section-id" content="163">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+      #interface-container, #nav-container, #interface-container :not([class*="fa-"]):not(.fa), #nav-container :not([class*="fa-"]):not(.fa) { font-family: BookPoppins, Poppins, sans-serif !important; }
+      #content.bk .bk-banner { display:flex; align-items:center; gap:12px; }
+      #content.bk.bk.bk .bk-banner img { height:48px; width:auto; flex:none; }
+      #content.bk.bk.bk.bk .bk-figure { width:min(100%,720px); margin-inline:auto; align-items:flex-start; }
+      #content.bk.bk.bk .bk-figure > picture { display:block; width:56.3%; margin-left:23.8%; }
+      #content.bk.bk.bk.bk .bk-figure img { width:100%; border-radius:0; }
+      #content.bk .bk-figure .bk-btn { align-self:center; }
+      #content.bk dialog { width:min(960px,calc(100% - 32px)); max-width:none; max-height:calc(100dvh - 32px); margin:auto; padding:20px; color:var(--bk-ink); background:var(--bk-paper); border:2px solid var(--bk-primary); border-radius:var(--bk-r-card); }
+      #content.bk dialog::backdrop { background:rgba(0,0,0,.65); }
+      #content.bk dialog .bk-row { margin-bottom:12px; }
+      #content.bk dialog [data-view] { overflow:auto; max-height:calc(100dvh - 180px); }
+      #content.bk.bk.bk dialog [data-view] img { display:block; width:100%; max-width:none; height:auto; border-radius:0; }
+      #content.bk.bk.bk dialog [data-view][data-zoom="2"] img { width:200%; }
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"><link href="./book-design/reading.css" rel="stylesheet">
+</head>
+<body>
+  <main>
+    <div data-family="illustrated-opener" id="content" data-book-theme="nature" data-reading-layout="visual" class="bk">
+      <section data-section-type="separator" data-section-id="pg123_sec001">
+        <div class="bk-banner"><img src="studio/assets/pg123_sec001-emblem.png" alt=""><h1 data-id="pg123_n0002" class="bk-title">Mjedisi i vendit tim</h1></div>
+        <div class="bk-stack">
+          <h2 data-id="pg123_n0004" class="bk-heading">Kujdesi për higjienën në komunitet</h2>
+          <figure class="bk-figure">
+            <picture><source srcset="studio/assets/pg123_sec001-upper.png"><img data-id="pg123_im001_seg001_v1" src="images/pg123_im001_seg001_v1.png" alt="Vajza luan në piano në skenë, para perdeve të kuqe."></picture>
+            <button type="button" class="bk-btn bk-btn--secondary" data-open="">Shiko figurën</button>
+          </figure>
+        </div>
+        <dialog aria-label="Figura: vajza në piano">
+          <div class="bk-row"><button type="button" class="bk-btn bk-btn--secondary" data-zoom-button="" aria-pressed="false">Zmadho figurën</button><button type="button" class="bk-btn bk-btn--secondary" data-close="">Mbyll</button></div>
+          <div data-view="" tabindex="0" aria-label="Figura e zmadhuar; lëviz për ta parë të plotë"><img src="studio/assets/pg123_sec001-upper.png" alt="Vajza luan në piano në skenë, para perdeve të kuqe."></div>
+        </dialog>
+      </section>
+    </div>
+  </main>
+  <script>
+    window.activityAnswerTextIds = JSON.parse('{}');
+    (() => { const dialog=document.querySelector('dialog'), trigger=document.querySelector('[data-open]'), zoom=dialog.querySelector('[data-zoom-button]'), view=dialog.querySelector('[data-view]'); trigger.addEventListener('click',()=>{view.dataset.zoom='1'; zoom.setAttribute('aria-pressed','false'); zoom.textContent='Zmadho figurën'; dialog.showModal();}); dialog.querySelector('[data-close]').addEventListener('click',()=>dialog.close()); dialog.addEventListener('close',()=>trigger.focus()); zoom.addEventListener('click',()=>{const enlarged=view.dataset.zoom!=='2'; view.dataset.zoom=enlarged?'2':'1'; zoom.setAttribute('aria-pressed',String(enlarged)); zoom.textContent=enlarged?'Zvogëlo figurën':'Zmadho figurën';}); })();
+  </script>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

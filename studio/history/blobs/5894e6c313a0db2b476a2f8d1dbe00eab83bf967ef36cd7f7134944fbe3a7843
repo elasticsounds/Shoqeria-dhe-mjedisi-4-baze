@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg056_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="69">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" class="container mx-auto max-w-5xl bg-white px-10 max-lg:px-8 max-sm:px-4 pt-10 pb-12 opacity-0 bk" id="content">
+  <section data-section-type="activity_open_ended_answer" data-section-id="pg056_sec002" role="group" class="mx-auto max-w-5xl">
+    <div class="flex items-stretch max-sm:flex-col">
+      <div class="w-28 shrink-0 rounded-l-xl bg-purple-500 flex items-start justify-center py-6 max-sm:w-full max-sm:rounded-t-xl max-sm:rounded-l-none max-sm:py-4">
+        <div class="text-white adt-h2 leading-none" aria-hidden="true">?</div>
+      </div>
+      <div class="flex-1 rounded-r-xl bg-purple-100 px-8 py-6 max-lg:px-6 max-sm:rounded-b-xl max-sm:rounded-r-none max-sm:px-4 max-sm:py-5">
+        <div class="space-y-5">
+          <div>
+            <p class="adt-body text-gray-900 leading-relaxed"><span data-id="pg056_n0024">Për çfarë po bisedonte Bledi me babanë?</span></p>
+            <label for="activity-item-1" class="sr-only">Për çfarë po bisedonte Bledi me babanë?</label>
+            <textarea id="activity-item-1" data-activity-item="item-1" aria-label="Për çfarë po bisedonte Bledi me babanë?" class="mt-2 min-h-11 w-full rounded-lg border border-purple-300 bg-white px-4 py-3 adt-body text-gray-900 outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+          </div>
+
+          <div>
+            <p class="adt-body text-gray-900 leading-relaxed"><span data-id="pg056_n0025">Çfarë kërkoi Bledi nga babai?</span></p>
+            <label for="activity-item-2" class="sr-only">Çfarë kërkoi Bledi nga babai?</label>
+            <textarea id="activity-item-2" data-activity-item="item-2" aria-label="Çfarë kërkoi Bledi nga babai?" class="mt-2 min-h-11 w-full rounded-lg border border-purple-300 bg-white px-4 py-3 adt-body text-gray-900 outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+          </div>
+
+          <div>
+            <p class="adt-body text-gray-900 leading-relaxed"><span data-id="pg056_n0026">Pse u habit ai nga përgjigjja e babait?</span></p>
+            <label for="activity-item-3" class="sr-only">Pse u habit ai nga përgjigjja e babait?</label>
+            <textarea id="activity-item-3" data-activity-item="item-3" aria-label="Pse u habit ai nga përgjigjja e babait?" class="mt-2 min-h-11 w-full rounded-lg border border-purple-300 bg-white px-4 py-3 adt-body text-gray-900 outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+          </div>
+
+          <div>
+            <p class="adt-body text-gray-900 leading-relaxed"><span data-id="pg056_n0027">Nëse do të kishe jetuar në kohën e gjyshërve të tu, çfarë vendimesh do të kishe marrë ndryshe nga ato që merr sot?</span></p>
+            <label for="activity-item-4" class="sr-only">Nëse do të kishe jetuar në kohën e gjyshërve të tu, çfarë vendimesh do të kishe marrë ndryshe nga ato që merr sot?</label>
+            <textarea id="activity-item-4" data-activity-item="item-4" aria-label="Nëse do të kishe jetuar në kohën e gjyshërve të tu, çfarë vendimesh do të kishe marrë ndryshe nga ato që merr sot?" class="mt-2 min-h-28 w-full rounded-lg border border-purple-300 bg-white px-4 py-3 adt-body text-gray-900 outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+          </div>
+
+          <div>
+            <p class="adt-body text-gray-900 leading-relaxed"><span data-id="pg056_n0028">A mendon se është më mirë të marrësh vendime vetëm apo bashkë me familjen? Pse?</span></p>
+            <label for="activity-item-5" class="sr-only">A mendon se është më mirë të marrësh vendime vetëm apo bashkë me familjen? Pse?</label>
+            <textarea id="activity-item-5" data-activity-item="item-5" aria-label="A mendon se është më mirë të marrësh vendime vetëm apo bashkë me familjen? Pse?" class="mt-2 min-h-28 w-full rounded-lg border border-purple-300 bg-white px-4 py-3 adt-body text-gray-900 outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

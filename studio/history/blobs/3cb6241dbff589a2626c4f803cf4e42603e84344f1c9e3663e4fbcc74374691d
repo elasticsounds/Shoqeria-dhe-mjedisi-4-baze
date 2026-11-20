@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg112_sec003">
+    <meta name="page-section-id" content="150">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+      #content.bk.bk.bk.bk { padding-top: var(--bk-gap); overflow: visible; }
+      #content.bk.bk.bk.bk .bk-card--outline { border-color: var(--bk-primary); }
+      #content.bk.bk.bk .bk-card p { max-width: 720px; margin: 0; }
+      #content.bk.bk.bk .bk-card p + p { margin-top: 12px; }
+      #content.bk.bk.bk em { font-style: normal; font-weight: 600; }
+      #content.bk.bk.bk.bk strong { font-weight: 700; }
+      #page-heading, #nav-container, #nav-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands),
+      #interface-container, #interface-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands) { font-family: BookPoppins, Poppins, sans-serif; }
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk">
+        <section data-section-type="boxed_text" data-section-id="pg112_sec003" class="bk-stack">
+          <div class="bk-card bk-card--outline">
+            <p class="bk-body"><em><span data-id="pg112_n0030">Uji është i domosdoshëm për jetën e qenieve të gjalla.</span> <span data-id="pg112_n0031">Prandaj njeriu duhet të tregojë kujdes të veçantë për ujërat në mjedisin ku jeton.</span></em></p>
+            <p class="bk-body"><em><span data-id="pg112_n0032">Njeriu duhet të kujdeset që të mos keqpërdorë apo ndotë ujin e pijshëm dhe ujërat e tjera.</span> <span data-id="pg112_n0033">Ndotja e ujit është ndotja e të gjitha ujërave në tokë, liqene, lumenj, oqeane, rrjedhje dhe ujëra nëntokësore.</span></em></p>
+          </div>
+        </section>
+      </div>
+    </main>
+    <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

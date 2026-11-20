@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg043_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="57">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="collaborative-project" id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-4 py-8 bg-white opacity-0 bk">
+  <section data-section-type="text_and_single_image" data-section-id="pg043_sec001" class="w-full">
+    <div class="mb-6">
+      <div class="h-4 w-full bg-purple-500 mb-4"></div>
+      <h1 class="adt-h2 text-left text-gray-900 font-normal border-b-4 border-purple-400 pb-2 inline-block" data-id="pg043_n0003">Veprimtaria 3: "Si të jemi qytetarë të mirë?"</h1>
+    </div>
+
+    <div class="mb-6">
+      <img data-id="pg043_im001" src="images/pg043_im001.png" alt="Gjashtë fëmijë qëndrojnë së bashku në grup, duke paraqitur bashkëpunim, përfshirje dhe respekt mes njëri-tjetrit." class="w-full h-auto block">
+    </div>
+
+    <div class="mb-8 rounded-none bg-purple-200 p-5 max-sm:p-4">
+      <p class="adt-body text-left text-gray-900 leading-relaxed mb-2">
+        <span data-id="pg043_n0006">Duke u ndarë në grupe në klasë, caktoni një temë (veprimtari), me të cilën ju do të punoni në kuadër të grupit.</span>
+      </p>
+      <div class="mb-4">
+        <label for="activity-item-1" class="sr-only">Duke u ndarë në grupe në klasë, caktoni një temë (veprimtari), me të cilën ju do të punoni në kuadër të grupit.</label>
+        <input id="activity-item-1" data-activity-item="item-1" type="text" aria-label="Duke u ndarë në grupe në klasë, caktoni një temë (veprimtari), me të cilën ju do të punoni në kuadër të grupit." class="w-full min-h-11 rounded-xl border-2 border-purple-400 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600">
+      </div>
+      <p class="adt-body text-left text-gray-900 leading-relaxed mb-3">
+        <span data-id="pg043_n0007">Ndiq hapat më poshtë për të kryer veprimtarinë/ temën që e keni caktuar:</span>
+      </p>
+      <ul class="space-y-3">
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0010">tematika e veprimtarisë;</span></p>
+          <label for="activity-item-2" class="sr-only">tematika e veprimtarisë;</label>
+          <input id="activity-item-2" data-activity-item="item-2" type="text" aria-label="tematika e veprimtarisë;" class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600">
+        </li>
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0012">rëndësinë që ka pjesëmarrja në këto aktivitete;</span></p>
+          <label for="activity-item-3" class="sr-only">rëndësinë që ka pjesëmarrja në këto aktivitete;</label>
+          <textarea id="activity-item-3" data-activity-item="item-3" aria-label="rëndësinë që ka pjesëmarrja në këto aktivitete;" class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600" rows="2"></textarea>
+        </li>
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0014">përgjegjësia që ka secili prej grupeve të punës;</span></p>
+          <label for="activity-item-4" class="sr-only">përgjegjësia që ka secili prej grupeve të punës;</label>
+          <textarea id="activity-item-4" data-activity-item="item-4" aria-label="përgjegjësia që ka secili prej grupeve të punës;" class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600" rows="2"></textarea>
+        </li>
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0016">përcaktimi i vendit ku do të zhvillohet veprimtaria;</span></p>
+          <label for="activity-item-5" class="sr-only">përcaktimi i vendit ku do të zhvillohet veprimtaria;</label>
+          <input id="activity-item-5" data-activity-item="item-5" type="text" aria-label="përcaktimi i vendit ku do të zhvillohet veprimtaria;" class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600">
+        </li>
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0018">merren në konsideratë nevojat dhe kërkesat që kanë fëmijët;</span></p>
+          <label for="activity-item-6" class="sr-only">merren në konsideratë nevojat dhe kërkesat që kanë fëmijët;</label>
+          <textarea id="activity-item-6" data-activity-item="item-6" aria-label="merren në konsideratë nevojat dhe kërkesat që kanë fëmijët;" class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600" rows="2"></textarea>
+        </li>
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0020">gjenden zgjidhjet më të mira;</span></p>
+          <label for="activity-item-7" class="sr-only">gjenden zgjidhjet më të mira;</label>
+          <textarea id="activity-item-7" data-activity-item="item-7" aria-label="gjenden zgjidhjet më të mira;" class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600" rows="2"></textarea>
+        </li>
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0022">koha e zhvillimit të aktivitetit;</span></p>
+          <label for="activity-item-8" class="sr-only">koha e zhvillimit të aktivitetit;</label>
+          <input id="activity-item-8" data-activity-item="item-8" type="text" aria-label="koha e zhvillimit të aktivitetit;" class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600">
+        </li>
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0024">angazhimi dhe përfshirja e fëmijëve;</span></p>
+          <label for="activity-item-9" class="sr-only">angazhimi dhe përfshirja e fëmijëve;</label>
+          <textarea id="activity-item-9" data-activity-item="item-9" aria-label="angazhimi dhe përfshirja e fëmijëve;" class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600" rows="2"></textarea>
+        </li>
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0026">përmbledhja në fund.</span></p>
+          <label for="activity-item-10" class="sr-only">përmbledhja në fund.</label>
+          <textarea id="activity-item-10" data-activity-item="item-10" aria-label="përmbledhja në fund." class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600" rows="3"></textarea>
+        </li>
+      </ul>
+    </div>
+
+    <div class="mb-8 border-2 border-purple-300 bg-white p-4 max-sm:p-3">
+      <p class="adt-body text-left text-gray-800 italic leading-relaxed">
+        <span data-id="pg043_n0029">Të mësuarit rreth të drejtave të njeriut përfshin jo vetëm njohuritë, por edhe sjelljet në përputhje me vlerat, si: liria, toleranca dhe respekti për të vërtetën.</span> <span data-id="pg043_n0030">Fëmijët kanë të drejtën e fjalës dhe të pjesëmarrjes në diskutime, në lidhje me problemet që i shqetësojnë ata.</span> <span data-id="pg043_n0031">Individët në shoqëri duhet të ndërmarrin nisma dhe të marrin përgjegjësi.</span> <span data-id="pg043_n0032">Aktivitetet realizohen shumë më mirë falë bashkëpunimit.</span> <span data-id="pg043_n0033">Veprimet që individi i bën në ndihmë të komunitetit, e bëjnë atë një qytetar të mirë.</span>
+      </p>
+    </div>
+
+    <div class="pt-2">
+      <p class="adt-body text-left text-gray-900 leading-relaxed">
+        <span data-id="pg043_n0035" class="font-bold">Fjalët kyçe:</span> <span data-id="pg043_n0036">qytetar, pjesëmarrje, komunitet, ndihmë, fëmijë në nevojë.</span>
+      </p>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

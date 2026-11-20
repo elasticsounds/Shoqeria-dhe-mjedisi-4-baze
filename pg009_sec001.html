@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg009_sec001">
+    <meta name="page-section-id" content="16">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+        body:has([data-section-id="pg009_sec001"]),
+        body:has([data-section-id="pg009_sec001"]) :is(button,input,select,textarea) {font-family:BookPoppins,sans-serif;}
+        #nav-container, #nav-container *:not([class*="fa"]),
+        #interface-container, #interface-container *:not([class*="fa"]) {font-family:BookPoppins,sans-serif;}
+        body:has([data-section-id="pg009_sec001"]) *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands):not(i) {font-family:BookPoppins,sans-serif!important;}
+        #content.bk.bk.bk {padding-top:var(--bk-gap);overflow:visible;}
+        #content.bk.bk.bk [data-section-id="pg009_sec001"] .bk-banner {margin:0;padding:16px var(--bk-pad);border-radius:var(--bk-r-card);display:flex;align-items:center;gap:12px;}
+        #content.bk.bk.bk [data-section-id="pg009_sec001"] .bk-title {flex:1;min-width:0;overflow-wrap:anywhere;}
+        #content.bk.bk.bk #pg009-people {width:var(--bk-target);height:var(--bk-target);object-fit:contain;flex:none;}
+        #content.bk.bk.bk [data-section-id="pg009_sec001"] [data-id="pg009_im001"] {width:100%;height:auto;object-fit:contain;border-radius:0;}
+        #content.bk.bk.bk [data-section-id="pg009_sec001"] .bk-heading {font-weight:600;line-height:1.25;}
+        #content.bk.bk.bk #pg009-inspect summary {width:fit-content;padding:12px var(--bk-pad);color:var(--bk-primary);border-color:var(--bk-primary);}
+        #pg009-inspect summary::marker {content:"";}
+        #pg009-inspect summary::-webkit-details-marker {display:none;}
+        #pg009-inspect[open] > .bk-stack {margin-top:12px;}
+        #pg009-inspect-panel[hidden] {display:none!important;}
+        #pg009-inspect-view {width:100%;max-height:100vh;overflow:auto;border:var(--bk-border) solid var(--bk-primary);overscroll-behavior:contain;}
+        #content.bk.bk.bk #pg009-inspect-view img {display:block;width:2419px;max-width:none;height:auto;border-radius:0;}
+        #pg009-inspect .bk-row .bk-btn {color:var(--bk-primary);border-color:var(--bk-primary);padding-inline:var(--bk-pad);}
+        #content.bk.bk.bk [data-section-id="pg009_sec001"] > .bk-caption {margin:0;text-align:end;}
+        @media (max-width:767px) {#content.bk.bk.bk {padding-inline:16px;}}
+        @media (max-width:390px) {#content.bk.bk.bk [data-section-id="pg009_sec001"] .bk-banner {flex-wrap:wrap;} #content.bk.bk.bk [data-section-id="pg009_sec001"] .bk-title {flex-basis:100%;overflow-wrap:normal;}}
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"><link href="./book-design/reading.css" rel="stylesheet">
+</head>
+<body>
+    <main>
+        <div data-family="illustrated-opener" id="content" data-book-theme="community" data-reading-layout="visual" class="bk">
+            <section data-section-type="separator" data-section-id="pg009_sec001" class="bk-stack">
+                <header class="bk-banner">
+                    <h1 data-id="pg009_n0002" class="bk-title">Lidhjet dhe bashkëpunimi me të tjerët</h1>
+                    <img id="pg009-people" src="studio/assets/pg009_sec001-people.png" width="48" height="48" alt="Komuniteti">
+                </header>
+                <h2 data-id="pg009_n0004" class="bk-heading">Komuniteti ynë</h2>
+                <figure class="bk-figure">
+                    <img data-id="pg009_im001" src="images/pg009_im001.png" width="2419" height="2579" alt="Banorë të një pallati dhe fëmijë në oborr duke përshëndetur, lexuar, ujitur bimët, u kujdesur për kafshët dhe duke luajtur së bashku në komunitet.">
+                </figure>
+                <details id="pg009-inspect">
+                    <summary id="pg009-inspect-trigger" class="bk-btn bk-btn--secondary">Zmadho ilustrimin</summary>
+                    <div id="pg009-inspect-panel" class="bk-stack" hidden>
+                        <p class="bk-body">Lëvizni pamjen për të parë hollësitë. Me tastierë, përdorni tastet me shigjeta kur pamja ka fokus.</p>
+                        <div id="pg009-inspect-view" tabindex="0" role="region" aria-label="Ilustrimi i zmadhuar i komunitetit">
+                            <img src="images/pg009_im001.png" width="2419" height="2579" alt="Pamje e zmadhuar e banorëve në ballkonet e pallatit dhe e fëmijëve me qentë në rrugë.">
+                        </div>
+                        <div class="bk-row"><button id="pg009-inspect-close" type="button" class="bk-btn bk-btn--secondary">Mbyll zmadhimin</button></div>
+                    </div>
+                </details>
+                <p class="bk-caption" aria-label="Faqe 9">9</p>
+            </section>
+        </div>
+    </main>
+    <script>
+        window.activityAnswerTextIds = JSON.parse('{}');
+        const inspection = document.getElementById('pg009-inspect');
+        const panel = document.getElementById('pg009-inspect-panel');
+        inspection.addEventListener('toggle', function () { panel.hidden = !this.open; });
+        function openLinkedInspection() {
+            if (location.hash === '#pg009-inspect') {
+                inspection.open = true;
+                panel.hidden = false;
+            }
+        }
+        window.addEventListener('hashchange', openLinkedInspection);
+        openLinkedInspection();
+        document.getElementById('pg009-inspect-close').addEventListener('click', function () {
+            document.getElementById('pg009-inspect').open = false;
+            document.getElementById('pg009-inspect-trigger').focus();
+        });
+        document.getElementById('pg009-inspect').addEventListener('keydown', function (event) {
+            if (event.key === 'Escape' && this.open) {
+                event.preventDefault();
+                this.open = false;
+                document.getElementById('pg009-inspect-trigger').focus();
+            }
+        });
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

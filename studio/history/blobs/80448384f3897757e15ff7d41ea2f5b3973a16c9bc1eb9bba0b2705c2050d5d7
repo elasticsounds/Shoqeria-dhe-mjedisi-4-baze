@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg009_sec001">
+<meta name="page-section-id" content="16">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+body, button, input, select, textarea {font-family:BookPoppins,Poppins,sans-serif;}
+#interface-container *:not(i):not([class*="fa-"]), #nav-container *:not(i):not([class*="fa-"]) {font-family:BookPoppins,Poppins,sans-serif!important;}
+#content.bk.bk.bk.bk {padding-top:24px;overflow:visible;}
+@media (min-width:641px) and (max-width:767px) {#content.bk.bk.bk.bk {padding-inline:16px;}}
+#content.bk.bk.bk.bk .bk-banner {margin:0;padding:16px 20px;border-radius:var(--bk-r-card);display:flex;align-items:center;gap:12px;}
+#content.bk.bk.bk.bk .bk-banner h1 {flex:1;min-width:0;overflow-wrap:anywhere;}
+#content.bk.bk.bk.bk .bk-banner img {width:48px;height:48px;object-fit:contain;flex:none;}
+@media (max-width:360px) {#content.bk.bk.bk.bk .bk-banner {flex-direction:column;align-items:flex-start;} #content.bk.bk.bk.bk .bk-banner h1 {width:100%;overflow-wrap:normal;min-width:min-content;} #content.bk.bk.bk.bk .bk-banner img {align-self:flex-end;}}
+@media (max-width:300px) {#content.bk.bk.bk.bk .bk-banner h1 {min-width:0;overflow-wrap:anywhere;}}
+#content.bk.bk.bk.bk .bk-heading {font-weight:600;line-height:1.25;}
+#content.bk.bk.bk.bk .bk-figure {gap:12px;}
+#content.bk.bk.bk.bk .bk-figure > img {width:100%;height:auto;object-fit:contain;border-radius:0;}
+#content.bk.bk.bk.bk .bk-btn {padding-inline:20px;scroll-margin-block:96px;}
+#content.bk.bk.bk.bk .bk-btn--secondary {color:var(--bk-primary);border-color:var(--bk-primary);}
+#content.bk.bk.bk.bk dialog {width:calc(100% - 32px);max-width:1000px;max-height:90vh;padding:20px;border:2px solid var(--bk-primary);border-radius:20px;background:var(--bk-paper);color:var(--bk-ink);font:inherit;}
+#content.bk.bk.bk.bk dialog::backdrop {background:rgb(40 40 60 / 70%);}
+#pg009-inspection-scroll {overflow:auto;max-height:65vh;margin-top:24px;}
+#content.bk.bk.bk.bk #pg009-inspection-scroll img {width:1000px;max-width:none;height:auto;display:block;}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div data-family="illustrated-opener" id="content" class="bk">
+<section data-section-type="separator" data-section-id="pg009_sec001" class="bk-stack">
+<header class="bk-banner">
+<h1 data-id="pg009_n0002" class="bk-title">Lidhjet dhe bashkëpunimi me të tjerët</h1>
+<img src="studio/assets/pg009_sec001-people.png" alt="" width="48" height="48">
+</header>
+<div class="bk-stack">
+<h2 data-id="pg009_n0004" class="bk-heading">Komuniteti ynë</h2>
+<figure class="bk-figure">
+<img data-id="pg009_im001" src="images/pg009_im001.png" alt="Banorë të një pallati dhe fëmijë në oborr duke përshëndetur, lexuar, ujitur bimët, u kujdesur për kafshët dhe duke luajtur së bashku në komunitet.">
+<div class="bk-row"><button type="button" id="pg009-inspect" class="bk-btn bk-btn--secondary" aria-haspopup="dialog" aria-controls="pg009-inspection">Zmadho ilustrimin</button></div>
+</figure>
+<p class="bk-caption" aria-label="Faqja 9">9</p>
+</div>
+</section>
+<dialog id="pg009-inspection" aria-labelledby="pg009-inspection-title" aria-describedby="pg009-inspection-help">
+<div class="bk-stack">
+<div class="bk-row"><h2 class="bk-heading" id="pg009-inspection-title">Komuniteti ynë</h2><button type="button" id="pg009-close" class="bk-btn bk-btn--secondary" autofocus>Mbyll</button></div>
+<p class="bk-body" id="pg009-inspection-help">Lëvizni ilustrimin për të parë hollësitë. Me tastierë, përdorni tastet me shigjeta.</p>
+</div>
+<div id="pg009-inspection-scroll" tabindex="0" role="region" aria-label="Ilustrimi i zmadhuar"><img src="images/pg009_im001.png" alt="Pamje e plotë e pallatit me banorët në ballkone dhe fëmijët me qentë në rrugë."></div>
+</dialog>
+</div>
+</main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');
+(function(){
+const trigger=document.getElementById('pg009-inspect');
+const dialog=document.getElementById('pg009-inspection');
+trigger.addEventListener('click',function(){dialog.showModal();document.getElementById('pg009-inspection-scroll').scrollTo(0,0);});
+document.getElementById('pg009-close').addEventListener('click',function(){dialog.close();});
+dialog.addEventListener('close',function(){trigger.focus({preventScroll:true});});
+})();
+</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

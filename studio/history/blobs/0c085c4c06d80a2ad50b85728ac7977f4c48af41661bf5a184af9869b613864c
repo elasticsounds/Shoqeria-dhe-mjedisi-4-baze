@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg054_sec001_p2">
+<meta name="page-section-id" content="70">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>
+body,button,input,textarea,select{font-family:BookPoppins,Poppins,sans-serif}
+#content.bk.bk.bk.bk{padding-top:24px;overflow-x:visible}
+#content.bk.bk.bk.bk .bk-figure{max-width:675px}
+#content.bk.bk.bk.bk .bk-figure img{width:auto;height:auto;max-width:100%;max-height:560px;object-fit:contain;border-radius:0}
+#content.bk.bk.bk.bk .bk-btn{color:var(--bk-ink);text-decoration:none}
+#content.bk.bk.bk.bk dialog{max-width:min(960px,calc(100% - 32px));max-height:calc(100% - 32px);overflow:auto;padding:20px;border:2px solid var(--bk-primary);border-radius:20px;background:var(--bk-paper);color:var(--bk-ink)}
+#content.bk.bk.bk.bk dialog::backdrop{background:rgba(40,40,60,.75)}
+#content.bk.bk.bk.bk dialog img{display:block;width:100%;height:auto}
+@media(min-width:768px){#content.bk.bk.bk.bk{padding-inline:32px}}
+@media(max-width:767px){#content.bk.bk.bk.bk{padding-inline:16px}}
+#interface-container :not(i):not([class*="fa-"]),#nav-container :not(i):not([class*="fa-"]){font-family:BookPoppins,Poppins,sans-serif!important;font-size:18px}
+:is(#interface-container,#nav-container) :is(button,a,input,select){min-height:48px;min-width:48px}
+:is(#interface-container,#nav-container) :focus-visible{outline:3px solid #143C78;outline-offset:3px}
+@media(prefers-reduced-motion:reduce){body *,body *::before,body *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+</style>
+
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div id="content" class="bk" data-family="illustrated-reading" data-source-page="54">
+<section data-section-type="text_and_single_image" data-section-id="pg054_sec001_p2" aria-label="Situata 1.">
+<div class="bk-stack">
+<figure class="bk-figure"><img data-id="pg054_im001" src="images/pg054_im001.png" alt="Prindërit bisedojnë në dhomë të ndejës për një dokument ose kontratë, ndërsa fëmija i dëgjon i ulur pranë tyre."></figure>
+<nav class="bk-row" aria-label="Situata 1.">
+<a class="bk-btn bk-btn--secondary" href="pg054_sec001.html#pg054_n0005">Situata 1.</a>
+<a id="inspect-scene" class="bk-btn bk-btn--secondary" href="images/pg054_im001.png" target="_blank" rel="noopener">Shiko ilustrimin më të madh</a>
+<a class="bk-btn bk-btn--secondary" href="pg054_sec002.html">Pyetjet</a>
+</nav>
+</div>
+<dialog id="scene-view" aria-label="Ilustrimi i situatës 1">
+<div class="bk-stack"><button type="button" class="bk-btn bk-btn--secondary" id="close-scene">Mbyll ilustrimin</button><img alt="Prindërit bisedojnë në dhomë të ndejës për një dokument ose kontratë, ndërsa fëmija i dëgjon i ulur pranë tyre."></div>
+</dialog>
+</section>
+</div>
+</main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+<script>
+(() => {
+  const link = document.getElementById('inspect-scene');
+  const dialog = document.getElementById('scene-view');
+  const close = document.getElementById('close-scene');
+  if (typeof dialog.showModal !== 'function') return;
+  link.addEventListener('click', event => {
+    event.preventDefault();
+    dialog.querySelector('img').src = link.href;
+    dialog.showModal();
+    close.focus();
+  });
+  close.addEventListener('click', () => dialog.close());
+  dialog.addEventListener('close', () => link.focus());
+})();
+</script>
+</body>
+</html>

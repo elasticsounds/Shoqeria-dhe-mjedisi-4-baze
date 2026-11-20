@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg078_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="98" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0"><section data-section-type="text_and_images" data-section-id="pg078_sec001" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-white text-slate-800">
+  <div class="mb-8 overflow-hidden rounded-3xl border-4 border-purple-200 bg-gradient-to-r from-purple-300 via-purple-200 to-white">
+    <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 flex items-center gap-6 max-sm:flex-col max-sm:items-start py-6">
+      <div aria-hidden="true" class="flex h-28 w-28 shrink-0 items-center justify-center rounded-2xl bg-purple-500 text-white shadow-md">
+        <div>&#x231b;</div>
+      </div>
+      <div class="flex-1">
+        <h1 class="adt-h2 font-bold text-left" data-id="pg078_n0003">Kultura - pasuri komb&#xeb;tare</h1>
+      </div>
+    </div>
+  </div>
+
+  <div class="mb-8">
+    <h3 class="adt-h3 inline-block rounded-md bg-green-400 px-4 py-2 font-bold text-left shadow-sm" data-id="pg078_n0005">Situata 1.</h3>
+    <p class="adt-body mt-4 text-left leading-relaxed">
+      <span data-id="pg078_n0007">Nj&#xeb; dit&#xeb;, n&#xeb; klas&#xeb;n e Kleas, m&#xeb;suesi k&#xeb;rkoi nga nx&#xeb;n&#xeb;sit t&#xeb; b&#xeb;nin nj&#xeb; hulumtim p&#xeb;r njer&#xeb;zit q&#xeb; dhan&#xeb; kontribut n&#xeb; fusha t&#xeb; ndryshme t&#xeb; artit, si: muzik&#xeb;, sport, teat&#xeb;r, film e piktur&#xeb;.</span>
+      <span data-id="pg078_n0008">Ata vendos&#xeb;n q&#xeb; t&#xeb; punonin n&#xeb; grupe dhe pastaj t&#xeb; prezantonin para klas&#xeb;s.</span>
+    </p>
+  </div>
+
+  <div class="space-y-10">
+    <div class="grid grid-cols-2 gap-0 rounded-2xl border-4 border-purple-300 bg-purple-50/30 overflow-hidden max-lg:grid-cols-1 shadow-sm">
+      <div class="border-r-4 border-purple-300 p-5 max-lg:border-r-0 max-lg:border-b-4">
+        <div class="adt-body text-left leading-relaxed">
+          <h3 class="adt-h3 mb-2 font-bold text-left" data-id="pg078_n0011">Grupi i par&#xeb;: Sportet kolektive</h3>
+          <span data-id="pg078_n0012">Sportet m&#xeb; t&#xeb; njohura n&#xeb; Kosov&#xeb; jan&#xeb;: futbolli, basketbolli, hendbolli dhe volejbolli.</span>
+          <span data-id="pg078_n0013">Ne si grup mblodh&#xeb;m sh&#xeb;nime p&#xeb;r futbollin.</span>
+          <span data-id="pg078_n0014">Futbolli n&#xeb; Kosov&#xeb; &#xeb;sht&#xeb; nj&#xeb; nd&#xeb;r sportet m&#xeb; t&#xeb; zhvilluara.</span>
+          <span data-id="pg078_n0015">N&#xeb; t&#xeb;r&#xeb; Kosov&#xeb;n ka shkolla t&#xeb; futbollit n&#xeb; t&#xeb; cilat ushtrohen shum&#xeb; f&#xeb;mij&#xeb; dhe nga aty kan&#xeb; dal&#xeb; shum&#xeb; talent&#xeb;.</span>
+        </div>
+      </div>
+      <div class="bg-white p-4">
+        <div class="flex flex-col gap-4">
+          <img data-id="pg078_im002" src="images/pg078_im002.png" alt="Fadil Vokrri duke luajtur futboll n&#xeb; fush&#xeb;, me fanell&#xeb; bardh e zi." class="w-full h-auto rounded-xl border-2 border-purple-200 object-cover">
+          <p class="adt-caption text-left leading-relaxed" data-id="pg078_n0017">N&#xeb; fotografi &#xeb;sht&#xeb; paraqitur Fadil Vokrri, em&#xeb;r i njohur i futbollit kosovar.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="grid grid-cols-2 gap-0 rounded-2xl border-4 border-purple-300 bg-purple-50/30 overflow-hidden max-lg:grid-cols-1 shadow-sm">
+      <div class="border-r-4 border-purple-300 p-5 max-lg:border-r-0 max-lg:border-b-4">
+        <div class="adt-body text-left leading-relaxed">
+          <h3 class="adt-h3 mb-2 font-bold text-left" data-id="pg078_n0020">Grupi i dyt&#xeb;: Sportet individuale</h3>
+          <span data-id="pg078_n0021">Sportet individuale jan&#xeb; ato q&#xeb; i soll&#xeb;n sukseset m&#xeb; t&#xeb; m&#xeb;dha Kosov&#xeb;s.</span>
+          <span data-id="pg078_n0022">N&#xeb; fotografi &#xeb;sht&#xeb; paraqitur nj&#xeb;ra nd&#xeb;r sportistet m&#xeb; t&#xeb; njohura kosovare, e cila b&#xeb;ri q&#xeb; emri i Kosov&#xeb;s t&#xeb; p&#xeb;rmendej kudo n&#xeb;p&#xeb;r bot&#xeb;.</span>
+        </div>
+      </div>
+      <div class="bg-white p-4">
+        <div class="flex flex-col gap-4">
+          <img data-id="pg078_im001" src="images/pg078_im001.png" alt="Majlinda Kelmendi me veshje sportive blu, duke mbajtur dy medalje n&#xeb; duar." class="w-full h-auto rounded-xl border-2 border-purple-200 object-cover">
+          <p class="adt-caption text-left leading-relaxed" data-id="pg078_n0024">Majlinda Kelmendi, xhudistja q&#xeb; i dha Kosov&#xeb;s titullin e par&#xeb; bot&#xeb;ror t&#xeb; xhudos dhe mori edhe shum&#xeb; medalje t&#xeb; tjera t&#xeb; arta.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

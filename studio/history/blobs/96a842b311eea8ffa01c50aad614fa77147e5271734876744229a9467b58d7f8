@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg017_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="20" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl bg-[#f7eef6] px-8 py-8 max-sm:px-3 opacity-0">
+  <section data-section-type="text_and_single_image" data-section-id="pg017_sec001" class="w-full text-left text-slate-800">
+    <div class="relative overflow-hidden bg-[#f7eef6] px-4 py-2 max-sm:px-0">
+      <div aria-hidden="true" class="absolute left-20 top-0 h-full w-1.5 bg-[#ddd0e6] max-sm:left-7"></div>
+
+      <div class="relative z-10 mx-auto max-w-[980px]">
+        <div class="flex items-start justify-between gap-4 max-sm:flex-col max-sm:gap-3">
+          <div class="flex-1 pt-3">
+            <div class="bg-[#ab6ab0] px-5 py-3 text-white">
+              <h1 class="adt-h1 font-bold text-white" data-id="pg017_n0002">Secili ka t&#xeb; drejta dhe p&#xeb;rgjegj&#xeb;si</h1>
+            </div>
+            <div class="pt-4 pl-5 max-sm:pl-0 max-sm:pt-3">
+              <h2 class="adt-h2 text-slate-900" data-id="pg017_n0003">T&#xeb; drejtat dhe p&#xeb;rgjegj&#xeb;sit&#xeb; e mia</h2>
+              <div aria-hidden="true" class="mt-2 h-1 w-80 bg-[#ab6ab0] max-sm:w-44"></div>
+            </div>
+          </div>
+          <div aria-hidden="true" class="flex h-56 w-32 shrink-0 items-center justify-center rounded-b-2xl bg-[#ab6ab0] max-lg:h-44 max-lg:w-28 max-sm:ml-0 max-sm:h-24 max-sm:w-20">
+            <svg viewBox="0 0 120 120" class="h-24 w-24 max-sm:h-14 max-sm:w-14" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M60 18V92" stroke="white" stroke-width="8" stroke-linecap="round"/>
+              <path d="M36 96H84" stroke="white" stroke-width="8" stroke-linecap="round"/>
+              <path d="M25 26H95" stroke="white" stroke-width="4" stroke-linecap="round"/>
+              <path d="M42 28L30 60H54L42 28Z" stroke="white" stroke-width="3" fill="none"/>
+              <path d="M78 28L66 60H90L78 28Z" stroke="white" stroke-width="3" fill="none"/>
+              <path d="M42 28V22" stroke="white" stroke-width="3" stroke-linecap="round"/>
+              <path d="M78 28V22" stroke="white" stroke-width="3" stroke-linecap="round"/>
+            </svg>
+          </div>
+        </div>
+
+        <div class="relative z-10 mt-5">
+          <img data-id="pg017_im001" src="images/pg017_im001.png" alt="Televizor n&#xeb; dhom&#xeb; ndeje me nj&#xeb; prezantuese lajmesh n&#xeb; ekran dhe mbishkrimin &#x201c;LAJME&#x201d;, pran&#xeb; nj&#xeb; rafti me libra dhe vazo me lule." class="block w-full h-auto">
+        </div>
+
+        <div class="relative z-10 -mt-2 px-16 max-lg:px-6 max-sm:mt-4 max-sm:px-0">
+          <div class="bg-[rgba(201,172,208,0.72)] p-5 max-sm:rounded-2xl max-sm:p-4">
+            <ul class="space-y-4">
+              <li class="adt-body">
+                <div class="flex flex-col gap-2">
+                  <span data-id="pg017_n0007">&#xc7;far&#xeb; k&#xeb;shille i jep n&#xeb;na vajz&#xeb;s?</span>
+                  <label for="item-1" class="sr-only">&#xc7;far&#xeb; k&#xeb;shille i jep n&#xeb;na vajz&#xeb;s?</label>
+                  <textarea id="item-1" data-activity-item="item-1" aria-label="&#xc7;far&#xeb; k&#xeb;shille i jep n&#xeb;na vajz&#xeb;s?" class="w-full min-h-11 rounded-xl border-2 border-[#b36bb6] bg-white px-4 py-3 outline-none focus:ring-2 focus:ring-[#a968af]"></textarea>
+                </div>
+              </li>
+              <li class="adt-body">
+                <div class="flex flex-col gap-2">
+                  <span data-id="pg017_n0009">Pse &#xeb;sht&#xeb; e r&#xeb;nd&#xeb;sishme q&#xeb; t&#xeb; marr&#xeb;sh informacione t&#xeb; ndryshme?</span>
+                  <label for="item-2" class="sr-only">Pse &#xeb;sht&#xeb; e r&#xeb;nd&#xeb;sishme q&#xeb; t&#xeb; marr&#xeb;sh informacione t&#xeb; ndryshme?</label>
+                  <textarea id="item-2" data-activity-item="item-2" aria-label="Pse &#xeb;sht&#xeb; e r&#xeb;nd&#xeb;sishme q&#xeb; t&#xeb; marr&#xeb;sh informacione t&#xeb; ndryshme?" class="w-full min-h-11 rounded-xl border-2 border-[#b36bb6] bg-white px-4 py-3 outline-none focus:ring-2 focus:ring-[#a968af]"></textarea>
+                </div>
+              </li>
+              <li class="adt-body">
+                <div class="flex flex-col gap-2">
+                  <span data-id="pg017_n0011">Po ju, a merrni informacione nga televizioni?</span>
+                  <label for="item-3" class="sr-only">Po ju, a merrni informacione nga televizioni?</label>
+                  <input id="item-3" type="text" data-activity-item="item-3" aria-label="Po ju, a merrni informacione nga televizioni?" class="w-full min-h-11 rounded-xl border-2 border-[#b36bb6] bg-white px-4 py-3 outline-none focus:ring-2 focus:ring-[#a968af]">
+                </div>
+              </li>
+              <li class="adt-body">
+                <div class="flex flex-col gap-2">
+                  <span data-id="pg017_n0013">Pse vajza duhej t&#xeb; mbante distanc&#xeb;?</span>
+                  <label for="item-4" class="sr-only">Pse vajza duhej t&#xeb; mbante distanc&#xeb;?</label>
+                  <textarea id="item-4" data-activity-item="item-4" aria-label="Pse vajza duhej t&#xeb; mbante distanc&#xeb;?" class="w-full min-h-11 rounded-xl border-2 border-[#b36bb6] bg-white px-4 py-3 outline-none focus:ring-2 focus:ring-[#a968af]"></textarea>
+                </div>
+              </li>
+              <li class="adt-body">
+                <div class="flex flex-col gap-2">
+                  <span data-id="pg017_n0015">&#xc7;far&#xeb; ndodh n&#xeb;se nuk kujdeseni p&#xeb;r sh&#xeb;ndetin tuaj?</span>
+                  <label for="item-5" class="sr-only">&#xc7;far&#xeb; ndodh n&#xeb;se nuk kujdeseni p&#xeb;r sh&#xeb;ndetin tuaj?</label>
+                  <textarea id="item-5" data-activity-item="item-5" aria-label="&#xc7;far&#xeb; ndodh n&#xeb;se nuk kujdeseni p&#xeb;r sh&#xeb;ndetin tuaj?" class="w-full min-h-11 rounded-xl border-2 border-[#b36bb6] bg-white px-4 py-3 outline-none focus:ring-2 focus:ring-[#a968af]"></textarea>
+                </div>
+              </li>
+              <li class="adt-body">
+                <div class="flex flex-col gap-2">
+                  <span data-id="pg017_n0017">Pse &#xeb;sht&#xeb; e r&#xeb;nd&#xeb;sishme q&#xeb; &#xe7;do f&#xeb;mij&#xeb; t&#xeb; ket&#xeb; t&#xeb; drejt&#xeb;n p&#xeb;r kujdes sh&#xeb;ndet&#xeb;sor?</span>
+                  <label for="item-6" class="sr-only">Pse &#xeb;sht&#xeb; e r&#xeb;nd&#xeb;sishme q&#xeb; &#xe7;do f&#xeb;mij&#xeb; t&#xeb; ket&#xeb; t&#xeb; drejt&#xeb;n p&#xeb;r kujdes sh&#xeb;ndet&#xeb;sor?</label>
+                  <textarea id="item-6" data-activity-item="item-6" aria-label="Pse &#xeb;sht&#xeb; e r&#xeb;nd&#xeb;sishme q&#xeb; &#xe7;do f&#xeb;mij&#xeb; t&#xeb; ket&#xeb; t&#xeb; drejt&#xeb;n p&#xeb;r kujdes sh&#xeb;ndet&#xeb;sor?" class="w-full min-h-11 rounded-xl border-2 border-[#b36bb6] bg-white px-4 py-3 outline-none focus:ring-2 focus:ring-[#a968af]"></textarea>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="relative z-10 mt-10 px-14 max-lg:px-5 max-sm:px-0">
+          <div class="border-2 border-[#bf83c3] bg-white/20 p-4 max-sm:p-4">
+            <p class="adt-body italic leading-8 text-slate-800">
+              <span data-id="pg017_n0020">Dokumenti q&#xeb; mbron t&#xeb; drejtat e njeriut quhet Deklarata Universale mbi t&#xeb; Drejtat e Njeriut.</span>
+              <span data-id="pg017_n0021">Shtetet q&#xeb; e n&#xeb;nshkruajn&#xeb; at&#xeb;, jan&#xeb; t&#xeb; detyruara ta zbatojn&#xeb;.</span>
+              <span data-id="pg017_n0022">T&#xeb; drejtat e njeriut ndahen n&#xeb; t&#xeb; drejta civile dhe politike (e drejta p&#xeb;r jet&#xeb;n, shprehja e lir&#xeb; e mendimit, liria e besimit fetar, e drejta p&#xeb;r t&#xeb; votuar etj.) dhe t&#xeb; drejtat sociale, ekonomike dhe kulturore (e drejta p&#xeb;r arsimim, pun&#xeb;sim, kujdes sh&#xeb;ndet&#xeb;sor etj.).</span>
+              <span data-id="pg017_n0023">F&#xeb;mij&#xeb;t kan&#xeb; t&#xeb; drejtat e tyre, t&#xeb; cilat mbrohen n&#xeb;p&#xeb;rmjet 54 neneve t&#xeb; Konvent&#xeb;s mbi t&#xeb; Drejtat e F&#xeb;mij&#xeb;s, miratuar m&#xeb; 20 n&#xeb;ntor 1989.</span>
+              <span data-id="pg017_n0024">Njohja e f&#xeb;mij&#xeb;ve me t&#xeb; drejtat fillon n&#xeb; familje.</span>
+              <span data-id="pg017_n0025">Shkolla i aft&#xeb;son ata q&#xeb; t&apos;i njohin, t&apos;i kuptojn&#xeb; dhe t&apos;i mbrojn&#xeb; t&#xeb; drejtat e tyre.</span>
+              <span data-id="pg017_n0026">N&#xeb; themel t&#xeb; t&#xeb; drejtave q&#xeb;ndrojn&#xeb; respekti dhe dinjiteti njer&#xeb;zor.</span>
+              <span data-id="pg017_n0027">T&#xeb; drejtat dhe p&#xeb;rgjegj&#xeb;sit&#xeb; shkojn&#xeb; bashk&#xeb;.</span>
+              <span data-id="pg017_n0028">Duke marr&#xeb; p&#xeb;rgjegj&#xeb;si, ne m&#xeb;sojm&#xeb; kush jemi dhe si t&#xeb; sillemi me t&#xeb; tjer&#xeb;t.</span>
+              <span data-id="pg017_n0029">P&#xeb;rgjegj&#xeb;sia do t&#xeb; thot&#xeb; t&#xeb; respektojm&#xeb; veten dhe t&#xeb; tjer&#xeb;t, t&#xeb; mbrojm&#xeb; t&#xeb; drejtat dhe t&#xeb; punojm&#xeb; s&#xeb; bashku.</span>
+            </p>
+          </div>
+        </div>
+
+        <div class="relative z-10 mt-8 px-14 pb-4 max-lg:px-5 max-sm:px-0 adt-body">
+          <p class="inline font-semibold" data-id="pg017_n0031">Fjal&#xeb;t ky&#xe7;e:</p>
+          <span class="ml-1 inline" data-id="pg017_n0032">e drejt&#xeb;, p&#xeb;rgjegj&#xeb;si, informim, distanc&#xeb;.</span>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

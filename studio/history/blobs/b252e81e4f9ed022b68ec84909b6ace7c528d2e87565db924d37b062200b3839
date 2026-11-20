@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg074_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="92" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0"><section data-section-type="text_and_images" data-section-id="pg074_sec001" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-white text-neutral-900">
+  <div class="w-full mb-8 overflow-hidden rounded-2xl border border-purple-200 bg-white shadow-sm">
+    <div class="flex items-stretch max-sm:flex-col">
+      <div class="flex w-36 shrink-0 items-center justify-center bg-purple-500 p-6 max-sm:w-full max-sm:py-5" aria-hidden="true">
+        <div class="relative h-24 w-16">
+          <div class="absolute left-1/2 top-1/2 h-16 w-8 -translate-x-1/2 -translate-y-1/2 rounded-full border-4 border-white"></div>
+          <div class="absolute left-1/2 top-3 h-0 w-10 -translate-x-1/2 border-t-4 border-white"></div>
+          <div class="absolute bottom-3 left-1/2 h-0 w-10 -translate-x-1/2 border-t-4 border-white"></div>
+          <div class="absolute left-1/2 top-7 h-10 w-px -translate-x-1/2 bg-white"></div>
+          <div class="absolute left-1/2 top-1/2 h-0 w-0 -translate-x-1/2 -translate-y-1/2 border-l-[18px] border-r-[18px] border-t-[22px] border-l-transparent border-r-transparent border-t-white"></div>
+          <div class="absolute left-1/2 top-1/2 h-0 w-0 -translate-x-1/2 -translate-y-1/2 border-b-[22px] border-l-[18px] border-r-[18px] border-b-white border-l-transparent border-r-transparent"></div>
+        </div>
+      </div>
+      <div class="flex-1 pt-4">
+        <div class="bg-purple-500 px-4 py-2">
+          <h1 class="adt-h3 font-bold text-white" data-id="pg074_n0002">Jeta n&#xeb; Kosov&#xeb; dikur dhe sot</h1>
+        </div>
+        <div class="px-4 py-4">
+          <h2 class="adt-h2 font-semibold text-neutral-900" data-id="pg074_n0003">Vendi im dhe ekonomia</h2>
+          <div class="mt-3 h-1 w-1/2 bg-purple-400" aria-hidden="true"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mb-6 flex items-start gap-4 max-sm:flex-col max-sm:gap-3">
+    <div class="shrink-0 rounded-sm bg-green-500 px-4 py-2 shadow-sm">
+      <span class="adt-body font-semibold text-neutral-900" data-id="pg074_n0005">Situata 1.</span>
+    </div>
+    <p class="adt-body leading-relaxed text-left">
+      <span data-id="pg074_n0007">Mira dhe Nili po luanin dhe po b&#xeb;nin gara p&#xeb;r njohuri t&#xeb; ndryshme.</span>
+      <span data-id="pg074_n0008">Sot, ata vendos&#xeb;n t&#xeb; luanin loj&#xeb;n: Ekonomia e vendit tim.</span>
+      <span data-id="pg074_n0009">Mira shkroi p&#xeb;r pun&#xeb;t q&#xeb; kryhen n&#xeb; fshat, kurse Nili p&#xeb;r pun&#xeb;t q&#xeb; kryhen n&#xeb; qytet.</span>
+    </p>
+  </div>
+
+  <div class="mb-6 overflow-x-auto rounded-xl border-2 border-green-400 bg-white shadow-sm">
+    <table class="w-full border-collapse table-fixed max-lg:table-auto">
+      <tr class="border-b-2 border-green-400">
+        <th class="w-1/2 border-r-2 border-green-400 px-4 py-3 text-left align-top font-normal max-lg:block max-lg:w-full max-lg:border-r-0 max-lg:border-b-2">
+          <h3 class="adt-h3 font-medium text-neutral-900" data-id="pg074_n0013">Ekonomia n&#xeb; fshat</h3>
+        </th>
+        <th class="w-1/2 px-4 py-3 text-left align-top font-normal max-lg:block max-lg:w-full">
+          <h3 class="adt-h3 font-medium text-neutral-900" data-id="pg074_n0015">Ekonomia n&#xeb; qytet</h3>
+        </th>
+      </tr>
+      <tr class="max-lg:block">
+        <td class="w-1/2 border-r-2 border-green-400 px-4 py-3 align-top max-lg:block max-lg:w-full max-lg:border-r-0 max-lg:border-b-2">
+          <p class="adt-body mb-5 leading-relaxed text-left"><span data-id="pg074_n0019">Njer&#xeb;zit n&#xeb; fshatra m&#xeb; s&#xeb; shumti merren me bujq&#xeb;si, q&#xeb; do t&#xeb; thot&#xeb; merren me punimin e tok&#xeb;s, rritjen e drith&#xeb;rave, t&#xeb; frutave dhe t&#xeb; perimeve.</span></p>
+          <p class="adt-body mb-5 leading-relaxed text-left"><span data-id="pg074_n0021">Punimi i tok&#xeb;s dikur ishte shum&#xeb; i v&#xeb;shtir&#xeb;, sepse punohej vet&#xeb;m me parmend&#xeb; (veg&#xeb;l e thjesht&#xeb; pune).</span> <span data-id="pg074_n0022">Duhej m&#xeb; shum&#xeb; fuqi pun&#xeb;tore dhe shpenzohej m&#xeb; shum&#xeb; koh&#xeb;.</span></p>
+          <p class="adt-body mb-5 leading-relaxed text-left"><span data-id="pg074_n0024">Sot punimi i tok&#xeb;s &#xeb;sht&#xeb; b&#xeb;r&#xeb; shum&#xeb; m&#xeb; i leht&#xeb; dhe m&#xeb; i shpejt&#xeb;, fal&#xeb; mjeteve m&#xeb; t&#xeb; p&#xeb;rparuara t&#xeb; pun&#xeb;s.</span></p>
+          <p class="adt-body leading-relaxed text-left"><span data-id="pg074_n0026">N&#xeb; fshatra nj&#xeb; pjes&#xeb; e popullsis&#xeb; merren me blegtori, pra me rritjen e kafsh&#xeb;ve dhe t&#xeb; shpend&#xeb;ve.</span> <span data-id="pg074_n0027">Ata kan&#xeb; nd&#xeb;rtuar ferma moderne, ku rritin bim&#xeb; dhe rriten kafsh&#xeb; nga t&#xeb; cilat sigurojn&#xeb; produkte ushqimore.</span></p>
+        </td>
+        <td class="w-1/2 px-4 py-3 align-top max-lg:block max-lg:w-full">
+          <p class="adt-body mb-5 leading-relaxed text-left"><span data-id="pg074_n0030">Njer&#xeb;zit n&#xeb; qytete punojn&#xeb; n&#xeb; fabrika, punishte, uzina, miniera.</span> <span data-id="pg074_n0031">Ata marrin prodhime, t&#xeb; cilat i quajm&#xeb; prodhime industriale.</span></p>
+          <p class="adt-body mb-5 leading-relaxed text-left"><span data-id="pg074_n0033">N&#xeb; qytete &#xeb;sht&#xeb; zhvilluar edhe tregtia, fal&#xeb; shum&#xeb; dyqaneve dhe qendrave tregtare.</span> <span data-id="pg074_n0034">Ato kan&#xeb; mallra q&#xeb; vijn&#xeb; nga vendi yn&#xeb; dhe nga vende t&#xeb; tjera t&#xeb; bot&#xeb;s.</span></p>
+          <p class="adt-body mb-5 leading-relaxed text-left"><span data-id="pg074_n0036">Dikur njihnim dhe ushqeheshim vet&#xeb;m me frutat dhe perimet e vendit ton&#xeb;, kurse sot shijojm&#xeb; edhe ato t&#xeb; vendeve m&#xeb; t&#xeb; larg&#xeb;ta t&#xeb; bot&#xeb;s.</span> <span data-id="pg074_n0037">Po ashtu, edhe prodhimet e vendit ton&#xeb; gjenden n&#xeb; vende t&#xeb; ndryshme t&#xeb; bot&#xeb;s.</span></p>
+          <p class="adt-body leading-relaxed text-left"><span data-id="pg074_n0039">Njer&#xeb;zit merren edhe me zeje t&#xeb; ndryshme.</span></p>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="clear-both space-y-1">
+    <img data-id="pg074_im002_seg001_v1_crop_v1" src="images/pg074_im002_seg001_v1_crop_v1.png" alt="Pamje e nj&#xeb; qyteti n&#xeb; Kosov&#xeb; dikur, me sht&#xeb;pi t&#xeb; ul&#xeb;ta, pak nd&#xeb;rtesa shum&#xeb;kat&#xeb;she dhe hap&#xeb;sira t&#xeb; m&#xeb;dha t&#xeb; pazhvilluara." class="block w-full h-auto rounded-none">
+    <img data-id="pg074_im002_seg002_v1_crop_v1" src="images/pg074_im002_seg002_v1_crop_v1.png" alt="Pamje e nj&#xeb; qyteti n&#xeb; Kosov&#xeb; sot, me shum&#xeb; nd&#xeb;rtesa t&#xeb; larta, lagje t&#xeb; dendura urbane dhe male n&#xeb; sfond." class="block w-full h-auto rounded-none">
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

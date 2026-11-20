@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg106_sec001_p4">
+<meta name="page-section-id" content="143">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>
+#content.bk.bk.bk section .bk-card{background:var(--bk-surface2);border-color:var(--bk-surface2);max-width:720px}
+#content.bk.bk.bk .bk-card p{margin:0}
+#content.bk.bk.bk .bk-figure{max-width:720px}
+#content.bk.bk.bk section .bk-figure img{width:100%;height:auto;aspect-ratio:1.02;object-fit:cover;object-position:center bottom;border-radius:0}
+#interface-container,#interface-container *,#nav-container,#nav-container *{font-family:BookPoppins,Poppins,Arial,sans-serif!important}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full"><div data-family="illustrated-reading" id="content" class="container mx-auto opacity-0 bk">
+<section data-section-type="text_and_single_image" data-section-id="pg106_sec001_p4" class="bk-stack">
+<div class="bk-card"><p class="bk-body"><span data-id="pg106_n0019">Mësuesi: Ju lumtë, nxënës!</span> <span data-id="pg106_n0020">Ne duhet të kujdesemi për ambientin, që edhe vetë të jemi të shëndetshëm.</span></p></div>
+<figure class="bk-figure"><img data-id="pg106_im001" src="images/pg106_im001.png" alt="Mësuesi po u shpjegon nxënësve në klasë për kujdesin ndaj ambientit, pranë tabelës me një pamje të natyrës."></figure>
+<p class="bk-caption">106</p>
+</section></div></main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+</body></html>

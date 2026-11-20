@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg098_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="132">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" class="container mx-auto max-w-5xl bg-white px-8 max-lg:px-6 max-sm:px-4 pt-10 pb-12 opacity-0 bk" id="content">
+  <section role="region" data-section-type="activity_fill_in_the_blank" data-section-id="pg098_sec002" class="mx-auto max-w-5xl">
+    <div class="mx-auto max-w-4xl">
+      <div class="bg-purple-100 rounded-none overflow-hidden shadow-sm">
+        <div class="flex items-stretch max-sm:flex-col">
+          <div class="w-44 bg-purple-600 flex items-center justify-center max-sm:w-full max-sm:min-h-20">
+            <div class="text-white text-6xl leading-none" aria-hidden="true">?</div>
+          </div>
+          <div class="flex-1 p-6 max-sm:p-4 space-y-6">
+            <div>
+              <label for="activity-answer-1" class="block adt-body leading-relaxed mb-2">
+                <span data-id="pg098_n0028">Për çka biseduan Mali e Era?</span>
+              </label>
+              <textarea id="activity-answer-1" data-activity-item="item-1" aria-label="Për çka biseduan Mali e Era?" class="w-full min-h-24 max-sm:min-h-28 rounded-lg border border-purple-300 bg-white px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+            </div>
+
+            <div>
+              <label for="activity-answer-2" class="block adt-body leading-relaxed mb-2">
+                <span data-id="pg098_n0029">Si ndahen pasuritë natyrore?</span>
+              </label>
+              <textarea id="activity-answer-2" data-activity-item="item-2" aria-label="Si ndahen pasuritë natyrore?" class="w-full min-h-24 max-sm:min-h-28 rounded-lg border border-purple-300 bg-white px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+            </div>
+
+            <div>
+              <label for="activity-answer-3" class="block adt-body leading-relaxed mb-2">
+                <span data-id="pg098_n0030">Pse është e rëndësishme të shfrytëzohen burimet natyrore në mënyrë të arsyeshme?</span>
+              </label>
+              <textarea id="activity-answer-3" data-activity-item="item-3" aria-label="Pse është e rëndësishme të shfrytëzohen burimet natyrore në mënyrë të arsyeshme?" class="w-full min-h-28 max-sm:min-h-32 rounded-lg border border-purple-300 bg-white px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+            </div>
+
+            <div>
+              <label for="activity-answer-4" class="block adt-body leading-relaxed mb-2">
+                <span data-id="pg098_n0031">Pse duhet t'i përdorim më shumë energjinë e erës dhe atë diellore?</span>
+              </label>
+              <textarea id="activity-answer-4" data-activity-item="item-4" aria-label="Pse duhet t'i përdorim më shumë energjinë e erës dhe atë diellore?" class="w-full min-h-28 max-sm:min-h-32 rounded-lg border border-purple-300 bg-white px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{"item-1":"pg098_sec002_ans_item-1","item-2":"pg098_sec002_ans_item-2","item-3":"pg098_sec002_ans_item-3","item-4":"pg098_sec002_ans_item-4"}');
+    </script>
+    <script type="text/javascript">
+        window.correctAnswers = JSON.parse('{"item-1":"Mali e Era biseduan për ruajtjen e pasurive natyrore dhe shfrytëzimin e tyre në mënyrë të arsyeshme.","item-2":"Pasuritë natyrore ndahen në burime të ripërtëritshme dhe të paripërtëritshme.","item-3":"Është e rëndësishme të shfrytëzohen me arsye, sepse burimet e paripërtëritshme mund të harxhohen dhe të ndotin mjedisin, kështu që duhet të ruhen edhe për brezat e ardhshëm.","item-4":"Duhet t’i përdorim më shumë energjinë e erës dhe atë diellore, sepse janë burime të ripërtëritshme dhe ndotin më pak mjedisin se nafta, qymyri dhe gazi natyror."}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

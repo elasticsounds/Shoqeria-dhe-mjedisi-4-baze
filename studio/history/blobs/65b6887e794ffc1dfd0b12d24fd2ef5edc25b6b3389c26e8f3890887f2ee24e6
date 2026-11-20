@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title><meta name="title-id" content="pg129_sec001_p2"><meta name="page-section-id" content="170">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet">
+<style>
+#content.bk.bk.bk ul {list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:var(--bk-gap)}
+#content.bk.bk.bk li {overflow-wrap:anywhere; white-space:normal}
+#content.bk.bk.bk li a {display:inline-block; max-width:100%; min-height:var(--bk-target); color:var(--bk-ink); text-decoration:underline; overflow-wrap:anywhere; vertical-align:top}
+#interface-container :is(button,span,p,a,div,label), #nav-container :is(button,span,p,a,div,label,h3,li) {font-family:BookPoppins,Poppins,Arial,sans-serif}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full"><div data-family="references" id="content" class="bk"><section data-section-type="text_only" data-section-id="pg129_sec001_p2">
+<header class="bk-banner"><h1 class="bk-title">Referencat</h1></header>
+<div class="bk-card bk-card--surface1"><ul class="bk-body">
+<li><a data-id="pg129_n0013" href="https://sq.wikipedia.org/wiki/Ymer_Riza">https://sq.wikipedia.org/wiki/Ymer_Riza</a></li>
+<li><a data-id="pg129_n0015" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNexhmije_Pagarusha&psig=AOvVaw2jJXKKr5SQG_8C-etSW_SC&ust=1689150805864000&source=images&cd=vfe&ved=2ahUKEwjim6ifn4aAAxWQhP0HHb8NAlYQr4kDegUIARC5AQ">https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNexhmije_Pagarusha&amp;psig=AOvVaw2jJXKKr5SQG_8C-etSW_SC&amp;ust=1689150805864000&amp;source=images&amp;cd=vfe&amp;ved=2ahUKEwjim6ifn4aAAxWQhP0HHb8NAlYQr4kDegUIARC5AQ</a></li>
+</ul></div></section></div></main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');</script><div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+</body></html>

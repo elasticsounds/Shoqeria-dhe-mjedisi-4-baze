@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg063_sec001_p2">
+<meta name="page-section-id" content="84">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+#nav-container :not(i), #interface-container :not(i) {font-family:BookPoppins, Poppins, Arial, sans-serif !important}
+#content.bk .bk-figure img {width:100%;height:auto;border-radius:0}
+#content.bk dialog {width:min(95vw, 1000px);max-width:1000px;max-height:90vh;overflow:auto;padding:20px;border:2px solid var(--bk-primary);border-radius:var(--bk-r-card);background:var(--bk-paper);color:var(--bk-ink)}
+#content.bk dialog::backdrop {background:rgba(40,40,60,.75)}
+#content.bk dialog img {display:block;width:100%;height:auto;margin:12px auto}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full"><div data-family="illustrated-reading" id="content" class="container opacity-0 bk">
+<section data-section-type="text_and_single_image" data-section-id="pg063_sec001_p2">
+<div class="bk-grid bk-grid--2"><div class="bk-stack">
+<p class="bk-body"><span data-id="pg063_n0012">Mësuesja Lirikë kishte përgatitur hartën e Kosovës, ku një pjesë të saj e kishte ngjyrosur me të kaltër e një pjesë me të verdhë.</span> <span data-id="pg063_n0013">Ajo shpjegoi se Kosova është e ndarë në dy rajone: Fusha e Kosovës dhe Rrafshi i Dukagjinit.</span> <span data-id="pg063_n0014">Ajo vazhdoi duke iu treguar se Kosova ka shtatë qendra rajonale.</span> <span data-id="pg063_n0015">Mori etiketat me emra dhe i vendosi tri në Rrafshin e Dukagjinit: Gjakova, Peja dhe Prizreni, kurse katër të tjera në Fushën e Kosovës: Ferizaji, Gjilani, Mitrovica dhe Prishtina.</span> <span data-id="pg063_n0016">Etiketën me emrin e Prishtinës e kishte me ngjyrë të kuqe, që të dallohej nga qendrat e tjera rajonale, sepse Prishtina është kryeqyteti i Kosovës.</span></p>
+<p class="bk-body"><span data-id="pg063_n0018">Luna dhe Lisi u kënaqën shumë.</span> <span data-id="pg063_n0019">- Nuk do t’i harrojmë asnjëherë këto që mësuam sot,</span> <span data-id="pg063_n0020">- thanë ata.</span></p></div>
+<figure class="bk-figure"><img data-id="pg063_im004" src="studio/assets/pg063_sec001-map.png" alt="Rajonet e Kosovës" aria-describedby="map-labels"><figcaption id="map-labels" class="bk-sr-only"><span data-id="pg063_n0022">Mitrovica</span> <span data-id="pg063_n0023">Peja</span> <span data-id="pg063_n0024">Prishtina</span> <span data-id="pg063_n0025">Rrafshi i Dukagjinit</span> <span data-id="pg063_n0026">Fusha e Kosovës</span> <span data-id="pg063_n0027">Gjilani</span> <span data-id="pg063_n0028">Gjakova</span> <span data-id="pg063_n0029">Ferizaj</span> <span data-id="pg063_n0030">Prizreni</span></figcaption><button type="button" class="bk-btn bk-btn--secondary" id="open-map">Zmadho hartën</button></figure></div>
+<dialog id="map-dialog" aria-label="Rajonet e Kosovës"><button type="button" class="bk-btn bk-btn--secondary" id="close-map">Mbyll hartën</button><img src="studio/assets/pg063_sec001-map.png" alt="Rajonet e Kosovës"></dialog>
+</section></div></main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');
+(function(){var opener=document.getElementById('open-map'), dialog=document.getElementById('map-dialog'), closer=document.getElementById('close-map');opener.addEventListener('click',function(){dialog.showModal();closer.focus()});closer.addEventListener('click',function(){dialog.close()});dialog.addEventListener('close',function(){opener.focus()})})();</script>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+</body></html>

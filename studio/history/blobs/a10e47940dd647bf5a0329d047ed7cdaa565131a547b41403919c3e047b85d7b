@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg011_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="19">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-opener" id="content" class="container opacity-0 bk">
+  <section data-section-type="separator" data-section-id="pg011_sec001" class="w-full bg-white">
+    <div class="w-full pt-8 max-sm:pt-5">
+      <div class="mx-auto w-full max-w-6xl px-8 max-sm:px-0">
+        <div class="flex items-stretch justify-between gap-0 max-sm:mx-0">
+          <div class="flex min-h-[112px] flex-1 items-center bg-[#b06ab3] px-10 py-6 max-sm:min-h-[96px] max-sm:px-5 max-sm:py-5">
+            <h1 data-id="pg011_n0002" class="adt-h1 font-bold text-white">Lidhjet dhe bashkëpunimi me të tjerët</h1>
+          </div>
+          <div class="flex w-36 shrink-0 items-center justify-center bg-[#a566ad] max-sm:w-28" aria-hidden="true">
+            <svg viewBox="0 0 64 64" class="h-20 w-20 text-white max-sm:h-14 max-sm:w-14" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+              <circle cx="17" cy="18" r="8" />
+              <circle cx="32" cy="14" r="9" />
+              <circle cx="49" cy="18" r="8" />
+              <path d="M9 45c0-8 4-15 12-15 6 0 10 3 12 8-2 3-3 7-3 12H9Z" />
+              <path d="M22 50c0-11 5-20 14-20s14 9 14 20H22Z" />
+              <path d="M39 50c0-5-1-9-3-12 2-5 6-8 12-8 8 0 12 7 12 15H39Z" />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5 max-sm:py-5">
+      <div class="mx-auto w-full max-w-4xl">
+        <h2 data-id="pg011_n0004" class="adt-h2 font-medium text-neutral-800">Grupet shoqërore</h2>
+        <div aria-hidden="true" class="mt-3 h-1 w-full max-w-xl bg-[#b06ab3]"></div>
+
+        <div class="mt-5 space-y-12 max-sm:space-y-8">
+          <img data-id="pg011_im001" src="images/pg011_im001.png" alt="Tre fëmijë vallëzojnë të lumtur së bashku, me duart lart dhe nota muzikore përreth." class="block w-full h-auto bg-[#fffafc] object-cover">
+          <img data-id="pg011_im002" src="images/pg011_im002.png" alt="Një djalë me këmbën mbi topin e futbollit dhe një vajzë përballë tij në një fushë me bar." class="block w-full h-auto object-cover">
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

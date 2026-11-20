@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg101_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="129">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="structured-response" id="content" class="container bg-white opacity-0 bk">
+  <section data-section-type="text_only" data-section-id="pg101_sec001" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5">
+    <div class="mb-8 overflow-hidden rounded-[2rem] bg-gradient-to-r from-purple-600 via-fuchsia-500 to-purple-600">
+      <div class="flex items-center justify-between gap-6 px-8 py-6 max-sm:flex-col max-sm:items-start max-sm:px-5">
+        <h1 data-id="pg101_n0002" class="adt-h1 font-bold text-white">Resurset dhe trashëgimia e vendit tim</h1>
+        <div aria-hidden="true" class="flex h-24 w-24 shrink-0 items-center justify-center rounded-2xl bg-white/20 text-white max-sm:h-20 max-sm:w-20">✿</div>
+      </div>
+    </div>
+
+    <h2 data-id="pg101_n0004" class="adt-h2 mb-6 inline-block border-b-4 border-purple-400 pb-2 font-semibold text-gray-900">Pasuritë njerëzore</h2>
+
+    <div class="mb-8 overflow-hidden rounded-[1.5rem] border-4 border-green-400 bg-green-50 shadow-sm">
+      <table class="w-full border-collapse">
+        <tr class="max-sm:align-top">
+          <th scope="col" class="w-1/2 border-b-4 border-r-4 border-green-400 bg-white px-4 py-4 text-center align-top font-medium text-gray-900 max-sm:px-3 max-sm:text-left">
+            <h3 data-id="pg101_n0008" class="adt-h3 text-gray-900">Pasuri natyrore</h3>
+          </th>
+          <th scope="col" class="w-1/2 border-b-4 border-green-400 bg-white px-4 py-4 text-center align-top font-medium text-gray-900 max-sm:px-3 max-sm:text-left">
+            <h3 data-id="pg101_n0010" class="adt-h3 text-gray-900">Pasuri njerëzore</h3>
+          </th>
+        </tr>
+        <tr>
+          <td class="border-r-4 border-green-400 px-4 py-4 align-top max-sm:px-3">
+            <div class="adt-body text-gray-900"><span data-id="pg101_n0013">Dielli, ujërat, pyjet, bimët etj.</span></div>
+            <div class="mt-5 space-y-3">
+              <label for="item-1" class="sr-only">Shto një pasuri natyrore</label>
+              <input id="item-1" data-activity-item="item-1" type="text" aria-label="Shto një pasuri natyrore" class="min-h-11 w-full rounded-xl border-2 border-green-300 bg-white px-4 py-3 text-gray-800 outline-none focus:border-green-500">
+              <label for="item-2" class="sr-only">Shto një tjetër pasuri natyrore</label>
+              <input id="item-2" data-activity-item="item-2" type="text" aria-label="Shto një tjetër pasuri natyrore" class="min-h-11 w-full rounded-xl border-2 border-green-300 bg-white px-4 py-3 text-gray-800 outline-none focus:border-green-500">
+            </div>
+          </td>
+          <td class="px-4 py-4 align-top max-sm:px-3">
+            <div class="adt-body text-gray-900"><span data-id="pg101_n0015">Mjekët, mësuesit, policët, muratorët etj.</span></div>
+            <div class="mt-5 space-y-3">
+              <label for="item-3" class="sr-only">Shto një pasuri njerëzore</label>
+              <input id="item-3" data-activity-item="item-3" type="text" aria-label="Shto një pasuri njerëzore" class="min-h-11 w-full rounded-xl border-2 border-green-300 bg-white px-4 py-3 text-gray-800 outline-none focus:border-green-500">
+              <label for="item-4" class="sr-only">Shto një tjetër pasuri njerëzore</label>
+              <input id="item-4" data-activity-item="item-4" type="text" aria-label="Shto një tjetër pasuri njerëzore" class="min-h-11 w-full rounded-xl border-2 border-green-300 bg-white px-4 py-3 text-gray-800 outline-none focus:border-green-500">
+            </div>
+          </td>
+        </tr>
+      </table>
+    </div>
+
+    <p class="adt-body mb-8 text-left leading-relaxed text-gray-900">
+      <span data-id="pg101_n0017">Në grupin e parë “Pasuri natyrore” bëjnë pjesë të gjitha pasuritë që gjenden në natyrë, pra ato që i shohim si pjesë përbërëse e natyrës.</span>
+      <span data-id="pg101_n0018">Në grupin e dytë “Pasuri njerëzore” bëjnë pjesë njerëzit që përdorin aftësitë e tyre për të kryer një shërbim.</span>
+      <span data-id="pg101_n0019">- Të dashur, moshatarë të mi! Në tabelën më lart, shtoni edhe të tjera në listën e pasurive natyrore dhe njerëzore, - tha Rona.</span>
+    </p>
+
+    <div class="mb-10 border-2 border-purple-300 bg-purple-50 px-6 py-5 shadow-sm max-sm:px-4">
+      <div class="float-right ml-6 mb-4 flex h-16 w-16 items-center justify-center rounded-none bg-purple-500 text-white max-lg:float-none max-lg:ml-0 max-lg:mb-4">
+        <span aria-hidden="true">📖</span>
+      </div>
+      <p class="adt-body text-left italic leading-relaxed text-gray-800">
+        <span data-id="pg101_n0022">Vendi ynë është mjaft i pasur me pasuri natyrore.</span>
+        <span data-id="pg101_n0023">Edhe më të pasur e bëjnë atë pasuritë njerëzore.</span>
+        <span data-id="pg101_n0024">Nxënësit në vendin tonë shkollohen dhe përgatiten për t’i shërbyer shtetit.</span>
+        <span data-id="pg101_n0025">Pasuri njerëzore, që ndryshe mund t'i quajmë edhe burime njerëzore, janë tërë fuqia punëtore e një vendi dhe njohuritë që kanë ata për të ushtruar një profesion.</span>
+        <span data-id="pg101_n0026">Burimet njerëzore pa dyshim që janë shtytësi kryesor i zhvillimit ekonomik të vendit.</span>
+        <span data-id="pg101_n0027">Sa më të ditur që të jenë njerëzit, aq më të aftë janë ata për shprehjen e aftësive të tyre për të kryer një shërbim.</span>
+      </p>
+      <div class="clear-both"></div>
+    </div>
+
+    <p class="adt-body text-left text-gray-900">
+      <span data-id="pg101_n0028">Fjalët kyçe: pasuri njerëzore, aftësi, shërbim.</span>
+    </p>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

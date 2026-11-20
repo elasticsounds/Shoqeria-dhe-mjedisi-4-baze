@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg088_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="113">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-reading" id="content" class="container opacity-0 bk">
+  <section data-section-type="text_and_images" data-section-id="pg088_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 text-zinc-800 max-sm:px-5 max-sm:py-5">
+    <div class="mb-10 max-sm:mb-8">
+      <div class="flex items-start max-sm:items-start gap-0 max-sm:flex-col max-sm:gap-4">
+        <div class="shrink-0 w-36 h-44 max-sm:w-32 max-sm:h-32 bg-purple-500 rounded-tl-md rounded-bl-md rounded-br-md flex items-center justify-center">
+          <div aria-hidden="true" class="w-20 h-28 max-sm:w-16 max-sm:h-20 rounded-[1.75rem] border-[3px] border-white relative before:content-[''] before:absolute before:-inset-2 before:border-[3px] before:border-white before:rounded-[1.9rem]"></div>
+        </div>
+        <div class="flex-1 pt-20 max-sm:pt-0">
+          <div class="bg-purple-500 px-4 py-3 max-sm:px-3 max-sm:py-2">
+            <h1 class="adt-h1 text-white font-bold leading-tight" data-id="pg088_n0002">Traditat dhe trashëgimia jonë</h1>
+          </div>
+          <div class="bg-white pt-4 max-sm:pt-3 pr-4">
+            <h2 class="adt-h2 text-zinc-800 leading-tight" data-id="pg088_n0004">Pjesëmarrja jonë në festë</h2>
+            <div aria-hidden="true" class="mt-3 h-1 w-full max-w-[30rem] bg-purple-400"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mx-auto max-w-4xl">
+      <div class="mb-10 max-sm:mb-8">
+        <div class="mb-4">
+          <h3 class="adt-h3 inline-block bg-green-400 px-4 py-2 font-semibold leading-tight text-zinc-900" data-id="pg088_n0006">Situata 1.</h3>
+        </div>
+        <p class="adt-body text-left leading-relaxed">
+          <span data-id="pg088_n0008">Buna, shoqja e klasës së Jonit dhe Drinit, kishte organizuar dasmën e motrës në shtëpinë e saj.</span> <span data-id="pg088_n0009">Po martohej motra e saj dhe ajo kishte dëshirë të ftonte shokët dhe shoqet e klasës, që disa të mbanin fustanin e nuses e të tjerët lule.</span> <span data-id="pg088_n0010">Ajo, bashkë me prindërit e vëllezërit e saj, kishin përgatitur shtëpinë, duke zbukuruar dhomën e ndenjjes dhe kishin përgatitur ëmbëlsira e ushqime nga më të ndryshmet.</span> <span data-id="pg088_n0011">Ndërkohë që Joni po përgatitej për dasmë, nëna iu afrua dhe po i tregonte se sa e rëndësishme ishte që të respektonte familjen e Bunës dhe përgatitjet e tyre për dasmë.</span> <span data-id="pg088_n0012">Nëna po tregonte se sa e rëndësishme ishte që ai të shkonte në orarin e caktuar te shtëpia e shoqes së tij.</span> <span data-id="pg088_n0013">Ajo, gjithashtu, i tha se duhej të mendonte që t’i bënte edhe një dhuratë, e cila do ta gëzonte shumë atë, pasi të gjithë bëjnë dhurata në raste të tilla.</span> <span data-id="pg088_n0014">Sa gjëra të bukura mësoi Joni!</span> <span data-id="pg088_n0015">Ai përjetoi emocione të shumta, të cilat nuk do t’i harrojë kurrë.</span>
+        </p>
+      </div>
+
+      <div class="mb-4">
+        <h3 class="adt-h3 mb-3 text-left font-medium" data-id="pg088_n0017">Dasmat dikur dhe sot</h3>
+      </div>
+
+      <div class="space-y-4">
+        <img data-id="pg088_im002" src="images/pg088_im002.png" alt="Dasmë tradicionale me valltarë në rreth, muzikantë dhe të ftuar të veshur me kostume popullore." class="w-full h-auto border-2 border-emerald-400 shadow-sm">
+        <img data-id="pg088_im001" src="images/pg088_im001.png" alt="Sallë moderne dasme me tavolina të rregulluara, dekorime me lule dhe ambient festiv." class="w-full h-auto border-2 border-emerald-400 shadow-sm">
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

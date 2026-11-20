@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg092_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="117" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0">
+  <section data-section-type="text_and_images" data-section-id="pg092_sec001" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-white text-neutral-900">
+    <div class="mb-6 border-b-4 border-fuchsia-400 pb-3">
+      <h1 data-id="pg092_n0003" class="adt-h2 font-bold text-left text-neutral-900">Shfryt&#xeb;zimi i pasurive natyrore</h1>
+    </div>
+
+    <h3 data-id="pg092_n0004" class="adt-h3 inline-block bg-green-400 px-4 py-2 font-semibold text-left text-neutral-900 rounded-sm mb-5">Situata 1.</h3>
+
+    <p class="adt-body text-left leading-relaxed mb-8">
+      <span data-id="pg092_n0006">Buna: P&#xeb;rsh&#xeb;ndetje, Rita!</span>
+      <span data-id="pg092_n0007">M&#xeb; duhet t&#xeb; shkruaj nj&#xeb; artikull informues p&#xeb;r shfryt&#xeb;zimin e pasurive natyrore n&#xeb; Kosov&#xeb; dhe nuk kam asnj&#xeb; ide se &#xe7;far&#xeb; do t&#xeb; shkruaj.</span>
+      <span data-id="pg092_n0008">A mund t&#xeb; m&#xeb; ndihmosh me ndonj&#xeb; informacion?</span>
+      <span data-id="pg092_n0009">Rita: Sigurisht.</span>
+      <span data-id="pg092_n0010">At&#xeb;her&#xeb;, fillimisht duhet t&#xeb; p&#xeb;rmendet q&#xeb; Kosova ka pasuri natyrore t&#xeb; bollshme.</span>
+      <span data-id="pg092_n0011">Ka pyje, lumenj, male, tok&#xeb; bujq&#xeb;sore dhe shum&#xeb; pasuri n&#xeb;ntok&#xeb;sore.</span>
+      <span data-id="pg092_n0012">Kosova p&#xeb;r nga pasurit&#xeb; natyrore &#xeb;sht&#xeb; nd&#xeb;r vendet m&#xeb; t&#xeb; pasura n&#xeb; Evrop&#xeb;.</span>
+      <span data-id="pg092_n0013">Pasurit&#xeb; natyrore ndahen n&#xeb;:</span>
+    </p>
+
+    <div class="overflow-x-auto mb-10">
+      <table class="w-full border-collapse table-fixed max-lg:table-auto">
+        <tr>
+          <th class="w-1/2 border-4 border-white bg-green-400 px-4 py-3 align-top text-left max-lg:block max-lg:w-full">
+            <h3 data-id="pg092_n0017" class="adt-h3 font-bold text-neutral-900">Pasuri mbitok&#xeb;sore</h3>
+          </th>
+          <th class="w-1/2 border-4 border-white bg-green-400 px-4 py-3 align-top text-left max-lg:block max-lg:w-full">
+            <h3 data-id="pg092_n0019" class="adt-h3 font-bold text-neutral-900">Pasuri n&#xeb;ntok&#xeb;sore</h3>
+          </th>
+        </tr>
+        <tr class="max-lg:block">
+          <td class="w-1/2 align-top border-2 border-green-400 px-4 py-4 max-lg:block max-lg:w-full">
+            <ul class="space-y-8">
+              <li class="adt-body text-left leading-relaxed"><span data-id="pg092_n0024">1. Toka e punueshme, e cila shfryt&#xeb;zohet p&#xeb;r zhvillimin e bujq&#xeb;sis&#xeb;.</span></li>
+              <li class="adt-body text-left leading-relaxed"><span data-id="pg092_n0026">2. Lumenjt&#xeb;, t&#xeb; cil&#xeb;t i shfryt&#xeb;zojm&#xeb; p&#xeb;r uj&#xeb; t&#xeb; pijsh&#xeb;m apo ujitje.</span></li>
+              <li class="adt-body text-left leading-relaxed"><span data-id="pg092_n0028">3. Liqenet artificiale, t&#xeb; cilat shfryt&#xeb;zohen p&#xeb;r uj&#xeb; t&#xeb; pijsh&#xeb;m.</span></li>
+              <li class="adt-body text-left leading-relaxed">
+                <span data-id="pg092_n0030">4. Pyjet, drur&#xeb;t e t&#xeb; cilave shfryt&#xeb;zohen p&#xeb;r ngrohje apo p&#xeb;r prodhimin e gj&#xeb;sendeve t&#xeb; ndryshme.</span>
+                <span data-id="pg092_n0031">Po ashtu, ato jan&#xeb; t&#xeb; r&#xeb;nd&#xeb;sishme p&#xeb;r llojllojshm&#xeb;rin&#xeb; e bim&#xeb;ve.</span>
+              </li>
+              <li class="adt-body text-left leading-relaxed"><span data-id="pg092_n0033">5. Kosova &#xeb;sht&#xeb; e pasur me lloje t&#xeb; ndryshme bimore.</span></li>
+            </ul>
+          </td>
+          <td class="w-1/2 align-top border-2 border-green-400 px-4 py-4 max-lg:block max-lg:w-full">
+            <ul class="space-y-8 mb-6">
+              <li class="adt-body text-left leading-relaxed"><span data-id="pg092_n0037">1. Th&#xeb;ngjilli linjit, i cili shfryt&#xeb;zohet p&#xeb;r prodhimin e energjis&#xeb; elektrike n&#xeb; Termocentralin &#x201c;Kosova&#x201d;.</span></li>
+              <li class="adt-body text-left leading-relaxed"><span data-id="pg092_n0039">2. Ka shum&#xeb; minerale e m&#xeb; s&#xeb; shumti plumb, i cili nxirret nga minierat e Trep&#xe7;&#xeb;s n&#xeb; Mitrovic&#xeb;.</span></li>
+              <li class="adt-body text-left leading-relaxed"><span data-id="pg092_n0041">3. Xehe t&#xeb; shumta.</span></li>
+            </ul>
+            <div class="grid grid-cols-2 gap-3 max-sm:grid-cols-1">
+              <img data-id="pg092_im001" src="images/pg092_im001.png" alt="Termocentrali &#x201c;Kosova&#x201d; me oxhaqe t&#xeb; larta, ku shfryt&#xeb;zohet th&#xeb;ngjilli p&#xeb;r prodhimin e energjis&#xeb; elektrike." class="w-full h-auto rounded-sm shadow-sm object-cover">
+              <img data-id="pg092_im002" src="images/pg092_im002.png" alt="Hyrja e nj&#xeb; miniere n&#xeb; Trep&#xe7;&#xeb;, q&#xeb; lidhet me nxjerrjen e mineraleve n&#xeb; Mitrovic&#xeb;." class="w-full h-auto rounded-sm shadow-sm object-cover">
+            </div>
+          </td>
+        </tr>
+      </table>
+    </div>
+
+    <p class="adt-body text-left leading-relaxed">
+      <span data-id="pg092_n0043">Buna: Uaaa, nuk e kam ditur q&#xeb; vendi yn&#xeb; ka kaq shum&#xeb; pasuri natyrore.</span>
+      <span data-id="pg092_n0044">Faleminderit, Rita!</span>
+      <span data-id="pg092_n0045">Besoj q&#xeb; me k&#xeb;to informacione artikulli im do t&#xeb; informoj&#xeb; shum&#xeb; njer&#xeb;z p&#xeb;r pasurit&#xeb; tona natyrore!</span>
+    </p>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

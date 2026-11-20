@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg094_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="123">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="illustrated-reading" id="content" class="container opacity-0 bk"><section data-section-type="text_and_single_image" data-section-id="pg094_sec001" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-white text-neutral-800">
+  <div class="w-full mb-10">
+    <div class="flex items-start max-sm:block">
+      <div class="w-36 min-h-40 rounded-l-2xl bg-purple-500 flex items-center justify-center max-lg:min-h-36 max-sm:w-full max-sm:min-h-24 max-sm:rounded-t-2xl max-sm:rounded-b-none">
+        <div aria-hidden="true" class="font-bold leading-none text-white">✳</div>
+      </div>
+      <div class="flex-1 pt-4 max-sm:pt-0">
+        <div class="h-12 bg-purple-500 rounded-r-2xl max-sm:rounded-t-none max-sm:rounded-r-none"></div>
+        <div class="pt-5 pb-3 border-b-4 border-purple-400">
+          <h1 class="adt-h2 font-semibold text-left" data-id="pg094_n0003">Shfrytëzimi i pasurive nëntokësore</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mb-8">
+    <div class="mb-5">
+      <h3 class="adt-h3 inline-block bg-green-400 px-4 py-2 font-semibold text-left" data-id="pg094_n0005">Situata 1.</h3>
+    </div>
+
+    <p class="adt-body leading-relaxed text-left mb-3">
+      <span data-id="pg094_n0007">Pas mbërritjes së fundit të turistëve, udhërrëfyesi u drejtua për te grupi japonez dhe filloi bisedimin me ta.</span>
+      <span data-id="pg094_n0008">Ai nuk e dinte arsyen përse ky grup kishte ardhur prej së largu në Kosovë, prandaj menjëherë u interesua që ta shuante këtë kureshtje.</span>
+    </p>
+
+    <p class="adt-body leading-relaxed text-left mb-3">
+      <span data-id="pg094_n0010">- Përshëndetje dhe mirë se erdhët në Kosovë!</span>
+      <span data-id="pg094_n0011">Jam i lumtur që keni ardhur në shtetin tonë.</span>
+    </p>
+
+    <p class="adt-body leading-relaxed text-left mb-3">
+      <span data-id="pg094_n0013">- Konnichiwa (përshëndetje), faleminderit shumë për mikpritjen!</span>
+      <span data-id="pg094_n0014">Shpresoj të kalojmë mirë së bashku!</span>
+    </p>
+
+    <p class="adt-body leading-relaxed text-left mb-3">
+      <span data-id="pg094_n0016">- Meqë jemi duke biseduar, mund t’ju pyes pse zgjodhët pikërisht Kosovën për ta vizituar?</span>
+    </p>
+
+    <p class="adt-body leading-relaxed text-left mb-3">
+      <span data-id="pg094_n0018">- Ne jemi duke bërë disa hulumtime për pasuritë nëntokësore të vendeve të Evropës dhe, ndër to, zgjodhëm edhe Kosovën.</span>
+      <span data-id="pg094_n0019">Për pasuritë nëntokësore të vendit tuaj nuk kishte shumë informacione në internet, prandaj ato që do t’i mësojmë gjatë kohës sa jemi këtu do t’i shfaqim në uebfaqe.</span>
+    </p>
+
+    <p class="adt-body leading-relaxed text-left mb-3">
+      <span data-id="pg094_n0021">- Para se t’i vizitojmë vendet që ju nevojiten për hulumtim, mund t’ju tregoj në pika të shkurtra për pasuritë tona nëntokësore.</span>
+      <span data-id="pg094_n0022">Kosova ka një nëntokë mjaft të pasur, duke filluar nga thëngjilli linjit - me sasi më të madhe, i cili shfrytëzohet për prodhimin e energjisë elektrike në Termocentralin “Kosova A” dhe “Kosova B”, minerale të plumbit, të zinkut, të argjendit, të arit e shumë të tjera.</span>
+      <span data-id="pg094_n0023">Miniera më aktive është “Trepça”, e cila ndodhet në Mitrovicë.</span>
+    </p>
+
+    <p class="adt-body leading-relaxed text-left mb-8">
+      <span data-id="pg094_n0025">- Sipas atyre që thatë ju, Kosova qenka mjaft e pasur me minerale.</span>
+    </p>
+  </div>
+
+  <div class="clear-both">
+    <img data-id="pg094_im001" src="images/pg094_im001.png" alt="Katër turistë të rinj, të veshur në mënyrë formale, bisedojnë të buzëqeshur gjatë një vizite në Kosovë." class="w-full h-auto rounded-xl shadow-sm">
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

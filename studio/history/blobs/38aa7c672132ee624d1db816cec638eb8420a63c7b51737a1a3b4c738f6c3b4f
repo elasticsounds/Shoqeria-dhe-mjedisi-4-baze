@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg056_sec003">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="74">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk"><section data-section-type="boxed_text" data-section-id="pg056_sec003" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5"><aside class="mx-auto w-full max-w-4xl border-2 border-purple-300 bg-white"><div class="flex items-stretch max-lg:flex-col"><div aria-hidden="true" class="w-28 shrink-0 bg-purple-500 max-lg:w-full max-lg:h-6"></div><div class="flex-1 px-6 py-5 max-lg:px-5 max-lg:py-4 max-sm:px-4 max-sm:py-4"><p class="adt-body italic leading-relaxed text-left text-gray-800"><span data-id="pg056_n0031">Vendimmarrja shërben për të zgjidhur në mënyrë të drejtë problemet me të cilat përballemi në jetën e përditshme.</span> <span data-id="pg056_n0032">Vendimi merret duke zgjedhur zgjidhjen më të mirë të mundshme.</span> <span data-id="pg056_n0033">Vendimi mund të merret nga shumë njerëz së bashku, ku secili ka të drejtë të shprehë mendimin e vet.</span> <span data-id="pg056_n0034">Vetëm nëpërmjet bashkëbisedimit në grup arrihet te vendimi i duhur.</span></p></div></div></aside></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

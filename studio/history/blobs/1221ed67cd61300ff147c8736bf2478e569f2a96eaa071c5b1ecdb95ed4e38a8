@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg027_sec001_p3">
+<meta name="page-section-id" content="41">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>
+body,button,input,textarea,select,#interface-container,#nav-container{font-family:BookPoppins,Poppins,sans-serif}
+#content.bk.bk.bk{padding-top:24px;overflow:visible}
+#content.bk.bk.bk .bk-banner{margin:0 0 24px;padding:16px 20px;border-radius:20px}
+#content.bk .bk-body{margin:0;max-width:720px}
+#content.bk em{font-style:normal;font-weight:600}
+#content.bk .bk-heading{font-weight:600}
+#content.bk.bk.bk .bk-card--outline{border-color:var(--bk-primary)}
+@media(min-width:641px) and (max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+<div id="content" class="bk" data-family="lesson-discussion">
+<section class="bk-stack" data-section-type="boxed_text" data-section-id="pg027_sec001_p3" aria-label="Të kesh mendim ndryshe">
+<div class="bk-card bk-card--outline">
+<p class="bk-body"><em><span data-id="pg027_n0026">Të kesh mendim ndryshe prej të tjerëve, rreth një teme a çështjeje, është krejtësisht e natyrshme, sepse njerëzit zhvillohen ndryshe dhe kanë kultura të ndryshme.</span> <span data-id="pg027_n0027">Nxënësit, për shembull, duhet të jenë pranues dhe jo diskriminues ndaj njëri-tjetrit.</span> <span data-id="pg027_n0028">Ata duhet të mbështetin bashkëmoshatarët e tyre, edhe pse mund të kenë mendim ndryshe.</span> <span data-id="pg027_n0029">Zëri i të gjithë individëve duhet dëgjuar dhe vlerësuar.</span> <span data-id="pg027_n0030">Mendimi ndryshe nxit kreativitetin e konkurrencën dhe ndihmon për zgjidhjen më të shpejtë të problemeve e krijimin e ideve të qarta për zhvillim.</span></em></p>
+</div>
+<p class="bk-body"><strong>Fjalët kyçe:</strong> mendim ndryshe, respekt reciprok, mospajtim, individ.</p>
+<p class="bk-caption">27</p>
+</section>
+</div>
+</main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

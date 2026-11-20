@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg051_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="71">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container mx-auto bg-white opacity-0 bk">
+  <section data-section-type="text_and_single_image" data-section-id="pg051_sec001" class="w-full">
+    <div class="w-full bg-[#fde9a3] border-b border-transparent">
+      <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 max-sm:py-6">
+        <div class="flex items-start justify-between gap-8 max-sm:flex-col max-sm:gap-4">
+          <div class="flex-1 min-w-0 pt-2">
+            <h1 class="adt-h1 font-bold text-white bg-[#a86ab0] px-4 py-3 inline-block w-[78%] max-lg:w-[82%] max-sm:w-full" data-id="pg051_n0002">Mendime të ndryshme, vendime të përbashkëta</h1>
+            <h2 class="adt-h2 mt-5 text-[#1f2937] font-medium" data-id="pg051_n0003">Në familje vendosim së bashku</h2>
+            <div aria-hidden="true" class="mt-2 h-1 w-[60%] max-sm:w-full max-w-full bg-[#b77ac0]"></div>
+          </div>
+          <div aria-hidden="true" class="shrink-0 rounded-2xl bg-[#a86ab0] w-36 h-36 flex items-center justify-center max-lg:w-28 max-lg:h-28 max-sm:self-start">
+            <div class="relative w-20 h-14">
+              <div class="absolute left-0 top-2 w-10 h-10 bg-white rounded-full"></div>
+              <div class="absolute left-4 top-0 w-12 h-12 bg-white rounded-full"></div>
+              <div class="absolute right-0 top-4 w-12 h-12 bg-white rounded-full"></div>
+              <div class="absolute left-3 top-11 w-0 h-0 border-l-[10px] border-l-transparent border-r-[2px] border-r-transparent border-t-[14px] border-t-white"></div>
+              <div class="absolute right-1 top-12 w-0 h-0 border-l-[2px] border-l-transparent border-r-[10px] border-r-transparent border-t-[14px] border-t-white"></div>
+              <div class="absolute left-9 top-7 flex gap-2">
+                <span class="w-2 h-2 rounded-full bg-[#a86ab0]"></span>
+                <span class="w-2 h-2 rounded-full bg-[#a86ab0]"></span>
+                <span class="w-2 h-2 rounded-full bg-[#a86ab0]"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8">
+      <div class="relative">
+        <div aria-hidden="true" class="absolute left-0 top-8 bottom-40 w-7 bg-[#f8c57a] max-lg:hidden"></div>
+        <div class="pl-12 max-lg:pl-0">
+          <img data-id="pg051_im001_crop_v1" src="images/pg051_im001_crop_v1.png" alt="Familja e ulur rreth tavolinës diskuton së bashku dhe ndan mendime për të marrë një vendim." class="w-full h-auto rounded-sm relative z-10 max-sm:w-full">
+
+          <div class="bg-[#d9c6df] mt-0 flex items-stretch justify-between overflow-hidden max-sm:flex-col">
+            <div class="flex-1 p-4 max-sm:p-4">
+              <p class="adt-body text-[#2b2b2b] leading-relaxed"><span data-id="pg051_n0005">- Si mendoni ju se do të marrin vendimin për dhuratën e nënës?</span></p>
+              <p class="adt-body text-[#2b2b2b] leading-relaxed"><span data-id="pg051_n0006">- Po ti, me kë këshillohesh për vendimet që merr?</span></p>
+            </div>
+            <div aria-hidden="true" class="bg-[#a86ab0] w-24 flex items-center justify-center max-sm:w-full max-sm:min-h-20">
+              <div class="text-white font-light">?</div>
+            </div>
+          </div>
+
+          <div class="mt-8 border-2 border-[#c68ccf] bg-white overflow-hidden">
+            <div class="flex justify-end">
+              <div aria-hidden="true" class="bg-[#a86ab0] w-48 h-20 max-sm:w-28 flex items-center justify-center shrink-0">
+                <div class="w-11 h-14 rounded-sm border-2 border-white relative">
+                  <div class="absolute inset-x-1 top-1 h-9 bg-white rounded-sm"></div>
+                  <div class="absolute left-1 right-1 bottom-1 h-2 border-t-2 border-white"></div>
+                </div>
+              </div>
+            </div>
+            <p class="adt-body p-4 pt-5 italic text-[#2f2f2f] leading-relaxed">
+              <span data-id="pg051_n0009">Në familje kemi të drejta dhe përgjegjësi.</span> <span data-id="pg051_n0010">Ne duhet t’i respektojmë mendimet e anëtarëve të familjes, ta ndihmojmë dhe ta mbështesim njëri-tjetrin.</span> <span data-id="pg051_n0011">Fëmijët duhet të kenë përgjegjësi, që u përshtaten moshës së tyre, sepse kështu ata ndihen të plotësuar dhe të rëndësishëm në familje.</span> <span data-id="pg051_n0012">Përfshirja e fëmijëve në jetën e familjes është një nga parimet e Konventës mbi të Drejtat e Fëmijës.</span> <span data-id="pg051_n0013">Fëmijët duhet të shprehin lirshëm mendimin që kanë.</span>
+            </p>
+          </div>
+
+          <div class="mt-10 bg-[#fde9a3] p-5 max-sm:p-4">
+            <p class="adt-body text-[#2f2f2f] mb-5"><span data-id="pg051_n0015">Ja disa këshilla që duhen pasur parasysh:</span></p>
+            <ul class="space-y-2 text-[#2f2f2f]">
+              <li class="adt-body flex items-start gap-2"><span aria-hidden="true">–</span><span data-id="pg051_n0018">këshillohu në familje për problemet e ndryshme që mund të kesh;</span></li>
+              <li class="adt-body flex items-start gap-2"><span aria-hidden="true">–</span><span data-id="pg051_n0020">mbaj një kalendar për festat më të rëndësishme në familje;</span></li>
+              <li class="adt-body flex items-start gap-2"><span aria-hidden="true">–</span><span data-id="pg051_n0022">dëgjo me vëmendje se çfarë thonë pjesëtarët e tjerë të familjes;</span></li>
+              <li class="adt-body flex items-start gap-2"><span aria-hidden="true">–</span><span data-id="pg051_n0024">trego respekt për mendimet e anëtarëve të familjes;</span></li>
+              <li class="adt-body flex items-start gap-2"><span aria-hidden="true">–</span><span data-id="pg051_n0026">gjej fjalët e duhura për t’i përdorur në komunikim.</span></li>
+            </ul>
+          </div>
+
+          <p class="adt-body mt-10 text-[#2f2f2f]"><span data-id="pg051_n0027">Fjalët kyçe: familje, pjesëmarrje, mendim i lirë, këshillë.</span></p>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

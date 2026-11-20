@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg054_sec002" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="65" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div id="content" class="container opacity-0"><section data-section-type="boxed_text" data-section-id="pg054_sec002" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5"><div class="mx-auto w-full max-w-4xl"><div class="flex overflow-hidden rounded-none bg-purple-100 max-sm:flex-col"><div class="flex w-28 shrink-0 items-start justify-center bg-purple-500 px-4 py-5 text-white max-sm:w-full max-sm:justify-start max-sm:px-5"><div aria-hidden="true" class="flex h-14 w-14 items-center justify-center rounded-2xl border border-white/30 bg-white/10">?</div></div><div class="flex-1 bg-purple-100 px-8 py-5 max-sm:px-4"><ol class="space-y-5"><li class="list-none"><p class="adt-body text-slate-800"><span data-id="pg054_n0015">Pse &#xeb;sht&#xeb; e r&#xeb;nd&#xeb;sishme kontrata? &#xc7;far&#xeb; garanton ajo?</span></p><label for="item-1" class="sr-only">Pse &#xeb;sht&#xeb; e r&#xeb;nd&#xeb;sishme kontrata? &#xc7;far&#xeb; garanton ajo?</label><textarea id="item-1" data-activity-item="item-1" aria-label="Pse &#xeb;sht&#xeb; e r&#xeb;nd&#xeb;sishme kontrata? &#xc7;far&#xeb; garanton ajo?" class="mt-2 min-h-11 w-full rounded-lg border-2 border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200" rows="3"></textarea></li><li class="list-none"><p class="adt-body text-slate-800"><span data-id="pg054_n0017">Listoni disa nga pikat q&#xeb; mendoni se do t&#x2019;i lexonte f&#xeb;mija n&#xeb; kontrat&#xeb;.</span></p><label for="item-2" class="sr-only">Listoni disa nga pikat q&#xeb; mendoni se do t&#x2019;i lexonte f&#xeb;mija n&#xeb; kontrat&#xeb;.</label><textarea id="item-2" data-activity-item="item-2" aria-label="Listoni disa nga pikat q&#xeb; mendoni se do t&#x2019;i lexonte f&#xeb;mija n&#xeb; kontrat&#xeb;." class="mt-2 min-h-11 w-full rounded-lg border-2 border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200" rows="3"></textarea></li><li class="list-none"><p class="adt-body text-slate-800"><span data-id="pg054_n0019">K&#xeb;shillohuni me prind&#xeb;rit dhe, bashk&#xeb; me ta, lexoni kontrat&#xeb;n tuaj me nj&#xeb; nga institucionet e sh&#xeb;rbimeve.</span></p><label for="item-3" class="sr-only">K&#xeb;shillohuni me prind&#xeb;rit dhe, bashk&#xeb; me ta, lexoni kontrat&#xeb;n tuaj me nj&#xeb; nga institucionet e sh&#xeb;rbimeve.</label><textarea id="item-3" data-activity-item="item-3" aria-label="K&#xeb;shillohuni me prind&#xeb;rit dhe, bashk&#xeb; me ta, lexoni kontrat&#xeb;n tuaj me nj&#xeb; nga institucionet e sh&#xeb;rbimeve." class="mt-2 min-h-11 w-full rounded-lg border-2 border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200" rows="3"></textarea></li></ol></div></div></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

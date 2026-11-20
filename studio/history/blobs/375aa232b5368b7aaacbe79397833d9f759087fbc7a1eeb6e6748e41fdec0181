@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg106_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="135" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto opacity-0">
+  <section data-section-type="text_and_single_image" data-section-id="pg106_sec001" class="bg-[#f3cfb1]">
+    <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 pt-8 pb-2">
+      <div class="flex items-start gap-0 max-sm:flex-col max-sm:gap-4">
+        <div class="shrink-0 w-36 h-56 max-sm:w-28 max-sm:h-32 bg-[#a96bb1] rounded-tl-xl rounded-bl-xl rounded-br-xl flex items-center justify-center max-sm:rounded-xl">
+          <svg viewBox="0 0 64 64" class="w-16 h-16 fill-white max-sm:w-12 max-sm:h-12" aria-hidden="true">
+            <path d="M31 10c3 4 5 9 5 15s-2 11-5 15c-3-4-5-9-5-15s2-11 5-15Zm0 30c3 3 5 7 5 12s-2 9-5 12c-3-3-5-7-5-12s2-9 5-12Zm-9-19c-4 0-9-2-14-7 5-2 10-2 14 0 4 2 7 6 9 11-4 0-7-1-9-4Zm18 0c4 0 9-2 14-7-5-2-10-2-14 0-4 2-7 6-9 11 4 0 7-1 9-4ZM22 33c-4 0-9-2-14-7 5-2 10-2 14 0 4 2 7 6 9 11-4 0-7-1-9-4Zm18 0c4 0 9-2 14-7-5-2-10-2-14 0-4 2-7 6-9 11 4 0 7-1 9-4ZM22 45c-4 0-9-2-14-7 5-2 10-2 14 0 4 2 7 6 9 11-4 0-7-1-9-4Zm18 0c4 0 9-2 14-7-5-2-10-2-14 0-4 2-7 6-9 11 4 0 7-1 9-4Z"/>
+          </svg>
+        </div>
+        <div class="flex-1 pt-14 max-sm:pt-0">
+          <div class="bg-[#a96bb1] px-6 py-3 w-[calc(100%+5rem)] -ml-2 max-sm:w-full max-sm:ml-0 max-sm:px-4 max-sm:py-3">
+            <h1 class="adt-h1 font-bold text-white leading-tight"><span data-id="pg106_n0002">Resurset dhe trash&#xeb;gimia e vendit tim</span></h1>
+          </div>
+          <div class="pt-4 max-sm:pt-3">
+            <h2 class="adt-h2 text-[#2d2a2e] font-semibold inline-block border-b-4 border-[#a96bb1] pb-2 pr-20 max-sm:pr-0"><span data-id="pg106_n0003">Ndihmojm&#xeb; p&#xeb;r nj&#xeb; mjedis t&#xeb; past&#xeb;r</span></h2>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 pt-4 pb-0">
+      <h3 class="adt-h3 inline-block bg-[#63b96e] text-[#1d1d1d] font-semibold px-5 py-2 mb-6"><span data-id="pg106_n0004">Situata 1.</span></h3>
+
+      <p class="adt-body text-[#3a2a22] leading-relaxed text-left">
+        <span data-id="pg106_n0006">M&#xeb;suesi: Nx&#xeb;n&#xeb;s, sot do t&#xeb; flasim p&#xeb;r ambientin, pandaj ajo &#xe7;ka k&#xeb;rkoj nga ju &#xeb;sht&#xeb; q&#xeb; secili nga ju t&#xeb; tregoni se si mund t&#xeb; ndihmoni p&#xeb;r nj&#xeb; mjedis t&#xeb; past&#xeb;r.</span>
+        <span data-id="pg106_n0007">Arsimi: M&#xeb;sues, duke qen&#xeb; se makinat ndotin ajrin, n&#xeb;p&#xeb;r qytet duhet t&#xeb; ecim, t&#xeb; shfryt&#xeb;zojm&#xeb; bi&#xe7;iklet&#xeb;n ose transportin publik - autobusin.</span>
+        <span data-id="pg106_n0008">Ema: P&#xeb;r jet&#xeb; t&#xeb; sh&#xeb;ndetshme n&#xeb; planetin ton&#xeb;, n&#xeb; t&#xeb; ardhmen, nj&#xeb; rol t&#xeb; r&#xeb;nd&#xeb;sish&#xeb;m do t&#xeb; luaj&#xeb; menaxhimi i mbeturinave.</span>
+        <span data-id="pg106_n0009">Ato duhet t&#xeb; riciklohen.</span>
+        <span data-id="pg106_n0010">Riciklimi i tyre &#xeb;sht&#xeb; shum&#xeb; i r&#xeb;nd&#xeb;sish&#xeb;m.</span>
+        <span data-id="pg106_n0011">Prodhimi i sendeve nga riciklimi i mbeturinave harxhon m&#xeb; pak energji se prodhimi i tyre nga materiale t&#xeb; reja.</span>
+        <span data-id="pg106_n0012">Mbeturinat nuk duhet t&#xeb; hidhen n&#xeb; tok&#xeb;, por n&#xeb; shportat p&#xeb;rkat&#xeb;se.</span>
+        <span data-id="pg106_n0013">Dea: Uji &#xeb;sht&#xeb; i &#xe7;muesh&#xeb;m, k&#xeb;shtu q&#xeb; duhet ta ruajm&#xeb;.</span>
+        <span data-id="pg106_n0014">T&#xeb; mos hedhim mbeturina n&#xeb; lumenj!</span>
+        <span data-id="pg106_n0015">T&#xeb; mos e l&#xeb;m&#xeb; &#xe7;ezm&#xeb;n hapur pa nevoj&#xeb;!</span>
+        <span data-id="pg106_n0016">T&#xeb; kujdesemi p&#xeb;r ruajtjen e energjis&#xeb;.</span>
+        <span data-id="pg106_n0017">Mali: Ne mund t&#xeb; mbjellim drur&#xeb;, shum&#xeb; drur&#xeb;, s&#xeb; paku nj&#xeb; gjat&#xeb; jet&#xeb;s son&#xeb;.</span>
+        <span data-id="pg106_n0018">Ne s&#xeb; bashku mund ta b&#xeb;jm&#xeb; ndryshimin p&#xeb;r nj&#xeb; ambient sa m&#xeb; t&#xeb; past&#xeb;r dhe nj&#xeb; jet&#xeb; t&#xeb; sh&#xeb;ndetshme.</span>
+        <span data-id="pg106_n0019">M&#xeb;suesi: Ju lumt&#xeb;, nx&#xeb;n&#xeb;s!</span>
+        <span data-id="pg106_n0020">Ne duhet t&#xeb; kujdesemi p&#xeb;r ambientin, q&#xeb; edhe vet&#xeb; t&#xeb; jemi t&#xeb; sh&#xeb;ndetsh&#xeb;m.</span>
+      </p>
+
+      <div class="mt-8 max-sm:mt-6 rounded-t-3xl overflow-hidden bg-[#efc9a9]">
+        <img data-id="pg106_im001" src="images/pg106_im001.png" alt="M&#xeb;suesi po u shpjegon nx&#xeb;n&#xeb;sve n&#xeb; klas&#xeb; p&#xeb;r kujdesin ndaj ambientit, pran&#xeb; tabel&#xeb;s me nj&#xeb; pamje t&#xeb; natyr&#xeb;s." class="w-full h-auto block">
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

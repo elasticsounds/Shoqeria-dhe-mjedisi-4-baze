@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg018_sec001_p2">
+    <meta name="page-section-id" content="27">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    
+    <style>
+      #content.bk.bk.bk[data-family] {padding-top:24px; overflow:visible;}
+      #content.bk.bk.bk p {margin:0;}
+      #content.bk.bk.bk[data-family] .bk-chip {background:var(--bk-accent2); border-color:var(--bk-accent2); margin-bottom:12px;}
+      #content.bk.bk.bk[data-family] .bk-figure img {width:100%; height:auto; border-radius:0;}
+      body:has(#content.bk) :is(#nav-container,#interface-container),
+      body:has(#content.bk) :is(#nav-container,#interface-container) :is(div,span,a,button,label,input,select,option,p):not([class*="fa-"]) {font-family:BookPoppins, Poppins, sans-serif !important;}
+      @media (min-width:641px) and (max-width:767px) {#content.bk.bk.bk {padding-inline:16px;}}
+    </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+    <main>
+      <div data-family="illustrated-reading" id="content" class="bk">
+        <section data-section-type="text_and_images" data-section-id="pg018_sec001_p2" class="bk-stack">
+          <div>
+            <h1 data-id="pg018_n0015" class="bk-label bk-chip">Situata 1.</h1>
+            <p class="bk-body">
+              <span data-id="pg018_n0016">Sot, kur shkuam në shkollë, në klasë erdhi infermierja, e cila po kontrollonte higjienën dhe shëndetin tonë.</span>
+              <span data-id="pg018_n0017">Mjekët dhe infermierët kujdesen për shëndetin e çdo individi.</span>
+            </p>
+          </div>
+          <figure class="bk-figure">
+            <img data-id="pg018_im003" src="images/pg018_im003.jpg" alt="Në shkollë, infermierja ia mat temperaturën një nxënësi, ndërsa nxënësit mbajnë maska, dezinfektojnë duart, i lajnë ato dhe mbajnë distancë 2 metra.">
+          </figure>
+        </section>
+      </div>
+    </main>
+    <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+    <div id="interface-container"></div>
+    <div id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

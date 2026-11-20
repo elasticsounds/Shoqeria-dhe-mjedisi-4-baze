@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg043_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="52" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-4 py-8 bg-white opacity-0">
+  <section data-section-type="text_and_single_image" data-section-id="pg043_sec001" class="w-full">
+    <div class="mb-6">
+      <div class="h-4 w-full bg-purple-500 mb-4"></div>
+      <h1 class="adt-h2 text-left text-gray-900 font-normal border-b-4 border-purple-400 pb-2 inline-block" data-id="pg043_n0003">Veprimtaria 3: &quot;Si t&#xeb; jemi qytetar&#xeb; t&#xeb; mir&#xeb;?&quot;</h1>
+    </div>
+
+    <div class="mb-6">
+      <img data-id="pg043_im001" src="images/pg043_im001.png" alt="Gjasht&#xeb; f&#xeb;mij&#xeb; q&#xeb;ndrojn&#xeb; s&#xeb; bashku n&#xeb; grup, duke paraqitur bashk&#xeb;punim, p&#xeb;rfshirje dhe respekt mes nj&#xeb;ri-tjetrit." class="w-full h-auto block">
+    </div>
+
+    <div class="mb-8 rounded-none bg-purple-200 p-5 max-sm:p-4">
+      <p class="adt-body text-left text-gray-900 leading-relaxed mb-2">
+        <span data-id="pg043_n0006">Duke u ndar&#xeb; n&#xeb; grupe n&#xeb; klas&#xeb;, caktoni nj&#xeb; tem&#xeb; (veprimtari), me t&#xeb; cil&#xeb;n ju do t&#xeb; punoni n&#xeb; kuad&#xeb;r t&#xeb; grupit.</span>
+      </p>
+      <div class="mb-4">
+        <label for="activity-item-1" class="sr-only">Duke u ndar&#xeb; n&#xeb; grupe n&#xeb; klas&#xeb;, caktoni nj&#xeb; tem&#xeb; (veprimtari), me t&#xeb; cil&#xeb;n ju do t&#xeb; punoni n&#xeb; kuad&#xeb;r t&#xeb; grupit.</label>
+        <input id="activity-item-1" data-activity-item="item-1" type="text" aria-label="Duke u ndar&#xeb; n&#xeb; grupe n&#xeb; klas&#xeb;, caktoni nj&#xeb; tem&#xeb; (veprimtari), me t&#xeb; cil&#xeb;n ju do t&#xeb; punoni n&#xeb; kuad&#xeb;r t&#xeb; grupit." class="w-full min-h-11 rounded-xl border-2 border-purple-400 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600">
+      </div>
+      <p class="adt-body text-left text-gray-900 leading-relaxed mb-3">
+        <span data-id="pg043_n0007">Ndiq hapat m&#xeb; posht&#xeb; p&#xeb;r t&#xeb; kryer veprimtarin&#xeb;/ tem&#xeb;n q&#xeb; e keni caktuar:</span>
+      </p>
+      <ul class="space-y-3">
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0010">tematika e veprimtaris&#xeb;;</span></p>
+          <label for="activity-item-2" class="sr-only">tematika e veprimtaris&#xeb;;</label>
+          <input id="activity-item-2" data-activity-item="item-2" type="text" aria-label="tematika e veprimtaris&#xeb;;" class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600">
+        </li>
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0012">r&#xeb;nd&#xeb;sin&#xeb; q&#xeb; ka pjes&#xeb;marrja n&#xeb; k&#xeb;to aktivitete;</span></p>
+          <label for="activity-item-3" class="sr-only">r&#xeb;nd&#xeb;sin&#xeb; q&#xeb; ka pjes&#xeb;marrja n&#xeb; k&#xeb;to aktivitete;</label>
+          <textarea id="activity-item-3" data-activity-item="item-3" aria-label="r&#xeb;nd&#xeb;sin&#xeb; q&#xeb; ka pjes&#xeb;marrja n&#xeb; k&#xeb;to aktivitete;" class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600" rows="2"></textarea>
+        </li>
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0014">p&#xeb;rgjegj&#xeb;sia q&#xeb; ka secili prej grupeve t&#xeb; pun&#xeb;s;</span></p>
+          <label for="activity-item-4" class="sr-only">p&#xeb;rgjegj&#xeb;sia q&#xeb; ka secili prej grupeve t&#xeb; pun&#xeb;s;</label>
+          <textarea id="activity-item-4" data-activity-item="item-4" aria-label="p&#xeb;rgjegj&#xeb;sia q&#xeb; ka secili prej grupeve t&#xeb; pun&#xeb;s;" class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600" rows="2"></textarea>
+        </li>
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0016">p&#xeb;rcaktimi i vendit ku do t&#xeb; zhvillohet veprimtaria;</span></p>
+          <label for="activity-item-5" class="sr-only">p&#xeb;rcaktimi i vendit ku do t&#xeb; zhvillohet veprimtaria;</label>
+          <input id="activity-item-5" data-activity-item="item-5" type="text" aria-label="p&#xeb;rcaktimi i vendit ku do t&#xeb; zhvillohet veprimtaria;" class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600">
+        </li>
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0018">merren n&#xeb; konsiderat&#xeb; nevojat dhe k&#xeb;rkesat q&#xeb; kan&#xeb; f&#xeb;mij&#xeb;t;</span></p>
+          <label for="activity-item-6" class="sr-only">merren n&#xeb; konsiderat&#xeb; nevojat dhe k&#xeb;rkesat q&#xeb; kan&#xeb; f&#xeb;mij&#xeb;t;</label>
+          <textarea id="activity-item-6" data-activity-item="item-6" aria-label="merren n&#xeb; konsiderat&#xeb; nevojat dhe k&#xeb;rkesat q&#xeb; kan&#xeb; f&#xeb;mij&#xeb;t;" class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600" rows="2"></textarea>
+        </li>
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0020">gjenden zgjidhjet m&#xeb; t&#xeb; mira;</span></p>
+          <label for="activity-item-7" class="sr-only">gjenden zgjidhjet m&#xeb; t&#xeb; mira;</label>
+          <textarea id="activity-item-7" data-activity-item="item-7" aria-label="gjenden zgjidhjet m&#xeb; t&#xeb; mira;" class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600" rows="2"></textarea>
+        </li>
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0022">koha e zhvillimit t&#xeb; aktivitetit;</span></p>
+          <label for="activity-item-8" class="sr-only">koha e zhvillimit t&#xeb; aktivitetit;</label>
+          <input id="activity-item-8" data-activity-item="item-8" type="text" aria-label="koha e zhvillimit t&#xeb; aktivitetit;" class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600">
+        </li>
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0024">angazhimi dhe p&#xeb;rfshirja e f&#xeb;mij&#xeb;ve;</span></p>
+          <label for="activity-item-9" class="sr-only">angazhimi dhe p&#xeb;rfshirja e f&#xeb;mij&#xeb;ve;</label>
+          <textarea id="activity-item-9" data-activity-item="item-9" aria-label="angazhimi dhe p&#xeb;rfshirja e f&#xeb;mij&#xeb;ve;" class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600" rows="2"></textarea>
+        </li>
+        <li>
+          <p class="adt-body text-left text-gray-900"><span data-id="pg043_n0026">p&#xeb;rmbledhja n&#xeb; fund.</span></p>
+          <label for="activity-item-10" class="sr-only">p&#xeb;rmbledhja n&#xeb; fund.</label>
+          <textarea id="activity-item-10" data-activity-item="item-10" aria-label="p&#xeb;rmbledhja n&#xeb; fund." class="mt-2 w-full min-h-11 rounded-lg border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-purple-600" rows="3"></textarea>
+        </li>
+      </ul>
+    </div>
+
+    <div class="mb-8 border-2 border-purple-300 bg-white p-4 max-sm:p-3">
+      <p class="adt-body text-left text-gray-800 italic leading-relaxed">
+        <span data-id="pg043_n0029">T&#xeb; m&#xeb;suarit rreth t&#xeb; drejtave t&#xeb; njeriut p&#xeb;rfshin jo vet&#xeb;m njohurit&#xeb;, por edhe sjelljet n&#xeb; p&#xeb;rputhje me vlerat, si: liria, toleranca dhe respekti p&#xeb;r t&#xeb; v&#xeb;rtet&#xeb;n.</span> <span data-id="pg043_n0030">F&#xeb;mij&#xeb;t kan&#xeb; t&#xeb; drejt&#xeb;n e fjal&#xeb;s dhe t&#xeb; pjes&#xeb;marrjes n&#xeb; diskutime, n&#xeb; lidhje me problemet q&#xeb; i shqet&#xeb;sojn&#xeb; ata.</span> <span data-id="pg043_n0031">Individ&#xeb;t n&#xeb; shoq&#xeb;ri duhet t&#xeb; nd&#xeb;rmarrin nisma dhe t&#xeb; marrin p&#xeb;rgjegj&#xeb;si.</span> <span data-id="pg043_n0032">Aktivitetet realizohen shum&#xeb; m&#xeb; mir&#xeb; fal&#xeb; bashk&#xeb;punimit.</span> <span data-id="pg043_n0033">Veprimet q&#xeb; individi i b&#xeb;n n&#xeb; ndihm&#xeb; t&#xeb; komunitetit, e b&#xeb;jn&#xeb; at&#xeb; nj&#xeb; qytetar t&#xeb; mir&#xeb;.</span>
+      </p>
+    </div>
+
+    <div class="pt-2">
+      <p class="adt-body text-left text-gray-900 leading-relaxed">
+        <span data-id="pg043_n0035" class="font-bold">Fjal&#xeb;t ky&#xe7;e:</span> <span data-id="pg043_n0036">qytetar, pjes&#xeb;marrje, komunitet, ndihm&#xeb;, f&#xeb;mij&#xeb; n&#xeb; nevoj&#xeb;.</span>
+      </p>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

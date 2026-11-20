@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg064_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="86">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-4 py-8 bg-white opacity-0 bk">
+  <section data-section-type="text_only" data-section-id="pg064_sec001" class="w-full text-left text-zinc-800">
+    <div class="mb-10">
+      <div class="flex items-stretch gap-0 max-sm:flex-col max-sm:gap-4">
+        <div class="w-36 max-sm:w-full shrink-0 rounded-l-2xl max-sm:rounded-2xl bg-purple-500 min-h-[150px] max-sm:min-h-[88px]"></div>
+        <div class="flex-1 pt-16 max-sm:pt-0">
+          <div class="bg-purple-500 px-5 py-3 rounded-r-xl max-sm:rounded-2xl">
+            <h1 data-id="pg064_n0002" class="adt-h1 font-bold text-white">Vendi ku jetoj</h1>
+          </div>
+          <div class="pt-5">
+            <h2 data-id="pg064_n0003" class="adt-h2 text-zinc-900">Rajonet e Kosovës</h2>
+            <div class="mt-2 h-1 w-64 max-sm:w-40 bg-purple-400"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <aside class="mb-10 relative">
+      <div class="absolute left-0 top-0 h-20 w-44 max-sm:w-24 bg-purple-500 rounded-l-none rounded-r-none max-sm:h-16"></div>
+      <div class="ml-28 max-sm:ml-12 rounded-none bg-purple-100 px-8 py-6 max-sm:px-4 max-sm:py-4 relative z-10">
+        <div class="space-y-5">
+          <div class="flex items-start gap-4 max-lg:flex-col">
+            <div class="flex-1 adt-body" data-id="pg064_n0007">A mësoni edhe ju ndonjëherë përmes lojës?</div>
+            <div class="w-64 max-lg:w-full">
+              <label for="item-1" class="sr-only">A mësoni edhe ju ndonjëherë përmes lojës?</label>
+              <input id="item-1" data-activity-item="item-1" type="text" aria-label="A mësoni edhe ju ndonjëherë përmes lojës?" class="w-full min-h-11 rounded-2xl border border-purple-300 bg-white px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-400">
+            </div>
+          </div>
+          <div class="flex items-start gap-4 max-lg:flex-col">
+            <div class="flex-1 adt-body" data-id="pg064_n0009">Cilat janë rajonet e Kosovës?</div>
+            <div class="w-64 max-lg:w-full">
+              <label for="item-2" class="sr-only">Cilat janë rajonet e Kosovës?</label>
+              <textarea id="item-2" data-activity-item="item-2" aria-label="Cilat janë rajonet e Kosovës?" class="w-full min-h-11 rounded-2xl border border-purple-300 bg-white px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+            </div>
+          </div>
+          <div class="flex items-start gap-4 max-lg:flex-col">
+            <div class="flex-1 adt-body" data-id="pg064_n0011">Cilat janë qendrat rajonale të Kosovës?</div>
+            <div class="w-64 max-lg:w-full">
+              <label for="item-3" class="sr-only">Cilat janë qendrat rajonale të Kosovës?</label>
+              <textarea id="item-3" data-activity-item="item-3" aria-label="Cilat janë qendrat rajonale të Kosovës?" class="w-full min-h-11 rounded-2xl border border-purple-300 bg-white px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+            </div>
+          </div>
+          <div class="flex items-start gap-4 max-lg:flex-col">
+            <div class="flex-1 adt-body" data-id="pg064_n0013">Në cilin rajon jetoni ju?</div>
+            <div class="w-64 max-lg:w-full">
+              <label for="item-4" class="sr-only">Në cilin rajon jetoni ju?</label>
+              <input id="item-4" data-activity-item="item-4" type="text" aria-label="Në cilin rajon jetoni ju?" class="w-full min-h-11 rounded-2xl border border-purple-300 bg-white px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-400">
+            </div>
+          </div>
+          <div class="flex items-start gap-4 max-lg:flex-col">
+            <div class="flex-1 adt-body" data-id="pg064_n0015">Cili është kryeqyteti i Kosovës?</div>
+            <div class="w-64 max-lg:w-full">
+              <label for="item-5" class="sr-only">Cili është kryeqyteti i Kosovës?</label>
+              <input id="item-5" data-activity-item="item-5" type="text" aria-label="Cili është kryeqyteti i Kosovës?" class="w-full min-h-11 rounded-2xl border border-purple-300 bg-white px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-400">
+            </div>
+          </div>
+          <div class="flex items-start gap-4 max-lg:flex-col">
+            <div class="flex-1 adt-body" data-id="pg064_n0017">Përmend disa karakteristika të rajoneve të Kosovës.</div>
+            <div class="w-64 max-lg:w-full">
+              <label for="item-6" class="sr-only">Përmend disa karakteristika të rajoneve të Kosovës.</label>
+              <textarea id="item-6" data-activity-item="item-6" aria-label="Përmend disa karakteristika të rajoneve të Kosovës." class="w-full min-h-11 rounded-2xl border border-purple-300 bg-white px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+            </div>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <p class="adt-body mb-6 leading-relaxed max-w-4xl">
+      <span data-id="pg064_n0019">Njihuni me disa nga vendet karakteristike të qendrave rajonale të Kosovës.</span>
+    </p>
+
+    <div class="mb-10">
+      <div class="flex gap-10 items-start max-lg:flex-col max-lg:gap-5">
+        <div class="w-56 shrink-0 pt-72 max-lg:w-full max-lg:pt-0">
+          <div class="rounded-full border-2 border-purple-400 bg-white px-8 py-12 text-center">
+            <div data-id="pg064_n0021" class="adt-body">Rajonet e Kosovës</div>
+          </div>
+        </div>
+
+        <div class="flex-1 space-y-3">
+          <div class="flex items-center gap-4 max-lg:flex-col max-lg:items-stretch">
+            <div class="w-52 max-lg:w-full rounded-full border-2 border-purple-400 bg-white px-6 py-4 text-center"><div data-id="pg064_n0022" class="adt-body">Peja</div></div>
+            <div class="flex-1 rounded-3xl border-2 border-purple-400 bg-white px-4 py-3"><div data-id="pg064_n0023" class="adt-body">Peja dallohet për Grykën e Rugovës dhe burimin e Drinit të Bardhë.</div></div>
+          </div>
+          <div class="flex items-center gap-4 max-lg:flex-col max-lg:items-stretch">
+            <div class="w-52 max-lg:w-full rounded-full border-2 border-purple-400 bg-white px-6 py-4 text-center"><div data-id="pg064_n0024" class="adt-body">Gjakova</div></div>
+            <div class="flex-1 rounded-3xl border-2 border-purple-400 bg-white px-4 py-3"><div data-id="pg064_n0025" class="adt-body">Gjakova dallohet për Kodrën e Çabratit, lumin Erenik dhe lumin Krena.</div></div>
+          </div>
+          <div class="flex items-center gap-4 max-lg:flex-col max-lg:items-stretch">
+            <div class="w-52 max-lg:w-full rounded-full border-2 border-purple-400 bg-white px-6 py-4 text-center"><div data-id="pg064_n0026" class="adt-body">Prizreni</div></div>
+            <div class="flex-1 rounded-3xl border-2 border-purple-400 bg-white px-4 py-3"><div data-id="pg064_n0027" class="adt-body">Në Prizren gjendet ndërtesa e Lidhjes së Prizrenit dhe malet e Sharrit me bukuritë magjepsëse.</div></div>
+          </div>
+          <div class="flex items-center gap-4 max-lg:flex-col max-lg:items-stretch">
+            <div class="w-52 max-lg:w-full rounded-full border-2 border-purple-400 bg-white px-6 py-4 text-center"><div data-id="pg064_n0028" class="adt-body">Ferizaj</div></div>
+            <div class="flex-1 rounded-3xl border-2 border-purple-400 bg-white px-4 py-3"><div data-id="pg064_n0029" class="adt-body">Në Ferizaj është ndërtuar Kampi i Ushtrisë Amerikane.</div></div>
+          </div>
+          <div class="flex items-center gap-4 max-lg:flex-col max-lg:items-stretch">
+            <div class="w-52 max-lg:w-full rounded-full border-2 border-purple-400 bg-white px-6 py-4 text-center"><div data-id="pg064_n0030" class="adt-body">Gjilani</div></div>
+            <div class="flex-1 rounded-3xl border-2 border-purple-400 bg-white px-4 py-3"><div data-id="pg064_n0031" class="adt-body">Gjilani dallohet për kalanë mesjetare të Artanës (Novobërdës).</div></div>
+          </div>
+          <div class="flex items-center gap-4 max-lg:flex-col max-lg:items-stretch">
+            <div class="w-52 max-lg:w-full rounded-full border-2 border-purple-400 bg-white px-6 py-4 text-center"><div data-id="pg064_n0032" class="adt-body">Mitrovica</div></div>
+            <div class="flex-1 rounded-3xl border-2 border-purple-400 bg-white px-4 py-3"><div data-id="pg064_n0033" class="adt-body">Në Mitrovicë është miniera e Trepçës.</div></div>
+          </div>
+          <div class="flex items-center gap-4 max-lg:flex-col max-lg:items-stretch">
+            <div class="w-52 max-lg:w-full rounded-full border-2 border-purple-400 bg-white px-6 py-4 text-center"><div data-id="pg064_n0034" class="adt-body">Prishtina</div></div>
+            <div class="flex-1 rounded-3xl border-2 border-purple-400 bg-white px-4 py-3"><div data-id="pg064_n0035" class="adt-body">Në Prishtinë është qyteti antik Ulpiana, Biblioteka Kombëtare, Muzeu Kombëtar, Muzeu Etnografik, Universiteti i Prishtinës etj.</div></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <aside class="mb-8 rounded-3xl border-2 border-purple-400 bg-white px-4 py-4">
+      <p class="adt-body leading-relaxed mb-4">
+        <span data-id="pg064_n0038">Hulumto dhe gjej disa vende karakteristike të rajonit ku jeton dhe të rajoneve të tjera të vendit tonë.</span>
+        <span data-id="pg064_n0039">Prezanto para klasës punën e bërë dhe diskutoni rreth saj.</span>
+      </p>
+      <div>
+        <label for="item-7" class="sr-only">Hulumto dhe gjej disa vende karakteristike të rajonit ku jeton dhe të rajoneve të tjera të vendit tonë. Prezanto para klasës punën e bërë dhe diskutoni rreth saj.</label>
+        <textarea id="item-7" data-activity-item="item-7" aria-label="Hulumto dhe gjej disa vende karakteristike të rajonit ku jeton dhe të rajoneve të tjera të vendit tonë. Prezanto para klasës punën e bërë dhe diskutoni rreth saj." class="w-full min-h-11 rounded-2xl border border-purple-300 bg-white px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+      </div>
+    </aside>
+
+    <div class="border-l-4 border-purple-400 pl-4">
+      <p class="adt-body leading-relaxed">
+        <span data-id="pg064_n0042" class="font-semibold">Fjalët kyçe:</span>
+        <span data-id="pg064_n0043">qendër rajonale, rajon, kryeqytet.</span>
+      </p>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

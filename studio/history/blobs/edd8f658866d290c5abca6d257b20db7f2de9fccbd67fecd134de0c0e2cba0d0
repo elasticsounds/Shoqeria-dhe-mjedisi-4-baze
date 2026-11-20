@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg083_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="105">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 bg-white opacity-0 bk">
+  <section data-section-type="text_and_images" data-section-id="pg083_sec001" class="py-8 max-sm:py-5 text-left text-neutral-800">
+    <div class="mb-5">
+      <div class="flex items-stretch justify-between gap-0 max-sm:flex-col">
+        <div class="flex-1 bg-gradient-to-r from-purple-500 to-fuchsia-500 text-white px-8 py-6 max-sm:px-4 max-sm:py-4 rounded-l-none rounded-r-none max-sm:rounded-b-3xl">
+          <h1 class="adt-h1 font-bold text-white" data-id="pg083_n0002">Traditat dhe trashëgimia jonë</h1>
+        </div>
+        <div aria-hidden="true" class="w-36 bg-purple-500 rounded-b-2xl rounded-t-md flex items-center justify-center max-sm:w-full max-sm:justify-start max-sm:px-4 max-sm:py-3 max-sm:rounded-t-none max-sm:rounded-b-3xl">
+          <div class="w-20 h-20 rounded-[1.75rem] border-4 border-white/80 bg-transparent max-sm:w-14 max-sm:h-14"></div>
+        </div>
+      </div>
+    </div>
+
+    <h2 class="adt-h2 font-semibold text-neutral-900 mb-8 border-b-4 border-purple-400 inline-block pb-2" data-id="pg083_n0003">Ruajmë traditat tona</h2>
+
+    <div class="grid grid-cols-2 gap-4 items-start max-lg:grid-cols-1 mb-3">
+      <div class="flex flex-col gap-2">
+        <img src="images/pg083_im004.png" alt="Tryezë me ushqime tradicionale shqiptare, me pite, speca të mbushur, sarma, mish, ëmbëlsira dhe enë tradicionale." data-id="pg083_im004" class="w-full h-auto rounded-sm border-4 border-emerald-300 shadow-md">
+        <div class="adt-caption text-neutral-900" data-id="pg083_n0005">Ushqim tradicional</div>
+      </div>
+      <div>
+        <img src="images/pg083_im005.png" alt="Pikturë e një feste tradicionale me gra, burra dhe fëmijë me veshje popullore, të mbledhur në oborr pranë shtëpive të vjetra." data-id="pg083_im005" class="w-full h-auto rounded-sm border-4 border-emerald-300 shadow-md">
+      </div>
+    </div>
+
+    <div class="grid grid-cols-[1fr_1fr_1fr] gap-6 items-end max-lg:grid-cols-1 mb-6">
+      <div class="self-center">
+        <p class="adt-body leading-tight text-neutral-900">
+          <span data-id="pg083_n0007">Veshjet tona</span><br>
+          <span data-id="pg083_n0008">tradicionale</span>
+        </p>
+      </div>
+      <div>
+        <img src="images/pg083_im003.png" alt="Veshje tradicionale e grave, e paraqitur nga përpara dhe anash, me këmishë të qëndisur, jelek, shami dhe përparëse me thekë." data-id="pg083_im003" class="w-full h-auto rounded-sm border-4 border-emerald-300 bg-white shadow-md">
+      </div>
+      <div>
+        <img src="images/pg083_im002.png" alt="Veshje tradicionale e burrave, e paraqitur nga përpara dhe anash, me tirq, xhamadan të çelët, brez dhe mbulesë të bardhë të kokës." data-id="pg083_im002" class="w-full h-auto rounded-sm border-4 border-emerald-300 bg-white shadow-md">
+      </div>
+    </div>
+
+    <p class="adt-body mb-6" data-id="pg083_n0009">Ndahuni në grupe dhe diskutoni për fotografitë e dhëna.</p>
+
+    <aside class="bg-purple-100 border-l-8 border-purple-400 rounded-2xl p-5 mb-6">
+      <div class="grid grid-cols-[1fr_auto] gap-4 items-start mb-4 max-sm:grid-cols-[1fr_auto]">
+        <div></div>
+        <div aria-hidden="true" class="w-16 h-16 rounded-xl bg-purple-500/85 flex items-center justify-center text-white font-bold leading-none">?</div>
+      </div>
+      <div class="space-y-5">
+        <div class="flex flex-col gap-2">
+          <p class="adt-body" data-id="pg083_n0013">Përmend tri ushqime tradicionale.</p>
+          <label for="item-1" class="sr-only">Përmend tri ushqime tradicionale.</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="Përmend tri ushqime tradicionale." class="w-full min-h-11 rounded-xl border-2 border-purple-300 bg-white px-4 py-3 outline-none focus:border-purple-500"></textarea>
+        </div>
+        <div class="flex flex-col gap-2">
+          <p class="adt-body" data-id="pg083_n0015">Trego tri elemente të traditës sonë kombëtare.</p>
+          <label for="item-2" class="sr-only">Trego tri elemente të traditës sonë kombëtare.</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="Trego tri elemente të traditës sonë kombëtare." class="w-full min-h-11 rounded-xl border-2 border-purple-300 bg-white px-4 py-3 outline-none focus:border-purple-500"></textarea>
+        </div>
+        <div class="flex flex-col gap-2">
+          <p class="adt-body" data-id="pg083_n0017">Si e kupton fjalën “mikpritje”?</p>
+          <label for="item-3" class="sr-only">Si e kupton fjalën mikpritje?</label>
+          <textarea id="item-3" data-activity-item="item-3" aria-label="Si e kupton fjalën mikpritje?" class="w-full min-h-11 rounded-xl border-2 border-purple-300 bg-white px-4 py-3 outline-none focus:border-purple-500"></textarea>
+        </div>
+        <div class="flex flex-col gap-2">
+          <p class="adt-body">
+            <span data-id="pg083_n0019">Shkruaj një recetë të një ushqimi tradicional që e gatuani në shtëpinë tuaj.</span>
+            <span data-id="pg083_n0020">Lexoni dhe shkëmbeni recetat me shokët tuaj.</span>
+          </p>
+          <label for="item-4" class="sr-only">Shkruaj një recetë të një ushqimi tradicional që e gatuani në shtëpinë tuaj.</label>
+          <textarea id="item-4" data-activity-item="item-4" aria-label="Shkruaj një recetë të një ushqimi tradicional që e gatuani në shtëpinë tuaj." class="w-full min-h-11 rounded-xl border-2 border-purple-300 bg-white px-4 py-3 outline-none focus:border-purple-500" rows="5"></textarea>
+        </div>
+      </div>
+    </aside>
+
+    <div class="mb-6 flex items-stretch max-sm:flex-col">
+      <div class="flex-1 border-2 border-purple-300 rounded-l-2xl max-sm:rounded-t-2xl max-sm:rounded-b-none max-sm:rounded-l-2xl p-5 bg-white shadow-sm">
+        <p class="adt-body italic mb-4 leading-relaxed">
+          <span data-id="pg083_n0023">Kultura ka të bëjë me mënyrën e jetesës së një komuniteti a shoqërie.</span>
+          <span data-id="pg083_n0024">Ajo përfshin shumë elemente, si: gjuhën, muzikën, artet, traditat, besimet, doket, zakonet etj.</span>
+        </p>
+        <p class="adt-body italic mb-4 leading-relaxed">
+          <span data-id="pg083_n0026">Tradita është gjithçka që njerëzit e një populli kanë bërë dhe ruajtur për shumë kohë - si zakonet, festat, këngët, vallet, veshjet, besimet, virtytet dhe mënyra e jetesës.</span>
+        </p>
+        <p class="adt-body italic leading-relaxed">
+          <span data-id="pg083_n0028">Secili popull e ka traditën e tij, si: në arkitekturën e qytetit, në ndërtimin dhe rregullimin e shtëpive, në organizimin e festave të ndryshme, në mënyrën e gatimit etj.</span>
+          <span data-id="pg083_n0029">Shqiptarët dallohen për mënyrën e organizimit të dasmave tradicionale.</span>
+          <span data-id="pg083_n0030">Këto janë formuar përgjatë historisë në jetën e një populli dhe ruhen e trashëgohen.</span>
+          <span data-id="pg083_n0031">Vendi ynë ka një traditë mjaft të pasur, e cila ruhet dhe përcillet brez pas brezi.</span>
+        </p>
+      </div>
+      <div aria-hidden="true" class="w-24 bg-purple-500 rounded-r-2xl flex items-start justify-center pt-4 max-sm:w-full max-sm:h-20 max-sm:rounded-r-none max-sm:rounded-b-2xl max-sm:justify-end max-sm:px-5">
+        <div class="relative w-10 h-12 border-2 border-white rounded-sm mt-1">
+          <div class="absolute inset-x-1 top-2 border-t-2 border-white"></div>
+          <div class="absolute inset-x-1 top-5 border-t-2 border-white"></div>
+          <div class="absolute inset-x-1 top-8 border-t-2 border-white"></div>
+          <div class="absolute -right-2 top-1 w-3 border-t-2 border-white"></div>
+          <div class="absolute -left-1 bottom-0 w-2 h-2 border-l-2 border-b-2 border-white rounded-bl-sm"></div>
+        </div>
+      </div>
+    </div>
+
+    <p class="adt-body font-semibold" data-id="pg083_n0032">Fjalët kyçe: traditë, zakon, ushqim, mikpritje.</p>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

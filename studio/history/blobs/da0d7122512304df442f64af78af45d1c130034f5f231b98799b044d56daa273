@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg016_sec001">
+<meta name="page-section-id" content="24">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>
+body:has(#content[data-source-page="16"]){margin:0;padding-bottom:0!important;font-family:BookPoppins,Poppins,sans-serif}
+body:has(#content[data-source-page="16"]) :is(#interface-container,#nav-container),body:has(#content[data-source-page="16"]) :is(#interface-container,#nav-container) :is(button,a,span,div,input,label){font-family:BookPoppins,Poppins,sans-serif!important}
+#content.bk.bk.bk[data-source-page="16"]{padding-top:24px;overflow:visible}
+#content.bk.bk.bk[data-source-page="16"] .bk-banner{padding:16px 20px;border-radius:var(--bk-r-card);margin-top:0}
+#content.bk.bk.bk[data-source-page="16"] .bk-banner .bk-row{flex-wrap:nowrap;align-items:center}
+#content.bk.bk.bk[data-source-page="16"] .bk-banner img{width:48px;height:48px;flex:none;object-fit:contain}
+#content.bk.bk.bk[data-source-page="16"] .bk-heading{font-weight:600}
+#content.bk.bk.bk[data-source-page="16"] [aria-labelledby="pg016_n0006"]{max-width:720px;display:flow-root}
+#content.bk.bk.bk[data-source-page="16"] .bk-chip{float:left;margin:0 12px 0 0;background:var(--bk-accent3);border-color:var(--bk-accent3)}
+#content.bk.bk.bk[data-source-page="16"] p{margin:0}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div id="content" class="bk" data-family="illustrated-reading" data-source-page="16">
+<section data-section-type="text_and_single_image" data-section-id="pg016_sec001">
+<header class="bk-banner"><div class="bk-row"><img src="studio/assets/pg016_sec001-scales.png" alt="" aria-hidden="true" width="48" height="48"><h1 class="bk-title" data-id="pg016_n0002">Secili ka të drejta dhe përgjegjësi</h1></div></header>
+<div class="bk-stack">
+<h2 class="bk-heading" data-id="pg016_n0004">Të drejtat dhe përgjegjësitë e mia</h2>
+<div aria-labelledby="pg016_n0006">
+<h3 class="bk-subheading bk-chip" id="pg016_n0006" data-id="pg016_n0006">Situata 2.</h3>
+<p class="bk-body"><span data-id="pg016_n0008">Në familjen time, ne zakonisht në mbrëmje këqyrim televizor.</span> <span data-id="pg016_n0009">Kur jepen informacione për ngjarje të ndryshme, tregohem e pavëmendshme, pasi nuk kam interes që t’i dëgjoj.</span> <span data-id="pg016_n0010">Nëna më këshillon të tregoj kujdes, pasi aty mund të marr informacione që ndikojnë në jetën time.</span> <span data-id="pg016_n0011">Si për shembull, një natë u raportua për sëmundjet ngjitëse, me ç'rast kuptova se duhej të mbaja distancën e duhur fizike nga shoqet dhe shokët.</span></p>
+</div>
+<p class="bk-caption" aria-label="Faqja e librit 16">16</p>
+</div>
+</section>
+</div>
+</main>
+<script>window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

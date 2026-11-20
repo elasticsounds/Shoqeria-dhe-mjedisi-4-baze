@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg006_sec001">
+<meta name="page-section-id" content="10">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+
+<style>
+body,button,input,select,textarea{font-family:BookPoppins,Poppins,sans-serif}body{margin:0}main{width:100%}
+#content.bk.bk.bk[data-source-page="6"]{padding-top:24px;overflow:visible}
+#content.bk.bk.bk[data-source-page="6"] .bk-banner{margin:0 0 var(--bk-gap);padding:16px 20px;border-radius:var(--bk-r-card)}
+#content.bk.bk.bk .bk-body{max-width:720px;margin:0;text-align:start}
+#content.bk.bk.bk .bk-label{display:table;margin:0 0 12px;padding:0 12px;background:var(--bk-accent2);color:var(--bk-ink)}
+#content.bk.bk.bk[data-source-page="6"] .bk-figure img{width:100%;max-width:600px;height:auto;object-fit:contain;border:0;border-radius:0;box-shadow:none}
+#interface-container,#nav-container,#interface-container :where(div,span,p,a,button,label,input,textarea,select):not([class*="fa-"]),#nav-container :where(div,span,p,a,button,label,input,textarea,select):not([class*="fa-"]){font-family:BookPoppins,Poppins,sans-serif!important;font-size:18px}
+@media(prefers-reduced-motion:reduce){body *,body *::before,body *::after{animation:none!important;transition:none!important}}
+@media(min-width:768px){#content.bk.bk.bk{padding-inline:32px}}
+@media(max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div id="content" class="bk" data-family="illustrated-reading" data-source-page="6">
+<section data-section-type="text_and_single_image" data-section-id="pg006_sec001" aria-label="Unë po rritem">
+<header class="bk-banner"><h1 data-id="pg006_n0002" class="bk-title">Unë po rritem</h1></header>
+<div>
+<p data-id="pg006_n0004" class="bk-label">Situata 1.</p>
+<p class="bk-body">
+<span data-id="pg006_n0006">Unë jam Linda.</span>
+<span data-id="pg006_n0007">Jam në klasën e katërt.</span>
+<span data-id="pg006_n0008">Prindërit çdo ditë më thonë: “Linda, ti po rritesh dhe po bëhesh vajzë e mbarë!”.</span>
+<span data-id="pg006_n0009">Po ju tregoj se pse ata mendojnë kështu.</span>
+<span data-id="pg006_n0010">Më besoni, nuk po mburrem, vetëm dua të ndaj këtë kënaqësi me ju, moshatarët e mi.</span>
+<span data-id="pg006_n0011">Tani unë kam krijuar shprehitë e mia.</span>
+<span data-id="pg006_n0012">Çdo mëngjes pastrohem, rregulloj dhomën time, vishem dhe mbath këpucët e përshtatshme për stinën.</span>
+<span data-id="pg006_n0013">Ushqehem me orar dhe me ushqime të shëndetshme.</span>
+<span data-id="pg006_n0014">Shkoj në shkollë pasi t`i kem kryer të gjitha detyrat.</span>
+<span data-id="pg006_n0015">Ushtroj balet, sepse është pasioni im.</span>
+<span data-id="pg006_n0016">Po ashtu, vijoj kurse të gjuhëve të huaja, sepse, siç thonë poetët tanë: "Sa gjuhë di, aq vlen".</span>
+</p>
+</div>
+</section>
+</div>
+</main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

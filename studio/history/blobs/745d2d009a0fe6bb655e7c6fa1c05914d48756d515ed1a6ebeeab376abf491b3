@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe Mjedisi 4</title>
+  <meta name="title-id" content="pg104_sec001_p3">
+  <meta name="page-section-id" content="140">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  
+  <style>
+    #nav-container, #nav-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands), #interface-container, #interface-container *:not(.fa):not(.fas):not(.far):not(.fab):not(.fa-solid):not(.fa-regular):not(.fa-brands) { font-family: BookPoppins, Poppins, Arial, sans-serif; }
+    #content.bk section > .bk-stack { max-width: 720px; }
+    #content.bk .bk-figure svg { display: block; width: 100%; height: auto; }
+  </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <div data-family="illustrated-reading" id="content" class="container opacity-0 bk">
+      <section data-section-type="text_and_single_image" data-section-id="pg104_sec001_p3">
+        <div class="bk-stack">
+          <p class="bk-body" data-id="pg104_n0014">Të gjithë janë të brengosur pse Mali është shumë i zbehtë dhe nuk është i shëndetshëm.</p>
+          <p class="bk-body" data-id="pg104_n0015">Prindërit kanë vendosur të ndërrojnë shprehitë e Malit, në mënyrë që ai të bëjë një jetë më të shëndetshme.</p>
+          <figure class="bk-figure">
+            <svg viewBox="125 1442 2105 1534" role="img" aria-label="Mali fle natën në shtratin e tij, pranë komodinës me orë alarmi, ndërsa jashtë dritares shihet hëna dhe yjet." xmlns="http://www.w3.org/2000/svg">
+              <image data-id="pg104_im001" href="images/pg104_im001.png" x="0" y="0" width="2406" height="3277" />
+            </svg>
+          </figure>
+          <p class="bk-caption">104</p>
+        </div>
+      </section>
+    </div>
+  </main>
+  <script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

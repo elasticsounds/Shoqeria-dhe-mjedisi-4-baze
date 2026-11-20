@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg102_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="141">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 bg-white opacity-0 bk">
+  <section data-section-type="text_and_single_image" data-section-id="pg102_sec001" class="py-8 max-sm:py-5">
+    <div class="w-full overflow-hidden rounded-3xl bg-purple-300">
+      <div class="mx-auto flex w-full max-w-5xl items-center gap-6 px-8 py-6 max-lg:flex-col max-lg:items-start max-sm:px-5 max-sm:py-5">
+        <div aria-hidden="true" class="flex h-28 w-28 shrink-0 items-center justify-center rounded-2xl bg-purple-500 text-white">
+          <svg viewBox="0 0 64 64" class="h-16 w-16 fill-current" aria-hidden="true">
+            <path d="M31 8c-2 4-3 8-3 12 0 2 0 4 1 6-4-5-9-8-15-10 1 5 5 9 12 12-6 0-11 1-16 4 4 4 9 6 16 6-6 2-10 5-13 10 6 1 11 0 17-4v12h2V44c6 4 11 5 17 4-3-5-7-8-13-10 7 0 12-2 16-6-5-3-10-4-16-4 7-3 11-7 12-12-6 2-11 5-15 10 1-2 1-4 1-6 0-4-1-8-3-12z" />
+          </svg>
+        </div>
+        <div class="flex-1">
+          <h1 data-id="pg102_n0003" class="adt-h1 text-left font-bold text-white">Resurset dhe trashëgimia e vendit tim</h1>
+          <div class="mt-3 inline-block border-b-4 border-purple-400 bg-white/95 px-2 py-2">
+            <h2 data-id="pg102_n0004" class="adt-h2 text-left font-semibold text-gray-900">Ruajmë trashëgiminë kulturore</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-10">
+      <div class="mb-5 inline-block rounded-md bg-green-400 px-5 py-2 shadow-sm">
+        <h3 data-id="pg102_n0005" class="adt-h3 text-left font-semibold text-gray-900">Situata 1.</h3>
+      </div>
+
+      <p class="adt-body text-left leading-relaxed text-gray-800">
+        <span data-id="pg102_n0007">Familja Gashi kishte dalë për ta kaluar fundjavën në qytetin e Prizrenit.</span>
+        <span data-id="pg102_n0008">Hëna, 10-vjeçare, po e shijonte shumë atë udhëtim.</span>
+        <span data-id="pg102_n0009">Kureshtja e saj u shtua kur pa gjithë ato ndërtesa të vjetra: muze, kala dhe vende që përfaqësonin denjësisht kulturën e vendit tonë.</span>
+        <span data-id="pg102_n0010">E kush tjetër do të mund t’i jepte përgjigje më të sakta sesa babai i saj, zejtar në qytetin e Gjakovës!</span>
+        <span data-id="pg102_n0011">- Babi, a mund të më tregosh prapë se çka konsiderohet trashëgimi kulturore?</span>
+        <span data-id="pg102_n0012">- Po, Hëna.</span>
+        <span data-id="pg102_n0013">Të gjitha parqet natyrore, galeritë e artit, kalatë, kullat, shtëpitë e vjetra, monumentet fetare, rrugicat e ngushta, shatërvanët dhe shumë objekte të tjera janë elemente që kanë rëndësi të madhe për ruajtjen e kulturës dhe të traditës shqiptare.</span>
+        <span data-id="pg102_n0014">- Të gjitha këto që i përmende qenkan objekte.</span>
+        <span data-id="pg102_n0015">A ka edhe gjëra të tjera që përfaqësojnë trashëgiminë kulturore?</span>
+        <span data-id="pg102_n0016">- Po, sigurisht.</span>
+        <span data-id="pg102_n0017">Trashëgimia jomateriale përfshin gjuhën dhe krijimtaritë popullore.</span>
+        <span data-id="pg102_n0018">- Cilat janë disa nga monumentet kryesore arkeologjike?</span>
+        <span data-id="pg102_n0019">- Mund të përmendim qytetin e lashtë të Ulpianës, Manastirin e Deçanit dhe Shtëpinë e Lidhjes së Prizrenit.</span>
+        <span data-id="pg102_n0020">Kosova ka edhe shumë muze.</span>
+        <span data-id="pg102_n0021">Veshjet dhe gatimet tradicionale që përcillen brez pas brezi janë mjaft unike.</span>
+        <span data-id="pg102_n0022">- E mrekullueshme.</span>
+        <span data-id="pg102_n0023">Mezi po pres që për gjërat që mësova sot, të bisedoj me shokët dhe mësuesen në shkollë.</span>
+      </p>
+    </div>
+
+    <aside class="mt-8 rounded-2xl bg-purple-100 shadow-sm ring-1 ring-purple-200">
+      <div class="flex items-stretch max-lg:flex-col">
+        <div aria-hidden="true" class="flex w-24 items-center justify-center rounded-l-2xl bg-purple-500 font-bold text-white max-lg:w-full max-lg:rounded-t-2xl max-lg:rounded-l-none">?</div>
+        <div class="flex-1 space-y-4 p-5">
+          <div>
+            <p data-id="pg102_n0025" class="adt-body text-left text-gray-900">- Bisedoni për situatën e dhënë.</p>
+            <label for="activity-item-1" class="sr-only">- Bisedoni për situatën e dhënë.</label>
+            <textarea id="activity-item-1" data-activity-item="item-1" aria-label="- Bisedoni për situatën e dhënë." class="mt-2 min-h-11 w-full rounded-xl border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none ring-0 placeholder:text-gray-400 focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+          </div>
+          <div>
+            <p data-id="pg102_n0026" class="adt-body text-left text-gray-900">- Çfarë e përbën trashëgiminë kulturore materiale?</p>
+            <label for="activity-item-2" class="sr-only">- Çfarë e përbën trashëgiminë kulturore materiale?</label>
+            <textarea id="activity-item-2" data-activity-item="item-2" aria-label="- Çfarë e përbën trashëgiminë kulturore materiale?" class="mt-2 min-h-11 w-full rounded-xl border border-purple-300 bg-white px-4 py-3 text-gray-900 outline-none ring-0 placeholder:text-gray-400 focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <figure class="mt-8 clear-both overflow-hidden rounded-2xl shadow-lg ring-1 ring-gray-200">
+      <img data-id="pg102_im001" src="images/pg102_im001.png" alt="Pamje ajrore e një kalaje të vjetër me mure guri në kodër, pranë shtëpive të qytetit, si pjesë e trashëgimisë kulturore." class="block w-full h-auto">
+    </figure>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

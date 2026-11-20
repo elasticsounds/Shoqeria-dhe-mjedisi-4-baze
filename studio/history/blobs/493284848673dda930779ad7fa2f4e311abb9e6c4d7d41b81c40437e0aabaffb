@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg026_sec001_p3">
+<meta name="page-section-id" content="40">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>body,#interface-container *,#nav-container *{font-family:BookPoppins,Poppins,sans-serif!important}#content.bk{overflow:visible;padding-top:24px}#content.bk .bk-figure{align-items:center;gap:12px}#content.bk .bk-figure img{width:auto;height:auto;max-width:100%;max-height:560px;border-radius:0}#content.bk p{margin:0}#content.bk a.bk-btn{color:var(--bk-ink)}</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main><div id="content" class="bk" data-family="lesson-discussion"><section data-section-type="text_and_single_image" data-section-id="pg026_sec001_p3" class="bk-stack" aria-label="Mendimi ndryshe — figura">
+<figure class="bk-figure"><img id="scene" data-id="pg026_im001" src="images/pg026_im001.png" alt="Katër nxënës të ulur rreth një tavoline në klasë diskutojnë me radhë, me libra të hapur përpara dhe tabelën e gjelbër pas tyre."><a class="bk-btn bk-btn--secondary" href="images/pg026_im001.png" target="_blank" rel="noopener">Hap figurën origjinale</a></figure>
+<p class="bk-caption" aria-label="Faqja e burimit 26">26</p>
+</section></div></main>
+<script>
+/* Derive only a lossless uniform-row trim. Never discard any differing pixel.
+   The unchanged source remains available through the original-image link. */
+(function(){var img=document.getElementById('scene');function trim(){try{var c=document.createElement('canvas'),w=img.naturalWidth,h=img.naturalHeight;c.width=w;c.height=h;var ctx=c.getContext('2d',{willReadFrequently:true});ctx.drawImage(img,0,0);var d=ctx.getImageData(0,0,w,h).data;function uniform(y,ref){for(var x=0;x<w;x++){var i=(y*w+x)*4;for(var k=0;k<4;k++){if(d[i+k]!==d[ref+k])return false;}}return true;}var top=0,bottom=h;while(top<bottom&&uniform(top,0))top++;while(bottom>top&&uniform(bottom-1,(h-1)*w*4))bottom--;if(bottom<=top||top===0&&bottom===h)return;var out=document.createElement('canvas');out.width=w;out.height=bottom-top;out.getContext('2d').drawImage(c,0,top,w,bottom-top,0,0,w,bottom-top);img.dataset.uniformTrim=top+','+(h-bottom);img.src=out.toDataURL('image/png');}catch(e){/* Safe fallback: inspectable original, no guessed crop. */}}if(img.complete&&img.naturalWidth)trim();else img.addEventListener('load',trim,{once:true});})();
+window.activityAnswerTextIds = JSON.parse('{}');
+</script>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+</body></html>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="ADT_SHOQERIA_DHE_MJEDISI_4_BAZE" version="1.0"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                       http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+
+  <organizations default="ADT_ORG">
+    <organization identifier="ADT_ORG">
+      <title>Shoqëria dhe Mjedisi 4</title>
+      <item identifier="ITEM_1" identifierref="RESOURCE_1">
+        <title>Shoqëria dhe Mjedisi 4</title>
+      </item>
+    </organization>
+  </organizations>
+
+  <resources>
+    <resource identifier="RESOURCE_1"
+              type="webcontent"
+              adlcp:scormtype="sco"
+              href="index.html">
+      <file href="index.html"/>
+      <file href="pg001_sec001.html"/>
+      <file href="pg003_sec001.html"/>
+      <file href="pg004_sec001.html"/>
+      <file href="pg005_sec001.html"/>
+      <file href="pg006_sec001.html"/>
+      <file href="pg007_sec001.html"/>
+      <file href="pg007_sec002.html"/>
+      <file href="pg008_sec001.html"/>
+      <file href="pg008_sec002.html"/>
+      <file href="pg008_sec003.html"/>
+      <file href="pg009_sec001.html"/>
+      <file href="pg010_sec001.html"/>
+      <file href="pg010_sec002.html"/>
+      <file href="pg011_sec001.html"/>
+      <file href="pg012_sec001.html"/>
+      <file href="pg013_sec001.html"/>
+      <file href="pg014_sec001.html"/>
+      <file href="pg015_sec001.html"/>
+      <file href="pg016_sec001.html"/>
+      <file href="pg017_sec001.html"/>
+      <file href="pg018_sec001.html"/>
+      <file href="pg018_sec002.html"/>
+      <file href="pg018_sec003.html"/>
+      <file href="pg019_sec001.html"/>
+      <file href="pg020_sec001.html"/>
+      <file href="pg021_sec001.html"/>
+      <file href="pg021_sec002.html"/>
+      <file href="pg021_sec003.html"/>
+      <file href="pg022_sec001.html"/>
+      <file href="pg023_sec001.html"/>
+      <file href="pg023_sec002.html"/>
+      <file href="pg024_sec001.html"/>
+      <file href="pg024_sec002.html"/>
+      <file href="pg025_sec001.html"/>
+      <file href="pg026_sec001.html"/>
+      <file href="pg027_sec001.html"/>
+      <file href="pg028_sec001.html"/>
+      <file href="pg029_sec001.html"/>
+      <file href="pg030_sec001.html"/>
+      <file href="pg031_sec001.html"/>
+      <file href="pg032_sec001.html"/>
+      <file href="pg033_sec001.html"/>
+      <file href="pg034_sec001.html"/>
+      <file href="pg035_sec001.html"/>
+      <file href="pg036_sec001.html"/>
+      <file href="pg037_sec001.html"/>
+      <file href="pg038_sec001.html"/>
+      <file href="pg039_sec001.html"/>
+      <file href="pg040_sec001.html"/>
+      <file href="pg041_sec001.html"/>
+      <file href="pg042_sec001.html"/>
+      <file href="pg043_sec001.html"/>
+      <file href="pg044_sec001.html"/>
+      <file href="pg045_sec001.html"/>
+      <file href="pg046_sec001.html"/>
+      <file href="pg047_sec001.html"/>
+      <file href="pg048_sec001.html"/>
+      <file href="pg048_sec002.html"/>
+      <file href="pg049_sec001.html"/>
+      <file href="pg050_sec001.html"/>
+      <file href="pg051_sec001.html"/>
+      <file href="pg052_sec001.html"/>
+      <file href="pg053_sec001.html"/>
+      <file href="pg054_sec001.html"/>
+      <file href="pg054_sec002.html"/>
+      <file href="pg055_sec001.html"/>
+      <file href="pg056_sec001.html"/>
+      <file href="pg056_sec002.html"/>
+      <file href="pg056_sec003.html"/>
+      <file href="pg057_sec001.html"/>
+      <file href="pg058_sec001.html"/>
+      <file href="pg059_sec001.html"/>
+      <file href="pg060_sec001.html"/>
+      <file href="pg061_sec001.html"/>
+      <file href="pg062_sec001.html"/>
+      <file href="pg062_sec002.html"/>
+      <file href="pg062_sec003.html"/>
+      <file href="pg063_sec001.html"/>
+      <file href="pg063_sec002.html"/>
+      <file href="pg064_sec001.html"/>
+      <file href="pg065_sec001.html"/>
+      <file href="pg066_sec001.html"/>
+      <file href="pg067_sec001.html"/>
+      <file href="pg068_sec001.html"/>
+      <file href="pg069_sec001.html"/>
+      <file href="pg070_sec001.html"/>
+      <file href="pg070_sec002.html"/>
+      <file href="pg071_sec001.html"/>
+      <file href="pg072_sec001.html"/>
+      <file href="pg073_sec001.html"/>
+      <file href="pg073_sec002.html"/>
+      <file href="pg074_sec001.html"/>
+      <file href="pg075_sec001.html"/>
+      <file href="pg076_sec001.html"/>
+      <file href="pg076_sec002.html"/>
+      <file href="pg077_sec001.html"/>
+      <file href="pg077_sec002.html"/>
+      <file href="pg078_sec001.html"/>
+      <file href="pg079_sec001.html"/>
+      <file href="pg080_sec001.html"/>
+      <file href="pg080_sec002.html"/>
+      <file href="pg081_sec001.html"/>
+      <file href="pg081_sec002.html"/>
+      <file href="pg082_sec001.html"/>
+      <file href="pg083_sec001.html"/>
+      <file href="pg084_sec001.html"/>
+      <file href="pg084_sec002.html"/>
+      <file href="pg085_sec001.html"/>
+      <file href="pg086_sec001.html"/>
+      <file href="pg087_sec001.html"/>
+      <file href="pg088_sec001.html"/>
+      <file href="pg089_sec001.html"/>
+      <file href="pg089_sec002.html"/>
+      <file href="pg090_sec001.html"/>
+      <file href="pg090_sec002.html"/>
+      <file href="pg091_sec001.html"/>
+      <file href="pg092_sec001.html"/>
+      <file href="pg093_sec001.html"/>
+      <file href="pg094_sec001.html"/>
+      <file href="pg095_sec001.html"/>
+      <file href="pg096_sec001.html"/>
+      <file href="pg096_sec002.html"/>
+      <file href="pg096_sec003.html"/>
+      <file href="pg097_sec001.html"/>
+      <file href="pg098_sec001.html"/>
+      <file href="pg098_sec002.html"/>
+      <file href="pg099_sec001.html"/>
+      <file href="pg100_sec001.html"/>
+      <file href="pg101_sec001.html"/>
+      <file href="pg101_sec002.html"/>
+      <file href="pg102_sec001.html"/>
+      <file href="pg103_sec001.html"/>
+      <file href="pg104_sec001.html"/>
+      <file href="pg105_sec001.html"/>
+      <file href="pg106_sec001.html"/>
+      <file href="pg107_sec001.html"/>
+      <file href="pg107_sec002.html"/>
+      <file href="pg108_sec001.html"/>
+      <file href="pg108_sec002.html"/>
+      <file href="pg109_sec001.html"/>
+      <file href="pg110_sec001.html"/>
+      <file href="pg111_sec001.html"/>
+      <file href="pg112_sec001.html"/>
+      <file href="pg112_sec002.html"/>
+      <file href="pg112_sec003.html"/>
+      <file href="pg113_sec001.html"/>
+      <file href="pg114_sec001.html"/>
+      <file href="pg115_sec001.html"/>
+      <file href="pg116_sec001.html"/>
+      <file href="pg117_sec001.html"/>
+      <file href="pg118_sec001.html"/>
+      <file href="pg119_sec001.html"/>
+      <file href="pg120_sec001.html"/>
+      <file href="pg120_sec002.html"/>
+      <file href="pg121_sec001.html"/>
+      <file href="pg122_sec001.html"/>
+      <file href="pg122_sec002.html"/>
+      <file href="pg123_sec001.html"/>
+      <file href="pg124_sec001.html"/>
+      <file href="pg125_sec001.html"/>
+      <file href="pg126_sec001.html"/>
+      <file href="pg127_sec001.html"/>
+      <file href="pg128_sec001.html"/>
+      <file href="pg129_sec001.html"/>
+    <file href="AGENTS.md"/><file href="assets/activities.bundle.local.js"/><file href="assets/auto-fit.js"/><file href="assets/base.bundle.local.js"/><file href="assets/base.bundle.min.js"/><file href="assets/base.bundle.min.js.map"/><file href="assets/config.json"/><file href="assets/favicon_io/about.txt"/><file href="assets/favicon_io/android-chrome-192x192.png"/><file href="assets/favicon_io/android-chrome-512x512.png"/><file href="assets/favicon_io/apple-touch-icon.png"/><file href="assets/favicon_io/favicon-16x16.png"/><file href="assets/favicon_io/favicon-32x32.png"/><file href="assets/favicon_io/favicon.ico"/><file href="assets/favicon_io/site.webmanifest"/><file href="assets/fonts/AtkinsonHyperlegible-400-latin-ext.woff2"/><file href="assets/fonts/AtkinsonHyperlegible-400-latin.woff2"/><file href="assets/fonts/AtkinsonHyperlegible-700-latin-ext.woff2"/><file href="assets/fonts/AtkinsonHyperlegible-700-latin.woff2"/><file href="assets/fonts/Merriweather-Italic-VariableFont.woff2"/><file href="assets/fonts/Merriweather-VariableFont.woff2"/><file href="assets/fonts.css"/><file href="assets/interface_translations/sq-XK/interface_translations.json"/><file href="assets/libs/fontawesome/css/all.min.css"/><file href="assets/libs/fontawesome/webfonts/fa-brands-400.woff2"/><file href="assets/libs/fontawesome/webfonts/fa-regular-400.woff2"/><file href="assets/libs/fontawesome/webfonts/fa-solid-900.woff2"/><file href="assets/libs/fontawesome/webfonts/fa-v4compatibility.woff2"/><file href="assets/offline-preloader.js"/><file href="assets/scorm.js"/><file href="assets/sounds/drop.mp3"/><file href="assets/sounds/error.mp3"/><file href="assets/sounds/reset.mp3"/><file href="assets/sounds/success.mp3"/><file href="assets/sounds/validate_error.mp3"/><file href="assets/sounds/validate_success.mp3"/><file href="assets/symbols/biomes.png"/><file href="assets/symbols/cactus.png"/><file href="assets/symbols/deciduous.png"/><file href="assets/symbols/deforestation.png"/><file href="assets/symbols/ecosystem.png"/><file href="assets/symbols/evergreen.png"/><file href="assets/symbols/photosynthesis.png"/><file href="assets/symbols/pollution.png"/><file href="assets/symbols/prairie.png"/><file href="assets/symbols/smog.png"/><file href="assets/tailwind_css.css"/><file href="content/i18n/sq-XK/audios.json"/><file href="content/i18n/sq-XK/freshness.json"/><file href="content/i18n/sq-XK/glossary.json"/><file href="content/i18n/sq-XK/images.json"/><file href="content/i18n/sq-XK/speech_texts.json"/><file href="content/i18n/sq-XK/texts.json"/><file href="content/i18n/sq-XK/timecode/timecode_output.json"/><file href="content/i18n/sq-XK/videos.json"/><file href="content/navigation/nav.html"/><file href="content/pages.json"/><file href="content/tailwind_output.css"/><file href="content/toc.json"/><file href="cover.png"/><file href="images/pg001_im002.png"/><file href="images/pg006_im001.png"/><file href="images/pg007_im001.png"/><file href="images/pg009_im001.png"/><file href="images/pg010_im002.png"/><file href="images/pg011_im001.png"/><file href="images/pg011_im002.png"/><file href="images/pg012_im001_crop_v1.png"/><file href="images/pg013_im002.png"/><file href="images/pg014_im001_seg001_v1.png"/><file href="images/pg014_im001_seg002_v1.png"/><file href="images/pg015_im001.png"/><file href="images/pg016_im001.png"/><file href="images/pg017_im001.png"/><file href="images/pg018_im002_seg001_v1.png"/><file href="images/pg018_im002_seg002_v1.png"/><file href="images/pg018_im002_seg003_v1.png"/><file href="images/pg018_im003.jpg"/><file href="images/pg019_im001.png"/><file href="images/pg020_im001_seg001_v1.png"/><file href="images/pg020_im001_seg002_v1_crop_v1.png"/><file href="images/pg020_im001_seg003_v1_crop_v1.png"/><file href="images/pg021_im001_crop_v1.png"/><file href="images/pg022_im001_crop_v1.png"/><file href="images/pg023_im001.png"/><file href="images/pg024_im001.png"/><file href="images/pg025_im002.png"/><file href="images/pg026_im001.png"/><file href="images/pg028_im002.png"/><file href="images/pg028_im003.png"/><file href="images/pg028_im004.png"/><file href="images/pg030_im001.png"/><file href="images/pg031_im001.png"/><file href="images/pg032_im001.png"/><file href="images/pg033_im002.png"/><file href="images/pg034_im001.png"/><file href="images/pg035_im001_seg001_v1.png"/><file href="images/pg035_im001_seg002_v1.png"/><file href="images/pg036_im001.png"/><file href="images/pg037_im001_crop_v1.png"/><file href="images/pg038_im001_crop_v1.png"/><file href="images/pg039_im001_crop_v1.png"/><file href="images/pg040_im001.png"/><file href="images/pg041_im002.jpg"/><file href="images/pg042_im001.png"/><file href="images/pg043_im001.png"/><file href="images/pg044_im002.png"/><file href="images/pg044_im003_crop_v1.png"/><file href="images/pg044_im004_crop_v1.png"/><file href="images/pg045_im001.png"/><file href="images/pg046_im001.png"/><file href="images/pg047_im001_crop_v1.png"/><file href="images/pg048_im002.png"/><file href="images/pg049_im001.png"/><file href="images/pg050_im004.png"/><file href="images/pg051_im001_crop_v1.png"/><file href="images/pg052_im001.png"/><file href="images/pg053_im001_crop_v1.png"/><file href="images/pg054_im001.png"/><file href="images/pg055_im001.png"/><file href="images/pg058_im001_seg001_v1.png"/><file href="images/pg058_im001_seg002_v1.png"/><file href="images/pg058_im001_seg003_v1_crop_v1.png"/><file href="images/pg059_im001_seg001_v1.png"/><file href="images/pg059_im001_seg002_v1.png"/><file href="images/pg059_im001_seg003_v1.png"/><file href="images/pg059_im001_seg004_v1.png"/><file href="images/pg060_im001_seg001_v1.png"/><file href="images/pg060_im001_seg002_v1.png"/><file href="images/pg061_im001_seg003_v1.png"/><file href="images/pg062_im001.png"/><file href="images/pg063_im004.png"/><file href="images/pg065_im001.png"/><file href="images/pg065_im002.jpg"/><file href="images/pg066_im002.png"/><file href="images/pg067_im001_crop_v1.png"/><file href="images/pg069_im001_seg001_v1.png"/><file href="images/pg069_im001_seg002_v1.png"/><file href="images/pg070_im001.png"/><file href="images/pg070_im002.png"/><file href="images/pg070_im005.png"/><file href="images/pg071_im001.png"/><file href="images/pg072_im001.jpg"/><file href="images/pg074_im002_seg001_v1_crop_v1.png"/><file href="images/pg074_im002_seg002_v1_crop_v1.png"/><file href="images/pg075_im001_crop_v1.png"/><file href="images/pg076_im005.png"/><file href="images/pg076_im008_seg001_v1_crop_v1.png"/><file href="images/pg076_im008_seg002_v1_crop_v1.png"/><file href="images/pg076_im008_seg003_v1_crop_v1.png"/><file href="images/pg076_im010.png"/><file href="images/pg077_im001.jpg"/><file href="images/pg078_im001.png"/><file href="images/pg078_im002.png"/><file href="images/pg079_im002.png"/><file href="images/pg079_im008_seg001_v1_crop_v1.png"/><file href="images/pg079_im008_seg002_v1_crop_v1.png"/><file href="images/pg079_im008_seg003_v1_crop_v1.png"/><file href="images/pg079_im009_seg001_v1_crop_v1.png"/><file href="images/pg079_im009_seg002_v1_crop_v1.png"/><file href="images/pg080_im001.png"/><file href="images/pg082_im001.png"/><file href="images/pg083_im002.png"/><file href="images/pg083_im003.png"/><file href="images/pg083_im004.png"/><file href="images/pg083_im005.png"/><file href="images/pg084_im001.png"/><file href="images/pg085_im001.png"/><file href="images/pg085_im002.png"/><file href="images/pg085_im003.png"/><file href="images/pg086_im001.png"/><file href="images/pg087_im008_seg001_v1_crop_v1.png"/><file href="images/pg087_im008_seg002_v1_crop_v1.png"/><file href="images/pg087_im008_seg003_v1.png"/><file href="images/pg087_im008_seg004_v1_crop_v1.png"/><file href="images/pg087_im008_seg005_v1_crop_v1.png"/><file href="images/pg088_im001.png"/><file href="images/pg088_im002.png"/><file href="images/pg090_im002.png"/><file href="images/pg090_im003_seg001_v1_crop_v1.png"/><file href="images/pg090_im003_seg002_v1_crop_v1.png"/><file href="images/pg090_im003_seg003_v1_crop_v1.png"/><file href="images/pg090_im004.png"/><file href="images/pg090_im005.png"/><file href="images/pg090_im006.png"/><file href="images/pg090_im007_seg001_v1_crop_v1.png"/><file href="images/pg090_im007_seg002_v1_crop_v1.png"/><file href="images/pg091_im001.png"/><file href="images/pg092_im001.png"/><file href="images/pg092_im002.png"/><file href="images/pg093_im001.png"/><file href="images/pg093_im002.png"/><file href="images/pg093_im003.png"/><file href="images/pg093_im004.png"/><file href="images/pg094_im001.png"/><file href="images/pg095_im002.png"/><file href="images/pg097_im001.png"/><file href="images/pg099_im001_crop_v1.png"/><file href="images/pg100_im001_seg001_v1.png"/><file href="images/pg100_im001_seg002_v1.png"/><file href="images/pg100_im001_seg003_v1.png"/><file href="images/pg100_im001_seg004_v1.png"/><file href="images/pg100_im001_seg005_v1.png"/><file href="images/pg100_im001_seg006_v1.png"/><file href="images/pg100_im001_seg007_v1_crop_v1.png"/><file href="images/pg100_im001_seg008_v1.png"/><file href="images/pg100_im001_seg009_v1.png"/><file href="images/pg100_im001_seg010_v1.png"/><file href="images/pg102_im001.png"/><file href="images/pg103_im001.png"/><file href="images/pg104_im001.png"/><file href="images/pg106_im001.png"/><file href="images/pg109_im003_crop_v1.png"/><file href="images/pg110_im001.png"/><file href="images/pg111_im001.png"/><file href="images/pg113_im001.png"/><file href="images/pg114_im001.png"/><file href="images/pg116_im001.png"/><file href="images/pg117_im001_crop_v1.png"/><file href="images/pg118_im001.png"/><file href="images/pg119_im001.png"/><file href="images/pg121_im001.png"/><file href="images/pg123_im001_seg001_v1.png"/><file href="images/pg123_im001_seg002_v1.png"/><file href="images/pg127_im001.png"/><file href="book-design/fonts/Poppins-400.ttf"/><file href="book-design/fonts/Poppins-600.ttf"/><file href="book-design/fonts/Poppins-700.ttf"/><file href="book-design/fonts/OFL.txt"/><file href="book-design/design-system.css"/><file href="pg005_sec001_p2.html"/><file href="pg005_sec001_p3.html"/><file href="pg005_sec001_p4.html"/><file href="pg005_sec001_p5.html"/><file href="pg005_sec001_p6.html"/><file href="studio/assets/pg021_sec002-book-tab.png"/><file href="studio/assets/pg119_sec001-hand-leaf.png"/><file href="studio/assets/pg119_sec001-book.png"/><file href="studio/assets/pg119_sec001-train.png"/><file href="pg119_sec001_p2.html"/><file href="pg119_sec001_p3.html"/></resource>
+  </resources>
+
+</manifest>

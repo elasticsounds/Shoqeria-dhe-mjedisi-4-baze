@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg008_sec003">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="15">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk"><section data-section-type="boxed_text" data-section-id="pg008_sec003" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5"><div class="overflow-hidden rounded-3xl border-2 border-fuchsia-300 bg-white shadow-[0_8px_24px_rgba(168,85,247,0.12)]"><div class="flex items-stretch max-lg:flex-col"><div aria-hidden="true" class="flex w-28 items-center justify-center bg-purple-500 max-lg:h-20 max-lg:w-full"><div class="flex h-12 w-12 items-center justify-center rounded-2xl bg-white/20 text-white">📖</div></div><div class="flex-1 p-6 max-sm:p-4"><p class="adt-body leading-relaxed italic text-slate-800"><span data-id="pg008_n0028">Komuniteti është një grup njerëzish që jetojnë në të njëjtin vend ose bëjnë gjëra të ngjashme.</span></p><p class="adt-body mt-5 leading-relaxed italic text-slate-800"><span data-id="pg008_n0030">Njerëzit në një komunitet mund të kenë vlera, zakone, qëllime ose interesa të përbashkët.</span></p><p class="adt-body mt-5 leading-relaxed italic text-slate-800"><span data-id="pg008_n0032">Disa komunitete formohen sepse njerëzit jetojnë në vend të njëjtë, lagje, fshat etj., ndërsa disa të tjera formohen, sepse njerëzit punojnë së bashku ose mësojnë në të njëjtën shkollë.</span></p><p class="adt-body mt-5 leading-relaxed italic text-slate-800"><span data-id="pg008_n0034">Njerëzit në komunitet ndihmojnë njëri-tjetrin, komunikojnë dhe bashkëpunojnë për nevojat e tyre.</span> <span data-id="pg008_n0035">Kështu, ata e lehtësojnë mënyrën e jetesës së tyre dhe ndihen të lumtur.</span></p></div></div></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

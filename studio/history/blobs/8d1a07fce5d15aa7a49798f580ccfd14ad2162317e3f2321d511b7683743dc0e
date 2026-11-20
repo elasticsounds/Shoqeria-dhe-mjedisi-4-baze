@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg045_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="54" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0">
+  <section data-section-type="text_and_single_image" data-section-id="pg045_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 text-zinc-800 max-sm:px-5">
+    <div class="mb-6">
+      <div class="flex items-stretch max-sm:flex-col">
+        <div class="flex-1 bg-purple-500 px-8 py-5 text-white max-sm:px-5 max-sm:py-4">
+          <h1 class="adt-h3 font-bold text-white" data-id="pg045_n0002">Mendime t&#xeb; ndryshme, vendime t&#xeb; p&#xeb;rbashk&#xeb;ta</h1>
+          <h2 class="adt-h2 mt-3 inline-block border-b-4 border-purple-300 pb-2 font-medium text-zinc-900" data-id="pg045_n0003">Respektoj mendimin e tjetrit</h2>
+        </div>
+        <div aria-hidden="true" class="flex w-36 shrink-0 items-center justify-center bg-purple-500 max-lg:w-28 max-sm:mt-0 max-sm:w-full max-sm:justify-start max-sm:px-5 max-sm:py-3">
+          <div class="flex h-24 w-24 items-center justify-center rounded-md bg-purple-400 shadow-sm max-lg:h-20 max-lg:w-20">
+            <span class="font-bold text-white">&#x1f4ac;</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-8">
+      <img data-id="pg045_im001" src="images/pg045_im001.png" alt="Familja e ulur rreth tryez&#xeb;s bisedon dhe d&#xeb;gjon mendimet e nj&#xeb;ri-tjetrit." class="mx-auto w-full h-auto object-contain">
+    </div>
+
+    <div class="mb-10 bg-purple-100 px-4 py-4 max-sm:px-4 max-sm:py-4">
+      <div class="space-y-5">
+        <div>
+          <p class="adt-body text-left text-zinc-900"><span data-id="pg045_n0006">- Si mendoni ta p&#xeb;rfshini edhe v&#xeb;llan&#xeb; m&#xeb; shum&#xeb; n&#xeb; diskutimet tuaja?</span></p>
+          <label for="item-1" class="sr-only">- Si mendoni ta p&#xeb;rfshini edhe v&#xeb;llan&#xeb; m&#xeb; shum&#xeb; n&#xeb; n&#xeb; diskutimet tuaja?</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="- Si mendoni ta p&#xeb;rfshini edhe v&#xeb;llan&#xeb; m&#xeb; shum&#xeb; n&#xeb; diskutimet tuaja?" class="mt-3 min-h-11 w-full rounded-xl border-2 border-purple-300 bg-white px-4 py-3 outline-none focus:border-purple-500" rows="3"></textarea>
+        </div>
+        <div>
+          <p class="adt-body text-left text-zinc-900"><span data-id="pg045_n0007">- Krijoni nj&#xeb; situat&#xeb; t&#xeb; ngjashme dhe merrni mendimin e tij.</span></p>
+          <label for="item-2" class="sr-only">- Krijoni nj&#xeb; situat&#xeb; t&#xeb; ngjashme dhe merrni mendimin e tij.</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="- Krijoni nj&#xeb; situat&#xeb; t&#xeb; ngjashme dhe merrni mendimin e tij." class="mt-3 min-h-11 w-full rounded-xl border-2 border-purple-300 bg-white px-4 py-3 outline-none focus:border-purple-500" rows="3"></textarea>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-10 border-2 border-purple-300 bg-white p-4">
+      <p class="adt-body text-left italic leading-relaxed text-zinc-800">
+        <span data-id="pg045_n0010">Njer&#xeb;zit kan&#xeb; mendime t&#xeb; ndryshme p&#xeb;r prejardhjen, ashtu edhe p&#xeb;r zgjidhjen e problemeve.</span>
+        <span data-id="pg045_n0011">K&#xeb;to nuk duhet t&#xeb; ndikojn&#xeb; p&#xeb;r t&#x2019;i ndar&#xeb; ata nga nj&#xeb;ri-tjetri.</span>
+        <span data-id="pg045_n0012">Ne duhet t&#xeb; d&#xeb;gjojm&#xeb; dhe ta respektojm&#xeb; mendimin ndryshe.</span>
+        <span data-id="pg045_n0013">Ndaj t&#xeb; tjer&#xeb;ve duhet t&#xeb; sillemi me toleranc&#xeb; dhe qytetari.</span>
+        <span data-id="pg045_n0014">T&#xeb; d&#xeb;gjojm&#xeb; mendimin e gjithsecilit dhe t&#xeb; mendojm&#xeb; me kujdes p&#xeb;r at&#xeb; q&#xeb; thot&#xeb;.</span>
+        <span data-id="pg045_n0015">N&#xeb; t&#xeb; kund&#xeb;rt, kjo mund t&#xeb; shkaktoj&#xeb; konflikte, t&#xeb; cilat i shmangim p&#xeb;rmes qet&#xeb;sis&#xeb; dhe toleranc&#xeb;s n&#xeb; komunikim.</span>
+        <span data-id="pg045_n0016">Respektimi i mendimit t&#xeb; tjetrit &#xeb;sht&#xeb; baza e mir&#xeb;kuptimit dhe harmonis&#xeb; midis njer&#xeb;zve.</span>
+        <span data-id="pg045_n0017">Njeriu duhet t&#xeb; respektoj&#xeb; dhe t&#xeb; ndihet i respektuar gjithmon&#xeb;.</span>
+        <span data-id="pg045_n0018">Shkolla duhet t&#xeb; punoj&#xeb; q&#xeb; t&#xeb; siguroj&#xeb; mjedisin e duhur n&#xeb; klas&#xeb; p&#xeb;r mb&#xeb;shtetjen e nx&#xeb;n&#xeb;sve n&#xeb; procesin e t&#xeb; m&#xeb;suarit.</span>
+        <span data-id="pg045_n0019">Ne kemi nevoj&#xeb; p&#xeb;r kultur&#xeb;n e bised&#xeb;s me nj&#xeb;ri-tjetrin.</span>
+      </p>
+    </div>
+
+    <div class="pt-2">
+      <p class="adt-body text-left text-zinc-900">
+        <span data-id="pg045_n0021" class="font-semibold">Fjal&#xeb;t ky&#xe7;e:</span>
+        <span data-id="pg045_n0022">mendim ndryshe, respekt, toleranc&#xeb;, mir&#xeb;kuptim.</span>
+      </p>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

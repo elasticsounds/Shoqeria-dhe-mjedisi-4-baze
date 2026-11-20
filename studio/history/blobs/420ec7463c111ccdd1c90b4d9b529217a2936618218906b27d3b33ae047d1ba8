@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg128_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="165">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="glossary" id="content" class="container bg-white opacity-0 bk">
+  <section data-section-type="text_only" data-section-id="pg128_sec001" class="mx-auto w-full max-w-[62rem] px-16 py-16 max-lg:px-10 max-sm:px-5 max-sm:py-10">
+    <div class="max-w-[52rem]">
+      <h1 data-id="pg128_n0002" class="adt-h1 font-bold tracking-wide text-neutral-900 mb-12 max-sm:mb-8">FJALORTHI</h1>
+
+      <ul class="space-y-2 text-left list-none m-0 p-0">
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0005">Komunitet – Grup njerëzish që jetojnë ose punojnë së bashku dhe ndihmojnë njëri-tjetrin.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0007">Grup shoqëror – Grup njerëzish që kanë interesa ose aktivitete të përbashkëta.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0009">Përkrahje – Ndihmë dhe mbështetje për dikë.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0011">Ndërveprim – Komunikimi dhe bashkëpunimi mes njerëzve.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0013">Përgjegjësi – Detyrë që duhet ta kryejmë me kujdes.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0015">Institucion – Vend ku punojnë njerëz për t’u shërbyer qytetarëve.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0017">Qendër shëndetësore – Vend ku njerëzit marrin ndihmë mjekësore.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0019">Diversitet kulturor – Kur njerëz me kultura dhe zakone të ndryshme jetojnë së bashku.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0021">Respekt – Sjellje e mirë dhe vlerësim për të tjerët.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0023">Traditë – Zakone dhe mënyra jetese që përcillen nga brezi në brez.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0025">Paqe – Jetë pa luftë dhe pa dhunë.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0027">Tolerancë – Pranimi dhe respektimi i mendimeve ose i dallimeve të të tjerëve.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0029">Solidaritet – Ndihmë dhe mbështetje për njerëzit që kanë nevojë.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0031">Diskriminim – Trajtim i padrejtë i dikujt për shkak të dallimeve.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0033">Individ – Një person i vetëm.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0035">Empati – Të kuptosh dhe të ndjesh emocionet e dikujt tjetër.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0037">Dhunë – Sjellje që lëndon ose dëmton dikë.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0039">Vendimmarrje – Procesi i zgjedhjes ose i marrjes së një vendimi.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0041">Komunë – Njësi e qytetit ose e zonës, që kujdeset për shërbimet e qytetarëve.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0043">Prokuror – Person që merret me hetimin e shkeljeve të ligjit.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0045">Gjyqtar – Person që merr vendime në gjykatë sipas ligjit.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0047">Avokat – Person që ndihmon dhe mbron njerëzit para ligjit.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0049">Noter – Person që vërteton dokumente zyrtare.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0051">Ligj – Rregulla që duhet t’i zbatojnë të gjithë.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0053">Ekonomi – Menaxhimi i parave, i punës dhe i pasurive të një vendi ose familjeje.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0055">Kontribut – Ndihmë ose pjesëmarrje për një punë të mirë.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0057">Pasuri të paripërtëritshme – Pasuri natyrore që harxhohen dhe nuk zëvendësohen shpejt, si nafta dhe qymyri.</span></li>
+        <li class="adt-body text-neutral-800 leading-relaxed"><span data-id="pg128_n0059">Pasuri të ripërtëritshme – Pasuri natyrore që mund të përdoren përsëri, si uji, era dhe dielli.</span></li>
+      </ul>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg081_sec001_p2"><meta name="page-section-id" content="108">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet">
+<style>
+#content .bk-row{flex-wrap:nowrap} #content .bk-row .bk-field{flex:1;min-width:0} #content .bk-feedback:empty{display:none} #content [hidden]{display:none} #interface-container, #interface-container *, #nav-container, #nav-container *{font-family:BookPoppins,Poppins,Arial,sans-serif}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="bk" data-family="collaborative-project">
+<section data-section-id="pg081_sec001_p2" class="bk-activity" data-activity-pattern="short-response" data-activity-variant="ruled-list">
+<p class="bk-prompt" id="interview-prompt"><span data-id="pg081_n0022">Përgatitni disa pyetje për të intervistuar të ftuarin tuaj, që të njiheni me veprën e tij.</span></p>
+<p class="bk-prompt"><span data-id="pg081_n0023">Përmes pyetjeve, mundohuni të kuptoni jetën dhe punën e tij.</span></p>
+<p class="bk-prompt"><span data-id="pg081_n0024">Shkruani pyetjet për intervistë.</span></p>
+<div class="bk-row"><span data-id="pg081_n0025">1.</span><label class="bk-sr-only" for="answer-1">Pyetja 1 për intervistë</label><input class="bk-field" id="answer-1" data-activity-item="item-1" type="text" aria-label="Pyetja 1 për intervistë" aria-describedby="interview-prompt"></div>
+<div class="bk-row"><span data-id="pg081_n0026">2.</span><label class="bk-sr-only" for="answer-2">Pyetja 2 për intervistë</label><input class="bk-field" id="answer-2" data-activity-item="item-2" type="text" aria-label="Pyetja 2 për intervistë" aria-describedby="interview-prompt"></div>
+<div class="bk-row"><span data-id="pg081_n0027">3.</span><label class="bk-sr-only" for="answer-3">Pyetja 3 për intervistë</label><input class="bk-field" id="answer-3" data-activity-item="item-3" type="text" aria-label="Pyetja 3 për intervistë" aria-describedby="interview-prompt"></div>
+<div class="bk-row"><span data-id="pg081_n0028">4.</span><label class="bk-sr-only" for="answer-4">Pyetja 4 për intervistë</label><input class="bk-field" id="answer-4" data-activity-item="item-4" type="text" aria-label="Pyetja 4 për intervistë" aria-describedby="interview-prompt"></div>
+<div class="bk-row"><span data-id="pg081_n0029">5.</span><label class="bk-sr-only" for="answer-5">Pyetja 5 për intervistë</label><input class="bk-field" id="answer-5" data-activity-item="item-5" type="text" aria-label="Pyetja 5 për intervistë" aria-describedby="interview-prompt"></div>
+<div class="bk-row"><span data-id="pg081_n0030">6.</span><label class="bk-sr-only" for="answer-6">Pyetja 6 për intervistë</label><input class="bk-field" id="answer-6" data-activity-item="item-6" type="text" aria-label="Pyetja 6 për intervistë" aria-describedby="interview-prompt"></div>
+<p class="bk-feedback" id="save-status" role="status" aria-live="polite"></p><button type="button" class="bk-btn bk-btn--secondary" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+</section></div></main>
+<script>window.activityAnswerTextIds = JSON.parse('{}'); window.correctAnswers = JSON.parse('{"item-1":"","item-2":"","item-3":"","item-4":"","item-5":"","item-6":""}');</script>
+<script>
+(function(){
+ const fields=Array.from(document.querySelectorAll('[data-activity-item]')); const status=document.getElementById('save-status'); const retry=document.querySelector('[data-action="retry-save"]'); const prefix='ShoqeriaDheMjedisi4:pg081_sec001:'; let timer;
+ try { fields.forEach(function(field){const value=localStorage.getItem(prefix+field.dataset.activityItem); if(value!==null) field.value=value;}); } catch(e) { status.textContent='! Nuk u ruajt.'; retry.hidden=false; }
+ function save(){try{fields.forEach(function(field){localStorage.setItem(prefix+field.dataset.activityItem,field.value);}); status.textContent='✓ U ruajt.'; retry.hidden=true;}catch(e){status.textContent='! Nuk u ruajt.'; retry.hidden=false;}}
+ fields.forEach(function(field){field.addEventListener('input',function(){clearTimeout(timer);timer=setTimeout(save,500);}); field.addEventListener('change',function(){clearTimeout(timer);save();});}); retry.addEventListener('click',save);
+})();
+</script>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+</body></html>

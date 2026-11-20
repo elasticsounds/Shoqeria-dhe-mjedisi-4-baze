@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg024_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="39">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" class="container mx-auto max-w-5xl bg-white px-8 max-lg:px-6 max-sm:px-4 pt-10 pb-12 opacity-0 bk" id="content"><section role="group" data-section-type="activity_open_ended_answer" data-section-id="pg024_sec002" class="max-w-4xl mx-auto"><div class="bg-purple-100 rounded-2xl overflow-hidden shadow-sm"><div class="flex items-stretch max-sm:flex-col"><div class="bg-purple-500 text-white flex items-center justify-center px-8 py-6 max-sm:py-4 max-sm:px-6"><div aria-hidden="true" class="text-5xl leading-none">?</div></div><div class="flex-1 p-8 max-lg:p-6 max-sm:p-4 space-y-8"><div><label for="activity-item-1" class="block mb-3 text-slate-900 leading-snug"><span data-id="pg024_n0017">Vazhdoni tregimin me surpriza të këndshme.</span></label><textarea id="activity-item-1" data-activity-item="item-1" aria-label="Vazhdoni tregimin me surpriza të këndshme." class="w-full min-h-32 max-sm:min-h-28 rounded-lg border border-purple-300 bg-white/90 px-4 py-3 leading-7 resize-y focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea></div><div><label for="activity-item-2" class="block mb-3 text-slate-900 leading-snug"><span data-id="pg024_n0019">Cilat nga lojërat mund të realizohen me karroca lëvizëse?</span></label><textarea id="activity-item-2" data-activity-item="item-2" aria-label="Cilat nga lojërat mund të realizohen me karroca lëvizëse?" class="w-full min-h-28 max-sm:min-h-24 rounded-lg border border-purple-300 bg-white/90 px-4 py-3 leading-7 resize-y focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea></div><div><label for="activity-item-3" class="block mb-3 text-slate-900 leading-snug"><span data-id="pg024_n0021">Jep shembuj nga komuniteti juaj, në të cilin i përfshini individët me aftësi të kufizuara.</span></label><textarea id="activity-item-3" data-activity-item="item-3" aria-label="Jep shembuj nga komuniteti juaj, në të cilin i përfshini individët me aftësi të kufizuara." class="w-full min-h-32 max-sm:min-h-28 rounded-lg border border-purple-300 bg-white/90 px-4 py-3 leading-7 resize-y focus:outline-none focus:ring-2 focus:ring-purple-400"></textarea></div></div></div></div></section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

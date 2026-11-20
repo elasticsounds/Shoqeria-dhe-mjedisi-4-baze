@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg035_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="44" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0"><section data-section-type="text_and_images" data-section-id="pg035_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 text-slate-800 max-sm:px-4">
+  <div class="mb-8">
+    <h1 data-id="pg035_n0003" class="adt-h2 mb-2 inline-block border-b-4 border-purple-400 pb-2 font-semibold text-left text-slate-800">Barazi p&#xeb;r t&#xeb; gjith&#xeb;</h1>
+  </div>
+
+  <div class="mb-8 rounded-2xl border border-amber-300 bg-amber-50/40 px-5 py-4 max-sm:px-4 max-sm:py-3">
+    <p class="adt-body text-left leading-relaxed">
+      <span data-id="pg035_n0005" class="mr-3 inline-block rounded-md bg-amber-300 px-3 py-1 font-semibold text-slate-900">Situata 2.</span>
+      <span data-id="pg035_n0006">Asnj&#xeb;her&#xeb; nuk e kam par&#xeb; veten t&#xeb; pabarabart&#xeb; me shok&#xeb;t e shoqet, qofshin k&#xeb;ta djem, qofshin vajza.</span>
+      <span data-id="pg035_n0007" class="ml-1">N&#xeb; familjen ton&#xeb; kjo ndjenj&#xeb; ishte kultivuar q&#xeb; n&#xeb; f&#xeb;mij&#xeb;rin&#xeb; e hershme, ku prind&#xeb;rit nuk na ndanin pun&#xeb;t n&#xeb; pun&#xeb; djemsh apo pun&#xeb; vajzash.</span>
+      <span data-id="pg035_n0008" class="ml-1">N&#xeb;na dhe babai yn&#xeb; kujdeseshin p&#xeb;r ne pa dallim</span>
+    </p>
+  </div>
+
+  <div class="mb-10 grid grid-cols-2 gap-8 max-lg:grid-cols-1 max-lg:gap-6">
+    <figure class="rounded-3xl bg-yellow-50 px-4 pt-4 pb-3 shadow-sm border border-yellow-100 max-sm:px-3 max-sm:pt-3">
+      <img data-id="pg035_im001_seg001_v1" src="images/pg035_im001_seg001_v1.png" alt="Djal&#xeb; duke lar&#xeb; en&#xeb;t n&#xeb; lavaman, me pjata t&#xeb; grumbulluara dhe detergjent pran&#xeb;." class="block w-full h-auto rounded-2xl">
+    </figure>
+    <figure class="rounded-3xl bg-yellow-50 px-4 pt-4 pb-3 shadow-sm border border-yellow-100 max-sm:px-3 max-sm:pt-3">
+      <img data-id="pg035_im001_seg002_v1" src="images/pg035_im001_seg002_v1.png" alt="Vajz&#xeb; duke mbledhur dhe rregulluar lodrat n&#xeb; nj&#xeb; kuti kartoni." class="block w-full h-auto rounded-2xl">
+    </figure>
+  </div>
+
+  <aside class="mb-10 rounded-none bg-purple-100 px-5 py-5 shadow-sm max-sm:rounded-3xl max-sm:border max-sm:border-purple-200 max-sm:px-4">
+    <div class="space-y-5">
+      <div>
+        <p class="adt-body mb-2 text-left leading-relaxed"><span data-id="pg035_n0012">&#xc7;far&#xeb; kujdesi kan&#xeb; treguar n&#xeb;na dhe babai?</span></p>
+        <label for="item-1" class="sr-only">&#xc7;far&#xeb; kujdesi kan&#xeb; treguar n&#xeb;na dhe babai?</label>
+        <textarea id="item-1" data-activity-item="item-1" aria-label="&#xc7;far&#xeb; kujdesi kan&#xeb; treguar n&#xeb;na dhe babai?" class="min-h-11 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500" rows="3"></textarea>
+      </div>
+      <div>
+        <p class="adt-body mb-2 text-left leading-relaxed"><span data-id="pg035_n0014">&#xc7;far&#xeb; t&#xeb; mirash sjell n&#xeb; shoq&#xeb;ri trajtimi n&#xeb; m&#xeb;nyr&#xeb; t&#xeb; barabart&#xeb;?</span></p>
+        <label for="item-2" class="sr-only">&#xc7;far&#xeb; t&#xeb; mirash sjell n&#xeb; shoq&#xeb;ri trajtimi n&#xeb; m&#xeb;nyr&#xeb; t&#xeb; barabart&#xeb;?</label>
+        <textarea id="item-2" data-activity-item="item-2" aria-label="&#xc7;far&#xeb; t&#xeb; mirash sjell n&#xeb; shoq&#xeb;ri trajtimi n&#xeb; m&#xeb;nyr&#xeb; t&#xeb; barabart&#xeb;?" class="min-h-11 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500" rows="3"></textarea>
+      </div>
+      <div>
+        <p class="adt-body mb-2 text-left leading-relaxed"><span data-id="pg035_n0016">Po m&#xeb;suesi/ja, si ju trajton n&#xeb; klas&#xeb;?</span></p>
+        <label for="item-3" class="sr-only">Po m&#xeb;suesi/ja, si ju trajton n&#xeb; klas&#xeb;?</label>
+        <textarea id="item-3" data-activity-item="item-3" aria-label="Po m&#xeb;suesi/ja, si ju trajton n&#xeb; klas&#xeb;?" class="min-h-11 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500" rows="3"></textarea>
+      </div>
+      <div>
+        <p class="adt-body mb-2 text-left leading-relaxed"><span data-id="pg035_n0018">Tregoni raste n&#xeb;se jeni ndier t&#xeb; paragjykuar dhe jo t&#xeb; barabart&#xeb;.</span></p>
+        <label for="item-4" class="sr-only">Tregoni raste n&#xeb;se jeni ndier t&#xeb; paragjykuar dhe jo t&#xeb; barabart&#xeb;.</label>
+        <textarea id="item-4" data-activity-item="item-4" aria-label="Tregoni raste n&#xeb;se jeni ndier t&#xeb; paragjykuar dhe jo t&#xeb; barabart&#xeb;." class="min-h-11 w-full rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-500" rows="3"></textarea>
+      </div>
+    </div>
+  </aside>
+
+  <div class="mb-10 border-2 border-purple-300 bg-white px-5 py-4 shadow-sm max-sm:px-4">
+    <p class="adt-body text-left italic leading-relaxed text-slate-700">
+      <span data-id="pg035_n0021">Barazia do t&#xeb; thot&#xeb; q&#xeb; t&#xeb; gjith&#xeb; njer&#xeb;zit t&#xeb; trajtohen nj&#xeb;soj dhe t&#xeb; ken&#xeb; t&#xeb; nj&#xeb;jtat t&#xeb; drejta dhe mund&#xeb;si.</span>
+      <span data-id="pg035_n0022" class="ml-1">Sipas ligjit, vajzat dhe djemt&#xeb; kan&#xeb; t&#xeb; nj&#xeb;jtat t&#xeb; drejta.</span>
+      <span data-id="pg035_n0023" class="ml-1">Pra, askush nuk duhet t&#xeb; trajtohet m&#xeb; keq ose m&#xeb; mir&#xeb; vet&#xeb;m pse &#xeb;sht&#xeb; vajz&#xeb; apo djal&#xeb;.</span>
+      <span data-id="pg035_n0024" class="ml-1">Barazia nd&#xeb;rmjet vajzave dhe djemve &#xeb;sht&#xeb; shum&#xeb; e r&#xeb;nd&#xeb;sishme p&#xeb;r nj&#xeb; shoq&#xeb;ri t&#xeb; drejt&#xeb;.</span>
+      <span data-id="pg035_n0025" class="ml-1">Nx&#xeb;n&#xeb;sit duhet t&#xeb; tregohen t&#xeb; kujdessh&#xeb;m dhe t&#xeb; reagojn&#xeb; kur shohin q&#xeb; dikujt po i b&#xeb;het padrejt&#xeb;si.</span>
+      <span data-id="pg035_n0026" class="ml-1">M&#xeb;suesit duhet t&#x2019;i trajtojn&#xeb; t&#xeb; gjith&#xeb; f&#xeb;mij&#xeb;t nj&#xeb;soj, pa dallim.</span>
+      <span data-id="pg035_n0027" class="ml-1">N&#xeb; shkoll&#xeb;, f&#xeb;mij&#xeb;t m&#xeb;sojn&#xeb; t&#xeb; respektojn&#xeb; nj&#xeb;ri-tjetrin dhe t&#xeb; mos b&#xeb;jn&#xeb; dallime p&#xeb;r nga gjinia, ngjyra e l&#xeb;kur&#xeb;s, prejardhja apo kultura.</span>
+      <span data-id="pg035_n0028" class="ml-1">K&#xeb;shtu, nd&#xeb;rtojm&#xeb; nj&#xeb; shoq&#xeb;ri m&#xeb; t&#xeb; mir&#xeb;, ku t&#xeb; gjith&#xeb; ndihen t&#xeb; barabart&#xeb; dhe t&#xeb; respektuar.</span>
+    </p>
+  </div>
+
+  <div class="adt-body text-left">
+    <span data-id="pg035_n0030" class="font-semibold">Fjal&#xeb;t ky&#xe7;e:</span>
+    <span data-id="pg035_n0031" class="ml-1">barazi, marr&#xeb;dh&#xeb;nie, diskriminim, respekt.</span>
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

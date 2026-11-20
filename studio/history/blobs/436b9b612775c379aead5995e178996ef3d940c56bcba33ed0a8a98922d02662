@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe Mjedisi 4</title>
+<meta name="title-id" content="pg004_sec001_p5">
+<meta name="page-section-id" content="7">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<style>
+body,button,input,textarea,select,#interface-container,#nav-container{font-family:BookPoppins,Poppins,sans-serif!important}
+#interface-container :is(button,a,span,p,select),#nav-container :is(button,a,span,p,select){font-family:BookPoppins,Poppins,sans-serif;font-size:18px}
+#content.bk.bk.bk{padding-top:24px;overflow:visible}
+#content.bk.bk.bk nav ol{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:12px}
+#content.bk.bk.bk nav a{display:grid;grid-template-columns:minmax(0,1fr) max-content;align-items:center;gap:12px;min-height:48px;color:var(--bk-ink);text-decoration:underline;text-align:start}
+#content.bk.bk.bk nav strong{font-weight:700}
+#content.bk.bk.bk nav img{display:block;width:auto;height:auto;max-width:48px;max-height:48px;margin:0 0 12px}
+@media(min-width:641px) and (max-width:767px){#content.bk.bk.bk{padding-inline:16px}}
+</style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body>
+<main>
+<div id="content" class="bk" data-family="contents" data-source-page="4">
+<section class="bk-stack" data-section-type="table_of_contents" data-section-id="pg004_sec001_p5" data-source-page="4">
+<nav aria-label="Përmbajtja: Mjedisi i vendit tim, vazhdim">
+<ol start="31">
+<li><a class="bk-body" href="pg118_sec001.html"><span data-id="pg004_n0101">Transporti publik dhe ai ekologjik</span><span data-id="pg004_n0102">118</span></a></li>
+<li><a class="bk-body" href="pg120_sec001.html"><span data-id="pg004_n0104">Si riciklohen mbetjet?</span><span data-id="pg004_n0105">120</span></a></li>
+<li><a class="bk-body" href="pg122_sec001.html"><span data-id="pg004_n0107">Kujdesi për higjienën në komunitet</span><span data-id="pg004_n0108">122</span></a></li>
+<li><a class="bk-body" href="pg124_sec001.html"><strong data-id="pg004_n0110">Projekti ynë: “Ndihmoj për një mjedis të pastër dhe të gjelbër”</strong><span data-id="pg004_n0111">124</span></a></li>
+<li><a class="bk-body" href="pg126_sec001.html"><span data-id="pg004_n0113">Lojë: Unë dhe ti</span><span data-id="pg004_n0114">126</span></a></li>
+</ol>
+</nav>
+<nav aria-label="Përmbajtja: Fjalorthi dhe Referencat">
+<ol start="36">
+<li><a class="bk-body" href="pg128_sec001.html"><span data-id="pg004_n0116">Fjalorthi</span><span data-id="pg004_n0117">128</span></a></li>
+<li><a class="bk-body" href="pg129_sec001.html"><span data-id="pg004_n0119">Referencat</span><span data-id="pg004_n0120">129</span></a></li>
+</ol>
+</nav>
+</section>
+</div>
+</main>
+<script type="text/javascript">window.activityAnswerTextIds = JSON.parse('{}');</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

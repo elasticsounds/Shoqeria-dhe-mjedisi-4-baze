@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe Mjedisi 4</title>
+  <meta name="title-id" content="pg048_sec002">
+  <meta name="page-section-id" content="63">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  
+  <style>
+    body, body * { font-family: BookPoppins, Poppins, Arial, sans-serif !important; }
+    #content.bk.bk.bk textarea.bk-field { border-color: var(--bk-primary) !important; }
+  </style>
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+  <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+  <div data-family="lesson-discussion" id="content" class="opacity-0 bk">
+    <section data-section-type="discussion" data-legacy-section-type="activity_open_ended_answer" data-section-id="pg048_sec002" role="region" class="bk-stack">
+      <div class="bk-activity bk-card bk-card--surface1" data-activity-pattern="discussion" data-activity-variant="group-discussion">
+        <label class="bk-label bk-prompt" for="activity-item-1"><img src="studio/assets/pg048_sec002-question.png" width="24" height="36" alt="" style="display:inline-block;vertical-align:middle"> <span aria-hidden="true">- </span><span data-id="pg048_n0013">Tregoni se si e keni bërë ju zgjedhjen e kryetarit të klasës suaj.</span></label>
+        <p class="bk-body" id="note-1">Shënime (opsionale)</p>
+        <textarea class="bk-field" id="activity-item-1" data-activity-item="item-1" aria-describedby="note-1" rows="3"></textarea>
+        <p class="bk-feedback" role="status" aria-live="polite" hidden></p>
+        <button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+      </div>
+      <div class="bk-activity bk-card bk-card--surface1" data-activity-pattern="discussion" data-activity-variant="group-discussion">
+        <label class="bk-label bk-prompt" for="activity-item-2"><span aria-hidden="true">- </span><span data-id="pg048_n0014">Tregoni vazhdimin e situatës së mësipërme.</span></label>
+        <p class="bk-body" id="note-2">Shënime (opsionale)</p>
+        <textarea class="bk-field" id="activity-item-2" data-activity-item="item-2" aria-describedby="note-2" rows="3"></textarea>
+        <p class="bk-feedback" role="status" aria-live="polite" hidden></p>
+        <button class="bk-btn bk-btn--secondary" type="button" data-action="retry-save" hidden>Provo ruajtjen përsëri</button>
+      </div>
+      <div class="bk-row"><a class="bk-btn bk-btn--secondary" href="pg048_sec001.html">Shiko situatën 1</a></div>
+    </section>
+  </div>
+</main>
+<script>
+window.activityAnswerTextIds = JSON.parse('{}');
+(function () {
+  var book = new URL('.', location.href).pathname;
+  document.querySelectorAll('#content textarea[data-activity-item]').forEach(function (field) {
+    var box = field.closest('.bk-activity');
+    var status = box.querySelector('[role=status]');
+    var retry = box.querySelector('[data-action=retry-save]');
+    var key = 'adt-notes:' + book + ':pg048_sec002:' + field.dataset.activityItem;
+    var timer, readFailed = false, dirty = false;
+    function show(message, failed) { status.hidden = false; status.textContent = message; retry.hidden = !failed; }
+    function save() {
+      clearTimeout(timer);
+      if (readFailed) { show('⚠ Ruajtja nuk mund të lexohet. Shënimi mbetet në fushë; provoni përsëri.', true); return; }
+      try {
+        localStorage.setItem(key, field.value);
+        retry.hidden = true;
+        timer = setTimeout(function () { show('✓ U ruajt.', false); }, 400);
+      } catch (e) { show('⚠ Nuk u ruajt. Shënimi mbetet në fushë.', true); }
+    }
+    function load() {
+      try {
+        var saved = localStorage.getItem(key);
+        if (dirty && saved !== null) {
+          readFailed = true;
+          show('⚠ Ka një shënim të mëparshëm. Kopjoni shënimin aktual para se të ringarkoni faqen.', true);
+          return;
+        }
+        readFailed = false;
+        if (!dirty && saved !== null) field.value = saved;
+        status.hidden = true; retry.hidden = true;
+        if (dirty) save();
+      } catch (e) { readFailed = true; show('⚠ Shënimi nuk mund të lexohet nga ruajtja.', true); }
+    }
+    load();
+    field.addEventListener('input', function () { dirty = true; save(); });
+    retry.addEventListener('click', function () { if (readFailed) load(); else save(); });
+  });
+}());
+</script>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+</body>
+</html>

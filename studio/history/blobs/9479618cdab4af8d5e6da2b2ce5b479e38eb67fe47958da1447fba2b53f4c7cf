@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg007_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="7">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk">
+  <section data-section-type="boxed_text" data-section-id="pg007_sec002" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-white">
+    <div class="rounded-2xl border-2 border-purple-300 bg-purple-50 p-6 shadow-sm">
+      <p class="adt-body italic text-gray-800 leading-relaxed">
+        <span data-id="pg007_n0073">Njeriu lind, zhvillohet, rritet dhe ndryshon vazhdimisht.</span>
+        <span data-id="pg007_n0074">Ai pëson ndryshime fizike dhe mendore apo psikike.</span>
+        <span data-id="pg007_n0075">Ndryshimi fizik përfshin ndryshimet në peshë dhe gjatësi.</span>
+        <span data-id="pg007_n0076">Ndryshimet mendore janë: formimi i shprehive të jetës, aftësia për t'i dalluar veprimet e mira nga ato jo të mira, interesimi për lojën, aftësia për t’u përshtatur në mjedisin ku jeton e zbatimi i rregullave në të, aftësia për të mësuar, përvetësuar dhe zbatuar ato njohuri në jetën e përditshme.</span>
+        <span data-id="pg007_n0077">Të gjitha këto arrihen kur fëmija është i rrethuar me njerëz që i ofrojnë dashuri, e udhëzojnë dhe e këshillojnë.</span>
+      </p>
+    </div>
+    <div class="mt-8 border-t-4 border-purple-400 pt-5">
+      <h1 class="adt-h4 font-semibold text-gray-900" data-id="pg007_n0079">Fjalët kyçe: rritem, shprehi, pasion, sjellje, rregull.</h1>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

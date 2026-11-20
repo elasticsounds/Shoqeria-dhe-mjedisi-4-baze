@@ -1,0 +1,351 @@
+/* Shared reading styles for the web edition. */
+#content.bk[data-book-theme], #content.bk .book-contents-group {
+  --reading-accent: #634384;
+  --reading-mid: #a586c4;
+  --reading-tint: #f4edf9;
+  --reading-line: #e4d8ef;
+}
+
+#content.bk[data-book-theme="community"], #content.bk .book-contents-group[data-book-theme="community"],
+#content.bk[data-book-theme="nature"], #content.bk .book-contents-group[data-book-theme="nature"] {
+  --reading-accent: #245e4a;
+  --reading-mid: #71a78b;
+  --reading-tint: #edf6ef;
+  --reading-line: #cde4d4;
+}
+
+#content.bk[data-book-theme="rights"], #content.bk .book-contents-group[data-book-theme="rights"],
+#content.bk[data-book-theme="place"], #content.bk .book-contents-group[data-book-theme="place"] {
+  --reading-accent: #305c80;
+  --reading-mid: #84abc8;
+  --reading-tint: #edf4fa;
+  --reading-line: #d1e1ef;
+}
+
+#content.bk[data-book-theme="empathy"], #content.bk .book-contents-group[data-book-theme="empathy"],
+#content.bk[data-book-theme="heritage"], #content.bk .book-contents-group[data-book-theme="heritage"] {
+  --reading-accent: #874467;
+  --reading-mid: #ce8da9;
+  --reading-tint: #faeef4;
+  --reading-line: #efd8e4;
+}
+
+#content.bk[data-book-theme="history"], #content.bk .book-contents-group[data-book-theme="history"] {
+  --reading-accent: #805117;
+  --reading-mid: #d4ab61;
+  --reading-tint: #fcf4e4;
+  --reading-line: #efdfbd;
+}
+
+body:has(#content.bk[data-book-theme]) {
+  align-items: flex-start;
+  background: #faf8fc;
+}
+
+body:has(#content.bk[data-book-theme]) > main {
+  width: 100%;
+  min-width: 0;
+}
+
+#content.bk.bk.bk[data-book-theme] {
+  --reading-radius: 18px;
+  --reading-gutter: clamp(14px, 3.2vw, 32px);
+  max-width: 1080px;
+  min-height: 0;
+  padding: clamp(14px, 2.5vw, 26px) var(--reading-gutter) var(--bk-clear);
+  background: transparent;
+  overflow-wrap: break-word;
+}
+
+#content.bk[data-book-theme] :is(h1, h2, h3)[id^="lesson-"] {
+  scroll-margin-block-start: 20px;
+}
+
+#content.bk.bk.bk[data-book-theme] > section {
+  min-width: 0;
+}
+
+#content.bk.bk.bk[data-book-theme] .bk-banner {
+  margin: 0 0 14px;
+  padding: clamp(14px, 2vw, 22px);
+  border-radius: var(--reading-radius);
+  background: var(--reading-accent);
+}
+
+#content.bk.bk.bk[data-book-theme] .bk-stack > .bk-banner {
+  margin-bottom: 0;
+}
+
+#content.bk.bk.bk[data-book-theme] :is(.bk-card, aside.rounded-none, div.rounded-none, [class*="[border-radius:4rem]"]) {
+  border-radius: var(--reading-radius);
+}
+
+#content.bk.bk.bk[data-book-theme] .bk-card--surface1 {
+  background: var(--reading-tint);
+  border-color: var(--reading-line);
+}
+
+#content.bk[data-book-theme] .book-tile {
+  display: block;
+  width: 20px;
+  height: 8px;
+  border-radius: 4px;
+  background: var(--reading-accent);
+  box-shadow: 26px 0 var(--reading-mid), 52px 0 #e9b95e;
+}
+
+#content.bk[data-book-theme]:not([data-family="cover"], [data-family="contents"])::before {
+  content: "";
+  display: block;
+  width: 20px;
+  height: 8px;
+  margin-block-end: 16px;
+  border-radius: 4px;
+  background: var(--reading-accent);
+  box-shadow: 26px 0 var(--reading-mid), 52px 0 #e9b95e;
+}
+
+#content.bk.bk.bk[data-book-theme] .bk-orn {
+  display: none;
+}
+
+#content.bk.bk.bk[data-reading-layout="text"] > section:not(.bk-card) {
+  padding: clamp(14px, 2.7vw, 28px);
+  border: 1px solid var(--reading-line);
+  border-radius: var(--reading-radius);
+  background: linear-gradient(115deg, white 55%, var(--reading-tint));
+}
+
+#content.bk.bk.bk[data-reading-layout="text"] .bk-card--outline {
+  border-color: var(--reading-line);
+  border-inline-start: 5px solid var(--reading-mid);
+  background-color: var(--reading-tint);
+}
+
+#content.bk.bk.bk[data-family="foreword"] section > .bk-stack {
+  max-width: 75ch;
+  gap: 12px;
+}
+
+#content.bk[data-book-theme] .book-chapter-label {
+  margin: 0 0 6px;
+  color: var(--reading-accent);
+  font-weight: 600;
+}
+
+#content.bk.bk.bk[data-family="cover"] .book-cover {
+  display: grid;
+  grid-template-columns: minmax(0, 1.12fr) minmax(0, 1fr);
+  align-items: center;
+  gap: clamp(20px, 4vw, 54px);
+  padding: clamp(22px, 4.5vw, 52px);
+  border: 1px solid #e4d6ee;
+  border-radius: 28px;
+  background: #f5eef9;
+  text-align: start;
+}
+
+#content.bk[data-family="cover"] .book-cover-copy {
+  min-width: 0;
+}
+
+#content.bk[data-family="cover"] .book-cover-copy p {
+  margin: 20px 0 9px;
+  color: #50405e;
+  font-size: 0.82em;
+  font-weight: 600;
+}
+
+#content.bk.bk.bk[data-family="cover"] .book-cover .bk-title {
+  color: #412956;
+  font-size: clamp(1.8em, 4.4vw, 3em);
+  letter-spacing: -0.035em;
+  line-height: 1.08;
+  margin-block-end: 12px;
+}
+
+#content.bk.bk.bk[data-family="cover"] .book-cover .bk-heading {
+  color: #50405e;
+  font-size: 1em;
+}
+
+#content.bk[data-family="cover"] .book-cover-art {
+  margin: 0;
+  min-width: 0;
+  padding: clamp(14px, 3vw, 32px);
+  border-radius: 22px;
+  background: #e8d9f1;
+}
+
+#content.bk[data-family="cover"] .book-cover-art img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+#content.bk[data-family="cover"] .book-cover-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 22px;
+}
+
+#content.bk.bk.bk[data-book-theme] .book-action {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 48px;
+  padding: 8px 15px;
+  border: 1px solid var(--reading-accent);
+  border-radius: 12px;
+  color: var(--reading-accent);
+  background: white;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+#content.bk.bk.bk[data-book-theme] .book-action--primary,
+#content.bk.bk.bk[data-book-theme] .book-action[aria-current="page"] {
+  color: white;
+  background: var(--reading-accent);
+}
+
+#content.bk[data-family="contents"] .book-contents-header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 15px;
+  padding: clamp(16px, 3vw, 28px);
+  border: 1px solid var(--reading-line);
+  border-radius: var(--reading-radius);
+  background: var(--reading-tint);
+  margin-bottom: 18px;
+}
+
+#content.bk[data-family="contents"] .book-contents-header .bk-title {
+  margin-top: 10px;
+  color: #412956;
+}
+
+#content.bk[data-family="contents"] .book-contents-ranges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+#content.bk[data-family="contents"] .book-contents-groups {
+  columns: 2;
+  column-gap: 16px;
+}
+
+#content.bk[data-family="contents"] .book-contents-group {
+  padding: 7px;
+  margin-bottom: 12px;
+  break-inside: avoid;
+  border: 1px solid var(--reading-line);
+  border-radius: var(--reading-radius);
+  background: white;
+}
+
+#content.bk[data-family="contents"] .book-contents-group ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#content.bk.bk.bk[data-family="contents"] .book-contents-link {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(36px, max-content) 12px;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 7px 9px 7px 12px;
+  border-radius: 9px;
+  color: #2e2738;
+  font-size: 0.91em;
+  line-height: 1.35;
+  text-decoration: none;
+}
+
+#content.bk.bk.bk[data-family="contents"] .book-contents-link small {
+  padding: 3px 4px;
+  border-radius: 7px;
+  color: var(--reading-accent);
+  background: var(--reading-tint);
+  font-size: 0.82em;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  text-align: center;
+}
+
+#content.bk.bk.bk[data-family="contents"] .book-contents-link--chapter {
+  margin-bottom: 3px;
+  padding-block: 10px;
+  color: white;
+  background: var(--reading-accent);
+  font-weight: 700;
+}
+
+#content.bk[data-family="contents"] .book-contents-link--chapter small {
+  color: white;
+  background: rgb(255 255 255 / 20%);
+}
+
+#content.bk[data-family="contents"] .book-contents-link--activity .book-contents-label {
+  font-weight: 600;
+}
+
+#content.bk[data-family="contents"] .book-contents-arrow {
+  font-size: 0.85em;
+  text-align: end;
+}
+
+#content.bk[data-family="contents"] .book-contents-link:is(:hover, :focus-visible) .book-contents-label {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+#content.bk.bk.bk[data-family="contents"] .book-contents-link:not(.book-contents-link--chapter):hover {
+  background: var(--reading-tint);
+}
+
+@media (max-width: 720px) {
+  #content.bk[data-family="contents"] .book-contents-groups {
+    columns: 1;
+  }
+
+  #content.bk.bk.bk[data-family="cover"] .book-cover {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 16px;
+    border-radius: 22px;
+  }
+
+  #content.bk[data-family="cover"] .book-cover-art {
+    width: min(100%, 325px);
+    justify-self: center;
+  }
+}
+
+@media (forced-colors: active) {
+  #content.bk .book-action,
+  #content.bk .book-contents-link--chapter {
+    border: 1px solid LinkText;
+  }
+}
+
+/* The discussion has its own notes and paging controls. */
+body:has(#content [data-section-id="pg010_sec001"] #question-parts)
+  div.fixed[aria-label]:has(button[title="Dërgo"]) {
+  display: none;
+}
+
+#content.bk.bk.bk[data-book-theme] .bk-banner img[alt=""] {
+  border-radius: 8px;
+}
+
+
+#content.bk.bk.bk[data-book-theme] .book-action:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}

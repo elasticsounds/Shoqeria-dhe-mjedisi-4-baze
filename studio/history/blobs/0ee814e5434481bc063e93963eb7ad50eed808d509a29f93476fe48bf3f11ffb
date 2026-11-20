@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg090_sec001" />
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="114" />
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+</head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0"><section data-section-type="text_and_images" data-section-id="pg090_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 text-slate-800 max-sm:px-4">
+  <div class="mb-10 overflow-hidden rounded-l-[2rem] bg-[#a868b0]">
+    <div class="flex items-center gap-6 px-8 py-8 max-sm:items-start max-sm:gap-4 max-sm:px-4 max-sm:py-5">
+      <div aria-hidden="true" class="flex h-28 w-28 shrink-0 items-center justify-center rounded-sm bg-[#a868b0] max-sm:h-20 max-sm:w-20">
+        <div class="h-24 w-16 rounded-[1.5rem] border-4 border-white max-sm:h-14 max-sm:w-12"></div>
+      </div>
+      <div class="min-w-0 flex-1 pt-1">
+        <h1 data-id="pg090_n0002" class="adt-h3 mb-4 font-semibold text-white">Traditat dhe trash&#xeb;gimia jon&#xeb;</h1>
+        <div class="inline-block bg-white px-4 py-2">
+          <h2 data-id="pg090_n0003" class="adt-h2 text-slate-900">Kulturat jan&#xeb; t&#xeb; shum&#xeb;llojshme</h2>
+        </div>
+        <div aria-hidden="true" class="mt-3 h-1 w-72 bg-[#c58acc] max-sm:w-32"></div>
+      </div>
+    </div>
+  </div>
+
+  <h3 data-id="pg090_n0004" class="adt-h3 mb-5 inline-block bg-[#69bb78] px-5 py-2 text-slate-900">Situata 1.</h3>
+
+  <p class="adt-body mb-4 text-left leading-relaxed">
+    <span data-id="pg090_n0006">Andrra i ftoi t&#xeb; gjith&#xeb; shok&#xeb;t e shoqet p&#xeb;r dit&#xeb;lindje.</span>
+    <span data-id="pg090_n0007">Jonit, q&#xeb; i p&#xeb;lqente t&#xeb; ilustronte &#xe7;do ngjarje, po i b&#xeb;nte p&#xeb;rshtypje fakti q&#xeb; n&#xeb; sht&#xeb;pin&#xeb; e Andrr&#xeb;s kishte shum&#xeb; piktura n&#xeb; mur e shum&#xeb; libra n&#xeb; bibliotek&#xeb;.</span>
+    <span data-id="pg090_n0008">Jonin po e mrekullonte fakti q&#xeb; n&#xeb; &#xe7;do piktur&#xeb; burrat mbanin plis n&#xeb; kok&#xeb; e grat&#xeb; kishin veshje plot ngjyra.</span>
+    <span data-id="pg090_n0009">Veshjet e tyre ishin t&#xeb; ndryshme nga veshjet e sotme.</span>
+    <span data-id="pg090_n0010">Pikturat tregonin historin&#xeb; e popullit ton&#xeb; e librat mbanin emra t&#xeb; autor&#xeb;ve t&#xeb; m&#xeb;dhenj shqiptar&#xeb;, si: v&#xeb;llez&#xeb;rit Frash&#xeb;ri, Gjergj Fishta, Asdreni, Ismail Kadare etj.</span>
+    <span data-id="pg090_n0011">Aty kishte edhe fotografi t&#xeb; Motr&#xeb;s Tone dhe t&#xeb; motrave Qiriazi.</span>
+  </p>
+
+  <p class="adt-body mb-4 text-left leading-relaxed">
+    <span data-id="pg090_n0013">Kur prind&#xeb;rit e Andrr&#xeb;s erdh&#xeb;n p&#xeb;r t&#x2019;i p&#xeb;rsh&#xeb;ndetur f&#xeb;mij&#xeb;t, Joni e pyeti maman&#xeb; e Andrr&#xeb;s: - A mund t&#xeb; huazoj nj&#xeb; nga k&#xeb;ta libra q&#xeb; ta lexoj gjat&#xeb; pushimit t&#xeb; ver&#xeb;s?</span>
+    <span data-id="pg090_n0014">Zonj&#xeb;s iu b&#xeb; qejfi, buz&#xeb;qeshi leht&#xeb; e i tha se k&#xeb;ta libra ishin p&#xeb;r t&#xeb; rriturit.</span>
+    <span data-id="pg090_n0015">Ajo i premtoi q&#xeb; kur t&#xeb; rritej, do t&#x2019;ia huazonte t&#xeb; gjith&#xeb; librat, sepse vet&#xeb;m k&#xeb;shtu do t&#xeb; mund t&#xeb; shikonte se &#xe7;far&#xeb; shkrimesh me vler&#xeb; kan&#xeb; shkruar k&#xeb;ta shkrimtar&#xeb;.</span>
+  </p>
+
+  <p class="adt-body mb-8 text-left leading-relaxed">
+    <span data-id="pg090_n0017">Joni, i mrekulluar, e pyeti: - A jan&#xeb; t&#xeb; gjith&#xeb; shqiptar&#xeb;?</span>
+    <span data-id="pg090_n0018">- Po, - tha zonja, - mir&#xeb;po p&#xeb;r t&#xeb; njohur se sa e bukur &#xeb;sht&#xeb; bota dhe sa shum&#xeb; kultura t&#xeb; ndryshme ekzistojn&#xeb;, ne duhet t&#x2019;i lexojm&#xeb; edhe autor&#xeb;t e huaj.</span>
+    <span data-id="pg090_n0019">Joni u pajtua me k&#xeb;t&#xeb; mendim dhe iu bashkua shok&#xeb;ve.</span>
+  </p>
+
+  <div class="mb-10 grid grid-cols-9 gap-x-3 gap-y-4 max-lg:grid-cols-4 max-sm:grid-cols-2 max-sm:gap-3">
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im002" src="images/pg090_im002.png" alt="Portret bardhezi i Aleksand&#xeb;r Stavre Drenov&#xeb;s, i veshur me kostum dhe kravat&#xeb;." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0022" class="adt-caption mt-1 text-center">Aleksand&#xeb;r Stavre Drenova</figcaption>
+    </figure>
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im003_seg001_v1_crop_v1" src="images/pg090_im003_seg001_v1_crop_v1.png" alt="Nj&#xeb;ri nga V&#xeb;llez&#xeb;rit Frash&#xeb;ri, n&#xeb; portret bardhezi me mjek&#xeb;r t&#xeb; dendur dhe kostum." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0024" class="adt-caption mt-1 text-center">V&#xeb;llez&#xeb;rit Frash&#xeb;ri</figcaption>
+    </figure>
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im003_seg002_v1_crop_v1" src="images/pg090_im003_seg002_v1_crop_v1.png" alt="Nj&#xeb;ri nga V&#xeb;llez&#xeb;rit Frash&#xeb;ri, n&#xeb; portret bardhezi me mjek&#xeb;r dhe papion." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0026" class="adt-caption mt-1 text-center">V&#xeb;llez&#xeb;rit Frash&#xeb;ri</figcaption>
+    </figure>
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im003_seg003_v1_crop_v1" src="images/pg090_im003_seg003_v1_crop_v1.png" alt="Nj&#xeb;ri nga V&#xeb;llez&#xeb;rit Frash&#xeb;ri, n&#xeb; portret bardhezi me mjek&#xeb;r t&#xeb; shkurt&#xeb;r dhe jak&#xeb; t&#xeb; bardh&#xeb;." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0028" class="adt-caption mt-1 text-center">V&#xeb;llez&#xeb;rit Frash&#xeb;ri</figcaption>
+    </figure>
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im004" src="images/pg090_im004.png" alt="Portret i Gjergj Fisht&#xeb;s i ulur, i veshur me petk fetar t&#xeb; err&#xeb;t." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0030" class="adt-caption mt-1 text-center">Gjergj Fishta</figcaption>
+    </figure>
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im005" src="images/pg090_im005.png" alt="Portret bardhezi i Ismail Kadares&#xeb; me syze t&#xeb; m&#xeb;dha." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0032" class="adt-caption mt-1 text-center">Ismail Kadare</figcaption>
+    </figure>
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im006" src="images/pg090_im006.png" alt="Piktura &#x201c;Motra Tone&#x201d;, grua e ulur me veshje tradicionale t&#xeb; bardh&#xeb; dhe dor&#xeb;n pran&#xeb; fytyr&#xeb;s." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0034" class="adt-caption mt-1 text-center">Motra Tone</figcaption>
+    </figure>
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im007_seg001_v1_crop_v1" src="images/pg090_im007_seg001_v1_crop_v1.png" alt="Portret bardhezi i nj&#xeb;r&#xeb;s prej Motrave Qiriazi, me syze dhe var&#xeb;se rreth qaf&#xeb;s." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0036" class="adt-caption mt-1 text-center">Motrat Qiriazi</figcaption>
+    </figure>
+    <figure class="flex min-w-0 flex-col items-center">
+      <img data-id="pg090_im007_seg002_v1_crop_v1" src="images/pg090_im007_seg002_v1_crop_v1.png" alt="Portret bardhezi i nj&#xeb;r&#xeb;s prej Motrave Qiriazi, me flok&#xeb; t&#xeb; mbledhura lart." class="h-auto w-full border border-slate-200 bg-slate-50 shadow-sm">
+      <figcaption data-id="pg090_n0038" class="adt-caption mt-1 text-center">Motrat Qiriazi</figcaption>
+    </figure>
+  </div>
+
+  <aside class="mb-6 border-2 border-[#d7a4ea] bg-[#fbf5ff] p-5 italic shadow-sm">
+    <p class="adt-body text-left leading-relaxed">
+      <span data-id="pg090_n0041">Kultura &#xeb;sht&#xeb; gjith&#xe7;ka q&#xeb; nj&#xeb; grup njer&#xeb;zish e kan&#xeb; t&#xeb; p&#xeb;rbashk&#xeb;t, si: m&#xeb;nyra si mendojn&#xeb;, si sillen, si jetojn&#xeb;, besimet, zakonet dhe vlerat q&#xeb; ata ndjekin.</span>
+      <span data-id="pg090_n0042">Kultura p&#xeb;rfshin gjuh&#xeb;n, fen&#xeb;, veshjen, ushqimin, muzik&#xeb;n, artin, festat etj.</span>
+      <span data-id="pg090_n0043">Ajo tregon se si &#xeb;sht&#xeb; nd&#xeb;rtuar jeta e nj&#xeb; populli dhe &#xe7;far&#xeb; gj&#xeb;rash t&#xeb; vlefshme ka krijuar ai me kalimin e koh&#xeb;s.</span>
+    </p>
+  </aside>
+
+  <div class="border-l-4 border-[#b46ce0] pl-4 py-1">
+    <p class="adt-body text-left">
+      <span data-id="pg090_n0046">Fjal&#xeb;t ky&#xe7;e:</span>
+      <span data-id="pg090_n0047">kultur&#xeb;, lib&#xeb;r, piktur&#xeb;.</span>
+    </p>
+  </div>
+</section></div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>

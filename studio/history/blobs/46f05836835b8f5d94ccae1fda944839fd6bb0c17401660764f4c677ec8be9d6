@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="sq-XK">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe Mjedisi 4</title>
+    <meta name="title-id" content="pg062_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="85">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link href="./book-design/design-system.css?v=31b9b116916778a8" data-book-style="plan" rel="stylesheet"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe Mjedisi 4</h1>
+      <div data-family="lesson-discussion" id="content" class="container opacity-0 bk">
+  <section data-section-type="text_and_single_image" data-section-id="pg062_sec002" class="mx-auto w-full max-w-5xl px-8 py-8 bg-white text-zinc-800 max-sm:px-5">
+    <div class="mb-10 flex items-start max-sm:block">
+      <div aria-hidden="true" class="mt-4 mr-0 flex h-20 w-28 shrink-0 items-center justify-center bg-purple-500 text-white shadow-sm max-sm:mt-0 max-sm:mb-0 max-sm:h-16 max-sm:w-24">
+        <div class="flex h-12 w-12 items-center justify-center rounded-sm border-2 border-white/90 text-white adt-body italic">📖</div>
+      </div>
+      <div class="flex-1 border-2 border-purple-300 bg-white px-5 py-5 shadow-sm max-sm:-mt-1 max-sm:px-4 max-sm:py-4">
+        <p class="adt-body italic leading-relaxed text-left">
+          <span data-id="pg062_n0020">Pavarësia e Kosovës u shpall më 17 shkurt 2008.</span>
+          <span data-id="pg062_n0021">Kjo datë shënon festën më të rëndësishme të Kosovës dhe festohet me shumë dashuri.</span>
+          <span data-id="pg062_n0022">Në të gjithë vendin tonë dhe në të gjitha vendet ku jetojnë shqiptarët, organizohen aktivitete festive për ta shënuar këtë ditë.</span>
+          <span data-id="pg062_n0023">Shteti ynë krijoi simbolet shtetërore: flamurin, stemën dhe himnin shtetëror.</span>
+        </p>
+        <p class="mt-8 adt-body leading-relaxed text-left">
+          <span data-id="pg062_n0025">Flamuri i Kosovës ka ngjyrën e kaltër, mbi të është vënë një hartë e verdhë e Kosovës dhe ka gjashtë yje të bardha sipër saj.</span>
+          <span data-id="pg062_n0026">Yjet nënkuptojnë gjashtë popujt – komunitetet etnike që jetojnë në Kosovë.</span>
+        </p>
+        <p class="mt-7 adt-body leading-relaxed text-left">
+          <span data-id="pg062_n0028">Stema e Kosovës është simbol i Republikës së Kosovës.</span>
+        </p>
+        <p class="mt-7 adt-body leading-relaxed text-left">
+          <span data-id="pg062_n0030">Himni është një këngë solemne, e cila ekzekutohet në ceremonitë shtetërore, në çdo veprimtari ndërkombëtare, në ngjarjet sportive ku vendi ynë është pjesëmarrës, si dhe në raste të tjera të përcaktuara me ligje përkatëse.</span>
+        </p>
+      </div>
+    </div>
+
+    <figure class="mx-auto w-full max-w-3xl overflow-hidden rounded-[1.75rem] border border-zinc-300 shadow-lg">
+      <img data-id="pg062_im001" src="images/pg062_im001.png" alt="Flamuri i Kosovës me sfond të kaltër, hartën e verdhë të Kosovës në qendër dhe gjashtë yje të bardhë sipër." class="block w-full h-auto object-cover">
+    </figure>
+  </section>
+</div>
+    </main>
+
+    <script type="text/javascript">
+        window.activityAnswerTextIds = JSON.parse('{}');
+    </script>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+</body>
+
+</html>
