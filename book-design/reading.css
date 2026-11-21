@@ -349,3 +349,16 @@ body:has(#content [data-section-id="pg010_sec001"] #question-parts)
   text-decoration: underline;
   text-underline-offset: 0.2em;
 }
+
+
+/* Chapter symbols from the printed contents page. */
+#content.bk.bk.bk[data-family="contents"] .book-contents-link--chapter:has(> .book-contents-icon) {
+  grid-template-columns: 36px minmax(0, 1fr) minmax(36px, max-content) 12px;
+}
+
+#content.bk.bk.bk[data-family="contents"] .book-contents-icon {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+  border-radius: 8px;
+}

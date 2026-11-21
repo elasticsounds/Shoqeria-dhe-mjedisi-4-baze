@@ -11,6 +11,26 @@ This document describes the structure of this Accessible Digital Textbook (ADT) 
 - **Total pages**: 164
 - **Glossary**: yes
 
+## Lesson pages are generated — edit the specs, not the HTML
+
+Every page from the foreword onward is generated from data files with one shared template:
+
+- `tools/specs/*.json` — what is on each screen (text IDs, pictures, activities). Format: `tools/specs/README.md`.
+- `tools/build_lessons.py` — writes the page HTML, the reading order (`content/pages.json`), `page-section-id`
+  numbering, `toc.json`, `imsmanifest.xml` and the offline copy in `assets/offline-preloader.js`.
+- `book-design/lesson.css` and `book-design/lesson.js` — the shared look and the two custom activities.
+- `tools/imgtool.py` — cuts illustrations out of the PDF or out of full-page images.
+- `tools/make_tts.py` — generates the read-aloud MP3s and `audios.json` (Gemini TTS, Albanian/Kosovo).
+- `tools/audit.mjs` — opens every screen and reports errors, layout overflow and accessibility problems.
+
+To change a page: edit its spec (or a string in `texts.json`), then run `python3 tools/build_lessons.py`.
+Do not hand-edit `pgNNN_sec*.html`; the next build overwrites them. The reader loads `texts.json`, `pages.json`
+and the pages through `assets/offline-preloader.js`, so a change is not visible until the build has refreshed it.
+
+Text IDs in this bundle look like `pg008_n0006` (not `pg001_gp001_tx001` as in the generic description below).
+The bundle is an adapted edition: wording, a few pictures and the order of some lessons differ from the PDF, and
+bundle page numbers do not always equal PDF page numbers (84–91 are reordered; 128 is an added glossary page).
+
 ## Quick Overview
 
 An ADT bundle is a self-contained, offline-capable web app for reading a book. It has:

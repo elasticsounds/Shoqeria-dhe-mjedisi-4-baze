@@ -1,0 +1,468 @@
+{
+ "texts": {},
+ "screens": [
+  {
+   "id": "pg118_sec001",
+   "page": 118,
+   "title": "pg118_n0003",
+   "blocks": [
+    {
+     "type": "story",
+     "paras": [
+      [
+       "pg118_n0005"
+      ],
+      [
+       "pg118_n0006",
+       "pg118_n0007",
+       "pg118_n0008",
+       "pg118_n0009"
+      ],
+      [
+       "pg118_n0010",
+       "pg118_n0011",
+       "pg118_n0012",
+       "pg118_n0013"
+      ],
+      [
+       "pg118_n0014",
+       "pg118_n0015",
+       "pg118_n0016",
+       "pg118_n0017"
+      ]
+     ],
+     "figure": {
+      "src": "studio/assets/pg118_sec001-bus.png",
+      "id": "pg118_im001"
+     }
+    }
+   ],
+   "chapter": "pg118_n0002"
+  },
+  {
+   "id": "pg119_sec001",
+   "page": 119,
+   "title": "pg118_n0003",
+   "blocks": [
+    {
+     "type": "questions",
+     "ids": [
+      "pg119_n0007",
+      "pg119_n0009",
+      "pg119_n0011",
+      "pg119_n0013"
+     ]
+    }
+   ],
+   "chapter": "pg118_n0002"
+  },
+  {
+   "id": "pg119_sec002",
+   "page": 119,
+   "title": "pg118_n0003",
+   "blocks": [
+    {
+     "type": "info",
+     "paras": [
+      [
+       "pg119_n0016"
+      ],
+      [
+       "pg119_n0017",
+       "pg119_n0018",
+       "pg119_n0019"
+      ],
+      [
+       "pg119_n0020"
+      ],
+      [
+       "pg119_n0021"
+      ]
+     ]
+    },
+    {
+     "type": "gallery",
+     "figures": [
+      {
+       "src": "studio/assets/pg119_sec001-train.png",
+       "id": "pg119_im001"
+      }
+     ]
+    },
+    {
+     "type": "keywords",
+     "ids": [
+      "pg119_n0023",
+      "pg119_n0024"
+     ]
+    }
+   ],
+   "chapter": "pg118_n0002"
+  },
+  {
+   "id": "pg120_sec001",
+   "page": 120,
+   "title": "pg120_n0004",
+   "blocks": [
+    {
+     "type": "story",
+     "paras": [
+      [
+       "pg120_n0006",
+       "pg120_n0007"
+      ],
+      [
+       "pg120_n0008",
+       "pg120_n0009"
+      ],
+      [
+       "pg120_n0011",
+       "pg120_n0012",
+       "pg120_n0013",
+       "pg120_n0014",
+       "pg120_n0015",
+       "pg120_n0016",
+       "pg120_n0017",
+       "pg120_n0018"
+      ],
+      [
+       "pg120_n0020"
+      ],
+      [
+       "pg120_n0022",
+       "pg120_n0023",
+       "pg120_n0024"
+      ],
+      [
+       "pg120_n0026",
+       "pg120_n0027"
+      ],
+      [
+       "pg120_n0029"
+      ]
+     ],
+     "figure": {
+      "src": "images/pg121_im001-reading.png",
+      "id": "pg121_im001"
+     }
+    }
+   ],
+   "chapter": "pg120_n0002"
+  },
+  {
+   "id": "pg120_sec002",
+   "page": 120,
+   "title": "pg120_n0004",
+   "blocks": [
+    {
+     "type": "questions",
+     "ids": [
+      "pg120_n0047",
+      "pg120_n0048",
+      "pg120_n0049",
+      "pg120_n0050",
+      "pg120_n0051"
+     ]
+    }
+   ],
+   "chapter": "pg120_n0002"
+  },
+  {
+   "id": "pg120_sec003",
+   "page": 120,
+   "title": "pg120_n0004",
+   "blocks": [
+    {
+     "type": "info",
+     "paras": [
+      [
+       "pg120_n0032",
+       "pg120_n0033",
+       "pg120_n0034"
+      ],
+      [
+       "pg120_n0036",
+       "pg120_n0037"
+      ],
+      [
+       "pg120_n0039",
+       "pg120_n0040",
+       "pg120_n0041"
+      ]
+     ]
+    },
+    {
+     "type": "keywords",
+     "ids": [
+      "pg120_n0044",
+      "pg120_n0045"
+     ]
+    }
+   ],
+   "chapter": "pg120_n0002"
+  },
+  {
+   "id": "pg122_sec001",
+   "page": 122,
+   "title": "pg122_n0003",
+   "blocks": [
+    {
+     "type": "story",
+     "paras": [
+      [
+       "pg122_n0005",
+       "pg122_n0006",
+       "pg122_n0007"
+      ],
+      [
+       "pg122_n0009"
+      ],
+      [
+       "pg122_n0011",
+       "pg122_n0012"
+      ],
+      [
+       "pg122_n0014",
+       "pg122_n0015",
+       "pg122_n0016",
+       "pg122_n0017",
+       "pg122_n0018"
+      ]
+     ]
+    },
+    {
+     "type": "gallery",
+     "figures": [
+      {
+       "src": "images/pg123_im001_seg001_crop.png",
+       "id": "pg123_im001_seg001_v1"
+      },
+      {
+       "src": "images/pg123_im001_seg002_v1.png",
+       "id": "pg123_im001_seg002_v1"
+      }
+     ]
+    }
+   ],
+   "chapter": "pg122_n0002"
+  },
+  {
+   "id": "pg122_sec002",
+   "page": 122,
+   "title": "pg122_n0003",
+   "blocks": [
+    {
+     "type": "questions",
+     "ids": [
+      "pg122_n0030",
+      "pg122_n0031",
+      "pg122_n0032",
+      "pg122_n0033",
+      "pg122_n0034"
+     ]
+    }
+   ],
+   "chapter": "pg122_n0002"
+  },
+  {
+   "id": "pg122_sec003",
+   "page": 122,
+   "title": "pg122_n0003",
+   "blocks": [
+    {
+     "type": "info",
+     "paras": [
+      [
+       "pg122_n0021",
+       "pg122_n0022"
+      ],
+      [
+       "pg122_n0024",
+       "pg122_n0025",
+       "pg122_n0026"
+      ]
+     ]
+    },
+    {
+     "type": "keywords",
+     "ids": [
+      "pg122_n0028"
+     ]
+    }
+   ],
+   "chapter": "pg122_n0002"
+  },
+  {
+   "id": "pg124_sec001",
+   "page": 124,
+   "title": "pg124_n0004",
+   "blocks": [
+    {
+     "type": "text",
+     "style": "prompt",
+     "paras": [
+      [
+       "pg124_n0006",
+       "pg124_n0007"
+      ]
+     ]
+    },
+    {
+     "type": "note",
+     "color": "green",
+     "title": "pg124_n0009",
+     "paras": [
+      [
+       "pg124_n0010"
+      ]
+     ]
+    },
+    {
+     "type": "write",
+     "prompt": [
+      [
+       "pg124_n0011"
+      ]
+     ],
+     "rows": 5
+    },
+    {
+     "type": "note",
+     "color": "green",
+     "title": "pg124_n0017",
+     "paras": [
+      [
+       "pg124_n0018"
+      ]
+     ]
+    },
+    {
+     "type": "write",
+     "prompt": [
+      [
+       "pg124_n0019"
+      ]
+     ],
+     "rows": 5
+    }
+   ],
+   "chapter": "pg124_n0002"
+  },
+  {
+   "id": "pg125_sec001",
+   "page": 125,
+   "title": "pg124_n0004",
+   "blocks": [
+    {
+     "type": "note",
+     "color": "green",
+     "title": "pg125_n0008",
+     "paras": [
+      [
+       "pg125_n0009"
+      ]
+     ]
+    },
+    {
+     "type": "write",
+     "prompt": [
+      [
+       "pg125_n0010"
+      ]
+     ],
+     "rows": 5
+    },
+    {
+     "type": "note",
+     "color": "green",
+     "title": "pg125_n0017",
+     "paras": [
+      [
+       "pg125_n0018"
+      ]
+     ]
+    },
+    {
+     "type": "write",
+     "prompt": [
+      [
+       "pg125_n0019"
+      ]
+     ],
+     "rows": 5
+    }
+   ],
+   "chapter": "pg124_n0002"
+  },
+  {
+   "id": "pg128_sec001",
+   "page": 128,
+   "title": "pg128_n0002",
+   "blocks": [
+    {
+     "type": "note",
+     "color": "plain",
+     "items": [
+      "pg128_n0005",
+      "pg128_n0007",
+      "pg128_n0009",
+      "pg128_n0011",
+      "pg128_n0013",
+      "pg128_n0015",
+      "pg128_n0017",
+      "pg128_n0019",
+      "pg128_n0021",
+      "pg128_n0023",
+      "pg128_n0025",
+      "pg128_n0027",
+      "pg128_n0029",
+      "pg128_n0031",
+      "pg128_n0033",
+      "pg128_n0035",
+      "pg128_n0037",
+      "pg128_n0039",
+      "pg128_n0041",
+      "pg128_n0043",
+      "pg128_n0045",
+      "pg128_n0047",
+      "pg128_n0049",
+      "pg128_n0051",
+      "pg128_n0053",
+      "pg128_n0055",
+      "pg128_n0057",
+      "pg128_n0059"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg129_sec001",
+   "page": 129,
+   "title": "pg129_n0002",
+   "blocks": [
+    {
+     "type": "html",
+     "ids": [
+      "pg129_n0005",
+      "pg129_n0007",
+      "pg129_n0009",
+      "pg129_n0011",
+      "pg129_n0013",
+      "pg129_n0015",
+      "pg129_n0017",
+      "pg129_n0019",
+      "pg129_n0021",
+      "pg129_n0023",
+      "pg129_n0025",
+      "pg129_n0027",
+      "pg129_n0029",
+      "pg129_n0031",
+      "pg129_n0033",
+      "pg129_n0035"
+     ],
+     "html": "<ul class=\"lx-list\" role=\"list\">\n<li><a href=\"https://mati.logoreci.com/bio.html\" data-id=\"pg129_n0005\">https://mati.logoreci.com/bio.html</a></li>\n<li><a href=\"https://sq.wikipedia.org/wiki/Sevasti_Qiriazi\" data-id=\"pg129_n0007\">https://sq.wikipedia.org/wiki/Sevasti_Qiriazi</a></li>\n<li><a href=\"https://www.ab-in-den-urlaub.de/magazin/reisetipps/shkodra/\" data-id=\"pg129_n0009\">https://www.ab-in-den-urlaub.de/magazin/reisetipps/shkodra/</a></li>\n<li><a href=\"https://sq.wikipedia.org/wiki/Majlinda_Kelmendi\" data-id=\"pg129_n0011\">https://sq.wikipedia.org/wiki/Majlinda_Kelmendi</a></li>\n<li><a href=\"https://sq.wikipedia.org/wiki/Ymer_Riza\" data-id=\"pg129_n0013\">https://sq.wikipedia.org/wiki/Ymer_Riza</a></li>\n<li><a href=\"https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNexhmije_Pagarusha&amp;psig=AOvVaw2jJXKKr5SQG_8C-etSW_SC&amp;ust=1689150805864000&amp;source=images&amp;cd=vfe&amp;ved=2ahUKEwjim6ifn4aAAxWQhP0HHb8NAlYQr4kDegUIARC5AQ\" data-id=\"pg129_n0015\">https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNexhmije_Pagarusha&amp;psig=AOvVaw2jJXKKr5SQG_8C-etSW_SC&amp;ust=1689150805864000&amp;source=images&amp;cd=vfe&amp;ved=2ahUKEwjim6ifn4aAAxWQhP0HHb8NAlYQr4kDegUIARC5AQ</a></li>\n<li><a href=\"https://www.tripadvisor.in/AttractionProductReview-g295385-d16641538-Prishtina_One_Day_Tour-Pristina.html\" data-id=\"pg129_n0017\">https://www.tripadvisor.in/AttractionProductReview-g295385-d16641538-Prishtina_One_Day_Tour-Pristina.html</a></li>\n<li><a href=\"https://upload.wikimedia.org/wikipedia/commons/f/f1/Biblioteka_Komb%C3%ABtare_e_Kosov%C3%ABs.jpg\" data-id=\"pg129_n0019\">https://upload.wikimedia.org/wikipedia/commons/f/f1/Biblioteka_Komb%C3%ABtare_e_Kosov%C3%ABs.jpg</a></li>\n<li><a href=\"https://kallxo.com/kulture/film-teater/teatri-kombetar-publikon-orarin-e-shfaqjeve-per-muajin-janar/\" data-id=\"pg129_n0021\">https://kallxo.com/kulture/film-teater/teatri-kombetar-publikon-orarin-e-shfaqjeve-per-muajin-janar/</a></li>\n<li><a href=\"https://sq.wikipedia.org/wiki/Galeria_Komb%C3%ABtare_e_Kosov%C3%ABs\" data-id=\"pg129_n0023\">https://sq.wikipedia.org/wiki/Galeria_Komb%C3%ABtare_e_Kosov%C3%ABs</a></li>\n<li><a href=\"https://en.tripadvisor.com.hk/Hotel_Review-g11982805-d10499178-Reviews-Guesthouse_Bjeshket_E_Nemura-Lepushe_Shkoder_County.html\" data-id=\"pg129_n0025\">https://en.tripadvisor.com.hk/Hotel_Review-g11982805-d10499178-Reviews-Guesthouse_Bjeshket_E_Nemura-Lepushe_Shkoder_County.html</a></li>\n<li><a href=\"https://www.atdheu.com/ulpiana-antike.html\" data-id=\"pg129_n0027\">https://www.atdheu.com/ulpiana-antike.html</a></li>\n<li><a href=\"https://mapcarta.com/Ferizaj\" data-id=\"pg129_n0029\">https://mapcarta.com/Ferizaj (foto)</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Gjakova\" data-id=\"pg129_n0031\">https://en.wikipedia.org/wiki/Gjakova (foto)</a></li>\n<li><a href=\"https://www.aa.com.tr/sq/ballkani/shp%C3%ABrndahet-kuvendi-i-kosov%C3%ABs-/156216\" data-id=\"pg129_n0033\">https://www.aa.com.tr/sq/ballkani/shp%C3%ABrndahet-kuvendi-i-kosov%C3%ABs-/156216 (foto)</a></li>\n<li><a href=\"https://kosovapress.com/en/Koliqi%2C-co-founder-of-the-modern-Albanian-story/\" data-id=\"pg129_n0035\">https://kosovapress.com/en/Koliqi%2C-co-founder-of-the-modern-Albanian-story/ (foto)</a></li>\n</ul>"
+    }
+   ]
+  }
+ ]
+}

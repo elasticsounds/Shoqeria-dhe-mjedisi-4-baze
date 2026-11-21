@@ -1,0 +1,844 @@
+{
+ "screens": [
+  {
+   "id": "pg034_sec001",
+   "page": 34,
+   "chapter": "pg042_n0002",
+   "title": "pg034_n0003",
+   "blocks": [
+    {
+     "type": "story",
+     "tag": "pg034_n0005",
+     "paras": [
+      [
+       "pg034_n0007",
+       "pg034_n0008"
+      ],
+      [
+       "pg034_n0009",
+       "pg034_n0010",
+       "pg034_n0011",
+       "pg034_n0012"
+      ]
+     ],
+     "figure": {
+      "src": "images/pg034_im001_crop.png",
+      "id": "pg034_im001"
+     }
+    }
+   ]
+  },
+  {
+   "id": "pg034_sec002",
+   "page": 34,
+   "chapter": "pg042_n0002",
+   "title": "pg034_n0003",
+   "blocks": [
+    {
+     "type": "questions",
+     "ids": [
+      "pg034_n0013",
+      "pg034_n0014",
+      "pg034_n0015",
+      "pg034_n0016"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg035_sec001",
+   "page": 35,
+   "chapter": "pg042_n0002",
+   "title": "pg034_n0003",
+   "blocks": [
+    {
+     "type": "story",
+     "tag": "pg035_n0005",
+     "paras": [
+      [
+       "pg035_n0006",
+       "pg035_n0007",
+       "pg035_n0008"
+      ]
+     ]
+    },
+    {
+     "type": "gallery",
+     "figures": [
+      {
+       "src": "images/pg035_im001_seg001_v1.png",
+       "id": "pg035_im001_seg001_v1"
+      },
+      {
+       "src": "images/pg035_im001_seg002_v1.png",
+       "id": "pg035_im001_seg002_v1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg035_sec002",
+   "page": 35,
+   "chapter": "pg042_n0002",
+   "title": "pg034_n0003",
+   "blocks": [
+    {
+     "type": "questions",
+     "ids": [
+      "pg035_n0012",
+      "pg035_n0014",
+      "pg035_n0016",
+      "pg035_n0018"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg035_sec003",
+   "page": 35,
+   "chapter": "pg042_n0002",
+   "title": "pg034_n0003",
+   "blocks": [
+    {
+     "type": "info",
+     "paras": [
+      [
+       "pg035_n0021",
+       "pg035_n0022",
+       "pg035_n0023"
+      ],
+      [
+       "pg035_n0024",
+       "pg035_n0025",
+       "pg035_n0026"
+      ],
+      [
+       "pg035_n0027",
+       "pg035_n0028"
+      ]
+     ]
+    },
+    {
+     "type": "keywords",
+     "ids": [
+      "pg035_n0030",
+      "pg035_n0031"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg036_sec001",
+   "page": 36,
+   "chapter": "pg042_n0002",
+   "title": "pg036_n0003",
+   "blocks": [
+    {
+     "type": "story",
+     "tag": "pg036_n0005",
+     "paras": [
+      [
+       "pg036_n0007",
+       "pg036_n0008",
+       "pg036_n0009",
+       "pg036_n0010",
+       "pg036_n0011",
+       "pg036_n0012",
+       "pg036_n0013"
+      ]
+     ],
+     "figure": {
+      "src": "images/pg036_im001_crop.png",
+      "id": "pg036_im001"
+     }
+    }
+   ]
+  },
+  {
+   "id": "pg036_sec002",
+   "page": 36,
+   "chapter": "pg042_n0002",
+   "title": "pg036_n0003",
+   "blocks": [
+    {
+     "type": "questions",
+     "ids": [
+      "pg036_n0018",
+      "pg036_n0020",
+      "pg036_n0022"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg036_sec003",
+   "page": 36,
+   "chapter": "pg042_n0002",
+   "title": "pg036_n0003",
+   "blocks": [
+    {
+     "type": "story",
+     "tag": "pg036_n0024",
+     "paras": [
+      [
+       "pg036_n0026",
+       "pg036_n0027"
+      ],
+      [
+       "pg036_n0028",
+       "pg036_n0029"
+      ],
+      [
+       "pg036_n0030"
+      ]
+     ],
+     "figure": {
+      "src": "images/pg037_im001_crop_v1.png",
+      "id": "pg037_im001_crop_v1"
+     }
+    }
+   ]
+  },
+  {
+   "id": "pg037_sec001",
+   "page": 37,
+   "chapter": "pg042_n0002",
+   "title": "pg036_n0003",
+   "blocks": [
+    {
+     "type": "questions",
+     "ids": [
+      "pg037_n0007",
+      "pg037_n0009",
+      "pg037_n0011",
+      "pg037_n0013"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg037_sec002",
+   "page": 37,
+   "chapter": "pg042_n0002",
+   "title": "pg036_n0003",
+   "blocks": [
+    {
+     "type": "info",
+     "paras": [
+      [
+       "pg037_n0016",
+       "pg037_n0017",
+       "pg037_n0018"
+      ],
+      [
+       "pg037_n0019",
+       "pg037_n0020"
+      ],
+      [
+       "pg037_n0021",
+       "pg037_n0022",
+       "pg037_n0023",
+       "pg037_n0024",
+       "pg037_n0025"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg037_sec003",
+   "page": 37,
+   "chapter": "pg042_n0002",
+   "title": "pg036_n0003",
+   "blocks": [
+    {
+     "type": "note",
+     "color": "yellow",
+     "title": "pg037_n0027",
+     "items": [
+      "pg037_n0030",
+      "pg037_n0032",
+      "pg037_n0034",
+      "pg037_n0036",
+      "pg037_n0038"
+     ]
+    },
+    {
+     "type": "keywords",
+     "ids": [
+      "pg037_n0039"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg038_sec001",
+   "page": 38,
+   "chapter": "pg042_n0002",
+   "title": "pg038_n0003",
+   "blocks": [
+    {
+     "type": "story",
+     "tag": "pg038_n0004",
+     "paras": [
+      [
+       "pg038_n0006",
+       "pg038_n0007",
+       "pg038_n0008",
+       "pg038_n0009",
+       "pg038_n0010",
+       "pg038_n0011",
+       "pg038_n0012",
+       "pg038_n0013",
+       "pg038_n0014"
+      ]
+     ],
+     "figure": {
+      "src": "images/pg038_im001_crop2.png",
+      "id": "pg038_im001_crop_v1"
+     }
+    }
+   ]
+  },
+  {
+   "id": "pg038_sec002",
+   "page": 38,
+   "chapter": "pg042_n0002",
+   "title": "pg038_n0003",
+   "blocks": [
+    {
+     "type": "questions",
+     "ids": [
+      "pg038_n0016",
+      "pg038_n0017",
+      "pg038_n0018"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg039_sec001",
+   "page": 39,
+   "chapter": "pg042_n0002",
+   "title": "pg038_n0003",
+   "blocks": [
+    {
+     "type": "story",
+     "tag": "pg039_n0006",
+     "paras": [
+      [
+       "pg039_n0007",
+       "pg039_n0008",
+       "pg039_n0009",
+       "pg039_n0010",
+       "pg039_n0011",
+       "pg039_n0012"
+      ]
+     ],
+     "figure": {
+      "src": "images/pg039_im001_crop_v1.png",
+      "id": "pg039_im001_crop_v1"
+     }
+    }
+   ]
+  },
+  {
+   "id": "pg039_sec002",
+   "page": 39,
+   "chapter": "pg042_n0002",
+   "title": "pg038_n0003",
+   "blocks": [
+    {
+     "type": "questions",
+     "ids": [
+      "pg039_n0016",
+      "pg039_n0018",
+      "pg039_n0020",
+      "pg039_n0022",
+      "pg039_n0024",
+      "pg039_n0025"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg039_sec003",
+   "page": 39,
+   "chapter": "pg042_n0002",
+   "title": "pg038_n0003",
+   "blocks": [
+    {
+     "type": "info",
+     "paras": [
+      [
+       "pg039_n0028",
+       "pg039_n0029",
+       "pg039_n0030"
+      ],
+      [
+       "pg039_n0031",
+       "pg039_n0032"
+      ],
+      [
+       "pg039_n0033",
+       "pg039_n0034",
+       "pg039_n0035",
+       "pg039_n0036"
+      ]
+     ]
+    },
+    {
+     "type": "keywords",
+     "ids": [
+      "pg039_n0038",
+      "pg039_n0039"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg040_sec001",
+   "page": 40,
+   "chapter": "pg042_n0002",
+   "title": "pg040_n0003",
+   "blocks": [
+    {
+     "type": "story",
+     "tag": "pg040_n0005",
+     "paras": [
+      [
+       "pg040_n0007",
+       "pg040_n0008",
+       "pg040_n0009",
+       "pg040_n0010",
+       "pg040_n0011"
+      ]
+     ],
+     "figure": {
+      "src": "images/pg040_im001.png",
+      "id": "pg040_im001"
+     }
+    }
+   ]
+  },
+  {
+   "id": "pg040_sec002",
+   "page": 40,
+   "chapter": "pg042_n0002",
+   "title": "pg040_n0003",
+   "blocks": [
+    {
+     "type": "questions",
+     "ids": [
+      "pg040_n0012",
+      "pg040_n0013",
+      "pg040_n0014",
+      "pg040_n0015",
+      "pg040_n0016"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg041_sec001",
+   "page": 41,
+   "chapter": "pg042_n0002",
+   "title": "pg040_n0003",
+   "blocks": [
+    {
+     "type": "story",
+     "tag": "pg041_n0005",
+     "paras": [
+      [
+       "pg041_n0006",
+       "pg041_n0007",
+       "pg041_n0008",
+       "pg041_n0009",
+       "pg041_n0010",
+       "pg041_n0011",
+       "pg041_n0012",
+       "pg041_n0013",
+       "pg041_n0014"
+      ]
+     ],
+     "figure": {
+      "src": "images/pg041_im002.jpg",
+      "id": "pg041_im002",
+      "caption": "pg041_n0016"
+     }
+    }
+   ]
+  },
+  {
+   "id": "pg041_sec002",
+   "page": 41,
+   "chapter": "pg042_n0002",
+   "title": "pg040_n0003",
+   "blocks": [
+    {
+     "type": "questions",
+     "ids": [
+      "pg041_n0018",
+      "pg041_n0019",
+      "pg041_n0020",
+      "pg041_n0021",
+      "pg041_n0022"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg041_sec003",
+   "page": 41,
+   "chapter": "pg042_n0002",
+   "title": "pg040_n0003",
+   "blocks": [
+    {
+     "type": "info",
+     "paras": [
+      [
+       "pg041_n0025",
+       "pg041_n0026"
+      ],
+      [
+       "pg041_n0027",
+       "pg041_n0028"
+      ],
+      [
+       "pg041_n0029",
+       "pg041_n0030"
+      ]
+     ]
+    },
+    {
+     "type": "keywords",
+     "ids": [
+      "pg041_n0031"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg042_sec001",
+   "page": 42,
+   "chapter": "pg042_n0002",
+   "title": "pg042_n0004",
+   "blocks": [
+    {
+     "type": "gallery",
+     "figures": [
+      {
+       "src": "images/pg042_im001_crop.png",
+       "id": "pg042_im001"
+      }
+     ]
+    },
+    {
+     "type": "questions",
+     "ids": [
+      "pg042_n0006",
+      "pg042_n0007",
+      "pg042_n0008",
+      "pg042_n0009",
+      "pg042_n0010",
+      "pg042_n0011"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg043_sec001",
+   "page": 43,
+   "chapter": "pg042_n0002",
+   "title": "pg042_n0004",
+   "blocks": [
+    {
+     "type": "gallery",
+     "figures": [
+      {
+       "src": "images/pg043_im001_crop.png",
+       "id": "pg043_im001"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "color": "yellow",
+     "paras": [
+      [
+       "pg042_n0012",
+       "pg042_n0013",
+       "pg042_n0014"
+      ]
+     ]
+    },
+    {
+     "type": "write",
+     "prompt": [
+      [
+       "pg043_n0006"
+      ],
+      [
+       "pg043_n0007"
+      ]
+     ],
+     "fields": [
+      {
+       "label": "pg043_n0010"
+      },
+      {
+       "label": "pg043_n0012"
+      },
+      {
+       "label": "pg043_n0014"
+      },
+      {
+       "label": "pg043_n0016"
+      },
+      {
+       "label": "pg043_n0018"
+      },
+      {
+       "label": "pg043_n0020"
+      },
+      {
+       "label": "pg043_n0022"
+      },
+      {
+       "label": "pg043_n0024"
+      },
+      {
+       "label": "pg043_n0026"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg043_sec002",
+   "page": 43,
+   "chapter": "pg042_n0002",
+   "title": "pg042_n0004",
+   "blocks": [
+    {
+     "type": "info",
+     "paras": [
+      [
+       "pg043_n0029",
+       "pg043_n0030"
+      ],
+      [
+       "pg043_n0031",
+       "pg043_n0032",
+       "pg043_n0033"
+      ]
+     ]
+    },
+    {
+     "type": "keywords",
+     "ids": [
+      "pg043_n0035",
+      "pg043_n0036"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg044_sec001",
+   "page": 44,
+   "chapter": "pg044_n0002",
+   "title": "pg044_n0004",
+   "blocks": [
+    {
+     "type": "story",
+     "tag": "pg044_n0006",
+     "paras": [
+      [
+       "pg044_n0008",
+       "pg044_n0009",
+       "pg044_n0010"
+      ],
+      [
+       "pg044_n0011",
+       "pg044_n0012",
+       "pg044_n0013"
+      ]
+     ],
+     "figure": {
+      "src": "images/pg044_im002.png",
+      "id": "pg044_im002"
+     }
+    },
+    {
+     "type": "gallery",
+     "figures": [
+      {
+       "src": "images/pg044_im003_crop_v1.png",
+       "id": "pg044_im003_crop_v1",
+       "caption": "pg044_n0017"
+      },
+      {
+       "src": "images/pg044_im004_crop_v1.png",
+       "id": "pg044_im004_crop_v1",
+       "caption": "pg044_n0019"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg044_sec002",
+   "page": 44,
+   "chapter": "pg044_n0002",
+   "title": "pg044_n0004",
+   "blocks": [
+    {
+     "type": "questions",
+     "ids": [
+      "pg044_n0022",
+      "pg044_n0024",
+      "pg044_n0026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg044_sec003",
+   "page": 44,
+   "chapter": "pg044_n0002",
+   "title": "pg044_n0004",
+   "blocks": [
+    {
+     "type": "story",
+     "tag": "pg044_n0027",
+     "paras": [
+      [
+       "pg044_n0029",
+       "pg044_n0030",
+       "pg044_n0031"
+      ]
+     ],
+     "figure": {
+      "src": "images/pg045_im001.png",
+      "id": "pg045_im001"
+     }
+    }
+   ]
+  },
+  {
+   "id": "pg045_sec001",
+   "page": 45,
+   "chapter": "pg044_n0002",
+   "title": "pg044_n0004",
+   "blocks": [
+    {
+     "type": "questions",
+     "ids": [
+      "pg045_n0006",
+      "pg045_n0007"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg045_sec002",
+   "page": 45,
+   "chapter": "pg044_n0002",
+   "title": "pg044_n0004",
+   "blocks": [
+    {
+     "type": "info",
+     "paras": [
+      [
+       "pg045_n0010",
+       "pg045_n0011",
+       "pg045_n0012"
+      ],
+      [
+       "pg045_n0013",
+       "pg045_n0014",
+       "pg045_n0015"
+      ],
+      [
+       "pg045_n0016",
+       "pg045_n0017"
+      ],
+      [
+       "pg045_n0018",
+       "pg045_n0019"
+      ]
+     ]
+    },
+    {
+     "type": "keywords",
+     "ids": [
+      "pg045_n0021",
+      "pg045_n0022"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg046_sec001",
+   "page": 46,
+   "chapter": "pg044_n0002",
+   "title": "pg046_n0003",
+   "blocks": [
+    {
+     "type": "story",
+     "tag": "pg046_n0005",
+     "paras": [
+      [
+       "pg046_n0007",
+       "pg046_n0008",
+       "pg046_n0009"
+      ]
+     ],
+     "figure": {
+      "src": "images/pg046_im001_crop.png",
+      "id": "pg046_im001"
+     }
+    }
+   ]
+  },
+  {
+   "id": "pg046_sec002",
+   "page": 46,
+   "chapter": "pg044_n0002",
+   "title": "pg046_n0003",
+   "blocks": [
+    {
+     "type": "questions",
+     "ids": [
+      "pg046_n0011",
+      "pg046_n0012",
+      "pg046_n0013"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pg046_sec003",
+   "page": 46,
+   "chapter": "pg044_n0002",
+   "title": "pg046_n0003",
+   "blocks": [
+    {
+     "type": "story",
+     "tag": "pg046_n0015",
+     "paras": [
+      [
+       "pg046_n0017",
+       "pg046_n0018",
+       "pg046_n0019",
+       "pg046_n0020",
+       "pg046_n0021",
+       "pg046_n0022"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
