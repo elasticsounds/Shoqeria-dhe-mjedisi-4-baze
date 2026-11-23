@@ -5,7 +5,7 @@
   "pg063_n0041": "Prishtina është kryeqyteti i Kosovës.",
   "pg063_n0043": "Peja dallohet për Grykën e Rugovës dhe për Drinin e Bardhë.",
   "pg063_x0001": "Vlerëso të gjitha pohimet para se të vazhdosh.",
-  "pg063_im004": "Harta e Kosovës e ndarë në dy rajone: Rrafshi i Dukagjinit me ngjyrë të gjelbër të errët dhe Fusha e Kosovës me ngjyrë të gjelbër të çelët, me qendrat rajonale Peja, Gjakova, Prizreni, Mitrovica, Prishtina, Gjilani dhe Ferizaj.",
+  "pg063_im004": "Harta e Kosovës e ndarë në dy rajone: Rrafshi i Dukagjinit me ngjyrë të verdhë dhe Fusha e Kosovës me ngjyrë të gjelbër, me qendrat rajonale Peja, Gjakova, Prizreni, Mitrovica, Prishtina, Gjilani dhe Ferizaj.",
   "pg066_im002": "Harta e Kosovës me qendrat rajonale dhe me emrat e shteteve fqinje përreth: Serbia, Mali i Zi, Shqipëria dhe Maqedonia e Veriut.",
   "pg070_x0001": "Shkruaj në secilën pjesë të diagramit.",
   "pg100_x0001": "Fotografitë",
@@ -58,7 +58,7 @@
       ]
      ],
      "figure": {
-      "src": "images/pg063_map_pdf.png",
+      "src": "studio/assets/pg063_sec001-map.png",
       "id": "pg063_im004"
      },
      "place": "side"
@@ -229,7 +229,7 @@
      "type": "gallery",
      "figures": [
       {
-       "src": "images/pg066_map_pdf.png",
+       "src": "images/pg066_map_flamur.png",
        "id": "pg066_im002"
       }
      ]
@@ -252,7 +252,7 @@
       "pg067_n0016"
      ],
      "figure": {
-      "src": "images/pg067_scene.png",
+      "src": "images/pg067_scene_inclusive.png",
       "id": "pg067_im001_crop_v1"
      }
     }
@@ -322,6 +322,15 @@
        "src": "images/pg070_im002.png",
        "id": "pg070_im002",
        "caption": "pg070_n0010"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "figures": [
+      {
+       "src": "images/pg070_im005.png",
+       "id": "pg070_im005"
       }
      ]
     },

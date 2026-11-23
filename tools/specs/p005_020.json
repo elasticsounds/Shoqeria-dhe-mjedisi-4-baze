@@ -215,7 +215,7 @@
      ],
      "prompt": "pg008_n0013",
      "figure": {
-      "src": "images/pg009_im001_pdf.png",
+      "src": "images/pg009_im001_inclusive.png",
       "id": "pg009_im001"
      },
      "place": "side"
@@ -301,11 +301,11 @@
      "type": "gallery",
      "figures": [
       {
-       "src": "images/pg011_im001_pdf.png",
+       "src": "images/pg011_im001_inclusive.png",
        "id": "pg011_im001"
       },
       {
-       "src": "images/pg011_im002_pdf.png",
+       "src": "images/pg011_im002_inclusive.png",
        "id": "pg011_im002"
       }
      ]
@@ -390,7 +390,7 @@
       ]
      ],
      "figure": {
-      "src": "images/pg012_im001_crop_v1.png",
+      "src": "images/pg012_im001_inclusive.png",
       "id": "pg012_im001_crop_v1"
      }
     }
@@ -612,7 +612,7 @@
       ]
      ],
      "figure": {
-      "src": "images/pg015_im001.png",
+      "src": "images/pg015_im001_inclusive.png",
       "id": "pg015_im001"
      },
      "place": "side"

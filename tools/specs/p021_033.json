@@ -1,7 +1,7 @@
 {
  "texts": {
   "pg029_fig1": "Dhomë e zbukuruar për festë: bredh i Krishtlindjeve me dhurata, oxhak me zjarr dhe çorape të varura, kolltuk dhe dritare nga e cila duket bora.",
-  "pg033_fig1": "Familje e ulur bashkë në divan në shtëpi gjatë pandemisë, duke menduar me shqetësim për koronavirusin; pranë tyre janë një mace, një qen dhe bimë."
+  "pg033_fig1": "Familje e ulur bashkë në divan në shtëpi gjatë pandemisë, duke menduar me shqetësim për koronavirusin; njëri nga djemtë është ulur në karrocë me rrota, ndërsa pranë tyre janë një mace, një qen dhe bimë."
  },
  "screens": [
   {
@@ -14,7 +14,7 @@
      "type": "gallery",
      "figures": [
       {
-       "src": "images/pg021_fig1_pdf.png",
+       "src": "images/pg021_im001_inclusive.png",
        "id": "pg021_im001_crop_v1"
       }
      ]
@@ -789,7 +789,7 @@
       ]
      ],
      "figure": {
-      "src": "images/pg033_fig1_pdf.png",
+      "src": "images/pg033_im002.png",
       "id": "pg033_fig1"
      },
      "place": "side"

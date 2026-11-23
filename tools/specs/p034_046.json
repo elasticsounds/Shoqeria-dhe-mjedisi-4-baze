@@ -529,7 +529,7 @@
      "type": "gallery",
      "figures": [
       {
-       "src": "images/pg042_im001_crop.png",
+       "src": "images/pg042_im001_inclusive.png",
        "id": "pg042_im001"
       }
      ]
@@ -557,7 +557,7 @@
      "type": "gallery",
      "figures": [
       {
-       "src": "images/pg043_im001_crop.png",
+       "src": "images/pg043_im001_inclusive.png",
        "id": "pg043_im001"
       }
      ]
@@ -666,7 +666,7 @@
       ]
      ],
      "figure": {
-      "src": "images/pg044_im002.png",
+      "src": "studio/assets/pg044_sec001-composite.png",
       "id": "pg044_im002"
      }
     },

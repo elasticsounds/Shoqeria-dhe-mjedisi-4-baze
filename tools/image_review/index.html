@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Picture review — Shoqëria dhe Mjedisi 4</title>
+<style>
+:root{--bg:#f6f5f2;--card:#fff;--ink:#1d1d1f;--mute:#666;--line:#d9d6cf;--pdf:#f4ead3;--book:#e5e9f8;--fl:#e3f3e3;--new:#f6e4f1;--sel:#1463d8}
+*{box-sizing:border-box}
+body{margin:0;font:15px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif;background:var(--bg);color:var(--ink)}
+header{position:sticky;top:0;z-index:10;background:#fff;border-bottom:1px solid var(--line);padding:10px 20px;display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+header h1{font-size:17px;margin:0 8px 0 0}
+header label{font-size:13px;color:var(--mute)}
+select,input[type=number],button,textarea{font:inherit}
+select,input[type=number]{padding:5px 8px;border:1px solid var(--line);border-radius:6px;background:#fff}
+#status{margin-left:auto;font-size:13px;color:var(--mute)}
+main{max-width:1500px;margin:0 auto;padding:16px 20px 80px}
+.page{margin:26px 0 8px;padding:14px 16px;background:#fff;border:1px solid var(--line);border-radius:10px;display:flex;gap:16px;align-items:flex-start}
+.page img{width:92px;border:1px solid var(--line);border-radius:4px;flex:none}
+.page h2{margin:0 0 4px;font-size:18px}
+.page p{margin:0;color:#333;max-width:95ch}
+.page .links{margin-top:6px;font-size:13px}
+.page .links a{margin-right:10px}
+.row{background:var(--card);border:1px solid var(--line);border-radius:10px;margin:8px 0;padding:10px}
+.row.changed{border-color:var(--sel);box-shadow:0 0 0 1px var(--sel)}
+.rowhead{display:flex;gap:10px;align-items:baseline;font-size:13px;color:var(--mute);margin:0 4px 8px}
+.rowhead b{color:var(--ink)}
+.rowhead .chosen{margin-left:auto;font-weight:600;color:var(--sel)}
+.cols{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+.col{border-radius:8px;padding:8px;min-height:120px}
+.col>b{display:block;font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:#444;margin-bottom:6px}
+.c-pdf{background:var(--pdf)}.c-book{background:var(--book)}.c-flamur{background:var(--fl)}.c-new{background:var(--new)}
+.tile{display:block;width:100%;padding:5px;margin:0 0 6px;border:3px solid transparent;border-radius:8px;background:#fff;cursor:pointer;text-align:left;position:relative}
+.tile:hover{border-color:#9bbcf0}
+.tile.sel{border-color:var(--sel)}
+.tile.sel::after{content:"✓ Chosen";position:absolute;top:6px;right:6px;background:var(--sel);color:#fff;font-size:12px;font-weight:600;padding:2px 8px;border-radius:10px}
+.tile img{display:block;max-width:100%;max-height:240px;margin:0 auto}
+.tile small{display:block;font-size:11px;color:var(--mute);margin-top:4px;word-break:break-all}
+.none{color:var(--mute);font-style:italic;font-size:13px;margin:4px}
+.tile.plain{padding:8px 10px;font-size:13px;color:#333}
+.gen{font-size:13px}
+.gen textarea{width:100%;min-height:92px;padding:6px;border:1px solid var(--line);border-radius:6px;margin:4px 0;resize:vertical}
+.gen .opts{display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin-bottom:6px}
+.gen select{font-size:12px;padding:3px 4px;max-width:100%}
+button.act{padding:6px 12px;border:1px solid var(--sel);background:var(--sel);color:#fff;border-radius:6px;cursor:pointer;font-weight:600}
+button.act[disabled]{opacity:.6;cursor:wait}
+button.link{border:0;background:none;color:#a11;cursor:pointer;font-size:12px;padding:0}
+.err{color:#b00020;margin-top:4px}
+.note{width:100%;margin-top:8px;padding:6px 8px;border:1px solid var(--line);border-radius:6px;font-size:13px}
+.alt{font-size:12px;color:var(--mute);margin:6px 4px 0}
+@media(max-width:900px){.cols{grid-template-columns:1fr 1fr}}
+</style>
+</head>
+<body>
+<header>
+  <h1>Picture review</h1>
+  <label>Show <select id="filter">
+    <option value="all">all pictures</option>
+    <option value="differ">where versions differ</option>
+    <option value="notbook">not in the book now</option>
+    <option value="changed">my changes</option>
+  </select></label>
+  <label>Go to PDF page <input id="goto" type="number" min="1" max="130" style="width:70px"></label>
+  <span id="status">Loading…</span>
+</header>
+<main id="main"></main>
+<script>
+const $ = (tag, attrs = {}, ...kids) => { const e = document.createElement(tag); for (const [k, v] of Object.entries(attrs)) { if (k === 'class') e.className = v; else if (k.startsWith('on')) e.addEventListener(k.slice(2), v); else if (v !== false && v != null) e.setAttribute(k, v); } for (const k of kids.flat()) if (k != null) e.append(k); return e; };
+const post = async (url, body) => { const r = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) }); const j = await r.json(); if (!r.ok || j.error) throw new Error(j.error || r.statusText); return j; };
+const R = '/';   // the server serves the repository root
+let catalog, state, summaries = {};
+const KIND = { pdf: 'PDF original', book: 'Book now', flamur: "Flamur's version", generated: 'New picture', none: 'No picture' };
+
+function defaultChoice(row) { return row.book.length ? { kind: 'book', src: row.book[0].src } : { kind: 'none', src: '' }; }
+function choiceOf(row) { return state.choices[row.id] || defaultChoice(row); }
+function isChanged(row) { const c = state.choices[row.id], d = defaultChoice(row); return !!c && (c.kind !== d.kind || c.src !== d.src) && !(c.kind !== 'none' && row.book.some(b => b.src === c.src)); }
+function differs(row) { return !row.pdf.length || !row.book.length || row.flamur.some(f => !f.same_as_book) || row.book.some(b => !row.pdf.includes(b.src)) && row.flamur.length === 0; }
+
+async function choose(row, kind, src) {
+  const d = defaultChoice(row);
+  const same = kind === d.kind && src === d.src;
+  if (same) delete state.choices[row.id]; else state.choices[row.id] = { kind, src };
+  renderRow(row); status();
+  try { await post('/api/choose', { row: row.id, choice: same ? null : { kind, src } }); } catch (e) { alert('Could not save: ' + e.message); }
+}
+
+function tile(row, kind, src, label) {
+  const c = choiceOf(row);
+  return $('button', { class: 'tile' + (c.kind === kind && c.src === src ? ' sel' : ''), type: 'button', title: 'Choose this picture', onclick: () => choose(row, kind, src) },
+    $('img', { src: R + src, loading: 'lazy', alt: '' }), $('small', {}, label || src.split('/').pop()));
+}
+
+function genPanel(row) {
+  const refs = [['', 'No reference (from the description only)'], ...row.pdf.map(s => [s, 'Based on the PDF picture']), ...row.book.filter(b => !row.pdf.includes(b.src)).map(b => [b.src, 'Based on the book picture']),
+    ...row.flamur.filter(f => !f.same_as_book).map(f => [f.src, "Based on Flamur's picture (" + f.src.split('/').pop() + ')']), ...(state.generated[row.id] || []).map((g, i) => [g.src, 'Based on new picture ' + (i + 1)])];
+  const ref = $('select', {}, refs.map(([v, t]) => $('option', { value: v }, t)));
+  if (refs.length > 1) ref.value = refs[1][0];
+  const size = $('select', { title: 'Shape' }, [['1536x1024', 'Wide'], ['1024x1024', 'Square'], ['1024x1536', 'Tall']].map(([v, t]) => $('option', { value: v }, t)));
+  const quality = $('select', { title: 'Quality' }, [['medium', 'Medium quality'], ['high', 'High quality'], ['low', 'Draft (fast)']].map(([v, t]) => $('option', { value: v }, t)));
+  const first = row.pdf[0] || (row.book[0] || row.flamur[0] || {}).src;
+  if (first) { const im = new Image(); im.onload = () => { const a = im.naturalWidth / im.naturalHeight; size.value = a > 1.25 ? '1536x1024' : a < 0.8 ? '1024x1536' : '1024x1024'; }; im.src = R + first; }
+  const saved = sessionStorage.getItem('prompt:' + row.id);
+  const prompt = $('textarea', { placeholder: 'Describe the picture you want' });
+  const basePrompt = () => ref.value
+    ? 'Redraw this picture for a grade 4 school textbook in Kosovo. Keep the same scene, composition, colours and flat illustration style. No text in the picture. Change: '
+    : 'Flat, friendly illustration for a grade 4 school textbook in Kosovo. White background, no text in the picture. Scene: ' + (row.alt || (summaries[row.page] || {}).summary || '');
+  prompt.value = saved || basePrompt();
+  ref.addEventListener('change', () => { if (!sessionStorage.getItem('prompt:' + row.id)) prompt.value = basePrompt(); });
+  prompt.addEventListener('input', () => sessionStorage.setItem('prompt:' + row.id, prompt.value));
+  const err = $('div', { class: 'err' });
+  const go = $('button', { class: 'act', type: 'button', onclick: async () => {
+    go.disabled = true; go.textContent = 'Generating… (up to a minute or two)'; err.textContent = '';
+    try {
+      const r = await post('/api/generate', { row: row.id, prompt: prompt.value, ref: ref.value, size: size.value, quality: quality.value });
+      (state.generated[row.id] = state.generated[row.id] || []).push(r.item);
+      renderRow(row, true);
+    } catch (e) { err.textContent = e.message; go.disabled = false; go.textContent = 'Generate'; }
+  } }, 'Generate');
+  return $('div', { class: 'gen' }, ref, prompt, $('div', { class: 'opts' }, size, quality), go, err);
+}
+
+function renderRow(row, keepOpen) {
+  const old = document.getElementById('row-' + row.id);
+  const open = keepOpen || (old && old.querySelector('.gen'));
+  const c = choiceOf(row);
+  const pdfCol = $('div', { class: 'col c-pdf' }, $('b', {}, 'PDF original'), row.pdf.length ? row.pdf.map(s => tile(row, 'pdf', s)) : $('p', { class: 'none' }, 'Not in the PDF'));
+  const bookCol = $('div', { class: 'col c-book' }, $('b', {}, 'Book now'), row.book.length ? row.book.map(b => tile(row, 'book', b.src, b.src.split('/').pop() + ' — ' + b.screens.join(', '))) : $('p', { class: 'none' }, 'Not shown in the book'));
+  const fl = row.flamur.filter(f => !f.same_as_book);
+  const flCol = $('div', { class: 'col c-flamur' }, $('b', {}, "Flamur's version"),
+    fl.length ? fl.map(f => tile(row, 'flamur', f.src)) : $('p', { class: 'none' }, row.flamur.length ? 'Same file as the book picture' : 'None'));
+  const gens = state.generated[row.id] || [];
+  const newCol = $('div', { class: 'col c-new' }, $('b', {}, 'New picture'),
+    gens.map((g, i) => $('div', {}, tile(row, 'generated', g.src, 'New ' + (i + 1) + ' — ' + ((g.prompt.match(/Change(?: only this)?:\s*([^]*?)(?:\n|$)/) || [])[1] || g.time)),
+      $('button', { class: 'link', type: 'button', title: g.prompt, onclick: async () => { if (!confirm('Remove this generated picture from the list? (The file stays on disk.)')) return; await post('/api/remove-generated', { row: row.id, src: g.src }); state.generated[row.id] = gens.filter(x => x !== g); if ((state.choices[row.id] || {}).src === g.src) delete state.choices[row.id]; renderRow(row); status(); } }, 'remove'))),
+    open ? genPanel(row) : $('button', { class: 'tile plain', type: 'button', onclick: () => renderRow(row, true) }, '＋ Generate a new picture…'),
+    $('button', { class: 'tile plain' + (c.kind === 'none' ? ' sel' : ''), type: 'button', onclick: () => choose(row, 'none', '') }, row.book.length ? 'Use no picture here' : 'Leave it out of the book'));
+  const note = $('input', { class: 'note', placeholder: 'Note for Claude (optional) — e.g. where to put it, what to change', value: state.notes[row.id] || '' });
+  note.addEventListener('change', () => { state.notes[row.id] = note.value; post('/api/note', { row: row.id, note: note.value }).catch(e => alert(e.message)); });
+  const el = $('section', { class: 'row' + (isChanged(row) ? ' changed' : ''), id: 'row-' + row.id },
+    $('div', { class: 'rowhead' }, $('b', {}, row.id), row.book.length ? 'screens: ' + [...new Set(row.book.flatMap(b => b.screens))].join(', ') : 'not in the book',
+      $('span', { class: 'chosen' }, (isChanged(row) ? 'Changed → ' : 'Using: ') + KIND[c.kind])),
+    $('div', { class: 'cols' }, pdfCol, bookCol, flCol, newCol),
+    row.alt ? $('p', { class: 'alt' }, 'Description in the book: ' + row.alt) : null, note);
+  if (old) old.replaceWith(el); else return el;
+}
+
+function status() {
+  const changed = catalog.rows.filter(isChanged).length;
+  const gen = Object.values(state.generated).reduce((n, a) => n + a.length, 0);
+  document.getElementById('status').textContent = `${catalog.rows.length} pictures · ${changed} changed · ${gen} generated · saved automatically`;
+}
+
+function render() {
+  const f = document.getElementById('filter').value, main = document.getElementById('main');
+  main.textContent = '';
+  let page = null;
+  for (const row of catalog.rows) {
+    if (f === 'differ' && !differs(row)) continue;
+    if (f === 'notbook' && row.book.length) continue;
+    if (f === 'changed' && !isChanged(row) && !(state.generated[row.id] || []).length && !state.notes[row.id]) continue;
+    if (row.page !== page) {
+      page = row.page;
+      const s = summaries[page] || {}, p3 = String(page).padStart(3, '0');
+      const screens = [...new Set(catalog.rows.filter(r => r.page === page).flatMap(r => r.book.flatMap(b => b.screens)))];
+      main.append($('div', { class: 'page', id: 'page-' + page },
+        $('a', { href: R + 'tools/image_review/pages/p' + p3 + '.jpg', target: '_blank', title: 'Open the whole PDF page' }, $('img', { src: R + 'tools/image_review/pages/p' + p3 + '.jpg', loading: 'lazy', alt: 'PDF page ' + page })),
+        $('div', {}, $('h2', {}, 'PDF page ' + page + (s.title ? ' — ' + s.title : '')), $('p', {}, s.summary || ''),
+          $('div', { class: 'links' }, screens.length ? 'Open in the book: ' : '', screens.map(sid => $('a', { href: R + sid + '.html', target: 'book' }, sid))))));
+    }
+    main.append(renderRow(row));
+  }
+  if (!main.children.length) main.append($('p', {}, 'Nothing to show for this filter.'));
+  status();
+}
+
+(async () => {
+  const get = async u => (await fetch(u)).json();
+  [catalog, state] = await Promise.all([get('catalog.json'), get('/api/state')]);
+  for (const f of ['summaries_a.json', 'summaries_b.json']) { try { Object.assign(summaries, await get(f)); } catch (e) {} }
+  state.choices = state.choices || {}; state.generated = state.generated || {}; state.notes = state.notes || {};
+  document.getElementById('filter').addEventListener('change', render);
+  document.getElementById('goto').addEventListener('change', e => { const el = document.getElementById('page-' + e.target.value) || [...document.querySelectorAll('.page')].find(p => +p.id.slice(5) >= +e.target.value); if (el) el.scrollIntoView({ behavior: 'smooth' }); });
+  render();
+})();
+</script>
+</body>
+</html>

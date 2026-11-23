@@ -1,0 +1,534 @@
+{
+ "choices": {
+  "pg009_im001_pdf": {
+   "kind": "generated",
+   "src": "tools/image_review/generated/pg009_im001_pdf_20261122_123819.png"
+  },
+  "pg011_im001_pdf": {
+   "kind": "generated",
+   "src": "tools/image_review/generated/pg011_im001_pdf_20261122_124038.png"
+  },
+  "pg011_im002_pdf": {
+   "kind": "generated",
+   "src": "tools/image_review/generated/pg011_im002_pdf_20261122_124658.png"
+  },
+  "p012_1": {
+   "kind": "generated",
+   "src": "tools/image_review/generated/p012_1_20261122_124656.png"
+  },
+  "pg015_im001": {
+   "kind": "generated",
+   "src": "tools/image_review/generated/pg015_im001_20261122_124657.png"
+  },
+  "p021_1": {
+   "kind": "generated",
+   "src": "tools/image_review/generated/p021_1_20261122_124702.png"
+  },
+  "p033_1": {
+   "kind": "flamur",
+   "src": "images/pg033_im002.png"
+  },
+  "p042_1": {
+   "kind": "generated",
+   "src": "tools/image_review/generated/p042_1_20261122_124707.png"
+  },
+  "p043_1": {
+   "kind": "generated",
+   "src": "tools/image_review/generated/p043_1_20261122_124706.png"
+  },
+  "p044_1": {
+   "kind": "flamur",
+   "src": "studio/assets/pg044_sec001-composite.png"
+  },
+  "p051_1": {
+   "kind": "generated",
+   "src": "tools/image_review/generated/p051_1_20261122_124716.png"
+  },
+  "p053_1": {
+   "kind": "generated",
+   "src": "tools/image_review/generated/p053_1_20261122_124717.png"
+  },
+  "pg055_im001": {
+   "kind": "flamur",
+   "src": "images/pg055_im001.png"
+  },
+  "p055_1": {
+   "kind": "none",
+   "src": ""
+  },
+  "p057_1": {
+   "kind": "flamur",
+   "src": "studio/assets/pg057_sec001-scene.png"
+  },
+  "p058_1": {
+   "kind": "generated",
+   "src": "tools/image_review/generated/p058_1_20261122_124720.png"
+  },
+  "p058_2": {
+   "kind": "generated",
+   "src": "tools/image_review/generated/p058_2_20261122_124722.png"
+  },
+  "p058_3": {
+   "kind": "generated",
+   "src": "tools/image_review/generated/p058_3_20261122_124721.png"
+  },
+  "p059_3": {
+   "kind": "flamur",
+   "src": "studio/assets/pg059_sec001-notary.png"
+  },
+  "p059_4": {
+   "kind": "flamur",
+   "src": "studio/assets/pg059_sec001-lawyer.png"
+  },
+  "p059_2": {
+   "kind": "flamur",
+   "src": "studio/assets/pg059_sec001-prosecutor.png"
+  },
+  "p059_1": {
+   "kind": "flamur",
+   "src": "studio/assets/pg059_sec001-judge.png"
+  },
+  "p063_1": {
+   "kind": "flamur",
+   "src": "studio/assets/pg063_sec001-map.png"
+  },
+  "p066_1": {
+   "kind": "flamur",
+   "src": "studio/assets/pg066_sec001-map.png"
+  },
+  "p067_1": {
+   "kind": "generated",
+   "src": "tools/image_review/generated/p067_1_20261122_124816.png"
+  },
+  "pg070_im005": {
+   "kind": "flamur",
+   "src": "images/pg070_im005.png"
+  },
+  "p118_1": {
+   "kind": "generated",
+   "src": "tools/image_review/generated/p118_1_20261122_124736.png"
+  }
+ },
+ "generated": {
+  "p033_1": [
+   {
+    "src": "tools/image_review/generated/p033_1_20261122_124705.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: add a boy sitting in a wheelchair next to the sofa as one more child of the family, thinking and worried like the others",
+    "ref": "tools/image_review/pdf/p033_1.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:05"
+   }
+  ],
+  "pg009_im001_pdf": [
+   {
+    "src": "tools/image_review/generated/pg009_im001_pdf_20261122_123819.png",
+    "prompt": "Redraw this picture for a grade 4 school textbook in Kosovo. Keep the same scene, composition, colours and flat illustration style. No text in the picture. Change: Add elements of inclusive and accessibility like people with disabilities like blind or in wheelchairs",
+    "ref": "images/pg009_im001_pdf.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:38:19"
+   }
+  ],
+  "pg011_im001_pdf": [
+   {
+    "src": "tools/image_review/generated/pg011_im001_pdf_20261122_124038.png",
+    "prompt": "Redraw this picture for a grade 4 school textbook in Kosovo. Keep the same scene, composition, colours and flat illustration style. No text in the picture. Change: Can you make the image more inclusive so one of the people has a disabilitiy",
+    "ref": "images/pg011_im001_pdf.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:40:38"
+   }
+  ],
+  "p017_1": [
+   {
+    "src": "tools/image_review/generated/p017_1_20261122_124656.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: on the television screen, add a small inset in the corner showing a sign-language interpreter signing next to the news presenter",
+    "ref": "tools/image_review/pdf/p017_1.png",
+    "size": "1024x1536",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:46:56"
+   },
+   {
+    "src": "tools/image_review/generated/p017_1_20261122_180235.png",
+    "prompt": "Redraw this picture. Keep the same scene, composition, colours and flat illustration style. But add the text in the red box on the screen from the original PDF. The text should say LAJME ",
+    "ref": "tools/image_review/pdf/p017_1.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 18:02:35"
+   }
+  ],
+  "p012_1": [
+   {
+    "src": "tools/image_review/generated/p012_1_20261122_124656.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the two pupils carrying gift boxes uses a wheelchair and carries her box on her lap",
+    "ref": "tools/image_review/pdf/p012_1.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:46:56"
+   }
+  ],
+  "pg015_im001": [
+   {
+    "src": "tools/image_review/generated/pg015_im001_20261122_124657.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the pupils listening at the desks sits in a wheelchair at the desk",
+    "ref": "images/pg015_im001.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:46:57"
+   }
+  ],
+  "p019_1": [
+   {
+    "src": "tools/image_review/generated/p019_1_20261122_124657.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the two pupils crossing the road at the zebra crossing uses a wheelchair, with the school bag on the back of the chair",
+    "ref": "tools/image_review/pdf/p019_1.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:46:57"
+   }
+  ],
+  "p018_4": [
+   {
+    "src": "tools/image_review/generated/p018_4_20261122_124657.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the pupils in the school scene uses a wheelchair and wears a mask like the others",
+    "ref": "tools/image_review/pdf/p018_4.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:46:57"
+   }
+  ],
+  "pg011_im002_pdf": [
+   {
+    "src": "tools/image_review/generated/pg011_im002_pdf_20261122_124658.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: add a girl in sports clothes playing football together with the boy, running for the same ball",
+    "ref": "images/pg011_im002_pdf.png",
+    "size": "1024x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:46:58"
+   }
+  ],
+  "p021_1": [
+   {
+    "src": "tools/image_review/generated/p021_1_20261122_124702.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the children listening to the doctor sits in a wheelchair",
+    "ref": "tools/image_review/pdf/p021_1.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:02"
+   }
+  ],
+  "p026_1": [
+   {
+    "src": "tools/image_review/generated/p026_1_20261122_124703.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the four pupils at the table sits in a wheelchair and takes part in the discussion",
+    "ref": "tools/image_review/pdf/p026_1.png",
+    "size": "1024x1536",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:03"
+   }
+  ],
+  "p039_1": [
+   {
+    "src": "tools/image_review/generated/p039_1_20261122_124704.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the two boys stands with forearm crutches, still talking cheerfully with his friend next to the football",
+    "ref": "tools/image_review/pdf/p039_1.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:04"
+   }
+  ],
+  "p043_1": [
+   {
+    "src": "tools/image_review/generated/p043_1_20261122_124706.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the six children uses a wheelchair and another child holds a white cane; all stand together as one group",
+    "ref": "tools/image_review/pdf/p043_1.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:06"
+   }
+  ],
+  "p042_1": [
+   {
+    "src": "tools/image_review/generated/p042_1_20261122_124707.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the five children at the table has a visible hearing aid behind the ear and another sits in a wheelchair",
+    "ref": "tools/image_review/pdf/p042_1.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:07"
+   }
+  ],
+  "p044_1": [
+   {
+    "src": "tools/image_review/generated/p044_1_20261122_124709.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the two pupils sits in a wheelchair at the desk",
+    "ref": "tools/image_review/pdf/p044_1.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:09"
+   }
+  ],
+  "p045_1": [
+   {
+    "src": "tools/image_review/generated/p045_1_20261122_124710.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the family members at the table, the grandfather, sits in a wheelchair at the table and joins the conversation",
+    "ref": "tools/image_review/pdf/p045_1.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:10"
+   }
+  ],
+  "p046_1": [
+   {
+    "src": "tools/image_review/generated/p046_1_20261122_124711.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the five pupils at the table sits in a wheelchair; keep the pupil speaking with a raised hand",
+    "ref": "tools/image_review/pdf/p046_1.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:11"
+   }
+  ],
+  "p047_1": [
+   {
+    "src": "tools/image_review/generated/p047_1_20261122_124711.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the three pupils talking with the teacher stands with forearm crutches",
+    "ref": "tools/image_review/pdf/p047_1.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:11"
+   }
+  ],
+  "p048_1": [
+   {
+    "src": "tools/image_review/generated/p048_1_20261122_124714.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the four pupils sitting in the circle sits in a wheelchair instead of a chair",
+    "ref": "tools/image_review/pdf/p048_1.png",
+    "size": "1024x1536",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:14"
+   }
+  ],
+  "pg050_im004": [
+   {
+    "src": "tools/image_review/generated/pg050_im004_20261122_124810.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Use a plain white background (the reference has a transparent background). Do not add any text.\nChange only this: one of the two children of the family uses a wheelchair and sits in it next to the others under the roof symbol",
+    "ref": "images/pg050_im004.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:48:10"
+   }
+  ],
+  "p051_1": [
+   {
+    "src": "tools/image_review/generated/p051_1_20261122_124716.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the adults at the family table sits in a wheelchair and takes part in the discussion",
+    "ref": "tools/image_review/pdf/p051_1.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:16"
+   }
+  ],
+  "p053_1": [
+   {
+    "src": "tools/image_review/generated/p053_1_20261122_124717.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the two pupils stands with forearm crutches",
+    "ref": "tools/image_review/pdf/p053_1.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:17"
+   }
+  ],
+  "p058_1": [
+   {
+    "src": "tools/image_review/generated/p058_1_20261122_124720.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the four pupils at the table sits in a wheelchair",
+    "ref": "tools/image_review/pdf/p058_1.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:20"
+   }
+  ],
+  "p052_1": [
+   {
+    "src": "tools/image_review/generated/p052_1_20261122_124720.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: add a girl in a wheelchair waiting at the bus stop to board the bus, and show a small wheelchair-access symbol by the bus door",
+    "ref": "tools/image_review/pdf/p052_1.png",
+    "size": "1024x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:20"
+   }
+  ],
+  "p058_3": [
+   {
+    "src": "tools/image_review/generated/p058_3_20261122_124721.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the four pupils has a prosthetic leg visible below shorts, standing and talking like the others",
+    "ref": "tools/image_review/pdf/p058_3.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:21"
+   }
+  ],
+  "p058_2": [
+   {
+    "src": "tools/image_review/generated/p058_2_20261122_124722.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the classmates listening has a visible hearing aid behind the ear, and another one sits in a wheelchair",
+    "ref": "tools/image_review/pdf/p058_2.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:22"
+   }
+  ],
+  "p067_1": [
+   {
+    "src": "tools/image_review/generated/p067_1_20261122_124816.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Keep the blue sign with the words \"Vendkalimi Kufitar\" exactly as in the reference; add no other text.\nChange only this: the border police officer checking the passport is a woman in the same uniform",
+    "ref": "tools/image_review/pdf/p067_1.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:48:16"
+   }
+  ],
+  "p085_1": [
+   {
+    "src": "tools/image_review/generated/p085_1_20261122_124726.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the children celebrating at the birthday table sits in a wheelchair, laughing with the others",
+    "ref": "tools/image_review/pdf/p085_1.png",
+    "size": "1024x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:26"
+   }
+  ],
+  "p094_1": [
+   {
+    "src": "tools/image_review/generated/p094_1_20261122_124727.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the four young tourists uses a wheelchair, dressed formally and smiling like the others",
+    "ref": "tools/image_review/pdf/p094_1.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:27"
+   }
+  ],
+  "p110_1": [
+   {
+    "src": "tools/image_review/generated/p110_1_20261122_124728.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: the man walking the dog is blind: he holds a white cane and the dog wears a guide-dog harness",
+    "ref": "tools/image_review/pdf/p110_1.png",
+    "size": "1024x1536",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:28"
+   }
+  ],
+  "p106_1": [
+   {
+    "src": "tools/image_review/generated/p106_1_20261122_124728.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the pupils listening in the classroom sits in a wheelchair at the desk",
+    "ref": "tools/image_review/pdf/p106_1.png",
+    "size": "1024x1536",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:28"
+   }
+  ],
+  "p111_1": [
+   {
+    "src": "tools/image_review/generated/p111_1_20261122_124729.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: the child next to the recycling bins uses a wheelchair and is putting a bottle into one of the bins",
+    "ref": "tools/image_review/pdf/p111_1.png",
+    "size": "1024x1536",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:29"
+   }
+  ],
+  "p113_1": [
+   {
+    "src": "tools/image_review/generated/p113_1_20261122_124731.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the three children cleaning the river bank has a prosthetic leg, working alongside the others",
+    "ref": "tools/image_review/pdf/p113_1.png",
+    "size": "1024x1536",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:31"
+   }
+  ],
+  "p114_1": [
+   {
+    "src": "tools/image_review/generated/p114_1_20261122_124733.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the three pupils at the desks sits in a wheelchair at the desk",
+    "ref": "tools/image_review/pdf/p114_1.png",
+    "size": "1024x1536",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:33"
+   }
+  ],
+  "p116_1": [
+   {
+    "src": "tools/image_review/generated/p116_1_20261122_124734.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the three pupils at the table has forearm crutches leaning against the chair",
+    "ref": "tools/image_review/pdf/p116_1.png",
+    "size": "1024x1536",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:34"
+   }
+  ],
+  "p118_1": [
+   {
+    "src": "tools/image_review/generated/p118_1_20261122_124736.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: the bus has its ramp lowered at the middle door and a person in a wheelchair is boarding; add a wheelchair-access symbol on the bus",
+    "ref": "tools/image_review/pdf/p118_1.png",
+    "size": "1536x1024",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:36"
+   }
+  ],
+  "p121_1": [
+   {
+    "src": "tools/image_review/generated/p121_1_20261122_124737.png",
+    "prompt": "Redraw this illustration for a grade 4 school textbook in Kosovo. Keep the same scene, composition, characters, clothing, colours, background and flat illustration style as the reference picture. Do not add any text. The changed person takes part in the scene like everyone else, drawn naturally and respectfully.\nChange only this: one of the five pupils sits in a wheelchair at the table",
+    "ref": "tools/image_review/pdf/p121_1.png",
+    "size": "1024x1536",
+    "quality": "medium",
+    "model": "gpt-image-2.6-flare",
+    "time": "2026-11-22 12:47:37"
+   }
+  ],
+  "p055_1": []
+ },
+ "notes": {
+  "pg055_im001": "Use flamur's version on pg055_sec001.html"
+ }
+}

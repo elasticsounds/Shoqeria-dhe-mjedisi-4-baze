@@ -1,0 +1,4220 @@
+{
+ "rows": [
+  {
+   "id": "pg001_im002",
+   "page": 1,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg001_im002.png",
+     "screens": [
+      "pg001_sec001"
+     ],
+     "ids": [
+      "pg001_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "studio/assets/pg001_sec001-cover.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg001_im002.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Glob tokësor pranë një libri të hapur, me peshore drejtësie dhe gjethe të mëdha në sfond."
+  },
+  {
+   "id": "p006_1",
+   "page": 6,
+   "pdf": [
+    "tools/image_review/pdf/p006_1.png"
+   ],
+   "book": [
+    {
+     "src": "studio/assets/pg006_sec001-bedroom.png",
+     "screens": [
+      "pg006_sec001"
+     ],
+     "ids": [
+      "pg006_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg006_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg007_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg006_sec001-bedroom.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Linda duke lexuar një libër në tavolinën e dhomës së saj, pranë krevatit dhe dritares me perde blu."
+  },
+  {
+   "id": "p007_1",
+   "page": 7,
+   "pdf": [
+    "tools/image_review/pdf/p007_1.png"
+   ],
+   "book": [],
+   "flamur": [],
+   "alt": ""
+  },
+  {
+   "id": "pg009_im001_pdf",
+   "page": 8,
+   "pdf": [
+    "images/pg009_im001_pdf.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg009_im001_pdf.png",
+     "screens": [
+      "pg008_sec001"
+     ],
+     "ids": [
+      "pg009_im001"
+     ]
+    }
+   ],
+   "flamur": [],
+   "alt": "Një shtëpi e madhe rozë me banorë në dritare dhe ballkone, ndërsa në rrugë fëmijët përqafohen, shëtisin qenin dhe ngasin së bashku një biçikletë."
+  },
+  {
+   "id": "pg009_im001",
+   "page": 9,
+   "pdf": [],
+   "book": [],
+   "flamur": [
+    {
+     "src": "images/pg009_im001.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": ""
+  },
+  {
+   "id": "pg010_im002",
+   "page": 10,
+   "pdf": [],
+   "book": [],
+   "flamur": [
+    {
+     "src": "images/pg010_im002.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": ""
+  },
+  {
+   "id": "pg011_im001_pdf",
+   "page": 10,
+   "pdf": [
+    "images/pg011_im001_pdf.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg011_im001_pdf.png",
+     "screens": [
+      "pg010_sec001"
+     ],
+     "ids": [
+      "pg011_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg011_im001.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Tre fëmijë vallëzojnë të lumtur së bashku, me duart lart dhe nota muzikore përreth."
+  },
+  {
+   "id": "pg011_im002_pdf",
+   "page": 10,
+   "pdf": [
+    "images/pg011_im002_pdf.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg011_im002_pdf.png",
+     "screens": [
+      "pg010_sec001"
+     ],
+     "ids": [
+      "pg011_im002"
+     ]
+    }
+   ],
+   "flamur": [],
+   "alt": "Një djalë me veshje sportive godet topin e futbollit me këmbë para portës."
+  },
+  {
+   "id": "pg011_im002",
+   "page": 11,
+   "pdf": [],
+   "book": [],
+   "flamur": [
+    {
+     "src": "images/pg011_im002.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": ""
+  },
+  {
+   "id": "p012_1",
+   "page": 12,
+   "pdf": [
+    "tools/image_review/pdf/p012_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg012_im001_crop_v1.png",
+     "screens": [
+      "pg012_sec001"
+     ],
+     "ids": [
+      "pg012_im001_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "studio/assets/pg012_sec001-corridor.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg012_im001_crop_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Dy nxënëse në korridorin e shkollës po sjellin kuti me dhurata, ndërsa pako të tjera janë mbledhur për t’u dhuruar fëmijëve në nevojë."
+  },
+  {
+   "id": "p013_1",
+   "page": 13,
+   "pdf": [
+    "tools/image_review/pdf/p013_1.png"
+   ],
+   "book": [],
+   "flamur": [],
+   "alt": ""
+  },
+  {
+   "id": "p013_2",
+   "page": 13,
+   "pdf": [
+    "tools/image_review/pdf/p013_2.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg013_im002.png",
+     "screens": [
+      "pg013_sec001"
+     ],
+     "ids": [
+      "pg013_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg013_im002.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Lisi mban në duar një grumbull librash pranë rafteve të mbushura me libra, ndërsa prindërit e tij shihen në sfond në shtëpi."
+  },
+  {
+   "id": "p014_1",
+   "page": 14,
+   "pdf": [
+    "tools/image_review/pdf/p014_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg014_im001_seg001_v1.png",
+     "screens": [
+      "pg014_sec001"
+     ],
+     "ids": [
+      "pg014_im001_seg001_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg014_im001_seg001_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Kek i vogël me krem rozë, spërkatëse shumëngjyrëshe dhe dy shkopinj dekorues."
+  },
+  {
+   "id": "p014_2",
+   "page": 14,
+   "pdf": [
+    "tools/image_review/pdf/p014_2.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg014_im001_seg002_v1.png",
+     "screens": [
+      "pg014_sec001"
+     ],
+     "ids": [
+      "pg014_im001_seg002_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg014_im001_seg002_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Kartolinë e kaltër e zbukuruar me dy lule shumëngjyrëshe në ballinë."
+  },
+  {
+   "id": "pg015_im001",
+   "page": 15,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg015_im001.png",
+     "screens": [
+      "pg015_sec001"
+     ],
+     "ids": [
+      "pg015_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg015_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Mësuesja para tabelës u flet nxënësve në klasë, ndërsa ata janë ulur në banka dhe e dëgjojnë."
+  },
+  {
+   "id": "p016_1",
+   "page": 16,
+   "pdf": [
+    "tools/image_review/pdf/p016_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg016_im001_crop.png",
+     "screens": [
+      "pg016_sec001"
+     ],
+     "ids": [
+      "pg016_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg016_im001.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Nëna dhe vajza e saj bisedojnë të ulura në divan në shtëpi."
+  },
+  {
+   "id": "p017_1",
+   "page": 17,
+   "pdf": [
+    "tools/image_review/pdf/p017_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg017_im001_crop.png",
+     "screens": [
+      "pg017_sec001"
+     ],
+     "ids": [
+      "pg017_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg017_im001.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Televizor në dhomë ndeje me një prezantuese lajmesh në ekran dhe mbishkrimin “LAJME”, pranë një rafti me libra dhe vazo me lule."
+  },
+  {
+   "id": "p018_1",
+   "page": 18,
+   "pdf": [
+    "tools/image_review/pdf/p018_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg018_im002_seg001_v1-reading.png",
+     "screens": [
+      "pg018_sec001"
+     ],
+     "ids": [
+      "pg018_im002_seg001_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg018_im002_seg001_v1.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg018_im002_seg001_v1-reading.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Police me uniformë."
+  },
+  {
+   "id": "p018_2",
+   "page": 18,
+   "pdf": [
+    "tools/image_review/pdf/p018_2.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg018_im002_seg002_v1-reading.png",
+     "screens": [
+      "pg018_sec001"
+     ],
+     "ids": [
+      "pg018_im002_seg002_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg018_im002_seg002_v1.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg018_im002_seg002_v1-reading.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Punonjëse e urgjencës me maskë dhe mburojë fytyre."
+  },
+  {
+   "id": "p018_3",
+   "page": 18,
+   "pdf": [
+    "tools/image_review/pdf/p018_3.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg018_im002_seg003_v1-reading.png",
+     "screens": [
+      "pg018_sec001"
+     ],
+     "ids": [
+      "pg018_im002_seg003_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg018_im002_seg003_v1.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg018_im002_seg003_v1-reading.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Zjarrfikës me helmetë të kuqe dhe maskë."
+  },
+  {
+   "id": "p018_4",
+   "page": 18,
+   "pdf": [
+    "tools/image_review/pdf/p018_4.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg018_im003.jpg",
+     "screens": [
+      "pg018_sec002"
+     ],
+     "ids": [
+      "pg018_im003"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg018_im003.jpg",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Në shkollë, infermierja ia mat temperaturën një nxënësi, ndërsa nxënësit mbajnë maska, dezinfektojnë duart, i lajnë ato dhe mbajnë distancë 2 metra."
+  },
+  {
+   "id": "p019_1",
+   "page": 19,
+   "pdf": [
+    "tools/image_review/pdf/p019_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg019_im001_crop.png",
+     "screens": [
+      "pg019_sec001"
+     ],
+     "ids": [
+      "pg019_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg019_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg019_sec001-crossing.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Polici rrugor ndalon veturat te vijat e bardha, ndërsa dy nxënës me çanta kalojnë rrugën të sigurt."
+  },
+  {
+   "id": "p020_1",
+   "page": 20,
+   "pdf": [
+    "tools/image_review/pdf/p020_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg020_im001_seg001_v1.png",
+     "screens": [
+      "pg020_sec001"
+     ],
+     "ids": [
+      "pg020_im001_seg001_v1"
+     ]
+    },
+    {
+     "src": "images/pg020_im001_seg002_v1_crop_v1.png",
+     "screens": [
+      "pg020_sec001"
+     ],
+     "ids": [
+      "pg020_im001_seg002_v1_crop_v1"
+     ]
+    },
+    {
+     "src": "images/pg020_im001_seg003_v1_crop_v1.png",
+     "screens": [
+      "pg020_sec001"
+     ],
+     "ids": [
+      "pg020_im001_seg003_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg020_im001_seg001_v1.png",
+     "same_as_book": true
+    },
+    {
+     "src": "images/pg020_im001_seg002_v1_crop_v1.png",
+     "same_as_book": true
+    },
+    {
+     "src": "images/pg020_im001_seg003_v1_crop_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Mjeku po e kontrollon një vajzë me stetoskop në qendër shëndetësore."
+  },
+  {
+   "id": "p021_1",
+   "page": 21,
+   "pdf": [
+    "tools/image_review/pdf/p021_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg021_fig1_pdf.png",
+     "screens": [
+      "pg021_sec001"
+     ],
+     "ids": [
+      "pg021_im001_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg021_im001_crop_v1.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg021_sec001-visit.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Mjekja me mantel të bardhë po u flet disa fëmijëve në një qendër shëndetësore."
+  },
+  {
+   "id": "p022_1",
+   "page": 22,
+   "pdf": [
+    "tools/image_review/pdf/p022_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg022_fig1_pdf.png",
+     "screens": [
+      "pg022_sec001"
+     ],
+     "ids": [
+      "pg022_im001_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg022_im001_crop_v1.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg022_sec001-illustration.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Vajza dhe nëna provojnë të hanë oriz me shkopinj, duke mësuar nga zakonet kineze dhe duke respektuar kulturat e tjera."
+  },
+  {
+   "id": "p023_1",
+   "page": 23,
+   "pdf": [
+    "tools/image_review/pdf/p023_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg023_im001.png",
+     "screens": [
+      "pg023_sec001"
+     ],
+     "ids": [
+      "pg023_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg023_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Vajza i dhuron djalit një buqetë me lule të bardha, ndërsa ai duket i mërzitur dhe i shqetësuar."
+  },
+  {
+   "id": "p024_1",
+   "page": 24,
+   "pdf": [
+    "tools/image_review/pdf/p024_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg024_im001.png",
+     "screens": [
+      "pg024_sec001"
+     ],
+     "ids": [
+      "pg024_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg024_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Në sallën sportive, një vajzë në karrocë me rrota qëndron pranë trajnerit, ndërsa dy fëmijë luajnë me top para portës dhe koshit të basketbollit, duke theksuar përfshirjen dhe barazinë në lojë."
+  },
+  {
+   "id": "pg025_fig1_pdf",
+   "page": 25,
+   "pdf": [
+    "images/pg025_fig1_pdf.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg025_fig1_pdf.png",
+     "screens": [
+      "pg025_sec001"
+     ],
+     "ids": [
+      "pg025_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg025_im002.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Nora dhe shoku i saj i bankës shkruajnë në fletore, ulur pranë njëri-tjetrit në klasë."
+  },
+  {
+   "id": "p026_1",
+   "page": 26,
+   "pdf": [
+    "tools/image_review/pdf/p026_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg026_im001_crop.png",
+     "screens": [
+      "pg026_sec001"
+     ],
+     "ids": [
+      "pg026_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg026_im001.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Katër nxënës të ulur rreth një tavoline në klasë diskutojnë me radhë, me libra të hapur përpara dhe tabelën e gjelbër pas tyre."
+  },
+  {
+   "id": "p028_1",
+   "page": 28,
+   "pdf": [
+    "tools/image_review/pdf/p028_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg028_im002.png",
+     "screens": [
+      "pg028_sec001"
+     ],
+     "ids": [
+      "pg028_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg028_im002.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Prishtinë, viti 1930: kullë kishe dhe xhami me minare pranë njëra-tjetrës, me banorë në rrugë."
+  },
+  {
+   "id": "p028_2",
+   "page": 28,
+   "pdf": [
+    "tools/image_review/pdf/p028_2.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg028_im003.png",
+     "screens": [
+      "pg028_sec001"
+     ],
+     "ids": [
+      "pg028_im003"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg028_im003.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Ferizaj: kishë ortodokse, kambanore kishe dhe minaret e xhamisë pranë njëra-tjetrës në qendër të qytetit."
+  },
+  {
+   "id": "p028_3",
+   "page": 28,
+   "pdf": [
+    "tools/image_review/pdf/p028_3.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg028_im004.png",
+     "screens": [
+      "pg028_sec001"
+     ],
+     "ids": [
+      "pg028_im004"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg028_im004.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Gjakovë: kambanore kishe dhe minare xhamie ngrihen mbi qytetin e mbuluar me borë."
+  },
+  {
+   "id": "p029_1",
+   "page": 29,
+   "pdf": [
+    "tools/image_review/pdf/p029_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg029_fig1_pdf.png",
+     "screens": [
+      "pg029_sec001"
+     ],
+     "ids": [
+      "pg029_fig1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "studio/assets/pg029_sec001-scene.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Dhomë e zbukuruar për festë: bredh i Krishtlindjeve me dhurata, oxhak me zjarr dhe çorape të varura, kolltuk dhe dritare nga e cila duket bora."
+  },
+  {
+   "id": "p030_1",
+   "page": 30,
+   "pdf": [
+    "tools/image_review/pdf/p030_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg030_fig1_pdf.png",
+     "screens": [
+      "pg030_sec001"
+     ],
+     "ids": [
+      "pg030_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg030_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg030_sec001-scene.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Një plak mban në krahë një vajzë të vogël, ndërsa dy fëmijë e shikojnë me shqetësim."
+  },
+  {
+   "id": "p031_1",
+   "page": 31,
+   "pdf": [
+    "tools/image_review/pdf/p031_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg031_fig1_pdf.png",
+     "screens": [
+      "pg031_sec001"
+     ],
+     "ids": [
+      "pg031_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg031_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg031_sec001-scene.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Djali rri pranë gjyshes së ulur në kolltuk, ndërsa ajo mban telefonin në dorë për ta ndihmuar."
+  },
+  {
+   "id": "p032_1",
+   "page": 32,
+   "pdf": [
+    "tools/image_review/pdf/p032_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg032_fig1_pdf.png",
+     "screens": [
+      "pg032_sec001"
+     ],
+     "ids": [
+      "pg032_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg032_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg032_sec001-scene.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Infermierja del nga oborri i një shtëpie, ndërsa dy fëmijë e shikojnë me shqetësim."
+  },
+  {
+   "id": "p033_1",
+   "page": 33,
+   "pdf": [
+    "tools/image_review/pdf/p033_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg033_fig1_pdf.png",
+     "screens": [
+      "pg033_sec001"
+     ],
+     "ids": [
+      "pg033_fig1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg033_im002.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Familje e ulur bashkë në divan në shtëpi gjatë pandemisë, duke menduar me shqetësim për koronavirusin; pranë tyre janë një mace, një qen dhe bimë."
+  },
+  {
+   "id": "p034_1",
+   "page": 34,
+   "pdf": [
+    "tools/image_review/pdf/p034_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg034_im001_crop.png",
+     "screens": [
+      "pg034_sec001"
+     ],
+     "ids": [
+      "pg034_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg034_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg034_sec001-football.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Tre fëmijë luajnë futboll në park, ndërsa një vajzë e ulur anash i shikon, e papërfshirë në lojë."
+  },
+  {
+   "id": "p035_1",
+   "page": 35,
+   "pdf": [
+    "tools/image_review/pdf/p035_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg035_im001_seg001_v1.png",
+     "screens": [
+      "pg035_sec001"
+     ],
+     "ids": [
+      "pg035_im001_seg001_v1"
+     ]
+    },
+    {
+     "src": "images/pg035_im001_seg002_v1.png",
+     "screens": [
+      "pg035_sec001"
+     ],
+     "ids": [
+      "pg035_im001_seg002_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "studio/assets/pg035_sec001-boy.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg035_sec001-girl.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg035_im001_seg001_v1.png",
+     "same_as_book": true
+    },
+    {
+     "src": "images/pg035_im001_seg002_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Djalë duke larë enët në lavaman, me pjata të grumbulluara dhe detergjent pranë."
+  },
+  {
+   "id": "p036_1",
+   "page": 36,
+   "pdf": [
+    "tools/image_review/pdf/p036_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg036_im001_crop.png",
+     "screens": [
+      "pg036_sec001"
+     ],
+     "ids": [
+      "pg036_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg036_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg036_sec001-figure.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Djaloshi me syze ia jep një lupë një djali më të vogël për ta ndihmuar të shohë dhe të lexojë më mirë."
+  },
+  {
+   "id": "p037_1",
+   "page": 37,
+   "pdf": [
+    "tools/image_review/pdf/p037_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg037_im001_crop_v1.png",
+     "screens": [
+      "pg036_sec003"
+     ],
+     "ids": [
+      "pg037_im001_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg037_im001_crop_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Dy nxënës të ulur në banka; vajza flet me laps në dorë, ndërsa djali duket i mërzitur dhe i menduar."
+  },
+  {
+   "id": "p038_1",
+   "page": 38,
+   "pdf": [
+    "tools/image_review/pdf/p038_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg038_im001_crop2.png",
+     "screens": [
+      "pg038_sec001"
+     ],
+     "ids": [
+      "pg038_im001_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg038_im001_crop_v1.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg038_sec001-kitchen.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Në kuzhinë, nëna mban një pjatë me tortë, vajza po merr një copë, ndërsa vëllai i madh qëndron pranë; skenë e mbështetjes dhe ndarjes në familje."
+  },
+  {
+   "id": "p039_1",
+   "page": 39,
+   "pdf": [
+    "tools/image_review/pdf/p039_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg039_im001_crop_v1.png",
+     "screens": [
+      "pg039_sec001"
+     ],
+     "ids": [
+      "pg039_im001_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg039_im001_crop_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Dy djem bisedojnë përkrah një topi futbolli, duke treguar mbështetje dhe bashkëpunim mes shokëve."
+  },
+  {
+   "id": "p040_1",
+   "page": 40,
+   "pdf": [
+    "tools/image_review/pdf/p040_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg040_im001.png",
+     "screens": [
+      "pg040_sec001"
+     ],
+     "ids": [
+      "pg040_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg040_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Besmiri me prindërit takohen me përfaqësuesen e shkollës në zyrë për të siguruar ndihmë dhe kushte që ai të vazhdojë mësimin."
+  },
+  {
+   "id": "p041_1",
+   "page": 41,
+   "pdf": [
+    "tools/image_review/pdf/p041_1.png"
+   ],
+   "book": [],
+   "flamur": [],
+   "alt": ""
+  },
+  {
+   "id": "pg041_im002",
+   "page": 41,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg041_im002.jpg",
+     "screens": [
+      "pg041_sec001"
+     ],
+     "ids": [
+      "pg041_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg041_im002.jpg",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Nënë Tereza u shërben me përkujdesje njerëzve të sëmurë dhe në nevojë."
+  },
+  {
+   "id": "p042_1",
+   "page": 42,
+   "pdf": [
+    "tools/image_review/pdf/p042_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg042_im001_crop.png",
+     "screens": [
+      "pg042_sec001"
+     ],
+     "ids": [
+      "pg042_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg042_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg042_sec001-illustration.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Pesë fëmijë të ulur rreth një tavoline po diskutojnë për organizimin e një aktiviteti, me ide për mbledhjen e lodrave, rrobave dhe librave."
+  },
+  {
+   "id": "p043_1",
+   "page": 43,
+   "pdf": [
+    "tools/image_review/pdf/p043_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg043_im001_crop.png",
+     "screens": [
+      "pg043_sec001"
+     ],
+     "ids": [
+      "pg043_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg043_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg043_sec001-children.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Gjashtë fëmijë qëndrojnë së bashku në grup, duke paraqitur bashkëpunim, përfshirje dhe respekt mes njëri-tjetrit."
+  },
+  {
+   "id": "p044_1",
+   "page": 44,
+   "pdf": [
+    "tools/image_review/pdf/p044_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg044_im002.png",
+     "screens": [
+      "pg044_sec001"
+     ],
+     "ids": [
+      "pg044_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "studio/assets/pg044_sec001-composite.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg044_im002.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Mësuesja qëndron mes dy nxënësve në banka dhe i nxit të shprehin mendime të ndryshme, me flluska mendimi mbi ta."
+  },
+  {
+   "id": "pg044_im003_crop_v1",
+   "page": 44,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg044_im003_crop_v1.png",
+     "screens": [
+      "pg044_sec001"
+     ],
+     "ids": [
+      "pg044_im003_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg044_im003_crop_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Kalaja e Krujës me flamurin shqiptar mbi ndërtesat historike dhe malet në sfond."
+  },
+  {
+   "id": "pg044_im004_crop_v1",
+   "page": 44,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg044_im004_crop_v1.png",
+     "screens": [
+      "pg044_sec001"
+     ],
+     "ids": [
+      "pg044_im004_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg044_im004_crop_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Monumenti i Skënderbeut mbi kalë pranë një flamuri të madh shqiptar, me male në sfond."
+  },
+  {
+   "id": "p045_1",
+   "page": 45,
+   "pdf": [
+    "tools/image_review/pdf/p045_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg045_im001.png",
+     "screens": [
+      "pg044_sec003"
+     ],
+     "ids": [
+      "pg045_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg045_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Familja e ulur rreth tryezës bisedon dhe dëgjon mendimet e njëri-tjetrit."
+  },
+  {
+   "id": "p046_1",
+   "page": 46,
+   "pdf": [
+    "tools/image_review/pdf/p046_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg046_im001_crop.png",
+     "screens": [
+      "pg046_sec001"
+     ],
+     "ids": [
+      "pg046_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg046_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg046_sec001-figure.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Pesë nxënës të ulur rreth një tavoline duke diskutuar së bashku; njëri flet me dorën ngritur, ndërsa të tjerët dëgjojnë dhe marrin pjesë në vendimmarrje."
+  },
+  {
+   "id": "p047_1",
+   "page": 47,
+   "pdf": [
+    "tools/image_review/pdf/p047_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg047_im001_crop.png",
+     "screens": [
+      "pg047_sec001"
+     ],
+     "ids": [
+      "pg047_im001_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg047_im001_crop_v1-reading.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg047_im001_crop_v1.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Tre nxënës duke diskutuar me mësuesen para tabelës në klasë."
+  },
+  {
+   "id": "p048_1",
+   "page": 48,
+   "pdf": [
+    "tools/image_review/pdf/p048_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg048_im002_crop.png",
+     "screens": [
+      "pg048_sec001"
+     ],
+     "ids": [
+      "pg048_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg048_im002.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg048_sec001-scene.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Mësuesja dhe katër nxënës të ulur në rreth në klasë, duke diskutuar së bashku."
+  },
+  {
+   "id": "p049_1",
+   "page": 49,
+   "pdf": [
+    "tools/image_review/pdf/p049_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg049_im001_crop.png",
+     "screens": [
+      "pg049_sec001"
+     ],
+     "ids": [
+      "pg049_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg049_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg049_sec001-illustration.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Një nxënës e ngushëllon shoqen e trishtuar në klasë, ndërsa të dy kanë librat e hapur në bankë."
+  },
+  {
+   "id": "pg050_im004",
+   "page": 50,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg050_im004.png",
+     "screens": [
+      "pg050_sec001"
+     ],
+     "ids": [
+      "pg050_im004"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "studio/assets/pg050_sec001-family.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg050_im004.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Një familje me katër anëtarë, prindërit dhe dy fëmijë, ulur bashkë nën një kulm simbolik të shtëpisë, duke biseduar dhe marrë vendime së bashku."
+  },
+  {
+   "id": "p051_1",
+   "page": 51,
+   "pdf": [
+    "tools/image_review/pdf/p051_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg051_im001_crop.png",
+     "screens": [
+      "pg050_sec003"
+     ],
+     "ids": [
+      "pg051_im001_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg051_im001_crop_v1-reading.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg051_im001_crop_v1.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Familja e ulur rreth tavolinës diskuton së bashku dhe ndan mendime për të marrë një vendim."
+  },
+  {
+   "id": "p052_1",
+   "page": 52,
+   "pdf": [
+    "tools/image_review/pdf/p052_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg052_im001_crop.png",
+     "screens": [
+      "pg052_sec001"
+     ],
+     "ids": [
+      "pg052_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg052_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg052_sec001-bus.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Te stacioni i autobusit, një djalë me biçikletë qëndron pranë një tabele që ndalon biçikletat, ndërsa një burrë i moshuar pranë autobusit i tregon të respektojë rregullin."
+  },
+  {
+   "id": "p053_1",
+   "page": 53,
+   "pdf": [
+    "tools/image_review/pdf/p053_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg053_im001_crop_v1.png",
+     "screens": [
+      "pg053_sec001"
+     ],
+     "ids": [
+      "pg053_im001_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg053_im001_crop_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Dy nxënës bisedojnë me dy të rritur për të gjetur një zgjidhje të përbashkët për një problem në shkollë."
+  },
+  {
+   "id": "p054_1",
+   "page": 54,
+   "pdf": [
+    "tools/image_review/pdf/p054_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg054_im001.png",
+     "screens": [
+      "pg054_sec001"
+     ],
+     "ids": [
+      "pg054_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg054_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Prindërit bisedojnë në dhomë të ndejës për një dokument ose kontratë, ndërsa fëmija i dëgjon i ulur pranë tyre."
+  },
+  {
+   "id": "p055_1",
+   "page": 55,
+   "pdf": [
+    "tools/image_review/pdf/p055_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg055_fig1_pdf.png",
+     "screens": [
+      "pg055_sec001"
+     ],
+     "ids": [
+      "pg055_im001"
+     ]
+    }
+   ],
+   "flamur": [],
+   "alt": "Seancë në Kuvendin e Republikës së Kosovës, me deputetë të mbledhur në sallë dhe foltoren në qendër."
+  },
+  {
+   "id": "pg055_im001",
+   "page": 55,
+   "pdf": [],
+   "book": [],
+   "flamur": [
+    {
+     "src": "images/pg055_im001.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": ""
+  },
+  {
+   "id": "p057_1",
+   "page": 57,
+   "pdf": [
+    "tools/image_review/pdf/p057_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg057_fig1_pdf.png",
+     "screens": [
+      "pg056_sec001"
+     ],
+     "ids": [
+      "pg057_fig1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "studio/assets/pg057_sec001-scene.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Bledi dhe babai i tij bisedojnë të ulur në divan në dhomën e ndenjes, pranë një tavoline të rrumbullakët dhe rafteve me libra."
+  },
+  {
+   "id": "p058_1",
+   "page": 58,
+   "pdf": [
+    "tools/image_review/pdf/p058_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg058_im001_seg001_v1.png",
+     "screens": [
+      "pg058_sec001"
+     ],
+     "ids": [
+      "pg058_im001_seg001_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "studio/assets/pg058_sec001-scene1.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg058_im001_seg001_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Katër nxënës diskutojnë rreth një tavoline, duke shprehur mendimet e tyre dhe duke krahasuar idetë me njëri-tjetrin."
+  },
+  {
+   "id": "p058_2",
+   "page": 58,
+   "pdf": [
+    "tools/image_review/pdf/p058_2.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg058_im001_seg002_v1.png",
+     "screens": [
+      "pg058_sec001"
+     ],
+     "ids": [
+      "pg058_im001_seg002_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "studio/assets/pg058_sec001-scene2.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg058_im001_seg002_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Një nxënëse shpjegon mendimin e saj para shokëve, ndërsa ata e dëgjojnë gjatë diskutimit."
+  },
+  {
+   "id": "p058_3",
+   "page": 58,
+   "pdf": [
+    "tools/image_review/pdf/p058_3.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg058_im001_seg003_v1_crop_v1.png",
+     "screens": [
+      "pg058_sec001"
+     ],
+     "ids": [
+      "pg058_im001_seg003_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "studio/assets/pg058_sec001-scene3.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg058_im001_seg003_v1_crop_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Katër nxënës bisedojnë; njëri ka ngritur dorën për të folur, ndërsa të tjerët e dëgjojnë me kujdes."
+  },
+  {
+   "id": "p059_1",
+   "page": 59,
+   "pdf": [
+    "tools/image_review/pdf/p059_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg059_im001_seg001_v1.png",
+     "screens": [
+      "pg059_sec001"
+     ],
+     "ids": [
+      "pg059_im001_seg001_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "studio/assets/pg059_sec001-judge.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg059_im001_seg001_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Gjyqtarja shqyrton dokumentet dhe merr vendimin në gjykatë."
+  },
+  {
+   "id": "p059_2",
+   "page": 59,
+   "pdf": [
+    "tools/image_review/pdf/p059_2.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg059_im001_seg002_v1.png",
+     "screens": [
+      "pg059_sec001"
+     ],
+     "ids": [
+      "pg059_im001_seg002_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "studio/assets/pg059_sec001-prosecutor.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg059_im001_seg002_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Prokurori paraqet faktet kundër të akuzuarit."
+  },
+  {
+   "id": "p059_3",
+   "page": 59,
+   "pdf": [
+    "tools/image_review/pdf/p059_3.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg059_im001_seg003_v1.png",
+     "screens": [
+      "pg059_sec001"
+     ],
+     "ids": [
+      "pg059_im001_seg003_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "studio/assets/pg059_sec001-notary.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg059_im001_seg003_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Noteri vërteton dokumentet në zyrë."
+  },
+  {
+   "id": "p059_4",
+   "page": 59,
+   "pdf": [
+    "tools/image_review/pdf/p059_4.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg059_im001_seg004_v1.png",
+     "screens": [
+      "pg059_sec001"
+     ],
+     "ids": [
+      "pg059_im001_seg004_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "studio/assets/pg059_sec001-lawyer.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg059_im001_seg004_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Avokatja mbron të akuzuarit duke përdorur fakte dhe ligje."
+  },
+  {
+   "id": "p060_1",
+   "page": 60,
+   "pdf": [
+    "tools/image_review/pdf/p060_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg060_im001_seg001_v1.png",
+     "screens": [
+      "pg060_sec001"
+     ],
+     "ids": [
+      "pg060_im001_seg001_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg060_im001_seg001_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Djalë nxënës duke mbajtur një libër të hapur dhe duke recituar me buzëqeshje."
+  },
+  {
+   "id": "p060_2",
+   "page": 60,
+   "pdf": [
+    "tools/image_review/pdf/p060_2.png"
+   ],
+   "book": [],
+   "flamur": [
+    {
+     "src": "images/pg060_im001_seg002_v1.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": ""
+  },
+  {
+   "id": "p061_1",
+   "page": 61,
+   "pdf": [
+    "tools/image_review/pdf/p061_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg061_im001_seg003_v1.png",
+     "screens": [
+      "pg061_sec001"
+     ],
+     "ids": [
+      "pg061_im001_seg003_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "studio/assets/pg061_sec001-composite.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg061_im001_seg003_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Babai dhe djali po përgatisin valixhen për udhëtim; djali mban pasaportën, ndërsa sipër shihen flamuri dhe stema e Kosovës."
+  },
+  {
+   "id": "p061_2",
+   "page": 61,
+   "pdf": [
+    "tools/image_review/pdf/p061_2.png"
+   ],
+   "book": [],
+   "flamur": [],
+   "alt": ""
+  },
+  {
+   "id": "p062_1",
+   "page": 62,
+   "pdf": [
+    "tools/image_review/pdf/p062_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg062_im001.png",
+     "screens": [
+      "pg062_sec001"
+     ],
+     "ids": [
+      "pg062_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg062_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Flamuri i Kosovës me sfond të kaltër, hartën e verdhë të Kosovës në qendër dhe gjashtë yje të bardhë sipër."
+  },
+  {
+   "id": "p063_1",
+   "page": 63,
+   "pdf": [
+    "tools/image_review/pdf/p063_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg063_map_pdf.png",
+     "screens": [
+      "pg063_sec001"
+     ],
+     "ids": [
+      "pg063_im004"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg063_im004.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg063_sec001-map.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Harta e Kosovës e ndarë në dy rajone: Rrafshi i Dukagjinit me ngjyrë të gjelbër të errët dhe Fusha e Kosovës me ngjyrë të gjelbër të çelët, me qendrat rajonale Peja, Gjakova, Prizreni, Mitrovica, Prishtina, Gjilani dhe Ferizaj."
+  },
+  {
+   "id": "p065_1",
+   "page": 65,
+   "pdf": [
+    "tools/image_review/pdf/p065_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg065_im002.jpg",
+     "screens": [
+      "pg065_sec001"
+     ],
+     "ids": [
+      "pg065_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg065_im002.jpg",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Gjyshja ulur në divan po qendis flamurin e Kosovës, ndërsa mbesa e saj bisedon me të e buzëqeshur."
+  },
+  {
+   "id": "pg065_im001",
+   "page": 65,
+   "pdf": [],
+   "book": [],
+   "flamur": [
+    {
+     "src": "images/pg065_im001.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": ""
+  },
+  {
+   "id": "p066_1",
+   "page": 66,
+   "pdf": [
+    "tools/image_review/pdf/p066_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg066_map_pdf.png",
+     "screens": [
+      "pg066_sec001"
+     ],
+     "ids": [
+      "pg066_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg066_im002.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg066_sec001-map.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Harta e Kosovës me qendrat rajonale dhe me emrat e shteteve fqinje përreth: Serbia, Mali i Zi, Shqipëria dhe Maqedonia e Veriut."
+  },
+  {
+   "id": "p067_1",
+   "page": 67,
+   "pdf": [
+    "tools/image_review/pdf/p067_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg067_scene.png",
+     "screens": [
+      "pg067_sec001"
+     ],
+     "ids": [
+      "pg067_im001_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg067_im001_crop_v1.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg067_sec001-scene.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Shoferi pranë veturës i dorëzon pasaportën policit në vendkalimin kufitar."
+  },
+  {
+   "id": "p069_1",
+   "page": 69,
+   "pdf": [
+    "tools/image_review/pdf/p069_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg069_im001_seg001_v1.png",
+     "screens": [
+      "pg069_sec001"
+     ],
+     "ids": [
+      "pg069_im001_seg001_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg069_im001_seg001_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Burrë i ulur në kolltuk pranë oxhakut të ndezur, duke kujtuar jetën e dikurshme familjare."
+  },
+  {
+   "id": "p069_2",
+   "page": 69,
+   "pdf": [
+    "tools/image_review/pdf/p069_2.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg069_im001_seg002_v1.png",
+     "screens": [
+      "pg069_sec001"
+     ],
+     "ids": [
+      "pg069_im001_seg002_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg069_im001_seg002_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Familje bashkëkohore me prindër dhe dy fëmijë ulur rreth tryezës, duke ngrënë dhe biseduar."
+  },
+  {
+   "id": "p070_1",
+   "page": 70,
+   "pdf": [
+    "tools/image_review/pdf/p070_1.png"
+   ],
+   "book": [],
+   "flamur": [],
+   "alt": ""
+  },
+  {
+   "id": "p070_2",
+   "page": 70,
+   "pdf": [
+    "tools/image_review/pdf/p070_2.png"
+   ],
+   "book": [],
+   "flamur": [],
+   "alt": ""
+  },
+  {
+   "id": "pg070_im001",
+   "page": 70,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg070_im001.png",
+     "screens": [
+      "pg070_sec001"
+     ],
+     "ids": [
+      "pg070_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg070_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Dy bujq punojnë arën me parmendë të tërhequr nga qe, në fshat dikur."
+  },
+  {
+   "id": "pg070_im002",
+   "page": 70,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg070_im002.png",
+     "screens": [
+      "pg070_sec001"
+     ],
+     "ids": [
+      "pg070_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg070_im002.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Traktor modern me makinë mbjellëse duke punuar arën në fshat sot."
+  },
+  {
+   "id": "pg070_im005",
+   "page": 70,
+   "pdf": [],
+   "book": [],
+   "flamur": [
+    {
+     "src": "images/pg070_im005.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": ""
+  },
+  {
+   "id": "pg070_sec001_venn",
+   "page": 70,
+   "pdf": [],
+   "book": [],
+   "flamur": [
+    {
+     "src": "studio/assets/pg070_sec001-venn.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": ""
+  },
+  {
+   "id": "p071_1",
+   "page": 71,
+   "pdf": [
+    "tools/image_review/pdf/p071_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg071_im001_crop.png",
+     "screens": [
+      "pg071_sec001"
+     ],
+     "ids": [
+      "pg071_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg071_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg071_sec001-scene.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Klea dhe gjyshi i saj të ulur në një bankë në park, duke biseduar për qytetin dikur dhe sot."
+  },
+  {
+   "id": "p072_1",
+   "page": 72,
+   "pdf": [
+    "tools/image_review/pdf/p072_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg072_im001_crop.png",
+     "screens": [
+      "pg072_sec001"
+     ],
+     "ids": [
+      "pg072_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg072_im001.jpg",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg072_sec001-scene.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Mësuesja shkruan në tabelë mendime për ekonominë: ekonomia lidhet me prodhimin, vendet me ekonomi të zhvilluar janë të pasura, shumë njerëz janë të punësuar, në fshat punohet toka e rriten kafshë, ndërsa në qytet ndërtohen shumë fabrika."
+  },
+  {
+   "id": "pg074_fig1_pdf",
+   "page": 74,
+   "pdf": [
+    "images/pg074_fig1_pdf.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg074_fig1_pdf.png",
+     "screens": [
+      "pg074_sec001"
+     ],
+     "ids": [
+      "pg074_fig1"
+     ]
+    }
+   ],
+   "flamur": [],
+   "alt": "Vizatim i një vendbanimi me shtëpi me çati të kuqe, ndërtesa të larta shumëkatëshe dhe pemë të gjelbra."
+  },
+  {
+   "id": "pg074_im002_seg001_v1_crop_v1",
+   "page": 74,
+   "pdf": [],
+   "book": [],
+   "flamur": [
+    {
+     "src": "images/pg074_im002_seg001_v1_crop_v1.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": ""
+  },
+  {
+   "id": "pg074_im002_seg002_v1_crop_v1",
+   "page": 74,
+   "pdf": [],
+   "book": [],
+   "flamur": [
+    {
+     "src": "images/pg074_im002_seg002_v1_crop_v1.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": ""
+  },
+  {
+   "id": "p075_1",
+   "page": 75,
+   "pdf": [
+    "tools/image_review/pdf/p075_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg075_im001_crop_v1-reading.png",
+     "screens": [
+      "pg075_sec001"
+     ],
+     "ids": [
+      "pg075_im001_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg075_im001_crop_v1.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg075_im001_crop_v1-reading.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Dy fëmijë ulur pranë tavolinës shkruajnë në fletore, në një dhomë me orë muri, rafte me libra dhe bimë."
+  },
+  {
+   "id": "p076_1",
+   "page": 76,
+   "pdf": [
+    "tools/image_review/pdf/p076_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg076_im008_seg001_v1_crop_v1.png",
+     "screens": [
+      "pg076_sec001"
+     ],
+     "ids": [
+      "pg076_im008_seg001_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg076_im008_seg001_v1_crop_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Portret i Ernest Koliqit, veprimtar i rëndësishëm për hapjen e shkollave shqipe në Kosovë."
+  },
+  {
+   "id": "p076_2",
+   "page": 76,
+   "pdf": [
+    "tools/image_review/pdf/p076_2.png"
+   ],
+   "book": [],
+   "flamur": [],
+   "alt": ""
+  },
+  {
+   "id": "p076_3",
+   "page": 76,
+   "pdf": [
+    "tools/image_review/pdf/p076_3.png"
+   ],
+   "book": [
+    {
+     "src": "studio/assets/pg076_sec001-sevasti.png",
+     "screens": [
+      "pg076_sec001"
+     ],
+     "ids": [
+      "pg076_im010"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg076_im010.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Portret i Sevasti Qiriazit, atdhetare dhe nismëtare e arsimit shqip për gra."
+  },
+  {
+   "id": "pg076_im005",
+   "page": 76,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg076_im005.png",
+     "screens": [
+      "pg076_sec001"
+     ],
+     "ids": [
+      "pg076_im005"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg076_im005.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Portret i Mati Logorecit, mësuesi i parë në “Shkollën Shqipe e Djemve” në Prizren."
+  },
+  {
+   "id": "pg076_im008_seg002_v1_crop_v1",
+   "page": 76,
+   "pdf": [],
+   "book": [],
+   "flamur": [
+    {
+     "src": "images/pg076_im008_seg002_v1_crop_v1.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": ""
+  },
+  {
+   "id": "pg076_im008_seg003_crop",
+   "page": 76,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg076_im008_seg003_crop.png",
+     "screens": [
+      "pg076_sec001"
+     ],
+     "ids": [
+      "pg076_im008_seg003_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg076_im008_seg003_v1_crop_v1.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Mësues i moshuar duke mbajtur një abetare, si simbol i përkushtimit ndaj arsimit shqip."
+  },
+  {
+   "id": "p077_1",
+   "page": 77,
+   "pdf": [
+    "tools/image_review/pdf/p077_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg077_im001.jpg",
+     "screens": [
+      "pg077_sec001"
+     ],
+     "ids": [
+      "pg077_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg077_im001.jpg",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Mali bisedon me gjyshin ulur në kolltuqe, ndërsa mendon për vizitën te dentisti."
+  },
+  {
+   "id": "p078_1",
+   "page": 78,
+   "pdf": [
+    "tools/image_review/pdf/p078_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg078_im002.png",
+     "screens": [
+      "pg078_sec001"
+     ],
+     "ids": [
+      "pg078_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg078_im002.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Fadil Vokrri duke luajtur futboll në fushë, me fanellë bardh e zi."
+  },
+  {
+   "id": "p078_2",
+   "page": 78,
+   "pdf": [
+    "tools/image_review/pdf/p078_2.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg078_im001.png",
+     "screens": [
+      "pg078_sec001"
+     ],
+     "ids": [
+      "pg078_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg078_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Majlinda Kelmendi me veshje sportive blu, duke mbajtur dy medalje në duar."
+  },
+  {
+   "id": "p079_1",
+   "page": 79,
+   "pdf": [
+    "tools/image_review/pdf/p079_1.png"
+   ],
+   "book": [
+    {
+     "src": "studio/assets/pg079_sec001-ymer.png",
+     "screens": [
+      "pg079_sec001"
+     ],
+     "ids": [
+      "pg079_im008_seg001_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg079_im008_seg001_v1_crop_v1.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Ymer Riza i ulur me çifteli në duar, në një fotografi bardhë e zi."
+  },
+  {
+   "id": "p079_2",
+   "page": 79,
+   "pdf": [
+    "tools/image_review/pdf/p079_2.png"
+   ],
+   "book": [
+    {
+     "src": "studio/assets/pg079_sec001-nexhmije.png",
+     "screens": [
+      "pg079_sec001"
+     ],
+     "ids": [
+      "pg079_im008_seg002_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg079_im008_seg002_v1_crop_v1.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Nexhmije Pagarusha e buzëqeshur, e veshur me kostum tradicional, në një fotografi bardhë e zi."
+  },
+  {
+   "id": "p079_3",
+   "page": 79,
+   "pdf": [
+    "tools/image_review/pdf/p079_3.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg079_rita_crop.png",
+     "screens": [
+      "pg079_sec001"
+     ],
+     "ids": [
+      "pg079_im008_seg003_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg079_im008_seg003_v1_crop_v1.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Rita Ora duke buzëqeshur, me flokë të drejta bionde dhe xhaketë të kaltër të çelët."
+  },
+  {
+   "id": "p079_4",
+   "page": 79,
+   "pdf": [
+    "tools/image_review/pdf/p079_4.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg079_im002.png",
+     "screens": [
+      "pg079_sec001"
+     ],
+     "ids": [
+      "pg079_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg079_im002.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Dua Lipa në portret me sfond të zi, me flokë të lidhura lart dhe bluzë të gjelbër të ndezur."
+  },
+  {
+   "id": "p079_5",
+   "page": 79,
+   "pdf": [
+    "tools/image_review/pdf/p079_5.png"
+   ],
+   "book": [
+    {
+     "src": "studio/assets/pg079_sec001-bekim.png",
+     "screens": [
+      "pg079_sec002"
+     ],
+     "ids": [
+      "pg079_im009_seg001_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg079_im009_seg001_v1_crop_v1.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Bekim Fehmiu në portret bardhë e zi, i veshur me kostum dhe papijon."
+  },
+  {
+   "id": "pg079_im009_seg002_v1_crop_v1",
+   "page": 79,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg079_im009_seg002_v1_crop_v1.png",
+     "screens": [
+      "pg079_sec002"
+     ],
+     "ids": [
+      "pg079_im009_seg002_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg079_im009_seg002_v1_crop_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Zake Prelvukaj me penela në dorë, para një pikture me ngjyra të gjalla."
+  },
+  {
+   "id": "p080_1",
+   "page": 80,
+   "pdf": [
+    "tools/image_review/pdf/p080_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg080_im001.png",
+     "screens": [
+      "pg080_sec001"
+     ],
+     "ids": [
+      "pg080_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg080_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Pikturë abstrakte me sfond të kuq, një strukturë të ngjashme me kullë në ngjyrë të errët, dy figura anësore të stilizuara, një hark qendror me gjel dhe një simbol rrethor sipër."
+  },
+  {
+   "id": "p082_1",
+   "page": 82,
+   "pdf": [
+    "tools/image_review/pdf/p082_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg082_fig1_pdf.png",
+     "screens": [
+      "pg082_sec001"
+     ],
+     "ids": [
+      "pg082_fig1"
+     ]
+    }
+   ],
+   "flamur": [],
+   "alt": "Pamje e qytetit të Shkodrës nga lart, me shtëpi e rrugë, fusha të gjelbra, liqenin në të majtë dhe malet në sfond."
+  },
+  {
+   "id": "pg082_im001",
+   "page": 82,
+   "pdf": [],
+   "book": [],
+   "flamur": [
+    {
+     "src": "images/pg082_im001.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": ""
+  },
+  {
+   "id": "p083_1",
+   "page": 83,
+   "pdf": [
+    "tools/image_review/pdf/p083_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg083_im004.png",
+     "screens": [
+      "pg083_sec001"
+     ],
+     "ids": [
+      "pg083_im004"
+     ]
+    },
+    {
+     "src": "images/pg083_im005.png",
+     "screens": [
+      "pg083_sec001"
+     ],
+     "ids": [
+      "pg083_im005"
+     ]
+    },
+    {
+     "src": "images/pg083_im003.png",
+     "screens": [
+      "pg083_sec001"
+     ],
+     "ids": [
+      "pg083_im003"
+     ]
+    },
+    {
+     "src": "images/pg083_im002.png",
+     "screens": [
+      "pg083_sec001"
+     ],
+     "ids": [
+      "pg083_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg083_im004.png",
+     "same_as_book": true
+    },
+    {
+     "src": "images/pg083_im005.png",
+     "same_as_book": true
+    },
+    {
+     "src": "images/pg083_im003.png",
+     "same_as_book": true
+    },
+    {
+     "src": "images/pg083_im002.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Tryezë me ushqime tradicionale shqiptare, me pite, speca të mbushur, sarma, mish, ëmbëlsira dhe enë tradicionale."
+  },
+  {
+   "id": "pg090_im002",
+   "page": 84,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg090_im002.png",
+     "screens": [
+      "pg090_sec002"
+     ],
+     "ids": [
+      "pg090_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg090_im002.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Portret bardhezi i Aleksandër Stavre Drenovës, i veshur me kostum dhe kravatë."
+  },
+  {
+   "id": "pg090_im003_seg001_v1_crop_v1",
+   "page": 84,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg090_im003_seg001_v1_crop_v1.png",
+     "screens": [
+      "pg090_sec002"
+     ],
+     "ids": [
+      "pg090_im003_seg001_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg090_im003_seg001_v1_crop_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Njëri nga Vëllezërit Frashëri, në portret bardhezi me mjekër të dendur dhe kostum."
+  },
+  {
+   "id": "pg090_im003_seg002_v1_crop_v1",
+   "page": 84,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg090_im003_seg002_v1_crop_v1.png",
+     "screens": [
+      "pg090_sec002"
+     ],
+     "ids": [
+      "pg090_im003_seg002_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg090_im003_seg002_v1_crop_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Njëri nga Vëllezërit Frashëri, në portret bardhezi me mjekër dhe papion."
+  },
+  {
+   "id": "pg090_im003_seg003_v1_crop_v1",
+   "page": 84,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg090_im003_seg003_v1_crop_v1.png",
+     "screens": [
+      "pg090_sec002"
+     ],
+     "ids": [
+      "pg090_im003_seg003_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg090_im003_seg003_v1_crop_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Njëri nga Vëllezërit Frashëri, në portret bardhezi me mjekër të shkurtër dhe jakë të bardhë."
+  },
+  {
+   "id": "pg090_im004",
+   "page": 84,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg090_im004.png",
+     "screens": [
+      "pg090_sec002"
+     ],
+     "ids": [
+      "pg090_im004"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg090_im004.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Portret i Gjergj Fishtës i ulur, i veshur me petk fetar të errët."
+  },
+  {
+   "id": "pg090_im005",
+   "page": 84,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg090_im005.png",
+     "screens": [
+      "pg090_sec002"
+     ],
+     "ids": [
+      "pg090_im005"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg090_im005.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Portret bardhezi i Ismail Kadaresë me syze të mëdha."
+  },
+  {
+   "id": "pg090_im006",
+   "page": 84,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg090_im006.png",
+     "screens": [
+      "pg090_sec002"
+     ],
+     "ids": [
+      "pg090_im006"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg090_im006.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Piktura “Motra Tone”, grua e ulur me veshje tradicionale të bardhë dhe dorën pranë fytyrës."
+  },
+  {
+   "id": "pg090_im007_seg001_v1_crop_v1",
+   "page": 84,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg090_im007_seg001_v1_crop_v1.png",
+     "screens": [
+      "pg090_sec002"
+     ],
+     "ids": [
+      "pg090_im007_seg001_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg090_im007_seg001_v1_crop_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Portret bardhezi i njërës prej Motrave Qiriazi, me syze dhe varëse rreth qafës."
+  },
+  {
+   "id": "pg090_im007_seg002_v1_crop_v1",
+   "page": 84,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg090_im007_seg002_v1_crop_v1.png",
+     "screens": [
+      "pg090_sec002"
+     ],
+     "ids": [
+      "pg090_im007_seg002_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg090_im007_seg002_v1_crop_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Portret bardhezi i njërës prej Motrave Qiriazi, me flokë të mbledhura lart."
+  },
+  {
+   "id": "p085_1",
+   "page": 85,
+   "pdf": [
+    "tools/image_review/pdf/p085_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg091_im001_crop.png",
+     "screens": [
+      "pg090_sec001"
+     ],
+     "ids": [
+      "pg091_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg091_im001.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Fëmijë dhe një grua duke festuar ditëlindjen rreth një tavoline me tortë, ëmbëlsira e pije, të rrethuar me balona dhe flamuj zbukurues."
+  },
+  {
+   "id": "p086_1",
+   "page": 86,
+   "pdf": [
+    "tools/image_review/pdf/p086_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg084_im001.png",
+     "screens": [
+      "pg084_sec001"
+     ],
+     "ids": [
+      "pg084_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg084_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Pamje panoramike e Prishtinës, me rrugë, ndërtesa të qytetit, hapësira të gjelbra dhe Bibliotekën Kombëtare të Kosovës në anën e djathtë."
+  },
+  {
+   "id": "p087_1",
+   "page": 87,
+   "pdf": [
+    "tools/image_review/pdf/p087_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg085_im001.png",
+     "screens": [
+      "pg085_sec001"
+     ],
+     "ids": [
+      "pg085_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg085_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Ndërtesa e Galerisë së Arteve në Prishtinë, me hapësirë të gjelbër përpara dhe pallate në sfond."
+  },
+  {
+   "id": "p087_2",
+   "page": 87,
+   "pdf": [
+    "tools/image_review/pdf/p087_2.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg085_im002.png",
+     "screens": [
+      "pg085_sec001"
+     ],
+     "ids": [
+      "pg085_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg085_im002.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Hyrja e Teatrit Kombëtar në Prishtinë, me shkallët dhe mbishkrimin e madh në ballinë."
+  },
+  {
+   "id": "p087_3",
+   "page": 87,
+   "pdf": [
+    "tools/image_review/pdf/p087_3.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg085_im003.png",
+     "screens": [
+      "pg085_sec001"
+     ],
+     "ids": [
+      "pg085_im003"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg085_im003.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Biblioteka Kombëtare “Pjetër Bogdani” në Prishtinë, me arkitekturë karakteristike, kupola të bardha dhe fasadë rrjetëzuese."
+  },
+  {
+   "id": "p088_1",
+   "page": 88,
+   "pdf": [
+    "tools/image_review/pdf/p088_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg086_im001.png",
+     "screens": [
+      "pg086_sec001"
+     ],
+     "ids": [
+      "pg086_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg086_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Pamje panoramike e Bjeshkëve e Nemuna në Rugovë, me maja të thepisura shkëmbore, lugina të thella dhe shpatet me gjelbërim nën qiell të kthjellët."
+  },
+  {
+   "id": "p089_1",
+   "page": 89,
+   "pdf": [
+    "tools/image_review/pdf/p089_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg087_fig1_pdf.png",
+     "screens": [
+      "pg087_sec004"
+     ],
+     "ids": [
+      "pg087_im008_seg001_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg087_im008_seg001_v1_crop_v1.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Grua dhe burrë me veshje tradicionale të Rugovës, me qëndisje shumëngjyrëshe, përparëse të kuqe dhe plis të bardhë."
+  },
+  {
+   "id": "p089_2",
+   "page": 89,
+   "pdf": [
+    "tools/image_review/pdf/p089_2.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg087_fig2_pdf.png",
+     "screens": [
+      "pg087_sec004"
+     ],
+     "ids": [
+      "pg087_im008_seg002_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg087_im008_seg002_v1_crop_v1.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Dy kostume tradicionale të Drenicës me xhamadan të errët, brez të kuq dhe tirq."
+  },
+  {
+   "id": "pg087_im008_seg003_crop",
+   "page": 89,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg087_im008_seg003_crop.png",
+     "screens": [
+      "pg087_sec004"
+     ],
+     "ids": [
+      "pg087_im008_seg003_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg087_im008_seg003_v1.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Veshje tradicionale e Hasit, e zbukuruar me motive të dendura shumëngjyrëshe dhe stoli në pjesën e sipërme."
+  },
+  {
+   "id": "pg087_im008_seg004_crop",
+   "page": 89,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg087_im008_seg004_crop.png",
+     "screens": [
+      "pg087_sec004"
+     ],
+     "ids": [
+      "pg087_im008_seg004_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg087_im008_seg004_v1_crop_v1.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Xhubletë e zezë me brez dhe vija rozë, me fund të valëzuar tradicional."
+  },
+  {
+   "id": "pg087_im008_seg005_crop",
+   "page": 89,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg087_im008_seg005_crop.png",
+     "screens": [
+      "pg087_sec004"
+     ],
+     "ids": [
+      "pg087_im008_seg005_v1_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg087_im008_seg005_v1_crop_v1.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Dy veshje tradicionale të Tropojës me jelek të zi, këmishë të bardhë të qëndisur, fund të kuq dhe përparëse të bardhë."
+  },
+  {
+   "id": "p090_1",
+   "page": 90,
+   "pdf": [
+    "tools/image_review/pdf/p090_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg088_im001.png",
+     "screens": [
+      "pg088_sec001"
+     ],
+     "ids": [
+      "pg088_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg088_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Sallë moderne dasme me tavolina të rregulluara, dekorime me lule dhe ambient festiv."
+  },
+  {
+   "id": "pg088_im002",
+   "page": 90,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg088_im002.png",
+     "screens": [
+      "pg088_sec001"
+     ],
+     "ids": [
+      "pg088_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg088_im002.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Dasmë tradicionale me valltarë në rreth, muzikantë dhe të ftuar të veshur me kostume popullore."
+  },
+  {
+   "id": "pg092_im001",
+   "page": 92,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg092_im001.png",
+     "screens": [
+      "pg092_sec001"
+     ],
+     "ids": [
+      "pg092_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg092_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Termocentrali “Kosova” me oxhaqe të larta, ku shfrytëzohet thëngjilli për prodhimin e energjisë elektrike."
+  },
+  {
+   "id": "pg092_im002",
+   "page": 92,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg092_im002.png",
+     "screens": [
+      "pg092_sec001"
+     ],
+     "ids": [
+      "pg092_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg092_im002.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Hyrja e një miniere në Trepçë, që lidhet me nxjerrjen e mineraleve në Mitrovicë."
+  },
+  {
+   "id": "p093_1",
+   "page": 93,
+   "pdf": [
+    "tools/image_review/pdf/p093_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg093_im001.png",
+     "screens": [
+      "pg093_sec001"
+     ],
+     "ids": [
+      "pg093_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg093_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Ujëvarë që derdhet në një pellg të vogël mes shkëmbinjve dhe pemëve."
+  },
+  {
+   "id": "p093_2",
+   "page": 93,
+   "pdf": [
+    "tools/image_review/pdf/p093_2.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg093_im002.png",
+     "screens": [
+      "pg093_sec001"
+     ],
+     "ids": [
+      "pg093_im002"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg093_im002.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Liqe i qetë i rrethuar me kodra të gjelbra nën një qiell me re."
+  },
+  {
+   "id": "p093_3",
+   "page": 93,
+   "pdf": [
+    "tools/image_review/pdf/p093_3.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg093_im003.png",
+     "screens": [
+      "pg093_sec001"
+     ],
+     "ids": [
+      "pg093_im003"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg093_im003.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Platformë druri për peshkim mbi liqen, me kodra të pyllëzuara në sfond."
+  },
+  {
+   "id": "p093_4",
+   "page": 93,
+   "pdf": [
+    "tools/image_review/pdf/p093_4.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg093_im004.png",
+     "screens": [
+      "pg093_sec001"
+     ],
+     "ids": [
+      "pg093_im004"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg093_im004.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Drini i Bardhë duke rrjedhur me vrull mes shkëmbinjve të mbuluar me myshk në pyll."
+  },
+  {
+   "id": "p094_1",
+   "page": 94,
+   "pdf": [
+    "tools/image_review/pdf/p094_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg094_im001.png",
+     "screens": [
+      "pg094_sec001"
+     ],
+     "ids": [
+      "pg094_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg094_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Katër turistë të rinj, të veshur në mënyrë formale, bisedojnë të buzëqeshur gjatë një vizite në Kosovë."
+  },
+  {
+   "id": "p095_1",
+   "page": 95,
+   "pdf": [
+    "tools/image_review/pdf/p095_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg095_fig1_pdf.png",
+     "screens": [
+      "pg095_sec002"
+     ],
+     "ids": [
+      "pg095_fig1"
+     ]
+    }
+   ],
+   "flamur": [],
+   "alt": "Vizatim i një termocentrali me oxhaqe që nxjerrin tym dhe me shtylla të tensionit të lartë përreth."
+  },
+  {
+   "id": "pg095_im002",
+   "page": 95,
+   "pdf": [],
+   "book": [],
+   "flamur": [
+    {
+     "src": "images/pg095_im002.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": ""
+  },
+  {
+   "id": "p097_1",
+   "page": 97,
+   "pdf": [
+    "tools/image_review/pdf/p097_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg097_im001_crop.png",
+     "screens": [
+      "pg096_sec001"
+     ],
+     "ids": [
+      "pg097_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg097_im001.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Dy fëmijë bisedojnë ulur mbi shkëmb pranë një liqeni, me male, pyll dhe shtëpi në sfond."
+  },
+  {
+   "id": "p099_1",
+   "page": 99,
+   "pdf": [
+    "tools/image_review/pdf/p099_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg099_im001_crop.png",
+     "screens": [
+      "pg099_sec001"
+     ],
+     "ids": [
+      "pg099_im001_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg099_im001_crop_v1.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg099_sec001-landscape.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Peizazh natyror me lumë që gjarpëron mes fushave të gjelbra, male në sfond dhe diell mbi horizont."
+  },
+  {
+   "id": "p100_1",
+   "page": 100,
+   "pdf": [
+    "tools/image_review/pdf/p100_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg100_im001_seg002_v1.png",
+     "screens": [
+      "pg100_sec002"
+     ],
+     "ids": [
+      "pg100_im001_seg002_v1"
+     ]
+    },
+    {
+     "src": "images/pg100_im001_seg003_v1.png",
+     "screens": [
+      "pg100_sec002"
+     ],
+     "ids": [
+      "pg100_im001_seg003_v1"
+     ]
+    },
+    {
+     "src": "images/pg100_im001_seg005_v1.png",
+     "screens": [
+      "pg100_sec002"
+     ],
+     "ids": [
+      "pg100_im001_seg005_v1"
+     ]
+    },
+    {
+     "src": "images/pg100_im001_seg006_v1.png",
+     "screens": [
+      "pg100_sec002"
+     ],
+     "ids": [
+      "pg100_im001_seg006_v1"
+     ]
+    },
+    {
+     "src": "images/pg100_im001_seg007_v1_crop_v1.png",
+     "screens": [
+      "pg100_sec002"
+     ],
+     "ids": [
+      "pg100_im001_seg007_v1_crop_v1"
+     ]
+    },
+    {
+     "src": "images/pg100_im001_seg008_v1.png",
+     "screens": [
+      "pg100_sec002"
+     ],
+     "ids": [
+      "pg100_im001_seg008_v1"
+     ]
+    },
+    {
+     "src": "images/pg100_im001_seg009_v1.png",
+     "screens": [
+      "pg100_sec002"
+     ],
+     "ids": [
+      "pg100_im001_seg009_v1"
+     ]
+    },
+    {
+     "src": "images/pg100_im001_seg010_v1.png",
+     "screens": [
+      "pg100_sec002"
+     ],
+     "ids": [
+      "pg100_im001_seg010_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg100_im001_seg002_v1.png",
+     "same_as_book": true
+    },
+    {
+     "src": "images/pg100_im001_seg003_v1.png",
+     "same_as_book": true
+    },
+    {
+     "src": "images/pg100_im001_seg005_v1.png",
+     "same_as_book": true
+    },
+    {
+     "src": "images/pg100_im001_seg006_v1.png",
+     "same_as_book": true
+    },
+    {
+     "src": "images/pg100_im001_seg007_v1_crop_v1.png",
+     "same_as_book": true
+    },
+    {
+     "src": "images/pg100_im001_seg008_v1.png",
+     "same_as_book": true
+    },
+    {
+     "src": "images/pg100_im001_seg009_v1.png",
+     "same_as_book": true
+    },
+    {
+     "src": "images/pg100_im001_seg010_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Mësuese duke folur para tabelës."
+  },
+  {
+   "id": "pg100_im001_seg001_v1",
+   "page": 100,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg100_im001_seg001_v1.png",
+     "screens": [
+      "pg100_sec002"
+     ],
+     "ids": [
+      "pg100_im001_seg001_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg100_im001_seg001_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Lumë me një urë të vogël druri."
+  },
+  {
+   "id": "pg100_im001_seg004_v1",
+   "page": 100,
+   "pdf": [],
+   "book": [
+    {
+     "src": "images/pg100_im001_seg004_v1.png",
+     "screens": [
+      "pg100_sec002"
+     ],
+     "ids": [
+      "pg100_im001_seg004_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg100_im001_seg004_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Dielli me rreze të verdha në qiell të kaltër."
+  },
+  {
+   "id": "p102_1",
+   "page": 102,
+   "pdf": [
+    "tools/image_review/pdf/p102_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg102_im001.png",
+     "screens": [
+      "pg102_sec001"
+     ],
+     "ids": [
+      "pg102_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg102_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Pamje ajrore e një kalaje të vjetër me mure guri në kodër, pranë shtëpive të qytetit, si pjesë e trashëgimisë kulturore."
+  },
+  {
+   "id": "p103_1",
+   "page": 103,
+   "pdf": [
+    "tools/image_review/pdf/p103_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg103_im001.png",
+     "screens": [
+      "pg103_sec001"
+     ],
+     "ids": [
+      "pg103_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg103_im001.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Pamje ajrore e një kalaje historike me mure guri dhe oborr të brendshëm, e rrethuar nga qyteti dhe një xhami pranë saj."
+  },
+  {
+   "id": "p104_1",
+   "page": 104,
+   "pdf": [
+    "tools/image_review/pdf/p104_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg104_im001_crop.png",
+     "screens": [
+      "pg104_sec001"
+     ],
+     "ids": [
+      "pg104_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg104_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg104_sec001-scene.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Mali fle natën në shtratin e tij, pranë komodinës me orë alarmi, ndërsa jashtë dritares shihet hëna dhe yjet."
+  },
+  {
+   "id": "p106_1",
+   "page": 106,
+   "pdf": [
+    "tools/image_review/pdf/p106_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg106_im001_crop.png",
+     "screens": [
+      "pg106_sec001"
+     ],
+     "ids": [
+      "pg106_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg106_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg106_sec001-classroom.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Mësuesi po u shpjegon nxënësve në klasë për kujdesin ndaj ambientit, pranë tabelës me një pamje të natyrës."
+  },
+  {
+   "id": "pg109_im003_crop_v1",
+   "page": 109,
+   "pdf": [],
+   "book": [],
+   "flamur": [
+    {
+     "src": "images/pg109_im003_crop_v1.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": ""
+  },
+  {
+   "id": "p110_1",
+   "page": 110,
+   "pdf": [
+    "tools/image_review/pdf/p110_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg110_im001_crop.png",
+     "screens": [
+      "pg110_sec001"
+     ],
+     "ids": [
+      "pg110_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg110_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg110_sec001-scene.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Vajza e ulur në stol lexon një libër në park, ndërsa pranë saj një burrë shëtit qenin mes pemëve."
+  },
+  {
+   "id": "p111_1",
+   "page": 111,
+   "pdf": [
+    "tools/image_review/pdf/p111_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg111_im001_crop.png",
+     "screens": [
+      "pg111_sec002"
+     ],
+     "ids": [
+      "pg111_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg111_im001.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Katër shporta ricikluese me ngjyra të kuqe, të gjelbër, të verdhë dhe blu në një park, ndërsa një fëmijë ecën pranë tyre mes pemëve."
+  },
+  {
+   "id": "p113_1",
+   "page": 113,
+   "pdf": [
+    "tools/image_review/pdf/p113_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg113_im001_crop.png",
+     "screens": [
+      "pg112_sec001"
+     ],
+     "ids": [
+      "pg113_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg113_im001.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Tre fëmijë pranë një lumi pastrojnë bregun duke mbledhur shishe plastike dhe mbeturina në një qese të madhe, me fusha dhe shtëpi në sfond."
+  },
+  {
+   "id": "p114_1",
+   "page": 114,
+   "pdf": [
+    "tools/image_review/pdf/p114_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg114_im001_crop.png",
+     "screens": [
+      "pg114_sec001"
+     ],
+     "ids": [
+      "pg114_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg114_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg114_sec001-scene.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Tre nxënës të ulur në banka përballë një tabele të gjelbër në klasë, me orë muri, vizatime dhe një poster të sistemit diellor në mur."
+  },
+  {
+   "id": "p115_1",
+   "page": 115,
+   "pdf": [
+    "tools/image_review/pdf/p115_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg115_fig1_pdf.png",
+     "screens": [
+      "pg115_sec001"
+     ],
+     "ids": [
+      "pg115_fig1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "studio/assets/pg115_sec001-park.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Një park me një stol të verdhë; në tokë janë hedhur një grumbull mbeturinash dhe një kanaçe."
+  },
+  {
+   "id": "p116_1",
+   "page": 116,
+   "pdf": [
+    "tools/image_review/pdf/p116_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg116_im001_crop.png",
+     "screens": [
+      "pg116_sec001"
+     ],
+     "ids": [
+      "pg116_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg116_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg116_sec001-classroom.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Tre nxënës të ulur rreth një tavoline në klasë, duke biseduar para dërrasës së gjelbër; në sfond duken tavolina e mësuesit, raftet me libra dhe ora e murit."
+  },
+  {
+   "id": "p117_1",
+   "page": 117,
+   "pdf": [
+    "tools/image_review/pdf/p117_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg117_fig1_pdf.png",
+     "screens": [
+      "pg117_sec001"
+     ],
+     "ids": [
+      "pg117_im001_crop_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg117_im001_crop_v1.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg117_sec001-window.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Një burrë po pret një pemë me sëpatë në oborr, i parë përmes dritares."
+  },
+  {
+   "id": "p118_1",
+   "page": 118,
+   "pdf": [
+    "tools/image_review/pdf/p118_1.png"
+   ],
+   "book": [
+    {
+     "src": "studio/assets/pg118_sec001-bus.png",
+     "screens": [
+      "pg118_sec001"
+     ],
+     "ids": [
+      "pg118_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg118_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg118_sec001-bus.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Autobus i verdhë i transportit publik në rrugë, me ndërtesa të qytetit në sfond."
+  },
+  {
+   "id": "p119_1",
+   "page": 119,
+   "pdf": [
+    "tools/image_review/pdf/p119_1.png"
+   ],
+   "book": [
+    {
+     "src": "studio/assets/pg119_sec001-train.png",
+     "screens": [
+      "pg119_sec002"
+     ],
+     "ids": [
+      "pg119_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg119_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg119_sec001-train.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Tren modern i shpejtë duke kaluar pranë ndërtesave të qytetit, si shembull i transportit publik ekologjik."
+  },
+  {
+   "id": "p121_1",
+   "page": 121,
+   "pdf": [
+    "tools/image_review/pdf/p121_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg121_im001-reading.png",
+     "screens": [
+      "pg120_sec001"
+     ],
+     "ids": [
+      "pg121_im001"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg121_im001.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg121_im001-reading.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Mësuesja dhe pesë nxënës diskutojnë në klasë për riciklimin, me katër kosha të riciklimit me ngjyra të ndryshme përpara tavolinës."
+  },
+  {
+   "id": "p123_1",
+   "page": 123,
+   "pdf": [
+    "tools/image_review/pdf/p123_1.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg123_im001_seg001_crop.png",
+     "screens": [
+      "pg122_sec001"
+     ],
+     "ids": [
+      "pg123_im001_seg001_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "images/pg123_im001_seg001_v1.png",
+     "same_as_book": false
+    },
+    {
+     "src": "studio/assets/pg123_sec001-upper.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": "Vajza luan në piano në skenë, para perdeve të kuqe."
+  },
+  {
+   "id": "p123_2",
+   "page": 123,
+   "pdf": [
+    "tools/image_review/pdf/p123_2.png"
+   ],
+   "book": [
+    {
+     "src": "images/pg123_im001_seg002_v1.png",
+     "screens": [
+      "pg122_sec001"
+     ],
+     "ids": [
+      "pg123_im001_seg002_v1"
+     ]
+    }
+   ],
+   "flamur": [
+    {
+     "src": "studio/assets/pg123_sec001-lower.png",
+     "same_as_book": false
+    },
+    {
+     "src": "images/pg123_im001_seg002_v1.png",
+     "same_as_book": true
+    }
+   ],
+   "alt": "Dy fëmijë pastrojnë sallën para skenës me piano, duke mbledhur mbeturina në qese."
+  },
+  {
+   "id": "pg127_im001",
+   "page": 127,
+   "pdf": [],
+   "book": [],
+   "flamur": [
+    {
+     "src": "images/pg127_im001.png",
+     "same_as_book": false
+    }
+   ],
+   "alt": ""
+  }
+ ]
+}

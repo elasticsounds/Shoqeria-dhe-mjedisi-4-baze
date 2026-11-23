@@ -304,7 +304,7 @@
       ]
      ],
      "figure": {
-      "src": "images/pg051_im001_crop.png",
+      "src": "images/pg051_im001_inclusive.png",
       "id": "pg051_im001_crop_v1"
      }
     }
@@ -430,7 +430,7 @@
       ]
      ],
      "figure": {
-      "src": "images/pg053_im001_crop_v1.png",
+      "src": "images/pg053_im001_inclusive.png",
       "id": "pg053_im001_crop_v1"
      }
     }
@@ -557,7 +557,7 @@
       ]
      ],
      "figure": {
-      "src": "images/pg055_fig1_pdf.png",
+      "src": "images/pg055_im001.png",
       "id": "pg055_im001",
       "caption": "pg055_n0011"
      }
@@ -658,7 +658,7 @@
       ]
      ],
      "figure": {
-      "src": "images/pg057_fig1_pdf.png",
+      "src": "studio/assets/pg057_sec001-scene.png",
       "id": "pg057_fig1"
      },
      "place": "side"
@@ -730,7 +730,7 @@
      "items": [
       {
        "figure": {
-        "src": "images/pg058_im001_seg001_v1.png",
+        "src": "images/pg058_im001_seg001_inclusive.png",
         "id": "pg058_im001_seg001_v1"
        },
        "paras": [
@@ -741,7 +741,7 @@
       },
       {
        "figure": {
-        "src": "images/pg058_im001_seg002_v1.png",
+        "src": "images/pg058_im001_seg002_inclusive.png",
         "id": "pg058_im001_seg002_v1"
        },
        "paras": [
@@ -752,7 +752,7 @@
       },
       {
        "figure": {
-        "src": "images/pg058_im001_seg003_v1_crop_v1.png",
+        "src": "images/pg058_im001_seg003_inclusive.png",
         "id": "pg058_im001_seg003_v1_crop_v1"
        },
        "paras": [
@@ -817,7 +817,7 @@
      "items": [
       {
        "figure": {
-        "src": "images/pg059_im001_seg001_v1.png",
+        "src": "images/pg059_judge_flamur.png",
         "id": "pg059_im001_seg001_v1"
        },
        "paras": [
@@ -828,7 +828,7 @@
       },
       {
        "figure": {
-        "src": "images/pg059_im001_seg002_v1.png",
+        "src": "images/pg059_prosecutor_flamur.png",
         "id": "pg059_im001_seg002_v1"
        },
        "paras": [
@@ -839,7 +839,7 @@
       },
       {
        "figure": {
-        "src": "images/pg059_im001_seg003_v1.png",
+        "src": "images/pg059_notary_flamur.png",
         "id": "pg059_im001_seg003_v1"
        },
        "paras": [
@@ -850,7 +850,7 @@
       },
       {
        "figure": {
-        "src": "images/pg059_im001_seg004_v1.png",
+        "src": "images/pg059_lawyer_flamur.png",
         "id": "pg059_im001_seg004_v1"
        },
        "paras": [
