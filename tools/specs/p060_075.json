@@ -1,6 +1,5 @@
 {
  "texts": {
-  "pg074_fig1": "Vizatim i një vendbanimi me shtëpi me çati të kuqe, ndërtesa të larta shumëkatëshe dhe pemë të gjelbra."
  },
  "screens": [
   {
@@ -259,12 +258,20 @@
       [
        "pg065_n0020"
       ]
-     ],
-     "figure": {
-      "src": "images/pg065_im002.jpg",
-      "id": "pg065_im002"
-     },
-     "place": "side"
+     ]
+    },
+    {
+     "type": "gallery",
+     "figures": [
+      {
+       "src": "images/pg065_im002.jpg",
+       "id": "pg065_im002"
+      },
+      {
+       "src": "images/pg065_im001_flag.png",
+       "id": "pg065_im001"
+      }
+     ]
     }
    ]
   },
@@ -832,8 +839,17 @@
      "type": "gallery",
      "figures": [
       {
-       "src": "images/pg074_fig1_pdf.png",
-       "id": "pg074_fig1"
+       "src": "images/pg074_im002_seg001_v1_crop_v1.png",
+       "id": "pg074_im002_seg001_v1_crop_v1"
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "figures": [
+      {
+       "src": "images/pg074_im002_seg002_v1_crop_v1.png",
+       "id": "pg074_im002_seg002_v1_crop_v1"
       }
      ]
     }

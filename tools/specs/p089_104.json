@@ -1,9 +1,5 @@
 {
  "texts": {
-  "pg093_cap1": "Ujëvarat e Mirushës",
-  "pg093_cap2": "Liqeni i Badovcit",
-  "pg093_cap3": "Liqeni i Batllavës",
-  "pg095_fig1": "Vizatim i një termocentrali me oxhaqe që nxjerrin tym dhe me shtylla të tensionit të lartë përreth."
  },
  "screens": [
   {
@@ -331,13 +327,11 @@
      "figures": [
       {
        "src": "images/pg093_im001.png",
-       "id": "pg093_im001",
-       "caption": "pg093_cap1"
+       "id": "pg093_im001"
       },
       {
        "src": "images/pg093_im002.png",
-       "id": "pg093_im002",
-       "caption": "pg093_cap2"
+       "id": "pg093_im002"
       },
       {
        "src": "images/pg093_im004.png",
@@ -346,8 +340,7 @@
       },
       {
        "src": "images/pg093_im003.png",
-       "id": "pg093_im003",
-       "caption": "pg093_cap3"
+       "id": "pg093_im003"
       }
      ]
     },
@@ -491,8 +484,8 @@
      "type": "gallery",
      "figures": [
       {
-       "src": "images/pg095_fig1_pdf.png",
-       "id": "pg095_fig1",
+       "src": "images/pg095_im002.png",
+       "id": "pg095_im002",
        "caption": "pg095_n0029"
       }
      ]

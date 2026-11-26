@@ -354,6 +354,8 @@ def b_cards(b, ctx):
         parts = []
         if it.get('figure'):
             parts.append(img(it['figure']))
+        if it.get('figures'):
+            parts.append('<div class="lx-card__pics">' + ''.join(img(f) for f in it['figures']) + '</div>')
         if it.get('title'):
             parts.append(node('h2', it['title']))
         if it.get('paras'):

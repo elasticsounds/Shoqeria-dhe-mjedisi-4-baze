@@ -48,7 +48,7 @@ A figure is `{"src": "images/pg022_im001_crop_v1.png", "id": "pg022_im001_crop_v
 | `write` | `prompt`? (paras), `count`? or `fields`? (`[{"label": id}]`), `rows`? | Writing task: instruction + answer boxes. |
 | `table_write` | `columns`, `rows` (row-header IDs) or `row_count`, `corner`?, `prefilled`? (`{"1,2": [ids]}`) | A table the learner fills in. |
 | `table` | `columns`?, `rows` (each cell = paras) | Read-only table. |
-| `cards` | `items`: `{figure?, title?, paras?, label?, color?, answer?}`, `columns`? | Cards. With `answer` + `label` the card gets a checked short-answer field. |
+| `cards` | `items`: `{figure?, figures?, title?, paras?, label?, color?, answer?}`, `columns`? | Cards. With `answer` + `label` the card gets a checked short-answer field. |
 | `html` | `html`, `ids`?, `images`?, `fields`?, `answers`? | Escape hatch for a one-off layout. Avoid. |
 
 Any block with answer boxes makes the screen an ADT activity

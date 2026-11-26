@@ -1,7 +1,6 @@
 {
  "texts": {
-  "pg076_sevasti": "Sevasti Qiriazi ishte atdhetare dhe nismëtare e arsimit shqip për gra.",
-  "pg082_fig1": "Pamje e qytetit të Shkodrës nga lart, me shtëpi e rrugë, fusha të gjelbra, liqenin në të majtë dhe malet në sfond."
+  "pg076_sevasti": "Sevasti Qiriazi ishte atdhetare dhe nismëtare e arsimit shqip për gra."
  },
  "screens": [
   {
@@ -41,10 +40,16 @@
       },
       {
        "color": "yellow",
-       "figure": {
-        "src": "images/pg076_im008_seg003_crop.png",
-        "id": "pg076_im008_seg003_v1_crop_v1"
-       },
+       "figures": [
+        {
+         "src": "images/pg076_teacher_2026.png",
+         "id": "pg076_im008_seg002_v1_crop_v1"
+        },
+        {
+         "src": "images/pg076_abetare_2026.png",
+         "id": "pg076_im008_seg003_v1_crop_v1"
+        }
+       ],
        "paras": [
         [
          "pg076_n0017"
@@ -584,8 +589,8 @@
       ]
      ],
      "figure": {
-      "src": "images/pg082_fig1_pdf.png",
-      "id": "pg082_fig1",
+      "src": "images/pg082_im001.png",
+      "id": "pg082_im001",
       "caption": "pg082_n0023"
      },
      "place": "below"

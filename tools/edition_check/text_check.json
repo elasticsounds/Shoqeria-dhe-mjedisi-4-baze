@@ -1,0 +1,558 @@
+{
+ "adt": [
+  {
+   "page": 1,
+   "screen": "pg001_sec001",
+   "id": "pg001_n0003",
+   "adt": "SHOQËRIA DHE MJEDISI 4",
+   "match": 0,
+   "pdf_near": "",
+   "new_id": false
+  },
+  {
+   "page": 1,
+   "screen": "pg001_sec001",
+   "id": "pg001_n0004",
+   "adt": "Për klasën e katërt të arsimit fillor",
+   "match": 0,
+   "pdf_near": "",
+   "new_id": false
+  },
+  {
+   "page": 25,
+   "screen": "pg025_sec002",
+   "id": "pg025_n0010",
+   "adt": "Vazhdоje tregimin ashtu siç do ti të zhvillohen ngjarjet!",
+   "match": 0.88,
+   "pdf_near": "je tregimin ashtu siç do ti të zhvillohen ngjarjet",
+   "new_id": false
+  },
+  {
+   "page": 44,
+   "screen": "pg044_sec001",
+   "id": "pg044_n0017",
+   "adt": "Kruja",
+   "match": 0,
+   "pdf_near": "",
+   "new_id": false
+  },
+  {
+   "page": 44,
+   "screen": "pg044_sec001",
+   "id": "pg044_n0019",
+   "adt": "Prizreni / Skënderbeu",
+   "match": 0.56,
+   "pdf_near": "Skënderbeu",
+   "new_id": false
+  },
+  {
+   "page": 49,
+   "screen": "pg049_sec001",
+   "id": "pg049_n0008",
+   "adt": "Në klasën tonë kishte kohë që kishte ardhur një nxënëse e re, e cila vinte nga një qytet tjetër.",
+   "match": 1.0,
+   "pdf_near": "Në klasën tonë kishte kohë që kishte ardhur një nxënëse e re, e cila vinte Situata nga një qytet tjetër",
+   "new_id": false
+  },
+  {
+   "page": 64,
+   "screen": "pg064_sec003",
+   "id": "pg063_x0001",
+   "adt": "Vlerëso të gjitha pohimet para se të vazhdosh.",
+   "match": 0.34,
+   "pdf_near": "",
+   "new_id": true
+  },
+  {
+   "page": 70,
+   "screen": "pg070_sec001",
+   "id": "pg070_x0001",
+   "adt": "Shkruaj në secilën pjesë të diagramit.",
+   "match": 0.19,
+   "pdf_near": "pjesët",
+   "new_id": true
+  },
+  {
+   "page": 72,
+   "screen": "pg072_sec001",
+   "id": "pg072_n0011",
+   "adt": "Ekonomi do të thotë prodhim",
+   "match": 0.61,
+   "pdf_near": "",
+   "new_id": false
+  },
+  {
+   "page": 72,
+   "screen": "pg072_sec001",
+   "id": "pg072_n0012",
+   "adt": "Vendet me ekonomi të zhvilluar janë të pasura",
+   "match": 0.47,
+   "pdf_near": "ekonomi të zhvilluar",
+   "new_id": false
+  },
+  {
+   "page": 72,
+   "screen": "pg072_sec001",
+   "id": "pg072_n0013",
+   "adt": "Ekonomia e zhvilluar, shumë njerëz të punësuar.",
+   "match": 0.44,
+   "pdf_near": "",
+   "new_id": false
+  },
+  {
+   "page": 72,
+   "screen": "pg072_sec001",
+   "id": "pg072_n0014",
+   "adt": "Në fshat zakonisht punojnë tokën dhe rrisin kafshët.",
+   "match": 0.14,
+   "pdf_near": "kafshë",
+   "new_id": false
+  },
+  {
+   "page": 72,
+   "screen": "pg072_sec001",
+   "id": "pg072_n0015",
+   "adt": "Në qytet ndërtohen shumë fabrika.",
+   "match": 0.25,
+   "pdf_near": "fabrika",
+   "new_id": false
+  },
+  {
+   "page": 74,
+   "screen": "pg074_sec001",
+   "id": "pg074_n0019",
+   "adt": "Njerëzit në fshatra më së shumti merren me bujqësi, që do të thotë merren me punimin e tokës, rritjen e drithërave, të frutave dhe të perimeve.",
+   "match": 1.0,
+   "pdf_near": "Njerëzit në fshatra më së shumti Njerëzit në qytete punojnë në fabrika, merren me bujqësi, që do të thotë punishte, uzina, miniera. Ata marrin merren me punimin e tokës, rritjen e prodhime, të cilat i quajmë prodhime drithërave, të frutave dhe të perimeve",
+   "new_id": false
+  },
+  {
+   "page": 74,
+   "screen": "pg074_sec001",
+   "id": "pg074_n0021",
+   "adt": "Punimi i tokës dikur ishte shumë i vështirë, sepse punohej vetëm me parmendë (vegël e thjeshtë pune).",
+   "match": 1.0,
+   "pdf_near": "Punimi i tokës dikur ishte shumë i Në qytete është zhvilluar edhe tregtia, vështirë, sepse punohej vetëm me falë shumë dyqaneve dhe qendrave parmendë (vegël e thjeshtë pune",
+   "new_id": false
+  },
+  {
+   "page": 74,
+   "screen": "pg074_sec001",
+   "id": "pg074_n0022",
+   "adt": "Duhej më shumë fuqi punëtore dhe shpenzohej më shumë kohë.",
+   "match": 1.0,
+   "pdf_near": "Duhej më shumë fuqi punëtore dhe vendi ynë dhe nga vende të tjera të shpenzohej më shumë kohë",
+   "new_id": false
+  },
+  {
+   "page": 74,
+   "screen": "pg074_sec001",
+   "id": "pg074_n0024",
+   "adt": "Sot punimi i tokës është bërë shumë më i lehtë dhe më i shpejtë, falë mjeteve më të përparuara të punës.",
+   "match": 1.0,
+   "pdf_near": "Sot punimi i tokës është bërë shumë Dikur njihnim dhe ushqeheshim vetëm më i lehtë dhe më i shpejtë, falë me frutat dhe perimet e vendit tonë, mjeteve më të përparuara të punës",
+   "new_id": false
+  },
+  {
+   "page": 74,
+   "screen": "pg074_sec001",
+   "id": "pg074_n0026",
+   "adt": "Në fshatra një pjesë e popullsisë merren me blegtori, pra me rritjen e kafshëve dhe të shpendëve.",
+   "match": 1.0,
+   "pdf_near": "Në fshatra një pjesë e popullsisë Po ashtu, edhe prodhimet e vendit merren me blegtori, pra me rritjen e tonë gjenden në vende të ndryshme kafshëve dhe të shpendëve",
+   "new_id": false
+  },
+  {
+   "page": 74,
+   "screen": "pg074_sec001",
+   "id": "pg074_n0027",
+   "adt": "Ata kanë ndërtuar ferma moderne, ku rritin bimë dhe rriten kafshë nga të cilat sigurojnë produkte ushqimore.",
+   "match": 1.0,
+   "pdf_near": "Ata kanë ndërtuar ferma moderne, ku rritin bimë dhe rriten kafshë nga të Njerëzit merren edhe me zeje të cilat sigurojnë produkte ushqimore",
+   "new_id": false
+  },
+  {
+   "page": 74,
+   "screen": "pg074_sec001",
+   "id": "pg074_n0030",
+   "adt": "Njerëzit në qytete punojnë në fabrika, punishte, uzina, miniera.",
+   "match": 1.0,
+   "pdf_near": "Njerëzit në qytete punojnë në fabrika, merren me bujqësi, që do të thotë punishte, uzina, miniera",
+   "new_id": false
+  },
+  {
+   "page": 74,
+   "screen": "pg074_sec001",
+   "id": "pg074_n0031",
+   "adt": "Ata marrin prodhime, të cilat i quajmë prodhime industriale.",
+   "match": 1.0,
+   "pdf_near": "Ata marrin merren me punimin e tokës, rritjen e prodhime, të cilat i quajmë prodhime drithërave, të frutave dhe të perimeve. industriale",
+   "new_id": false
+  },
+  {
+   "page": 74,
+   "screen": "pg074_sec001",
+   "id": "pg074_n0033",
+   "adt": "Në qytete është zhvilluar edhe tregtia, falë shumë dyqaneve dhe qendrave tregtare.",
+   "match": 1.0,
+   "pdf_near": "Në qytete është zhvilluar edhe tregtia, vështirë, sepse punohej vetëm me falë shumë dyqaneve dhe qendrave parmendë (vegël e thjeshtë pune). tregtare",
+   "new_id": false
+  },
+  {
+   "page": 74,
+   "screen": "pg074_sec001",
+   "id": "pg074_n0034",
+   "adt": "Ato kanë mallra që vijnë nga vendi ynë dhe nga vende të tjera të botës.",
+   "match": 0.91,
+   "pdf_near": "Ato kanë mallra që vijnë nga Duhej më shumë fuqi punëtore dhe vendi ynë dhe nga vende të tjera të",
+   "new_id": false
+  },
+  {
+   "page": 74,
+   "screen": "pg074_sec001",
+   "id": "pg074_n0036",
+   "adt": "Dikur njihnim dhe ushqeheshim vetëm me frutat dhe perimet e vendit tonë, kurse sot shijojmë edhe ato të vendeve më të largëta të botës.",
+   "match": 1.0,
+   "pdf_near": "Dikur njihnim dhe ushqeheshim vetëm më i lehtë dhe më i shpejtë, falë me frutat dhe perimet e vendit tonë, mjeteve më të përparuara të punës. kurse sot shijojmë edhe ato të vendeve më të largëta të botës",
+   "new_id": false
+  },
+  {
+   "page": 74,
+   "screen": "pg074_sec001",
+   "id": "pg074_n0037",
+   "adt": "Po ashtu, edhe prodhimet e vendit tonë gjenden në vende të ndryshme të botës.",
+   "match": 1.0,
+   "pdf_near": "Po ashtu, edhe prodhimet e vendit merren me blegtori, pra me rritjen e tonë gjenden në vende të ndryshme kafshëve dhe të shpendëve. të botës",
+   "new_id": false
+  },
+  {
+   "page": 74,
+   "screen": "pg074_sec001",
+   "id": "pg074_n0039",
+   "adt": "Njerëzit merren edhe me zeje të ndryshme.",
+   "match": 1.0,
+   "pdf_near": "Njerëzit merren edhe me zeje të cilat sigurojnë produkte ushqimore. ndryshme",
+   "new_id": false
+  },
+  {
+   "page": 82,
+   "screen": "pg082_sec001",
+   "id": "pg082_n0008",
+   "adt": "Gjatë vizitës së tyre, Mali provoi një pjatë me ushqime tradicionale që s’e kishte ngrënë kurrë më parë.",
+   "match": 0.99,
+   "pdf_near": "Gjatë vizitës së tyre, Mali provoi një pjatë me ushqime tradicionale qe s’e kishte ngrënë kurrë më parë",
+   "new_id": false
+  },
+  {
+   "page": 86,
+   "screen": "pg086_sec001",
+   "id": "pg086_n0017",
+   "adt": "Bjeshkët e Nemuna - Rugovë",
+   "match": 1.0,
+   "pdf_near": "",
+   "new_id": false
+  },
+  {
+   "page": 91,
+   "screen": "pg091_sec001",
+   "id": "pg091_x0001",
+   "adt": "Vlerëso të gjitha pohimet para se të vazhdosh.",
+   "match": 0.32,
+   "pdf_near": "",
+   "new_id": true
+  },
+  {
+   "page": 92,
+   "screen": "pg092_sec001",
+   "id": "pg092_n0024",
+   "adt": "1. Toka e punueshme, e cila shfrytëzohet për zhvillimin e bujqësisë.",
+   "match": 1.0,
+   "pdf_near": "",
+   "new_id": false
+  },
+  {
+   "page": 92,
+   "screen": "pg092_sec001",
+   "id": "pg092_n0026",
+   "adt": "2. Lumenjtë, të cilët i shfrytëzojmë për ujë të pijshëm apo ujitje.",
+   "match": 1.0,
+   "pdf_near": "Lumenjtë, të cilët i shfrytëzojmë për 2. Ka shumë minerale e më së shumti plumb, i cili nxirret nga minierat e ujë të pijshëm apo ujitje",
+   "new_id": false
+  },
+  {
+   "page": 92,
+   "screen": "pg092_sec001",
+   "id": "pg092_n0028",
+   "adt": "3. Liqenet artificiale, të cilat shfrytëzohen për ujë të pijshëm.",
+   "match": 1.0,
+   "pdf_near": "Liqenet artificiale, të cilat shfrytë3. Xehe të shumta. zohen për ujë të pijshëm",
+   "new_id": false
+  },
+  {
+   "page": 92,
+   "screen": "pg092_sec001",
+   "id": "pg092_n0037",
+   "adt": "1. Thëngjilli linjit, i cili shfrytëzohet për prodhimin e energjisë elektrike në Termocentralin “Kosova”.",
+   "match": 1.0,
+   "pdf_near": "Thëngjilli linjit, i cili shfrytëzohet për shfrytëzohet për zhvillimin e prodhimin e energjisë elektrike në Termocentralin “Kosova",
+   "new_id": false
+  },
+  {
+   "page": 92,
+   "screen": "pg092_sec001",
+   "id": "pg092_n0039",
+   "adt": "2. Ka shumë minerale e më së shumti plumb, i cili nxirret nga minierat e Trepçës në Mitrovicë.",
+   "match": 1.0,
+   "pdf_near": "Ka shumë minerale e më së shumti plumb, i cili nxirret nga minierat e ujë të pijshëm apo ujitje. Trepçës në Mitrovicë",
+   "new_id": false
+  },
+  {
+   "page": 93,
+   "screen": "pg093_sec001",
+   "id": "pg093_cap1",
+   "adt": "Ujëvarat e Mirushës",
+   "match": 0,
+   "pdf_near": "",
+   "new_id": false
+  },
+  {
+   "page": 93,
+   "screen": "pg093_sec001",
+   "id": "pg093_cap2",
+   "adt": "Liqeni i Badovcit",
+   "match": 0.4,
+   "pdf_near": "liqeni",
+   "new_id": false
+  },
+  {
+   "page": 93,
+   "screen": "pg093_sec001",
+   "id": "pg093_cap3",
+   "adt": "Liqeni i Batllavës",
+   "match": 0.38,
+   "pdf_near": "liqeni",
+   "new_id": false
+  },
+  {
+   "page": 95,
+   "screen": "pg095_sec002",
+   "id": "pg095_n0027",
+   "adt": "Këto pasuri duhen shfrytëzuar sa më arsyeshëm, sepse harxhimi i pakontrolluar i tyre shkakton humbje, duke qenë se këto pasuri janë të paripërtëritshme.",
+   "match": 0.99,
+   "pdf_near": "Këto pasuri duhen shfytëzuar sa më arsyeshëm, sepse harxhimi i pakontrolluar i tyre shkakton humbje, duke qenë se këto pasuri janë të paripërtëritshme",
+   "new_id": false
+  },
+  {
+   "page": 111,
+   "screen": "pg111_sec002",
+   "id": "pg111_bin1",
+   "adt": "Shporta e kuqe",
+   "match": 0.58,
+   "pdf_near": "shporta",
+   "new_id": false
+  },
+  {
+   "page": 111,
+   "screen": "pg111_sec002",
+   "id": "pg111_bin2",
+   "adt": "Shporta e gjelbër",
+   "match": 0.93,
+   "pdf_near": "",
+   "new_id": false
+  },
+  {
+   "page": 111,
+   "screen": "pg111_sec002",
+   "id": "pg111_bin3",
+   "adt": "Shporta e verdhë",
+   "match": 0.5,
+   "pdf_near": "shporta",
+   "new_id": false
+  },
+  {
+   "page": 111,
+   "screen": "pg111_sec002",
+   "id": "pg111_bin4",
+   "adt": "Shporta e kaltër",
+   "match": 0.5,
+   "pdf_near": "shporta",
+   "new_id": false
+  },
+  {
+   "page": 120,
+   "screen": "pg120_sec001",
+   "id": "pg120_n0009",
+   "adt": "Kur mësuesja filloi të fliste se si mbeturinat nuk duhej të hidheshin të gjitha në të njëjtën shportë, por ato duhej të klasifikoheshin, atij iu kujtua pse ekzistonte rregulla “3R”.",
+   "match": 0.99,
+   "pdf_near": "Kur mësuesja filloi të fliste se si mbeturinat nuk duhej të hidheshin të gjitha në të njëjtën shportë, por ato duhej të klasifikoheshin, atij iu kujtua pse ekzistonte rregulla",
+   "new_id": false
+  },
+  {
+   "page": 126,
+   "screen": "pg126_sec002",
+   "id": "pg126_x0001",
+   "adt": "Tërhiq një etiketë",
+   "match": 0.62,
+   "pdf_near": "një etiketë",
+   "new_id": true
+  },
+  {
+   "page": 126,
+   "screen": "pg126_sec002",
+   "id": "pg126_x0002",
+   "adt": "Përgjigje e saktë (2 pikë)",
+   "match": 0.79,
+   "pdf_near": "përgjigje e saktë",
+   "new_id": true
+  },
+  {
+   "page": 126,
+   "screen": "pg126_sec002",
+   "id": "pg126_x0003",
+   "adt": "Përgjigje jo e saktë",
+   "match": 0.88,
+   "pdf_near": "",
+   "new_id": true
+  },
+  {
+   "page": 126,
+   "screen": "pg126_sec002",
+   "id": "pg127_n0004",
+   "adt": "2. Cili është grupi më i vogël shoqëror?",
+   "match": 1.0,
+   "pdf_near": "Cili është grupi më i vogël arsyet që njerëzit bëjnë shoqëror",
+   "new_id": false
+  },
+  {
+   "page": 126,
+   "screen": "pg126_sec002",
+   "id": "pg127_n0006",
+   "adt": "3. Cilat janë arsyet që njerëzit bëjnë punë vullnetare?",
+   "match": 1.0,
+   "pdf_near": "Cilat janë 2. Cili është grupi më i vogël arsyet që njerëzit bëjnë shoqëror? punë vullnetare",
+   "new_id": false
+  },
+  {
+   "page": 126,
+   "screen": "pg126_sec002",
+   "id": "pg126_x0004",
+   "adt": "Radha e lojtarit:",
+   "match": 0,
+   "pdf_near": "",
+   "new_id": true
+  },
+  {
+   "page": 126,
+   "screen": "pg126_sec002",
+   "id": "pg126_x0005",
+   "adt": "Loja përfundoi.",
+   "match": 0,
+   "pdf_near": "",
+   "new_id": true
+  },
+  {
+   "page": 126,
+   "screen": "pg126_sec002",
+   "id": "pg126_x0006",
+   "adt": "Fitues:",
+   "match": 0,
+   "pdf_near": "",
+   "new_id": true
+  },
+  {
+   "page": 126,
+   "screen": "pg126_sec002",
+   "id": "pg126_x0007",
+   "adt": "Barazim!",
+   "match": 0.86,
+   "pdf_near": "barazi",
+   "new_id": true
+  },
+  {
+   "page": 126,
+   "screen": "pg126_sec002",
+   "id": "pg126_x0008",
+   "adt": "Loja nuk ka përfunduar ende. Tërhiqni të gjitha etiketat.",
+   "match": 0.17,
+   "pdf_near": "a etiketa",
+   "new_id": true
+  }
+ ],
+ "pdf": [
+  {
+   "page": 9,
+   "letters": 45,
+   "pdf": "Lidhjet dhe bashkëpunimi me të tjerët Komuniteti ynë"
+  },
+  {
+   "page": 11,
+   "letters": 47,
+   "pdf": "Lidhjet dhe bashkëpunimi me të tjerët Grupet shoqërore"
+  },
+  {
+   "page": 57,
+   "letters": 60,
+   "pdf": "Mendime të ndryshme, vendime të përbashkëta Vendimmarrja dikur dhe sot"
+  },
+  {
+   "page": 63,
+   "letters": 82,
+   "pdf": "Mitrovica Prishtina Peja Rrafshi i Dukagjinit Fusha e Kosovës Gjilani Gjakova Ferizaj Prizreni"
+  },
+  {
+   "page": 66,
+   "letters": 89,
+   "pdf": "Mitrovica Serbia Mali i Zi Prishtina Peja Ferizaj Gjakova Gjilani Prizreni Shqipëria Maqedonia e Veriut"
+  },
+  {
+   "page": 67,
+   "letters": 17,
+   "pdf": "Vendkalimi kufitar"
+  },
+  {
+   "page": 86,
+   "letters": 21,
+   "pdf": "Bjekshët e Nemuna - Rugovë"
+  },
+  {
+   "page": 92,
+   "letters": 19,
+   "pdf": "Toka e punueshme, e cila"
+  },
+  {
+   "page": 92,
+   "letters": 26,
+   "pdf": "shfrytëzohet për zhvillimin e"
+  },
+  {
+   "page": 113,
+   "letters": 31,
+   "pdf": "Mjedisi i vendit tim Ndotja e ujërave"
+  },
+  {
+   "page": 119,
+   "letters": 28,
+   "pdf": "Transporti publik dhe ekologjik"
+  },
+  {
+   "page": 121,
+   "letters": 36,
+   "pdf": "Mjedisi i vendit tim Si riciklohen mbetjet"
+  },
+  {
+   "page": 123,
+   "letters": 47,
+   "pdf": "Mjedisi i vendit tim Kujdesi për higjienën në komunitet"
+  },
+  {
+   "page": 126,
+   "letters": 22,
+   "pdf": "P disa koso sollë të ar vend"
+  },
+  {
+   "page": 127,
+   "letters": 12,
+   "pdf": "re të ilat et ë d"
+  }
+ ]
+}

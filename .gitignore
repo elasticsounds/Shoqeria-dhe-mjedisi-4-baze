@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+# source PDFs are over GitHub's 100 MB file limit
+tools/page_map/*.pdf
+# page renders, regenerable from the PDF
+tools/edition_check/pages2026/
+tools/edition_check/pages2026_hi/

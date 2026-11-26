@@ -250,6 +250,7 @@ body:has(#content.lx) :is(#interface-container, #nav-container) :not(i):not([cla
   object-fit: contain;
   border-radius: 12px;
 }
+#content.bk.bk.bk.lx .lx-card__pics { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; }
 #content.bk.bk.bk.lx .lx-card label { font-weight: 600; color: var(--lx-purple-deep); }
 #content.bk.bk.bk.lx .lx-card .lx-input { max-width: 160px; text-align: center; }
 #content.bk.bk.bk.lx .lx-card--green { background: var(--lx-green-tint); border-color: var(--lx-green); }

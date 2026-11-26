@@ -28,8 +28,10 @@ Do not hand-edit `pgNNN_sec*.html`; the next build overwrites them. The reader l
 and the pages through `assets/offline-preloader.js`, so a change is not visible until the build has refreshed it.
 
 Text IDs in this bundle look like `pg008_n0006` (not `pg001_gp001_tx001` as in the generic description below).
-The bundle is an adapted edition: wording, a few pictures and the order of some lessons differ from the PDF, and
-bundle page numbers do not always equal PDF page numbers (84–91 are reordered; 128 is an added glossary page).
+The bundle text follows the **2026 edition** of the book (129 pages; `tools/page_map/Shoqeria dhe mjedisi 4 Baze.pdf`),
+and bundle page numbers equal that edition's printed page numbers. The 2024 edition (128 pages, `Shoqeria-dhe-mjedisi-4-Baze.pdf`)
+differs: other wording, pages 84–91 in another order, no glossary page (128), references on 128. Some pictures were cut
+from the 2024 PDF during the rebuild and may differ from the 2026 edition.
 
 ## Quick Overview
 

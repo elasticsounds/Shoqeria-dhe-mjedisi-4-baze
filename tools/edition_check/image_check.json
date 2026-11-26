@@ -1,0 +1,5631 @@
+{
+ "book": [
+  {
+   "src": "images/pg001_im002.png",
+   "screens": [
+    "pg001_sec001"
+   ],
+   "ids": [
+    "pg001_im002"
+   ],
+   "alt": "Glob tokësor pranë një libri të hapur, me peshore drejtësie dhe gjethe të mëdha në sfond.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "",
+   "s2026": [
+    0,
+    0.0
+   ],
+   "page2026": 1,
+   "spage": [
+    188,
+    0.75
+   ],
+   "best2024": "",
+   "s2024": [
+    0,
+    0.0
+   ]
+  },
+  {
+   "src": "studio/assets/pg006_sec001-bedroom.png",
+   "screens": [
+    "pg006_sec001"
+   ],
+   "ids": [
+    "pg006_im001"
+   ],
+   "alt": "Linda duke lexuar një libër në tavolinën e dhomës së saj, pranë krevatit dhe dritares me perde blu.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p007_1.png",
+   "s2026": [
+    161,
+    0.99
+   ],
+   "page2026": 6,
+   "spage": [
+    201,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p007_1.png",
+   "s2024": [
+    161,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg009_im001_inclusive.png",
+   "screens": [
+    "pg008_sec001"
+   ],
+   "ids": [
+    "pg009_im001"
+   ],
+   "alt": "Një shtëpi e madhe rozë me banorë në dritare dhe ballkone, ndërsa në rrugë fëmijët përqafohen, shëtisin qenin dhe ngasin së bashku një biçikletë; mes tyre janë dy fëmijë në karrocë me rrota, një djalë i verbër me qen udhërrëfyes dhe një vajzë me shkop të bardhë.",
+   "in2026": false,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p007_1.png",
+   "s2026": [
+    5,
+    0.0
+   ],
+   "page2026": 8,
+   "spage": [
+    6,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p007_1.png",
+   "s2024": [
+    5,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg011_im001_inclusive.png",
+   "screens": [
+    "pg010_sec001"
+   ],
+   "ids": [
+    "pg011_im001"
+   ],
+   "alt": "Tre fëmijë vallëzojnë të lumtur së bashku, me duart lart dhe nota muzikore përreth; njëra prej tyre vallëzon e ulur në karrocë me rrota.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p011_1.png",
+   "s2026": [
+    101,
+    0.84
+   ],
+   "page2026": 11,
+   "spage": [
+    77,
+    0.8
+   ],
+   "best2024": "",
+   "s2024": [
+    0,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg011_im002_inclusive.png",
+   "screens": [
+    "pg010_sec001"
+   ],
+   "ids": [
+    "pg011_im002"
+   ],
+   "alt": "Një djalë dhe një vajzë me veshje sportive luajnë futboll së bashku para portës.",
+   "in2026": false,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p011_1.png",
+   "s2026": [
+    6,
+    0.0
+   ],
+   "page2026": 11,
+   "spage": [
+    8,
+    0.0
+   ],
+   "best2024": "",
+   "s2024": [
+    0,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg012_im001_inclusive.png",
+   "screens": [
+    "pg012_sec001"
+   ],
+   "ids": [
+    "pg012_im001_crop_v1"
+   ],
+   "alt": "Dy nxënëse në korridorin e shkollës po sjellin kuti me dhurata; njëra prej tyre lëviz me karrocë me rrota dhe e mban kutinë në prehër. Pako të tjera janë mbledhur për t’u dhuruar fëmijëve në nevojë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p013_1.png",
+   "s2026": [
+    140,
+    0.93
+   ],
+   "page2026": 12,
+   "spage": [
+    122,
+    0.81
+   ],
+   "best2024": "tools/image_review/pdf/p013_1.png",
+   "s2024": [
+    140,
+    0.93
+   ]
+  },
+  {
+   "src": "images/pg013_im002.png",
+   "screens": [
+    "pg013_sec001"
+   ],
+   "ids": [
+    "pg013_im002"
+   ],
+   "alt": "Lisi mban në duar një grumbull librash pranë rafteve të mbushura me libra, ndërsa prindërit e tij shihen në sfond në shtëpi.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p013_2.png",
+   "s2026": [
+    437,
+    1.0
+   ],
+   "page2026": 13,
+   "spage": [
+    244,
+    0.98
+   ],
+   "best2024": "tools/image_review/pdf/p013_2.png",
+   "s2024": [
+    437,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg014_im001_seg001_v1.png",
+   "screens": [
+    "pg014_sec001"
+   ],
+   "ids": [
+    "pg014_im001_seg001_v1"
+   ],
+   "alt": "Kek i vogël me krem rozë, spërkatëse shumëngjyrëshe dhe dy shkopinj dekorues.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p014_1.png",
+   "s2026": [
+    41,
+    0.98
+   ],
+   "page2026": 14,
+   "spage": [
+    30,
+    0.93
+   ],
+   "best2024": "tools/image_review/pdf/p014_1.png",
+   "s2024": [
+    41,
+    0.98
+   ]
+  },
+  {
+   "src": "images/pg014_im001_seg002_v1.png",
+   "screens": [
+    "pg014_sec001"
+   ],
+   "ids": [
+    "pg014_im001_seg002_v1"
+   ],
+   "alt": "Kartolinë e kaltër e zbukuruar me dy lule shumëngjyrëshe në ballinë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p014_2.png",
+   "s2026": [
+    60,
+    0.99
+   ],
+   "page2026": 14,
+   "spage": [
+    43,
+    0.97
+   ],
+   "best2024": "tools/image_review/pdf/p014_2.png",
+   "s2024": [
+    60,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg015_im001_inclusive.png",
+   "screens": [
+    "pg015_sec001"
+   ],
+   "ids": [
+    "pg015_im001"
+   ],
+   "alt": "Mësuesja para tabelës u flet nxënësve në klasë, ndërsa ata janë ulur në banka dhe e dëgjojnë; njëri nga nxënësit është ulur në karrocë me rrota.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p015_1.png",
+   "s2026": [
+    203,
+    0.91
+   ],
+   "page2026": 15,
+   "spage": [
+    165,
+    0.87
+   ],
+   "best2024": "tools/image_review/pdf/p016_1.png",
+   "s2024": [
+    8,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg016_im001_crop.png",
+   "screens": [
+    "pg016_sec001"
+   ],
+   "ids": [
+    "pg016_im001"
+   ],
+   "alt": "Nëna dhe vajza e saj bisedojnë të ulura në divan në shtëpi.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p016_1.png",
+   "s2026": [
+    211,
+    1.0
+   ],
+   "page2026": 16,
+   "spage": [
+    220,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p016_1.png",
+   "s2024": [
+    194,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg017_im001_crop.png",
+   "screens": [
+    "pg017_sec001"
+   ],
+   "ids": [
+    "pg017_im001"
+   ],
+   "alt": "Televizor në dhomë ndeje me një prezantuese lajmesh në ekran dhe mbishkrimin “LAJME”, pranë një rafti me libra dhe vazo me lule.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p017_1.png",
+   "s2026": [
+    113,
+    0.99
+   ],
+   "page2026": 17,
+   "spage": [
+    160,
+    0.88
+   ],
+   "best2024": "tools/image_review/pdf/p017_1.png",
+   "s2024": [
+    98,
+    0.96
+   ]
+  },
+  {
+   "src": "images/pg018_im002_seg001_v1-reading.png",
+   "screens": [
+    "pg018_sec001"
+   ],
+   "ids": [
+    "pg018_im002_seg001_v1"
+   ],
+   "alt": "Police me uniformë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p018_1.png",
+   "s2026": [
+    126,
+    1.0
+   ],
+   "page2026": 18,
+   "spage": [
+    55,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p018_1.png",
+   "s2024": [
+    110,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg018_im002_seg002_v1-reading.png",
+   "screens": [
+    "pg018_sec001"
+   ],
+   "ids": [
+    "pg018_im002_seg002_v1"
+   ],
+   "alt": "Punonjëse e urgjencës me maskë dhe mburojë fytyre.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p018_2.png",
+   "s2026": [
+    128,
+    1.0
+   ],
+   "page2026": 18,
+   "spage": [
+    72,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p018_2.png",
+   "s2024": [
+    139,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg018_im002_seg003_v1-reading.png",
+   "screens": [
+    "pg018_sec001"
+   ],
+   "ids": [
+    "pg018_im002_seg003_v1"
+   ],
+   "alt": "Zjarrfikës me helmetë të kuqe dhe maskë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p018_3.png",
+   "s2026": [
+    99,
+    1.0
+   ],
+   "page2026": 18,
+   "spage": [
+    33,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p018_3.png",
+   "s2024": [
+    104,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg018_im003.jpg",
+   "screens": [
+    "pg018_sec002"
+   ],
+   "ids": [
+    "pg018_im003"
+   ],
+   "alt": "Në shkollë, infermierja ia mat temperaturën një nxënësi, ndërsa nxënësit mbajnë maska, dezinfektojnë duart, i lajnë ato dhe mbajnë distancë 2 metra.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p018_4.png",
+   "s2026": [
+    309,
+    0.99
+   ],
+   "page2026": 18,
+   "spage": [
+    276,
+    0.98
+   ],
+   "best2024": "tools/image_review/pdf/p018_4.png",
+   "s2024": [
+    58,
+    0.84
+   ]
+  },
+  {
+   "src": "images/pg019_im001_crop.png",
+   "screens": [
+    "pg019_sec001"
+   ],
+   "ids": [
+    "pg019_im001"
+   ],
+   "alt": "Polici rrugor ndalon veturat te vijat e bardha, ndërsa dy nxënës me çanta kalojnë rrugën të sigurt.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p019_1.png",
+   "s2026": [
+    225,
+    1.0
+   ],
+   "page2026": 19,
+   "spage": [
+    180,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p019_1.png",
+   "s2024": [
+    188,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg020_im001_seg001_v1.png",
+   "screens": [
+    "pg020_sec001"
+   ],
+   "ids": [
+    "pg020_im001_seg001_v1"
+   ],
+   "alt": "Mjeku po e kontrollon një vajzë me stetoskop në qendër shëndetësore.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p020_1.png",
+   "s2026": [
+    173,
+    1.0
+   ],
+   "page2026": 20,
+   "spage": [
+    131,
+    1.0
+   ],
+   "best2024": "tools/image_review/pdf/p020_1.png",
+   "s2024": [
+    91,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg020_im001_seg002_v1_crop_v1.png",
+   "screens": [
+    "pg020_sec001"
+   ],
+   "ids": [
+    "pg020_im001_seg002_v1_crop_v1"
+   ],
+   "alt": "Punëtorja shëndetësore po ia mat gjatësinë një djali gjatë kontrollit mjekësor.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p020_3.png",
+   "s2026": [
+    161,
+    0.99
+   ],
+   "page2026": 20,
+   "spage": [
+    86,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p020_1.png",
+   "s2024": [
+    80,
+    0.98
+   ]
+  },
+  {
+   "src": "images/pg020_im001_seg003_v1_crop_v1.png",
+   "screens": [
+    "pg020_sec001"
+   ],
+   "ids": [
+    "pg020_im001_seg003_v1_crop_v1"
+   ],
+   "alt": "Dentistja po ia kontrollon dhëmbët një djali në karrigen dentare.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p020_2.png",
+   "s2026": [
+    192,
+    0.99
+   ],
+   "page2026": 20,
+   "spage": [
+    115,
+    0.98
+   ],
+   "best2024": "tools/image_review/pdf/p020_1.png",
+   "s2024": [
+    118,
+    0.97
+   ]
+  },
+  {
+   "src": "images/pg021_im001_inclusive.png",
+   "screens": [
+    "pg021_sec001"
+   ],
+   "ids": [
+    "pg021_im001_crop_v1"
+   ],
+   "alt": "Mjekja me mantel të bardhë po u flet disa fëmijëve në një qendër shëndetësore; njëri nga fëmijët është në karrocë me rrota.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p021_1.png",
+   "s2026": [
+    50,
+    0.95
+   ],
+   "page2026": 21,
+   "spage": [
+    52,
+    0.72
+   ],
+   "best2024": "tools/image_review/pdf/p021_1.png",
+   "s2024": [
+    50,
+    0.88
+   ]
+  },
+  {
+   "src": "images/pg022_fig1_pdf.png",
+   "screens": [
+    "pg022_sec001"
+   ],
+   "ids": [
+    "pg022_im001_crop_v1"
+   ],
+   "alt": "Vajza dhe nëna provojnë të hanë oriz me shkopinj, duke mësuar nga zakonet kineze dhe duke respektuar kulturat e tjera.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p022_1.png",
+   "s2026": [
+    172,
+    1.0
+   ],
+   "page2026": 22,
+   "spage": [
+    166,
+    1.0
+   ],
+   "best2024": "tools/image_review/pdf/p022_1.png",
+   "s2024": [
+    173,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg023_im001.png",
+   "screens": [
+    "pg023_sec001"
+   ],
+   "ids": [
+    "pg023_im001"
+   ],
+   "alt": "Vajza i dhuron djalit një buqetë me lule të bardha, ndërsa ai duket i mërzitur dhe i shqetësuar.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p023_1.png",
+   "s2026": [
+    131,
+    1.0
+   ],
+   "page2026": 23,
+   "spage": [
+    101,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p023_1.png",
+   "s2024": [
+    131,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg024_im001.png",
+   "screens": [
+    "pg024_sec001"
+   ],
+   "ids": [
+    "pg024_im001"
+   ],
+   "alt": "Në sallën sportive, një vajzë në karrocë me rrota qëndron pranë trajnerit, ndërsa dy fëmijë luajnë me top para portës dhe koshit të basketbollit, duke theksuar përfshirjen dhe barazinë në lojë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p024_1.png",
+   "s2026": [
+    413,
+    1.0
+   ],
+   "page2026": 24,
+   "spage": [
+    265,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p024_1.png",
+   "s2024": [
+    172,
+    0.98
+   ]
+  },
+  {
+   "src": "images/pg025_fig1_pdf.png",
+   "screens": [
+    "pg025_sec001"
+   ],
+   "ids": [
+    "pg025_im002"
+   ],
+   "alt": "Nora dhe shoku i saj i bankës shkruajnë në fletore, ulur pranë njëri-tjetrit në klasë.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p025_1.png",
+   "s2026": [
+    34,
+    0.85
+   ],
+   "page2026": 25,
+   "spage": [
+    30,
+    0.8
+   ],
+   "best2024": "tools/image_review/pdf/p026_1.png",
+   "s2024": [
+    5,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg026_im001_crop.png",
+   "screens": [
+    "pg026_sec001"
+   ],
+   "ids": [
+    "pg026_im001"
+   ],
+   "alt": "Katër nxënës të ulur rreth një tavoline në klasë diskutojnë me radhë, me libra të hapur përpara dhe tabelën e gjelbër pas tyre.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p026_1.png",
+   "s2026": [
+    211,
+    0.99
+   ],
+   "page2026": 26,
+   "spage": [
+    221,
+    0.92
+   ],
+   "best2024": "tools/image_review/pdf/p026_1.png",
+   "s2024": [
+    208,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg028_im002.png",
+   "screens": [
+    "pg028_sec001"
+   ],
+   "ids": [
+    "pg028_im002"
+   ],
+   "alt": "Prishtinë, viti 1930: kullë kishe dhe xhami me minare pranë njëra-tjetrës, me banorë në rrugë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p028_1.png",
+   "s2026": [
+    1272,
+    1.0
+   ],
+   "page2026": 28,
+   "spage": [
+    856,
+    0.96
+   ],
+   "best2024": "tools/image_review/pdf/p028_1.png",
+   "s2024": [
+    1186,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg028_im003.png",
+   "screens": [
+    "pg028_sec001"
+   ],
+   "ids": [
+    "pg028_im003"
+   ],
+   "alt": "Ferizaj: kishë ortodokse, kambanore kishe dhe minaret e xhamisë pranë njëra-tjetrës në qendër të qytetit.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p028_2.png",
+   "s2026": [
+    890,
+    1.0
+   ],
+   "page2026": 28,
+   "spage": [
+    331,
+    0.97
+   ],
+   "best2024": "tools/image_review/pdf/p028_2.png",
+   "s2024": [
+    805,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg028_im004.png",
+   "screens": [
+    "pg028_sec001"
+   ],
+   "ids": [
+    "pg028_im004"
+   ],
+   "alt": "Gjakovë: kambanore kishe dhe minare xhamie ngrihen mbi qytetin e mbuluar me borë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p028_3.png",
+   "s2026": [
+    1291,
+    1.0
+   ],
+   "page2026": 28,
+   "spage": [
+    517,
+    0.95
+   ],
+   "best2024": "tools/image_review/pdf/p028_3.png",
+   "s2024": [
+    1079,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg029_fig1_pdf.png",
+   "screens": [
+    "pg029_sec001"
+   ],
+   "ids": [
+    "pg029_fig1"
+   ],
+   "alt": "Dhomë e zbukuruar për festë: bredh i Krishtlindjeve me dhurata, oxhak me zjarr dhe çorape të varura, kolltuk dhe dritare nga e cila duket bora.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p029_1.png",
+   "s2026": [
+    417,
+    1.0
+   ],
+   "page2026": 29,
+   "spage": [
+    394,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p029_1.png",
+   "s2024": [
+    448,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg030_fig1_pdf.png",
+   "screens": [
+    "pg030_sec001"
+   ],
+   "ids": [
+    "pg030_im001"
+   ],
+   "alt": "Një plak mban në krahë një vajzë të vogël, ndërsa dy fëmijë e shikojnë me shqetësim.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p030_1.png",
+   "s2026": [
+    230,
+    1.0
+   ],
+   "page2026": 30,
+   "spage": [
+    239,
+    1.0
+   ],
+   "best2024": "tools/image_review/pdf/p030_1.png",
+   "s2024": [
+    226,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg031_fig1_pdf.png",
+   "screens": [
+    "pg031_sec001"
+   ],
+   "ids": [
+    "pg031_im001"
+   ],
+   "alt": "Djali rri pranë gjyshes së ulur në kolltuk, ndërsa ajo mban telefonin në dorë për ta ndihmuar.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p031_1.png",
+   "s2026": [
+    126,
+    1.0
+   ],
+   "page2026": 31,
+   "spage": [
+    102,
+    1.0
+   ],
+   "best2024": "tools/image_review/pdf/p031_1.png",
+   "s2024": [
+    122,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg032_fig1_pdf.png",
+   "screens": [
+    "pg032_sec001"
+   ],
+   "ids": [
+    "pg032_im001"
+   ],
+   "alt": "Infermierja del nga oborri i një shtëpie, ndërsa dy fëmijë e shikojnë me shqetësim.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p032_1.png",
+   "s2026": [
+    187,
+    1.0
+   ],
+   "page2026": 32,
+   "spage": [
+    194,
+    1.0
+   ],
+   "best2024": "tools/image_review/pdf/p032_1.png",
+   "s2024": [
+    198,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg033_im002.png",
+   "screens": [
+    "pg033_sec001"
+   ],
+   "ids": [
+    "pg033_fig1"
+   ],
+   "alt": "Familje e ulur bashkë në divan në shtëpi gjatë pandemisë, duke menduar me shqetësim për koronavirusin; njëri nga djemtë është ulur në karrocë me rrota, ndërsa pranë tyre janë një mace, një qen dhe bimë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p033_1.png",
+   "s2026": [
+    651,
+    1.0
+   ],
+   "page2026": 33,
+   "spage": [
+    500,
+    1.0
+   ],
+   "best2024": "tools/image_review/pdf/p033_1.png",
+   "s2024": [
+    297,
+    0.88
+   ]
+  },
+  {
+   "src": "images/pg034_im001_crop.png",
+   "screens": [
+    "pg034_sec001"
+   ],
+   "ids": [
+    "pg034_im001"
+   ],
+   "alt": "Tre fëmijë luajnë futboll në park, ndërsa një vajzë e ulur anash i shikon, e papërfshirë në lojë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p034_1.png",
+   "s2026": [
+    209,
+    1.0
+   ],
+   "page2026": 34,
+   "spage": [
+    198,
+    0.96
+   ],
+   "best2024": "tools/image_review/pdf/p034_1.png",
+   "s2024": [
+    211,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg035_im001_seg001_v1.png",
+   "screens": [
+    "pg035_sec001"
+   ],
+   "ids": [
+    "pg035_im001_seg001_v1"
+   ],
+   "alt": "Djalë duke larë enët në lavaman, me pjata të grumbulluara dhe detergjent pranë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p035_1.png",
+   "s2026": [
+    98,
+    0.99
+   ],
+   "page2026": 35,
+   "spage": [
+    115,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p035_1.png",
+   "s2024": [
+    102,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg035_im001_seg002_v1.png",
+   "screens": [
+    "pg035_sec001"
+   ],
+   "ids": [
+    "pg035_im001_seg002_v1"
+   ],
+   "alt": "Vajzë duke mbledhur dhe rregulluar lodrat në një kuti kartoni.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p035_1.png",
+   "s2026": [
+    66,
+    0.98
+   ],
+   "page2026": 35,
+   "spage": [
+    78,
+    0.97
+   ],
+   "best2024": "tools/image_review/pdf/p035_1.png",
+   "s2024": [
+    69,
+    0.98
+   ]
+  },
+  {
+   "src": "images/pg036_im001_crop.png",
+   "screens": [
+    "pg036_sec001"
+   ],
+   "ids": [
+    "pg036_im001"
+   ],
+   "alt": "Djaloshi me syze ia jep një lupë një djali më të vogël për ta ndihmuar të shohë dhe të lexojë më mirë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p036_1.png",
+   "s2026": [
+    62,
+    1.0
+   ],
+   "page2026": 36,
+   "spage": [
+    42,
+    0.9
+   ],
+   "best2024": "tools/image_review/pdf/p036_1.png",
+   "s2024": [
+    61,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg037_im001_crop_v1.png",
+   "screens": [
+    "pg036_sec003"
+   ],
+   "ids": [
+    "pg037_im001_crop_v1"
+   ],
+   "alt": "Dy nxënës të ulur në banka; vajza flet me laps në dorë, ndërsa djali duket i mërzitur dhe i menduar.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p037_1.png",
+   "s2026": [
+    148,
+    1.0
+   ],
+   "page2026": 37,
+   "spage": [
+    140,
+    0.98
+   ],
+   "best2024": "tools/image_review/pdf/p037_1.png",
+   "s2024": [
+    159,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg038_im001_crop2.png",
+   "screens": [
+    "pg038_sec001"
+   ],
+   "ids": [
+    "pg038_im001_crop_v1"
+   ],
+   "alt": "Në kuzhinë, nëna mban një pjatë me tortë, vajza po merr një copë, ndërsa vëllai i madh qëndron pranë; skenë e mbështetjes dhe ndarjes në familje.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p038_1.png",
+   "s2026": [
+    554,
+    1.0
+   ],
+   "page2026": 38,
+   "spage": [
+    489,
+    0.95
+   ],
+   "best2024": "tools/image_review/pdf/p038_1.png",
+   "s2024": [
+    494,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg039_im001_crop_v1.png",
+   "screens": [
+    "pg039_sec001"
+   ],
+   "ids": [
+    "pg039_im001_crop_v1"
+   ],
+   "alt": "Dy djem bisedojnë përkrah një topi futbolli, duke treguar mbështetje dhe bashkëpunim mes shokëve.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p039_1.png",
+   "s2026": [
+    123,
+    1.0
+   ],
+   "page2026": 39,
+   "spage": [
+    105,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p039_1.png",
+   "s2024": [
+    109,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg040_im001.png",
+   "screens": [
+    "pg040_sec001"
+   ],
+   "ids": [
+    "pg040_im001"
+   ],
+   "alt": "Besmiri me prindërit takohen me përfaqësuesen e shkollës në zyrë për të siguruar ndihmë dhe kushte që ai të vazhdojë mësimin.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p040_1.png",
+   "s2026": [
+    391,
+    1.0
+   ],
+   "page2026": 40,
+   "spage": [
+    367,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p040_1.png",
+   "s2024": [
+    394,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg041_im002.jpg",
+   "screens": [
+    "pg041_sec001"
+   ],
+   "ids": [
+    "pg041_im002"
+   ],
+   "alt": "Nënë Tereza u shërben me përkujdesje njerëzve të sëmurë dhe në nevojë.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p041_1.png",
+   "s2026": [
+    5,
+    0.0
+   ],
+   "page2026": 41,
+   "spage": [
+    720,
+    0.98
+   ],
+   "best2024": "tools/image_review/pdf/p041_1.png",
+   "s2024": [
+    5,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg042_im001_inclusive.png",
+   "screens": [
+    "pg042_sec001"
+   ],
+   "ids": [
+    "pg042_im001"
+   ],
+   "alt": "Pesë fëmijë të ulur rreth një tavoline po diskutojnë për organizimin e një aktiviteti, me ide për mbledhjen e lodrave, rrobave dhe librave; njëri prej tyre mban aparat dëgjimi dhe një vajzë është ulur në karrocë me rrota.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p042_1.png",
+   "s2026": [
+    246,
+    0.95
+   ],
+   "page2026": 42,
+   "spage": [
+    194,
+    0.93
+   ],
+   "best2024": "tools/image_review/pdf/p042_1.png",
+   "s2024": [
+    250,
+    0.95
+   ]
+  },
+  {
+   "src": "images/pg043_im001_inclusive.png",
+   "screens": [
+    "pg043_sec001"
+   ],
+   "ids": [
+    "pg043_im001"
+   ],
+   "alt": "Gjashtë fëmijë qëndrojnë së bashku në grup, duke paraqitur bashkëpunim, përfshirje dhe respekt mes njëri-tjetrit; njëri është në karrocë me rrota dhe një tjetër mban shkop të bardhë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p043_1.png",
+   "s2026": [
+    87,
+    0.71
+   ],
+   "page2026": 43,
+   "spage": [
+    79,
+    0.66
+   ],
+   "best2024": "tools/image_review/pdf/p043_1.png",
+   "s2024": [
+    95,
+    0.71
+   ]
+  },
+  {
+   "src": "studio/assets/pg044_sec001-composite.png",
+   "screens": [
+    "pg044_sec001"
+   ],
+   "ids": [
+    "pg044_im002"
+   ],
+   "alt": "Mësuesja qëndron mes dy nxënësve në banka dhe i nxit të shprehin mendime të ndryshme; mbi secilin nxënës është një flluskë mendimi me një fotografi.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p044_1.png",
+   "s2026": [
+    297,
+    1.0
+   ],
+   "page2026": 44,
+   "spage": [
+    286,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p044_1.png",
+   "s2024": [
+    159,
+    0.6
+   ]
+  },
+  {
+   "src": "images/pg044_im003_crop_v1.png",
+   "screens": [
+    "pg044_sec001"
+   ],
+   "ids": [
+    "pg044_im003_crop_v1"
+   ],
+   "alt": "Kalaja e Krujës me flamurin shqiptar mbi ndërtesat historike dhe malet në sfond.",
+   "in2026": false,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p044_1.png",
+   "s2026": [
+    33,
+    0.0
+   ],
+   "page2026": 44,
+   "spage": [
+    61,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p045_1.png",
+   "s2024": [
+    0,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg044_im004_crop_v1.png",
+   "screens": [
+    "pg044_sec001"
+   ],
+   "ids": [
+    "pg044_im004_crop_v1"
+   ],
+   "alt": "Monumenti i Skënderbeut mbi kalë pranë një flamuri të madh shqiptar, me male në sfond.",
+   "in2026": false,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p044_1.png",
+   "s2026": [
+    51,
+    0.0
+   ],
+   "page2026": 44,
+   "spage": [
+    91,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p045_1.png",
+   "s2024": [
+    7,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg045_im001.png",
+   "screens": [
+    "pg044_sec003"
+   ],
+   "ids": [
+    "pg045_im001"
+   ],
+   "alt": "Familja e ulur rreth tryezës bisedon dhe dëgjon mendimet e njëri-tjetrit.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p045_1.png",
+   "s2026": [
+    369,
+    1.0
+   ],
+   "page2026": 45,
+   "spage": [
+    319,
+    0.95
+   ],
+   "best2024": "tools/image_review/pdf/p045_1.png",
+   "s2024": [
+    301,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg046_im001_crop.png",
+   "screens": [
+    "pg046_sec001"
+   ],
+   "ids": [
+    "pg046_im001"
+   ],
+   "alt": "Pesë nxënës të ulur rreth një tavoline duke diskutuar së bashku; njëri flet me dorën ngritur, ndërsa të tjerët dëgjojnë dhe marrin pjesë në vendimmarrje.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p046_1.png",
+   "s2026": [
+    302,
+    1.0
+   ],
+   "page2026": 46,
+   "spage": [
+    267,
+    0.93
+   ],
+   "best2024": "tools/image_review/pdf/p046_1.png",
+   "s2024": [
+    302,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg047_im001_crop.png",
+   "screens": [
+    "pg047_sec001"
+   ],
+   "ids": [
+    "pg047_im001_crop_v1"
+   ],
+   "alt": "Tre nxënës duke diskutuar me mësuesen para tabelës në klasë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p047_1.png",
+   "s2026": [
+    162,
+    1.0
+   ],
+   "page2026": 47,
+   "spage": [
+    155,
+    0.92
+   ],
+   "best2024": "tools/image_review/pdf/p047_1.png",
+   "s2024": [
+    163,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg048_im002_crop.png",
+   "screens": [
+    "pg048_sec001"
+   ],
+   "ids": [
+    "pg048_im002"
+   ],
+   "alt": "Mësuesja dhe katër nxënës të ulur në rreth në klasë, duke diskutuar së bashku.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p048_1.png",
+   "s2026": [
+    226,
+    0.99
+   ],
+   "page2026": 48,
+   "spage": [
+    289,
+    0.93
+   ],
+   "best2024": "tools/image_review/pdf/p048_1.png",
+   "s2024": [
+    236,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg049_im001_crop.png",
+   "screens": [
+    "pg049_sec001"
+   ],
+   "ids": [
+    "pg049_im001"
+   ],
+   "alt": "Një nxënës e ngushëllon shoqen e trishtuar në klasë, ndërsa të dy kanë librat e hapur në bankë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p049_1.png",
+   "s2026": [
+    117,
+    1.0
+   ],
+   "page2026": 49,
+   "spage": [
+    72,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p049_1.png",
+   "s2024": [
+    105,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg050_im004.png",
+   "screens": [
+    "pg050_sec001"
+   ],
+   "ids": [
+    "pg050_im004"
+   ],
+   "alt": "Një familje me katër anëtarë, prindërit dhe dy fëmijë, ulur bashkë nën një kulm simbolik të shtëpisë, duke biseduar dhe marrë vendime së bashku.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p051_1.png",
+   "s2026": [
+    0,
+    0.0
+   ],
+   "page2026": 50,
+   "spage": [
+    73,
+    0.77
+   ],
+   "best2024": "tools/image_review/pdf/p051_1.png",
+   "s2024": [
+    0,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg051_im001_inclusive.png",
+   "screens": [
+    "pg050_sec003"
+   ],
+   "ids": [
+    "pg051_im001_crop_v1"
+   ],
+   "alt": "Familja e ulur rreth tavolinës diskuton së bashku dhe ndan mendime për të marrë një vendim; njëra nga gratë është ulur në karrocë me rrota.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p051_1.png",
+   "s2026": [
+    157,
+    0.85
+   ],
+   "page2026": 51,
+   "spage": [
+    128,
+    0.76
+   ],
+   "best2024": "tools/image_review/pdf/p051_1.png",
+   "s2024": [
+    170,
+    0.87
+   ]
+  },
+  {
+   "src": "images/pg052_im001_crop.png",
+   "screens": [
+    "pg052_sec001"
+   ],
+   "ids": [
+    "pg052_im001"
+   ],
+   "alt": "Te stacioni i autobusit, një djalë me biçikletë qëndron pranë një tabele që ndalon biçikletat, ndërsa një burrë i moshuar pranë autobusit i tregon të respektojë rregullin.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p052_1.png",
+   "s2026": [
+    289,
+    1.0
+   ],
+   "page2026": 52,
+   "spage": [
+    265,
+    0.98
+   ],
+   "best2024": "tools/image_review/pdf/p052_1.png",
+   "s2024": [
+    305,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg053_im001_inclusive.png",
+   "screens": [
+    "pg053_sec001"
+   ],
+   "ids": [
+    "pg053_im001_crop_v1"
+   ],
+   "alt": "Dy nxënës bisedojnë me dy të rritur për të gjetur një zgjidhje të përbashkët për një problem në shkollë; njëri nga nxënësit qëndron në këmbë me paterica.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p053_1.png",
+   "s2026": [
+    176,
+    0.91
+   ],
+   "page2026": 53,
+   "spage": [
+    164,
+    0.72
+   ],
+   "best2024": "tools/image_review/pdf/p053_1.png",
+   "s2024": [
+    182,
+    0.9
+   ]
+  },
+  {
+   "src": "images/pg054_im001.png",
+   "screens": [
+    "pg054_sec001"
+   ],
+   "ids": [
+    "pg054_im001"
+   ],
+   "alt": "Prindërit bisedojnë në dhomë të ndejës për një dokument ose kontratë, ndërsa fëmija i dëgjon i ulur pranë tyre.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p054_1.png",
+   "s2026": [
+    234,
+    1.0
+   ],
+   "page2026": 54,
+   "spage": [
+    219,
+    1.0
+   ],
+   "best2024": "tools/image_review/pdf/p054_1.png",
+   "s2024": [
+    231,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg055_im001.png",
+   "screens": [
+    "pg055_sec001"
+   ],
+   "ids": [
+    "pg055_im001"
+   ],
+   "alt": "Seancë në Kuvendin e Republikës së Kosovës, me deputetë të mbledhur në sallë dhe foltoren në qendër.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p055_1.png",
+   "s2026": [
+    1180,
+    1.0
+   ],
+   "page2026": 55,
+   "spage": [
+    722,
+    0.92
+   ],
+   "best2024": "tools/image_review/pdf/p055_1.png",
+   "s2024": [
+    7,
+    0.0
+   ]
+  },
+  {
+   "src": "studio/assets/pg057_sec001-scene.png",
+   "screens": [
+    "pg056_sec001"
+   ],
+   "ids": [
+    "pg057_fig1"
+   ],
+   "alt": "Bledi dhe babai i tij bisedojnë të ulur në divan në dhomën e ndenjes, pranë një tavoline të rrumbullakët dhe rafteve me libra.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p057_1.png",
+   "s2026": [
+    307,
+    0.99
+   ],
+   "page2026": 57,
+   "spage": [
+    373,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p057_1.png",
+   "s2024": [
+    307,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg058_im001_seg001_inclusive.png",
+   "screens": [
+    "pg058_sec001"
+   ],
+   "ids": [
+    "pg058_im001_seg001_v1"
+   ],
+   "alt": "Katër nxënës diskutojnë rreth një tavoline, duke shprehur mendimet e tyre dhe duke krahasuar idetë me njëri-tjetrin; njëra nxënëse është ulur në karrocë me rrota.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p058_1.png",
+   "s2026": [
+    179,
+    0.95
+   ],
+   "page2026": 58,
+   "spage": [
+    108,
+    0.94
+   ],
+   "best2024": "tools/image_review/pdf/p058_1.png",
+   "s2024": [
+    181,
+    0.95
+   ]
+  },
+  {
+   "src": "images/pg058_im001_seg002_inclusive.png",
+   "screens": [
+    "pg058_sec001"
+   ],
+   "ids": [
+    "pg058_im001_seg002_v1"
+   ],
+   "alt": "Një nxënëse shpjegon mendimin e saj para shokëve, ndërsa ata e dëgjojnë gjatë diskutimit; njëra prej tyre është ulur në karrocë me rrota dhe një djalë mban aparat dëgjimi.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p058_2.png",
+   "s2026": [
+    164,
+    0.94
+   ],
+   "page2026": 58,
+   "spage": [
+    84,
+    0.92
+   ],
+   "best2024": "tools/image_review/pdf/p058_2.png",
+   "s2024": [
+    151,
+    0.94
+   ]
+  },
+  {
+   "src": "images/pg058_im001_seg003_inclusive.png",
+   "screens": [
+    "pg058_sec001"
+   ],
+   "ids": [
+    "pg058_im001_seg003_v1_crop_v1"
+   ],
+   "alt": "Katër nxënës bisedojnë; njëri, që ka një këmbë protezë, ka ngritur dorën për të folur, ndërsa të tjerët e dëgjojnë me kujdes.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p058_3.png",
+   "s2026": [
+    157,
+    0.93
+   ],
+   "page2026": 58,
+   "spage": [
+    144,
+    0.76
+   ],
+   "best2024": "tools/image_review/pdf/p058_3.png",
+   "s2024": [
+    156,
+    0.93
+   ]
+  },
+  {
+   "src": "images/pg059_judge_flamur.png",
+   "screens": [
+    "pg059_sec001"
+   ],
+   "ids": [
+    "pg059_im001_seg001_v1"
+   ],
+   "alt": "Gjyqtarja shqyrton dokumentet dhe merr vendimin në gjykatë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p059_1.png",
+   "s2026": [
+    135,
+    1.0
+   ],
+   "page2026": 59,
+   "spage": [
+    84,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p059_1.png",
+   "s2024": [
+    139,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg059_prosecutor_flamur.png",
+   "screens": [
+    "pg059_sec001"
+   ],
+   "ids": [
+    "pg059_im001_seg002_v1"
+   ],
+   "alt": "Prokurori paraqet faktet kundër të akuzuarit.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p059_2.png",
+   "s2026": [
+    136,
+    1.0
+   ],
+   "page2026": 59,
+   "spage": [
+    42,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p059_2.png",
+   "s2024": [
+    131,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg059_notary_flamur.png",
+   "screens": [
+    "pg059_sec001"
+   ],
+   "ids": [
+    "pg059_im001_seg003_v1"
+   ],
+   "alt": "Noteri vërteton dokumentet në zyrë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p059_3.png",
+   "s2026": [
+    137,
+    1.0
+   ],
+   "page2026": 59,
+   "spage": [
+    57,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p059_3.png",
+   "s2024": [
+    139,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg059_lawyer_flamur.png",
+   "screens": [
+    "pg059_sec001"
+   ],
+   "ids": [
+    "pg059_im001_seg004_v1"
+   ],
+   "alt": "Avokatja mbron të akuzuarit duke përdorur fakte dhe ligje.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p059_4.png",
+   "s2026": [
+    88,
+    1.0
+   ],
+   "page2026": 59,
+   "spage": [
+    65,
+    1.0
+   ],
+   "best2024": "tools/image_review/pdf/p059_4.png",
+   "s2024": [
+    95,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg060_im001_seg001_v1.png",
+   "screens": [
+    "pg060_sec001"
+   ],
+   "ids": [
+    "pg060_im001_seg001_v1"
+   ],
+   "alt": "Djalë nxënës duke mbajtur një libër të hapur dhe duke recituar me buzëqeshje.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p060_1.png",
+   "s2026": [
+    84,
+    1.0
+   ],
+   "page2026": 60,
+   "spage": [
+    65,
+    0.97
+   ],
+   "best2024": "tools/image_review/pdf/p060_1.png",
+   "s2024": [
+    80,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg061_im001_seg003_v1.png",
+   "screens": [
+    "pg061_sec001"
+   ],
+   "ids": [
+    "pg061_im001_seg003_v1"
+   ],
+   "alt": "Babai dhe djali po përgatisin valixhen për udhëtim; djali mban pasaportën, ndërsa sipër shihen flamuri dhe stema e Kosovës.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p061_1.png",
+   "s2026": [
+    186,
+    1.0
+   ],
+   "page2026": 61,
+   "spage": [
+    182,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p061_1.png",
+   "s2024": [
+    170,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg062_im001.png",
+   "screens": [
+    "pg062_sec001"
+   ],
+   "ids": [
+    "pg062_im001"
+   ],
+   "alt": "Flamuri i Kosovës me sfond të kaltër, hartën e verdhë të Kosovës në qendër dhe gjashtë yje të bardhë sipër.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p062_1.png",
+   "s2026": [
+    204,
+    1.0
+   ],
+   "page2026": 62,
+   "spage": [
+    82,
+    0.95
+   ],
+   "best2024": "tools/image_review/pdf/p062_1.png",
+   "s2024": [
+    186,
+    1.0
+   ]
+  },
+  {
+   "src": "studio/assets/pg063_sec001-map.png",
+   "screens": [
+    "pg063_sec001"
+   ],
+   "ids": [
+    "pg063_im004"
+   ],
+   "alt": "Harta e Kosovës e ndarë në dy rajone: Rrafshi i Dukagjinit me ngjyrë të verdhë dhe Fusha e Kosovës me ngjyrë të gjelbër, me qendrat rajonale Peja, Gjakova, Prizreni, Mitrovica, Prishtina, Gjilani dhe Ferizaj.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p063_1.png",
+   "s2026": [
+    410,
+    0.97
+   ],
+   "page2026": 63,
+   "spage": [
+    329,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p063_1.png",
+   "s2024": [
+    35,
+    0.69
+   ]
+  },
+  {
+   "src": "images/pg065_im002.jpg",
+   "screens": [
+    "pg065_sec001"
+   ],
+   "ids": [
+    "pg065_im002"
+   ],
+   "alt": "Gjyshja ulur në divan po qendis flamurin e Kosovës, ndërsa mbesa e saj bisedon me të e buzëqeshur.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p065_1.png",
+   "s2026": [
+    252,
+    1.0
+   ],
+   "page2026": 65,
+   "spage": [
+    187,
+    1.0
+   ],
+   "best2024": "tools/image_review/pdf/p065_1.png",
+   "s2024": [
+    252,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg066_map_flamur.png",
+   "screens": [
+    "pg066_sec001"
+   ],
+   "ids": [
+    "pg066_im002"
+   ],
+   "alt": "Harta e Kosovës me qendrat rajonale dhe me emrat e shteteve fqinje përreth: Serbia, Mali i Zi, Shqipëria dhe Maqedonia e Veriut.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p066_1.png",
+   "s2026": [
+    219,
+    0.99
+   ],
+   "page2026": 66,
+   "spage": [
+    242,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p066_1.png",
+   "s2024": [
+    165,
+    0.95
+   ]
+  },
+  {
+   "src": "images/pg067_scene_inclusive.png",
+   "screens": [
+    "pg067_sec001"
+   ],
+   "ids": [
+    "pg067_im001_crop_v1"
+   ],
+   "alt": "Shoferi pranë veturës i dorëzon pasaportën policës në vendkalimin kufitar.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p067_1.png",
+   "s2026": [
+    143,
+    0.98
+   ],
+   "page2026": 67,
+   "spage": [
+    74,
+    0.9
+   ],
+   "best2024": "tools/image_review/pdf/p067_1.png",
+   "s2024": [
+    148,
+    0.98
+   ]
+  },
+  {
+   "src": "images/pg069_im001_seg001_v1.png",
+   "screens": [
+    "pg069_sec001"
+   ],
+   "ids": [
+    "pg069_im001_seg001_v1"
+   ],
+   "alt": "Burrë i ulur në kolltuk pranë oxhakut të ndezur, duke kujtuar jetën e dikurshme familjare.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p069_1.png",
+   "s2026": [
+    99,
+    0.99
+   ],
+   "page2026": 69,
+   "spage": [
+    106,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p069_1.png",
+   "s2024": [
+    164,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg069_im001_seg002_v1.png",
+   "screens": [
+    "pg069_sec001"
+   ],
+   "ids": [
+    "pg069_im001_seg002_v1"
+   ],
+   "alt": "Familje bashkëkohore me prindër dhe dy fëmijë ulur rreth tryezës, duke ngrënë dhe biseduar.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p069_1.png",
+   "s2026": [
+    192,
+    0.99
+   ],
+   "page2026": 69,
+   "spage": [
+    251,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p069_2.png",
+   "s2024": [
+    496,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg070_im001.png",
+   "screens": [
+    "pg070_sec001"
+   ],
+   "ids": [
+    "pg070_im001"
+   ],
+   "alt": "Dy bujq punojnë arën me parmendë të tërhequr nga qe, në fshat dikur.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p070_2.png",
+   "s2026": [
+    1252,
+    1.0
+   ],
+   "page2026": 70,
+   "spage": [
+    51,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p070_1.png",
+   "s2024": [
+    9,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg070_im002.png",
+   "screens": [
+    "pg070_sec001"
+   ],
+   "ids": [
+    "pg070_im002"
+   ],
+   "alt": "Traktor modern me makinë mbjellëse duke punuar arën në fshat sot.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p070_1.png",
+   "s2026": [
+    836,
+    1.0
+   ],
+   "page2026": 70,
+   "spage": [
+    64,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p070_2.png",
+   "s2024": [
+    8,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg070_im005.png",
+   "screens": [
+    "pg070_sec001"
+   ],
+   "ids": [
+    "pg070_im005"
+   ],
+   "alt": "Diagram i Venit: dy rrathë të zbrazët që priten në mes.",
+   "in2026": false,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p071_1.png",
+   "s2026": [
+    0,
+    0.0
+   ],
+   "page2026": 71,
+   "spage": [
+    0,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p071_1.png",
+   "s2024": [
+    0,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg071_im001_crop.png",
+   "screens": [
+    "pg071_sec001"
+   ],
+   "ids": [
+    "pg071_im001"
+   ],
+   "alt": "Klea dhe gjyshi i saj të ulur në një bankë në park, duke biseduar për qytetin dikur dhe sot.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p071_1.png",
+   "s2026": [
+    195,
+    0.99
+   ],
+   "page2026": 71,
+   "spage": [
+    166,
+    0.95
+   ],
+   "best2024": "tools/image_review/pdf/p071_1.png",
+   "s2024": [
+    180,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg072_im001_crop.png",
+   "screens": [
+    "pg072_sec001"
+   ],
+   "ids": [
+    "pg072_im001"
+   ],
+   "alt": "Mësuesja shkruan në tabelë mendime për ekonominë: ekonomia lidhet me prodhimin, vendet me ekonomi të zhvilluar janë të pasura, shumë njerëz janë të punësuar, në fshat punohet toka e rriten kafshë, ndërsa në qytet ndërtohen shumë fabrika.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p072_1.png",
+   "s2026": [
+    202,
+    1.0
+   ],
+   "page2026": 72,
+   "spage": [
+    253,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p072_1.png",
+   "s2024": [
+    59,
+    0.95
+   ]
+  },
+  {
+   "src": "images/pg074_fig1_pdf.png",
+   "screens": [
+    "pg074_sec001"
+   ],
+   "ids": [
+    "pg074_fig1"
+   ],
+   "alt": "Vizatim i një vendbanimi me shtëpi me çati të kuqe, ndërtesa të larta shumëkatëshe dhe pemë të gjelbra.",
+   "in2026": false,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p075_1.png",
+   "s2026": [
+    7,
+    0.0
+   ],
+   "page2026": 75,
+   "spage": [
+    5,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p075_1.png",
+   "s2024": [
+    8,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg075_im001_crop_v1-reading.png",
+   "screens": [
+    "pg075_sec001"
+   ],
+   "ids": [
+    "pg075_im001_crop_v1"
+   ],
+   "alt": "Dy fëmijë ulur pranë tavolinës shkruajnë në fletore, në një dhomë me orë muri, rafte me libra dhe bimë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p075_1.png",
+   "s2026": [
+    236,
+    1.0
+   ],
+   "page2026": 75,
+   "spage": [
+    223,
+    0.92
+   ],
+   "best2024": "tools/image_review/pdf/p075_1.png",
+   "s2024": [
+    225,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg076_im008_seg001_v1_crop_v1.png",
+   "screens": [
+    "pg076_sec001"
+   ],
+   "ids": [
+    "pg076_im008_seg001_v1_crop_v1"
+   ],
+   "alt": "Portret i Ernest Koliqit, veprimtar i rëndësishëm për hapjen e shkollave shqipe në Kosovë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p076_1.png",
+   "s2026": [
+    189,
+    0.0
+   ],
+   "page2026": 76,
+   "spage": [
+    91,
+    0.98
+   ],
+   "best2024": "tools/image_review/pdf/p076_1.png",
+   "s2024": [
+    167,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg076_im008_seg003_crop.png",
+   "screens": [
+    "pg076_sec001"
+   ],
+   "ids": [
+    "pg076_im008_seg003_v1_crop_v1"
+   ],
+   "alt": "Mësues i moshuar duke mbajtur një abetare, si simbol i përkushtimit ndaj arsimit shqip.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p076_2.png",
+   "s2026": [
+    109,
+    0.0
+   ],
+   "page2026": 76,
+   "spage": [
+    51,
+    0.98
+   ],
+   "best2024": "tools/image_review/pdf/p077_1.png",
+   "s2024": [
+    0,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg076_im005.png",
+   "screens": [
+    "pg076_sec001"
+   ],
+   "ids": [
+    "pg076_im005"
+   ],
+   "alt": "Portret i Mati Logorecit, mësuesi i parë në “Shkollën Shqipe e Djemve” në Prizren.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p076_3.png",
+   "s2026": [
+    623,
+    1.0
+   ],
+   "page2026": 76,
+   "spage": [
+    47,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p077_1.png",
+   "s2024": [
+    0,
+    0.0
+   ]
+  },
+  {
+   "src": "studio/assets/pg076_sec001-sevasti.png",
+   "screens": [
+    "pg076_sec001"
+   ],
+   "ids": [
+    "pg076_im010"
+   ],
+   "alt": "Portret i Sevasti Qiriazit, atdhetare dhe nismëtare e arsimit shqip për gra.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p076_4.png",
+   "s2026": [
+    449,
+    0.99
+   ],
+   "page2026": 76,
+   "spage": [
+    132,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p076_3.png",
+   "s2024": [
+    448,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg077_im001.jpg",
+   "screens": [
+    "pg077_sec001"
+   ],
+   "ids": [
+    "pg077_im001"
+   ],
+   "alt": "Mali bisedon me gjyshin ulur në kolltuqe, ndërsa mendon për vizitën te dentisti.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p077_1.png",
+   "s2026": [
+    248,
+    1.0
+   ],
+   "page2026": 77,
+   "spage": [
+    174,
+    0.98
+   ],
+   "best2024": "tools/image_review/pdf/p077_1.png",
+   "s2024": [
+    241,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg078_im002.png",
+   "screens": [
+    "pg078_sec001"
+   ],
+   "ids": [
+    "pg078_im002"
+   ],
+   "alt": "Fadil Vokrri duke luajtur futboll në fushë, me fanellë bardh e zi.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p078_1.png",
+   "s2026": [
+    1221,
+    1.0
+   ],
+   "page2026": 78,
+   "spage": [
+    437,
+    0.98
+   ],
+   "best2024": "tools/image_review/pdf/p078_1.png",
+   "s2024": [
+    1221,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg078_im001.png",
+   "screens": [
+    "pg078_sec001"
+   ],
+   "ids": [
+    "pg078_im001"
+   ],
+   "alt": "Majlinda Kelmendi me veshje sportive blu, duke mbajtur dy medalje në duar.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p078_2.png",
+   "s2026": [
+    762,
+    1.0
+   ],
+   "page2026": 78,
+   "spage": [
+    180,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p078_2.png",
+   "s2024": [
+    694,
+    1.0
+   ]
+  },
+  {
+   "src": "studio/assets/pg079_sec001-ymer.png",
+   "screens": [
+    "pg079_sec001"
+   ],
+   "ids": [
+    "pg079_im008_seg001_v1_crop_v1"
+   ],
+   "alt": "Ymer Riza i ulur me çifteli në duar, në një fotografi bardhë e zi.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p079_1.png",
+   "s2026": [
+    368,
+    1.0
+   ],
+   "page2026": 79,
+   "spage": [
+    160,
+    0.97
+   ],
+   "best2024": "tools/image_review/pdf/p079_1.png",
+   "s2024": [
+    345,
+    1.0
+   ]
+  },
+  {
+   "src": "studio/assets/pg079_sec001-nexhmije.png",
+   "screens": [
+    "pg079_sec001"
+   ],
+   "ids": [
+    "pg079_im008_seg002_v1_crop_v1"
+   ],
+   "alt": "Nexhmije Pagarusha e buzëqeshur, e veshur me kostum tradicional, në një fotografi bardhë e zi.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p079_2.png",
+   "s2026": [
+    548,
+    1.0
+   ],
+   "page2026": 79,
+   "spage": [
+    185,
+    0.97
+   ],
+   "best2024": "tools/image_review/pdf/p079_2.png",
+   "s2024": [
+    432,
+    0.98
+   ]
+  },
+  {
+   "src": "images/pg079_rita_crop.png",
+   "screens": [
+    "pg079_sec001"
+   ],
+   "ids": [
+    "pg079_im008_seg003_v1_crop_v1"
+   ],
+   "alt": "Rita Ora duke buzëqeshur, me flokë të drejta bionde dhe xhaketë të kaltër të çelët.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p079_3.png",
+   "s2026": [
+    139,
+    1.0
+   ],
+   "page2026": 79,
+   "spage": [
+    56,
+    0.98
+   ],
+   "best2024": "tools/image_review/pdf/p079_3.png",
+   "s2024": [
+    111,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg079_im002.png",
+   "screens": [
+    "pg079_sec001"
+   ],
+   "ids": [
+    "pg079_im002"
+   ],
+   "alt": "Dua Lipa në portret me sfond të zi, me flokë të lidhura lart dhe bluzë të gjelbër të ndezur.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p079_3.png",
+   "s2026": [
+    127,
+    0.98
+   ],
+   "page2026": 79,
+   "spage": [
+    42,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p079_4.png",
+   "s2024": [
+    237,
+    1.0
+   ]
+  },
+  {
+   "src": "studio/assets/pg079_sec001-bekim.png",
+   "screens": [
+    "pg079_sec002"
+   ],
+   "ids": [
+    "pg079_im009_seg001_v1_crop_v1"
+   ],
+   "alt": "Bekim Fehmiu në portret bardhë e zi, i veshur me kostum dhe papijon.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p079_5.png",
+   "s2026": [
+    208,
+    1.0
+   ],
+   "page2026": 79,
+   "spage": [
+    94,
+    0.98
+   ],
+   "best2024": "tools/image_review/pdf/p079_5.png",
+   "s2024": [
+    208,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg079_im009_seg002_v1_crop_v1.png",
+   "screens": [
+    "pg079_sec002"
+   ],
+   "ids": [
+    "pg079_im009_seg002_v1_crop_v1"
+   ],
+   "alt": "Zake Prelvukaj me penela në dorë, para një pikture me ngjyra të gjalla.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p079_4.png",
+   "s2026": [
+    201,
+    0.0
+   ],
+   "page2026": 79,
+   "spage": [
+    83,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p080_1.png",
+   "s2024": [
+    0,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg080_im001.png",
+   "screens": [
+    "pg080_sec001"
+   ],
+   "ids": [
+    "pg080_im001"
+   ],
+   "alt": "Pikturë abstrakte me sfond të kuq, një strukturë të ngjashme me kullë në ngjyrë të errët, dy figura anësore të stilizuara, një hark qendror me gjel dhe një simbol rrethor sipër.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p080_1.png",
+   "s2026": [
+    584,
+    0.99
+   ],
+   "page2026": 80,
+   "spage": [
+    193,
+    0.85
+   ],
+   "best2024": "tools/image_review/pdf/p080_1.png",
+   "s2024": [
+    445,
+    0.97
+   ]
+  },
+  {
+   "src": "images/pg082_fig1_pdf.png",
+   "screens": [
+    "pg082_sec001"
+   ],
+   "ids": [
+    "pg082_fig1"
+   ],
+   "alt": "Pamje e qytetit të Shkodrës nga lart, me shtëpi e rrugë, fusha të gjelbra, liqenin në të majtë dhe malet në sfond.",
+   "in2026": false,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p083_4.png",
+   "s2026": [
+    0,
+    0.0
+   ],
+   "page2026": 83,
+   "spage": [
+    0,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p082_1.png",
+   "s2024": [
+    1031,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg083_im004.png",
+   "screens": [
+    "pg083_sec001"
+   ],
+   "ids": [
+    "pg083_im004"
+   ],
+   "alt": "Tryezë me ushqime tradicionale shqiptare, me pite, speca të mbushur, sarma, mish, ëmbëlsira dhe enë tradicionale.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p083_1.png",
+   "s2026": [
+    1216,
+    1.0
+   ],
+   "page2026": 83,
+   "spage": [
+    411,
+    0.97
+   ],
+   "best2024": "tools/image_review/pdf/p083_1.png",
+   "s2024": [
+    225,
+    0.96
+   ]
+  },
+  {
+   "src": "images/pg083_im005.png",
+   "screens": [
+    "pg083_sec001"
+   ],
+   "ids": [
+    "pg083_im005"
+   ],
+   "alt": "Pikturë e një feste tradicionale me gra, burra dhe fëmijë me veshje popullore, të mbledhur në oborr pranë shtëpive të vjetra.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p083_2.png",
+   "s2026": [
+    1167,
+    1.0
+   ],
+   "page2026": 83,
+   "spage": [
+    373,
+    0.89
+   ],
+   "best2024": "tools/image_review/pdf/p083_1.png",
+   "s2024": [
+    201,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg083_im003.png",
+   "screens": [
+    "pg083_sec001"
+   ],
+   "ids": [
+    "pg083_im003"
+   ],
+   "alt": "Veshje tradicionale e grave, e paraqitur nga përpara dhe anash, me këmishë të qëndisur, jelek, shami dhe përparëse me thekë.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p083_3.png",
+   "s2026": [
+    943,
+    1.0
+   ],
+   "page2026": 83,
+   "spage": [
+    111,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p083_1.png",
+   "s2024": [
+    24,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg083_im002.png",
+   "screens": [
+    "pg083_sec001"
+   ],
+   "ids": [
+    "pg083_im002"
+   ],
+   "alt": "Veshje tradicionale e burrave, e paraqitur nga përpara dhe anash, me tirq, xhamadan të çelët, brez dhe mbulesë të bardhë të kokës.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p083_4.png",
+   "s2026": [
+    624,
+    1.0
+   ],
+   "page2026": 83,
+   "spage": [
+    117,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p083_1.png",
+   "s2024": [
+    26,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg084_im001.png",
+   "screens": [
+    "pg084_sec001"
+   ],
+   "ids": [
+    "pg084_im001"
+   ],
+   "alt": "Pamje panoramike e Prishtinës, me rrugë, ndërtesa të qytetit, hapësira të gjelbra dhe Bibliotekën Kombëtare të Kosovës në anën e djathtë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p084_1.png",
+   "s2026": [
+    1232,
+    0.99
+   ],
+   "page2026": 84,
+   "spage": [
+    862,
+    0.97
+   ],
+   "best2024": "tools/image_review/pdf/p086_1.png",
+   "s2024": [
+    1129,
+    0.98
+   ]
+  },
+  {
+   "src": "images/pg085_im002.png",
+   "screens": [
+    "pg085_sec001"
+   ],
+   "ids": [
+    "pg085_im002"
+   ],
+   "alt": "Hyrja e Teatrit Kombëtar në Prishtinë, me shkallët dhe mbishkrimin e madh në ballinë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p085_2.png",
+   "s2026": [
+    1040,
+    1.0
+   ],
+   "page2026": 85,
+   "spage": [
+    218,
+    0.97
+   ],
+   "best2024": "tools/image_review/pdf/p087_2.png",
+   "s2024": [
+    726,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg085_im001.png",
+   "screens": [
+    "pg085_sec001"
+   ],
+   "ids": [
+    "pg085_im001"
+   ],
+   "alt": "Ndërtesa e Galerisë së Arteve në Prishtinë, me hapësirë të gjelbër përpara dhe pallate në sfond.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p085_1.png",
+   "s2026": [
+    1236,
+    0.99
+   ],
+   "page2026": 85,
+   "spage": [
+    223,
+    0.95
+   ],
+   "best2024": "tools/image_review/pdf/p087_1.png",
+   "s2024": [
+    1027,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg085_im003.png",
+   "screens": [
+    "pg085_sec001"
+   ],
+   "ids": [
+    "pg085_im003"
+   ],
+   "alt": "Biblioteka Kombëtare “Pjetër Bogdani” në Prishtinë, me arkitekturë karakteristike, kupola të bardha dhe fasadë rrjetëzuese.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p085_3.png",
+   "s2026": [
+    1212,
+    0.99
+   ],
+   "page2026": 85,
+   "spage": [
+    285,
+    0.86
+   ],
+   "best2024": "tools/image_review/pdf/p087_3.png",
+   "s2024": [
+    694,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg086_im001.png",
+   "screens": [
+    "pg086_sec001"
+   ],
+   "ids": [
+    "pg086_im001"
+   ],
+   "alt": "Pamje panoramike e Bjeshkëve e Nemuna në Rugovë, me maja të thepisura shkëmbore, lugina të thella dhe shpatet me gjelbërim nën qiell të kthjellët.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p086_1.png",
+   "s2026": [
+    1179,
+    1.0
+   ],
+   "page2026": 86,
+   "spage": [
+    780,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p088_1.png",
+   "s2024": [
+    1179,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg087_fig1_pdf.png",
+   "screens": [
+    "pg087_sec004"
+   ],
+   "ids": [
+    "pg087_im008_seg001_v1_crop_v1"
+   ],
+   "alt": "Grua dhe burrë me veshje tradicionale të Rugovës, me qëndisje shumëngjyrëshe, përparëse të kuqe dhe plis të bardhë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p087_1.png",
+   "s2026": [
+    474,
+    1.0
+   ],
+   "page2026": 87,
+   "spage": [
+    87,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p089_1.png",
+   "s2024": [
+    469,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg087_fig2_pdf.png",
+   "screens": [
+    "pg087_sec004"
+   ],
+   "ids": [
+    "pg087_im008_seg002_v1_crop_v1"
+   ],
+   "alt": "Dy kostume tradicionale të Drenicës me xhamadan të errët, brez të kuq dhe tirq.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p087_2.png",
+   "s2026": [
+    508,
+    1.0
+   ],
+   "page2026": 87,
+   "spage": [
+    83,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p089_2.png",
+   "s2024": [
+    622,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg087_im008_seg003_crop.png",
+   "screens": [
+    "pg087_sec004"
+   ],
+   "ids": [
+    "pg087_im008_seg003_v1"
+   ],
+   "alt": "Veshje tradicionale e Hasit, e zbukuruar me motive të dendura shumëngjyrëshe dhe stoli në pjesën e sipërme.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p087_3.png",
+   "s2026": [
+    138,
+    0.98
+   ],
+   "page2026": 87,
+   "spage": [
+    69,
+    1.0
+   ],
+   "best2024": "tools/image_review/pdf/p090_1.png",
+   "s2024": [
+    0,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg087_im008_seg004_crop.png",
+   "screens": [
+    "pg087_sec004"
+   ],
+   "ids": [
+    "pg087_im008_seg004_v1_crop_v1"
+   ],
+   "alt": "Xhubletë e zezë me brez dhe vija rozë, me fund të valëzuar tradicional.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p087_5.png",
+   "s2026": [
+    139,
+    1.0
+   ],
+   "page2026": 87,
+   "spage": [
+    60,
+    1.0
+   ],
+   "best2024": "tools/image_review/pdf/p089_2.png",
+   "s2024": [
+    6,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg087_im008_seg005_crop.png",
+   "screens": [
+    "pg087_sec004"
+   ],
+   "ids": [
+    "pg087_im008_seg005_v1_crop_v1"
+   ],
+   "alt": "Dy veshje tradicionale të Tropojës me jelek të zi, këmishë të bardhë të qëndisur, fund të kuq dhe përparëse të bardhë.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p087_4.png",
+   "s2026": [
+    212,
+    0.0
+   ],
+   "page2026": 87,
+   "spage": [
+    116,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p090_1.png",
+   "s2024": [
+    0,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg088_im002.png",
+   "screens": [
+    "pg088_sec001"
+   ],
+   "ids": [
+    "pg088_im002"
+   ],
+   "alt": "Dasmë tradicionale me valltarë në rreth, muzikantë dhe të ftuar të veshur me kostume popullore.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p088_1.png",
+   "s2026": [
+    1205,
+    1.0
+   ],
+   "page2026": 88,
+   "spage": [
+    665,
+    0.95
+   ],
+   "best2024": "tools/image_review/pdf/p089_1.png",
+   "s2024": [
+    7,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg088_im001.png",
+   "screens": [
+    "pg088_sec001"
+   ],
+   "ids": [
+    "pg088_im001"
+   ],
+   "alt": "Sallë moderne dasme me tavolina të rregulluara, dekorime me lule dhe ambient festiv.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p088_2.png",
+   "s2026": [
+    1269,
+    1.0
+   ],
+   "page2026": 88,
+   "spage": [
+    800,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p090_1.png",
+   "s2024": [
+    1105,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg091_im001_crop.png",
+   "screens": [
+    "pg090_sec001"
+   ],
+   "ids": [
+    "pg091_im001"
+   ],
+   "alt": "Fëmijë dhe një grua duke festuar ditëlindjen rreth një tavoline me tortë, ëmbëlsira e pije, të rrethuar me balona dhe flamuj zbukurues.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p091_1.png",
+   "s2026": [
+    692,
+    1.0
+   ],
+   "page2026": 91,
+   "spage": [
+    557,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p085_1.png",
+   "s2024": [
+    488,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg090_im003_seg001_v1_crop_v1.png",
+   "screens": [
+    "pg090_sec002"
+   ],
+   "ids": [
+    "pg090_im003_seg001_v1_crop_v1"
+   ],
+   "alt": "Njëri nga Vëllezërit Frashëri, në portret bardhezi me mjekër të dendur dhe kostum.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p090_1.png",
+   "s2026": [
+    306,
+    0.99
+   ],
+   "page2026": 90,
+   "spage": [
+    53,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p085_1.png",
+   "s2024": [
+    0,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg090_im003_seg002_v1_crop_v1.png",
+   "screens": [
+    "pg090_sec002"
+   ],
+   "ids": [
+    "pg090_im003_seg002_v1_crop_v1"
+   ],
+   "alt": "Njëri nga Vëllezërit Frashëri, në portret bardhezi me mjekër dhe papion.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p090_1.png",
+   "s2026": [
+    308,
+    0.99
+   ],
+   "page2026": 90,
+   "spage": [
+    54,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p085_1.png",
+   "s2024": [
+    4,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg090_im003_seg003_v1_crop_v1.png",
+   "screens": [
+    "pg090_sec002"
+   ],
+   "ids": [
+    "pg090_im003_seg003_v1_crop_v1"
+   ],
+   "alt": "Njëri nga Vëllezërit Frashëri, në portret bardhezi me mjekër të shkurtër dhe jakë të bardhë.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p090_1.png",
+   "s2026": [
+    327,
+    0.99
+   ],
+   "page2026": 90,
+   "spage": [
+    43,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p085_1.png",
+   "s2024": [
+    5,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg090_im004.png",
+   "screens": [
+    "pg090_sec002"
+   ],
+   "ids": [
+    "pg090_im004"
+   ],
+   "alt": "Portret i Gjergj Fishtës i ulur, i veshur me petk fetar të errët.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p090_4.png",
+   "s2026": [
+    73,
+    1.0
+   ],
+   "page2026": 90,
+   "spage": [
+    11,
+    -0.04
+   ],
+   "best2024": "tools/image_review/pdf/p085_1.png",
+   "s2024": [
+    0,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg090_im002.png",
+   "screens": [
+    "pg090_sec002"
+   ],
+   "ids": [
+    "pg090_im002"
+   ],
+   "alt": "Portret bardhezi i Aleksandër Stavre Drenovës, i veshur me kostum dhe kravatë.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p090_3.png",
+   "s2026": [
+    198,
+    1.0
+   ],
+   "page2026": 90,
+   "spage": [
+    20,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p085_1.png",
+   "s2024": [
+    0,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg090_im005.png",
+   "screens": [
+    "pg090_sec002"
+   ],
+   "ids": [
+    "pg090_im005"
+   ],
+   "alt": "Portret bardhezi i Ismail Kadaresë me syze të mëdha.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p090_5.png",
+   "s2026": [
+    317,
+    1.0
+   ],
+   "page2026": 90,
+   "spage": [
+    40,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p085_1.png",
+   "s2024": [
+    0,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg090_im006.png",
+   "screens": [
+    "pg090_sec002"
+   ],
+   "ids": [
+    "pg090_im006"
+   ],
+   "alt": "Piktura “Motra Tone”, grua e ulur me veshje tradicionale të bardhë dhe dorën pranë fytyrës.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p090_6.png",
+   "s2026": [
+    540,
+    1.0
+   ],
+   "page2026": 90,
+   "spage": [
+    27,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p085_1.png",
+   "s2024": [
+    4,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg090_im007_seg001_v1_crop_v1.png",
+   "screens": [
+    "pg090_sec002"
+   ],
+   "ids": [
+    "pg090_im007_seg001_v1_crop_v1"
+   ],
+   "alt": "Portret bardhezi i njërës prej Motrave Qiriazi, me syze dhe varëse rreth qafës.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p090_2.png",
+   "s2026": [
+    527,
+    1.0
+   ],
+   "page2026": 90,
+   "spage": [
+    33,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p085_1.png",
+   "s2024": [
+    5,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg090_im007_seg002_v1_crop_v1.png",
+   "screens": [
+    "pg090_sec002"
+   ],
+   "ids": [
+    "pg090_im007_seg002_v1_crop_v1"
+   ],
+   "alt": "Portret bardhezi i njërës prej Motrave Qiriazi, me flokë të mbledhura lart.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p090_2.png",
+   "s2026": [
+    590,
+    1.0
+   ],
+   "page2026": 90,
+   "spage": [
+    37,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p085_1.png",
+   "s2024": [
+    4,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg092_im001.png",
+   "screens": [
+    "pg092_sec001"
+   ],
+   "ids": [
+    "pg092_im001"
+   ],
+   "alt": "Termocentrali “Kosova” me oxhaqe të larta, ku shfrytëzohet thëngjilli për prodhimin e energjisë elektrike.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p092_1.png",
+   "s2026": [
+    779,
+    1.0
+   ],
+   "page2026": 92,
+   "spage": [
+    86,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p085_1.png",
+   "s2024": [
+    4,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg092_im002.png",
+   "screens": [
+    "pg092_sec001"
+   ],
+   "ids": [
+    "pg092_im002"
+   ],
+   "alt": "Hyrja e një miniere në Trepçë, që lidhet me nxjerrjen e mineraleve në Mitrovicë.",
+   "in2026": true,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p092_2.png",
+   "s2026": [
+    1165,
+    1.0
+   ],
+   "page2026": 92,
+   "spage": [
+    61,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p093_3.png",
+   "s2024": [
+    5,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg093_im001.png",
+   "screens": [
+    "pg093_sec001"
+   ],
+   "ids": [
+    "pg093_im001"
+   ],
+   "alt": "Ujëvarë që derdhet në një pellg të vogël mes shkëmbinjve dhe pemëve.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p093_1.png",
+   "s2026": [
+    1144,
+    1.0
+   ],
+   "page2026": 93,
+   "spage": [
+    192,
+    0.93
+   ],
+   "best2024": "tools/image_review/pdf/p093_1.png",
+   "s2024": [
+    798,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg093_im002.png",
+   "screens": [
+    "pg093_sec001"
+   ],
+   "ids": [
+    "pg093_im002"
+   ],
+   "alt": "Liqe i qetë i rrethuar me kodra të gjelbra nën një qiell me re.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p093_2.png",
+   "s2026": [
+    560,
+    1.0
+   ],
+   "page2026": 93,
+   "spage": [
+    356,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p093_2.png",
+   "s2024": [
+    349,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg093_im004.png",
+   "screens": [
+    "pg093_sec001"
+   ],
+   "ids": [
+    "pg093_im004"
+   ],
+   "alt": "Drini i Bardhë duke rrjedhur me vrull mes shkëmbinjve të mbuluar me myshk në pyll.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p093_4.png",
+   "s2026": [
+    1076,
+    1.0
+   ],
+   "page2026": 93,
+   "spage": [
+    270,
+    0.96
+   ],
+   "best2024": "tools/image_review/pdf/p093_4.png",
+   "s2024": [
+    754,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg093_im003.png",
+   "screens": [
+    "pg093_sec001"
+   ],
+   "ids": [
+    "pg093_im003"
+   ],
+   "alt": "Platformë druri për peshkim mbi liqen, me kodra të pyllëzuara në sfond.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p093_3.png",
+   "s2026": [
+    987,
+    1.0
+   ],
+   "page2026": 93,
+   "spage": [
+    234,
+    0.98
+   ],
+   "best2024": "tools/image_review/pdf/p093_3.png",
+   "s2024": [
+    724,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg094_im001.png",
+   "screens": [
+    "pg094_sec001"
+   ],
+   "ids": [
+    "pg094_im001"
+   ],
+   "alt": "Katër turistë të rinj, të veshur në mënyrë formale, bisedojnë të buzëqeshur gjatë një vizite në Kosovë.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p094_1.png",
+   "s2026": [
+    163,
+    1.0
+   ],
+   "page2026": 94,
+   "spage": [
+    164,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p094_1.png",
+   "s2024": [
+    158,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg095_fig1_pdf.png",
+   "screens": [
+    "pg095_sec002"
+   ],
+   "ids": [
+    "pg095_fig1"
+   ],
+   "alt": "Vizatim i një termocentrali me oxhaqe që nxjerrin tym dhe me shtylla të tensionit të lartë përreth.",
+   "in2026": false,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p095_1.png",
+   "s2026": [
+    6,
+    0.0
+   ],
+   "page2026": 95,
+   "spage": [
+    6,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p095_1.png",
+   "s2024": [
+    197,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg097_im001_crop.png",
+   "screens": [
+    "pg096_sec001"
+   ],
+   "ids": [
+    "pg097_im001"
+   ],
+   "alt": "Dy fëmijë bisedojnë ulur mbi shkëmb pranë një liqeni, me male, pyll dhe shtëpi në sfond.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p097_1.png",
+   "s2026": [
+    326,
+    0.99
+   ],
+   "page2026": 97,
+   "spage": [
+    495,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p097_1.png",
+   "s2024": [
+    326,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg099_im001_crop.png",
+   "screens": [
+    "pg099_sec001"
+   ],
+   "ids": [
+    "pg099_im001_crop_v1"
+   ],
+   "alt": "Peizazh natyror me lumë që gjarpëron mes fushave të gjelbra, male në sfond dhe diell mbi horizont.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p099_1.png",
+   "s2026": [
+    97,
+    1.0
+   ],
+   "page2026": 99,
+   "spage": [
+    79,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p099_1.png",
+   "s2024": [
+    97,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg100_im001_seg001_v1.png",
+   "screens": [
+    "pg100_sec002"
+   ],
+   "ids": [
+    "pg100_im001_seg001_v1"
+   ],
+   "alt": "Lumë me një urë të vogël druri.",
+   "in2026": false,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p100_1.png",
+   "s2026": [
+    13,
+    0.24
+   ],
+   "page2026": 100,
+   "spage": [
+    14,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p100_1.png",
+   "s2024": [
+    14,
+    0.15
+   ]
+  },
+  {
+   "src": "images/pg100_im001_seg002_v1.png",
+   "screens": [
+    "pg100_sec002"
+   ],
+   "ids": [
+    "pg100_im001_seg002_v1"
+   ],
+   "alt": "Mësuese duke folur para tabelës.",
+   "in2026": false,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p100_1.png",
+   "s2026": [
+    51,
+    0.0
+   ],
+   "page2026": 100,
+   "spage": [
+    61,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p100_1.png",
+   "s2024": [
+    53,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg100_im001_seg003_v1.png",
+   "screens": [
+    "pg100_sec002"
+   ],
+   "ids": [
+    "pg100_im001_seg003_v1"
+   ],
+   "alt": "Kuzhiniere me uniformë të bardhë dhe kapelë kuzhinieri.",
+   "in2026": false,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p100_1.png",
+   "s2026": [
+    29,
+    0.0
+   ],
+   "page2026": 100,
+   "spage": [
+    38,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p100_1.png",
+   "s2024": [
+    30,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg100_im001_seg004_v1.png",
+   "screens": [
+    "pg100_sec002"
+   ],
+   "ids": [
+    "pg100_im001_seg004_v1"
+   ],
+   "alt": "Dielli me rreze të verdha në qiell të kaltër.",
+   "in2026": false,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p100_1.png",
+   "s2026": [
+    0,
+    0.0
+   ],
+   "page2026": 101,
+   "spage": [
+    0,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p100_1.png",
+   "s2024": [
+    0,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg100_im001_seg005_v1.png",
+   "screens": [
+    "pg100_sec002"
+   ],
+   "ids": [
+    "pg100_im001_seg005_v1"
+   ],
+   "alt": "Mjek me mantil të bardhë dhe stetoskop.",
+   "in2026": false,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p100_1.png",
+   "s2026": [
+    36,
+    0.0
+   ],
+   "page2026": 100,
+   "spage": [
+    57,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p100_1.png",
+   "s2024": [
+    34,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg100_im001_seg006_v1.png",
+   "screens": [
+    "pg100_sec002"
+   ],
+   "ids": [
+    "pg100_im001_seg006_v1"
+   ],
+   "alt": "Pemë e gjelbër.",
+   "in2026": false,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p100_1.png",
+   "s2026": [
+    24,
+    0.0
+   ],
+   "page2026": 100,
+   "spage": [
+    25,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p100_1.png",
+   "s2024": [
+    26,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg100_im001_seg007_v1_crop_v1.png",
+   "screens": [
+    "pg100_sec002"
+   ],
+   "ids": [
+    "pg100_im001_seg007_v1_crop_v1"
+   ],
+   "alt": "Lule e kuqe me gjethe të gjelbër.",
+   "in2026": false,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p100_1.png",
+   "s2026": [
+    16,
+    0.0
+   ],
+   "page2026": 100,
+   "spage": [
+    14,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p100_1.png",
+   "s2024": [
+    16,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg100_im001_seg008_v1.png",
+   "screens": [
+    "pg100_sec002"
+   ],
+   "ids": [
+    "pg100_im001_seg008_v1"
+   ],
+   "alt": "Bredh i gjelbër.",
+   "in2026": false,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p100_1.png",
+   "s2026": [
+    74,
+    0.0
+   ],
+   "page2026": 100,
+   "spage": [
+    127,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p100_1.png",
+   "s2024": [
+    74,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg100_im001_seg009_v1.png",
+   "screens": [
+    "pg100_sec002"
+   ],
+   "ids": [
+    "pg100_im001_seg009_v1"
+   ],
+   "alt": "Murator duke ndërtuar me tulla.",
+   "in2026": false,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p100_1.png",
+   "s2026": [
+    58,
+    0.0
+   ],
+   "page2026": 100,
+   "spage": [
+    74,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p100_1.png",
+   "s2024": [
+    57,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg100_im001_seg010_v1.png",
+   "screens": [
+    "pg100_sec002"
+   ],
+   "ids": [
+    "pg100_im001_seg010_v1"
+   ],
+   "alt": "Police me uniformë.",
+   "in2026": false,
+   "in2024": false,
+   "best2026": "tools/edition_check/pdf2026/p100_1.png",
+   "s2026": [
+    38,
+    0.0
+   ],
+   "page2026": 100,
+   "spage": [
+    48,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p100_1.png",
+   "s2024": [
+    38,
+    0.0
+   ]
+  },
+  {
+   "src": "images/pg102_im001.png",
+   "screens": [
+    "pg102_sec001"
+   ],
+   "ids": [
+    "pg102_im001"
+   ],
+   "alt": "Pamje ajrore e një kalaje të vjetër me mure guri në kodër, pranë shtëpive të qytetit, si pjesë e trashëgimisë kulturore.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p102_1.png",
+   "s2026": [
+    1156,
+    1.0
+   ],
+   "page2026": 102,
+   "spage": [
+    732,
+    0.97
+   ],
+   "best2024": "tools/image_review/pdf/p102_1.png",
+   "s2024": [
+    848,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg103_im001.png",
+   "screens": [
+    "pg103_sec001"
+   ],
+   "ids": [
+    "pg103_im001"
+   ],
+   "alt": "Pamje ajrore e një kalaje historike me mure guri dhe oborr të brendshëm, e rrethuar nga qyteti dhe një xhami pranë saj.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p103_1.png",
+   "s2026": [
+    1182,
+    1.0
+   ],
+   "page2026": 103,
+   "spage": [
+    693,
+    0.95
+   ],
+   "best2024": "tools/image_review/pdf/p103_1.png",
+   "s2024": [
+    892,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg104_im001_crop.png",
+   "screens": [
+    "pg104_sec001"
+   ],
+   "ids": [
+    "pg104_im001"
+   ],
+   "alt": "Mali fle natën në shtratin e tij, pranë komodinës me orë alarmi, ndërsa jashtë dritares shihet hëna dhe yjet.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p104_1.png",
+   "s2026": [
+    177,
+    1.0
+   ],
+   "page2026": 104,
+   "spage": [
+    177,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p104_1.png",
+   "s2024": [
+    177,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg106_im001_crop.png",
+   "screens": [
+    "pg106_sec001"
+   ],
+   "ids": [
+    "pg106_im001"
+   ],
+   "alt": "Mësuesi po u shpjegon nxënësve në klasë për kujdesin ndaj ambientit, pranë tabelës me një pamje të natyrës.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p106_1.png",
+   "s2026": [
+    285,
+    0.99
+   ],
+   "page2026": 106,
+   "spage": [
+    392,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p106_1.png",
+   "s2024": [
+    285,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg110_im001_crop.png",
+   "screens": [
+    "pg110_sec001"
+   ],
+   "ids": [
+    "pg110_im001"
+   ],
+   "alt": "Vajza e ulur në stol lexon një libër në park, ndërsa pranë saj një burrë shëtit qenin mes pemëve.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p110_1.png",
+   "s2026": [
+    360,
+    0.99
+   ],
+   "page2026": 110,
+   "spage": [
+    446,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p110_1.png",
+   "s2024": [
+    365,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg111_im001_crop.png",
+   "screens": [
+    "pg111_sec002"
+   ],
+   "ids": [
+    "pg111_im001"
+   ],
+   "alt": "Katër shporta ricikluese me ngjyra të kuqe, të gjelbër, të verdhë dhe blu në një park, ndërsa një fëmijë ecën pranë tyre mes pemëve.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p111_1.png",
+   "s2026": [
+    301,
+    0.99
+   ],
+   "page2026": 111,
+   "spage": [
+    356,
+    0.97
+   ],
+   "best2024": "tools/image_review/pdf/p111_1.png",
+   "s2024": [
+    290,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg113_im001_crop.png",
+   "screens": [
+    "pg112_sec001"
+   ],
+   "ids": [
+    "pg113_im001"
+   ],
+   "alt": "Tre fëmijë pranë një lumi pastrojnë bregun duke mbledhur shishe plastike dhe mbeturina në një qese të madhe, me fusha dhe shtëpi në sfond.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p113_1.png",
+   "s2026": [
+    299,
+    1.0
+   ],
+   "page2026": 113,
+   "spage": [
+    317,
+    0.0
+   ],
+   "best2024": "tools/image_review/pdf/p113_1.png",
+   "s2024": [
+    299,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg114_im001_crop.png",
+   "screens": [
+    "pg114_sec001"
+   ],
+   "ids": [
+    "pg114_im001"
+   ],
+   "alt": "Tre nxënës të ulur në banka përballë një tabele të gjelbër në klasë, me orë muri, vizatime dhe një poster të sistemit diellor në mur.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p114_1.png",
+   "s2026": [
+    201,
+    1.0
+   ],
+   "page2026": 114,
+   "spage": [
+    286,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p114_1.png",
+   "s2024": [
+    217,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg115_fig1_pdf.png",
+   "screens": [
+    "pg115_sec001"
+   ],
+   "ids": [
+    "pg115_fig1"
+   ],
+   "alt": "Një park me një stol të verdhë; në tokë janë hedhur një grumbull mbeturinash dhe një kanaçe.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p115_1.png",
+   "s2026": [
+    40,
+    0.99
+   ],
+   "page2026": 115,
+   "spage": [
+    77,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p115_1.png",
+   "s2024": [
+    48,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg116_im001_crop.png",
+   "screens": [
+    "pg116_sec001"
+   ],
+   "ids": [
+    "pg116_im001"
+   ],
+   "alt": "Tre nxënës të ulur rreth një tavoline në klasë, duke biseduar para dërrasës së gjelbër; në sfond duken tavolina e mësuesit, raftet me libra dhe ora e murit.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p116_1.png",
+   "s2026": [
+    218,
+    0.99
+   ],
+   "page2026": 116,
+   "spage": [
+    276,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p116_1.png",
+   "s2024": [
+    211,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg117_fig1_pdf.png",
+   "screens": [
+    "pg117_sec001"
+   ],
+   "ids": [
+    "pg117_im001_crop_v1"
+   ],
+   "alt": "Një burrë po pret një pemë me sëpatë në oborr, i parë përmes dritares.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p117_1.png",
+   "s2026": [
+    145,
+    0.99
+   ],
+   "page2026": 117,
+   "spage": [
+    231,
+    1.0
+   ],
+   "best2024": "tools/image_review/pdf/p117_1.png",
+   "s2024": [
+    152,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg118_bus_inclusive.png",
+   "screens": [
+    "pg118_sec001"
+   ],
+   "ids": [
+    "pg118_im001"
+   ],
+   "alt": "Autobus i verdhë i transportit publik me rampë të ulur te dera; një person në karrocë me rrota po hipën në autobus. Në sfond janë ndërtesat e qytetit.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p118_1.png",
+   "s2026": [
+    150,
+    0.91
+   ],
+   "page2026": 118,
+   "spage": [
+    119,
+    0.91
+   ],
+   "best2024": "tools/image_review/pdf/p118_1.png",
+   "s2024": [
+    156,
+    0.92
+   ]
+  },
+  {
+   "src": "studio/assets/pg119_sec001-train.png",
+   "screens": [
+    "pg119_sec002"
+   ],
+   "ids": [
+    "pg119_im001"
+   ],
+   "alt": "Tren modern i shpejtë duke kaluar pranë ndërtesave të qytetit, si shembull i transportit publik ekologjik.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p119_1.png",
+   "s2026": [
+    381,
+    0.99
+   ],
+   "page2026": 119,
+   "spage": [
+    298,
+    0.99
+   ],
+   "best2024": "tools/image_review/pdf/p119_1.png",
+   "s2024": [
+    415,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg121_im001-reading.png",
+   "screens": [
+    "pg120_sec001"
+   ],
+   "ids": [
+    "pg121_im001"
+   ],
+   "alt": "Mësuesja dhe pesë nxënës diskutojnë në klasë për riciklimin, me katër kosha të riciklimit me ngjyra të ndryshme përpara tavolinës.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p121_1.png",
+   "s2026": [
+    345,
+    0.99
+   ],
+   "page2026": 121,
+   "spage": [
+    507,
+    0.98
+   ],
+   "best2024": "tools/image_review/pdf/p121_1.png",
+   "s2024": [
+    345,
+    0.99
+   ]
+  },
+  {
+   "src": "images/pg123_im001_seg001_crop.png",
+   "screens": [
+    "pg122_sec001"
+   ],
+   "ids": [
+    "pg123_im001_seg001_v1"
+   ],
+   "alt": "Vajza luan në piano në skenë, para perdeve të kuqe.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p123_1.png",
+   "s2026": [
+    165,
+    1.0
+   ],
+   "page2026": 123,
+   "spage": [
+    106,
+    1.0
+   ],
+   "best2024": "tools/image_review/pdf/p123_1.png",
+   "s2024": [
+    156,
+    1.0
+   ]
+  },
+  {
+   "src": "images/pg123_im001_seg002_v1.png",
+   "screens": [
+    "pg122_sec001"
+   ],
+   "ids": [
+    "pg123_im001_seg002_v1"
+   ],
+   "alt": "Dy fëmijë pastrojnë sallën para skenës me piano, duke mbledhur mbeturina në qese.",
+   "in2026": true,
+   "in2024": true,
+   "best2026": "tools/edition_check/pdf2026/p123_2.png",
+   "s2026": [
+    177,
+    1.0
+   ],
+   "page2026": 123,
+   "spage": [
+    178,
+    1.0
+   ],
+   "best2024": "tools/image_review/pdf/p123_2.png",
+   "s2024": [
+    191,
+    1.0
+   ]
+  }
+ ],
+ "pdf2026": [
+  {
+   "src": "tools/edition_check/pdf2026/p006_1.png",
+   "page": 6,
+   "in_adt": [
+    "studio/assets/pg006_sec001-bedroom.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p007_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p007_1.png",
+   "page": 7,
+   "in_adt": [
+    "studio/assets/pg006_sec001-bedroom.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p007_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p009_1.png",
+   "page": 9,
+   "in_adt": [],
+   "in2024": false,
+   "best2024": ""
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p010_1.png",
+   "page": 10,
+   "in_adt": [],
+   "in2024": false,
+   "best2024": ""
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p011_1.png",
+   "page": 11,
+   "in_adt": [
+    "images/pg011_im001_inclusive.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p012_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p011_2.png",
+   "page": 11,
+   "in_adt": [],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p012_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p012_1.png",
+   "page": 12,
+   "in_adt": [
+    "images/pg012_im001_inclusive.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p013_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p013_1.png",
+   "page": 13,
+   "in_adt": [
+    "images/pg012_im001_inclusive.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p013_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p013_2.png",
+   "page": 13,
+   "in_adt": [
+    "images/pg013_im002.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p013_2.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p014_1.png",
+   "page": 14,
+   "in_adt": [
+    "images/pg014_im001_seg001_v1.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p014_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p014_2.png",
+   "page": 14,
+   "in_adt": [
+    "images/pg014_im001_seg002_v1.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p014_2.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p015_1.png",
+   "page": 15,
+   "in_adt": [
+    "images/pg015_im001_inclusive.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p016_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p016_1.png",
+   "page": 16,
+   "in_adt": [
+    "images/pg016_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p016_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p017_1.png",
+   "page": 17,
+   "in_adt": [
+    "images/pg017_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p017_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p018_1.png",
+   "page": 18,
+   "in_adt": [
+    "images/pg018_im002_seg001_v1-reading.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p018_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p018_2.png",
+   "page": 18,
+   "in_adt": [
+    "images/pg018_im002_seg002_v1-reading.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p018_2.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p018_3.png",
+   "page": 18,
+   "in_adt": [
+    "images/pg018_im002_seg003_v1-reading.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p018_3.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p018_4.png",
+   "page": 18,
+   "in_adt": [
+    "images/pg018_im003.jpg"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p018_4.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p019_1.png",
+   "page": 19,
+   "in_adt": [
+    "images/pg019_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p019_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p020_1.png",
+   "page": 20,
+   "in_adt": [
+    "images/pg020_im001_seg001_v1.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p020_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p020_2.png",
+   "page": 20,
+   "in_adt": [
+    "images/pg020_im001_seg003_v1_crop_v1.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p020_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p020_3.png",
+   "page": 20,
+   "in_adt": [
+    "images/pg020_im001_seg002_v1_crop_v1.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p020_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p021_1.png",
+   "page": 21,
+   "in_adt": [
+    "images/pg021_im001_inclusive.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p021_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p022_1.png",
+   "page": 22,
+   "in_adt": [
+    "images/pg022_fig1_pdf.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p022_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p023_1.png",
+   "page": 23,
+   "in_adt": [
+    "images/pg023_im001.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p023_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p024_1.png",
+   "page": 24,
+   "in_adt": [
+    "images/pg024_im001.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p024_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p024_2.png",
+   "page": 24,
+   "in_adt": [
+    "images/pg024_im001.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p024_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p025_1.png",
+   "page": 25,
+   "in_adt": [
+    "images/pg025_fig1_pdf.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p026_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p026_1.png",
+   "page": 26,
+   "in_adt": [
+    "images/pg026_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p026_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p028_1.png",
+   "page": 28,
+   "in_adt": [
+    "images/pg028_im002.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p028_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p028_2.png",
+   "page": 28,
+   "in_adt": [
+    "images/pg028_im003.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p028_2.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p028_3.png",
+   "page": 28,
+   "in_adt": [
+    "images/pg028_im004.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p028_3.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p029_1.png",
+   "page": 29,
+   "in_adt": [
+    "images/pg029_fig1_pdf.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p029_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p030_1.png",
+   "page": 30,
+   "in_adt": [
+    "images/pg030_fig1_pdf.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p030_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p031_1.png",
+   "page": 31,
+   "in_adt": [
+    "images/pg031_fig1_pdf.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p031_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p032_1.png",
+   "page": 32,
+   "in_adt": [
+    "images/pg032_fig1_pdf.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p032_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p033_1.png",
+   "page": 33,
+   "in_adt": [
+    "images/pg033_im002.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p033_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p034_1.png",
+   "page": 34,
+   "in_adt": [
+    "images/pg034_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p034_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p035_1.png",
+   "page": 35,
+   "in_adt": [
+    "images/pg035_im001_seg001_v1.png",
+    "images/pg035_im001_seg002_v1.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p035_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p036_1.png",
+   "page": 36,
+   "in_adt": [
+    "images/pg036_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p036_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p037_1.png",
+   "page": 37,
+   "in_adt": [
+    "images/pg037_im001_crop_v1.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p037_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p038_1.png",
+   "page": 38,
+   "in_adt": [
+    "images/pg038_im001_crop2.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p038_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p039_1.png",
+   "page": 39,
+   "in_adt": [
+    "images/pg039_im001_crop_v1.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p039_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p040_1.png",
+   "page": 40,
+   "in_adt": [
+    "images/pg040_im001.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p040_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p041_1.png",
+   "page": 41,
+   "in_adt": [],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p041_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p042_1.png",
+   "page": 42,
+   "in_adt": [
+    "images/pg042_im001_inclusive.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p042_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p043_1.png",
+   "page": 43,
+   "in_adt": [
+    "images/pg043_im001_inclusive.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p043_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p044_1.png",
+   "page": 44,
+   "in_adt": [
+    "studio/assets/pg044_sec001-composite.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p044_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p045_1.png",
+   "page": 45,
+   "in_adt": [
+    "images/pg045_im001.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p045_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p046_1.png",
+   "page": 46,
+   "in_adt": [
+    "images/pg046_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p046_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p047_1.png",
+   "page": 47,
+   "in_adt": [
+    "images/pg047_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p047_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p048_1.png",
+   "page": 48,
+   "in_adt": [
+    "images/pg048_im002_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p048_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p049_1.png",
+   "page": 49,
+   "in_adt": [
+    "images/pg049_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p049_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p051_1.png",
+   "page": 51,
+   "in_adt": [
+    "images/pg051_im001_inclusive.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p051_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p052_1.png",
+   "page": 52,
+   "in_adt": [
+    "images/pg052_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p052_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p053_1.png",
+   "page": 53,
+   "in_adt": [
+    "images/pg053_im001_inclusive.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p053_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p054_1.png",
+   "page": 54,
+   "in_adt": [
+    "images/pg054_im001.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p054_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p055_1.png",
+   "page": 55,
+   "in_adt": [
+    "images/pg055_im001.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p055_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p057_1.png",
+   "page": 57,
+   "in_adt": [
+    "studio/assets/pg057_sec001-scene.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p057_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p058_1.png",
+   "page": 58,
+   "in_adt": [
+    "images/pg058_im001_seg001_inclusive.png",
+    "images/pg058_im001_seg002_inclusive.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p058_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p058_2.png",
+   "page": 58,
+   "in_adt": [
+    "images/pg058_im001_seg001_inclusive.png",
+    "images/pg058_im001_seg002_inclusive.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p058_2.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p058_3.png",
+   "page": 58,
+   "in_adt": [
+    "images/pg058_im001_seg003_inclusive.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p058_3.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p059_1.png",
+   "page": 59,
+   "in_adt": [
+    "images/pg059_judge_flamur.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p059_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p059_2.png",
+   "page": 59,
+   "in_adt": [
+    "images/pg059_prosecutor_flamur.png",
+    "images/pg059_notary_flamur.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p059_2.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p059_3.png",
+   "page": 59,
+   "in_adt": [
+    "images/pg059_prosecutor_flamur.png",
+    "images/pg059_notary_flamur.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p059_3.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p059_4.png",
+   "page": 59,
+   "in_adt": [
+    "images/pg059_lawyer_flamur.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p059_4.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p060_1.png",
+   "page": 60,
+   "in_adt": [
+    "images/pg060_im001_seg001_v1.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p060_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p060_2.png",
+   "page": 60,
+   "in_adt": [],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p060_2.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p061_1.png",
+   "page": 61,
+   "in_adt": [
+    "images/pg061_im001_seg003_v1.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p061_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p061_2.png",
+   "page": 61,
+   "in_adt": [
+    "images/pg061_im001_seg003_v1.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p061_2.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p062_1.png",
+   "page": 62,
+   "in_adt": [
+    "images/pg062_im001.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p062_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p063_1.png",
+   "page": 63,
+   "in_adt": [
+    "studio/assets/pg063_sec001-map.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p063_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p065_1.png",
+   "page": 65,
+   "in_adt": [
+    "images/pg065_im002.jpg"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p065_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p065_2.png",
+   "page": 65,
+   "in_adt": [],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p066_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p066_1.png",
+   "page": 66,
+   "in_adt": [
+    "images/pg066_map_flamur.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p066_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p067_1.png",
+   "page": 67,
+   "in_adt": [
+    "images/pg067_scene_inclusive.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p067_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p069_1.png",
+   "page": 69,
+   "in_adt": [
+    "images/pg069_im001_seg001_v1.png",
+    "images/pg069_im001_seg002_v1.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p069_2.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p070_1.png",
+   "page": 70,
+   "in_adt": [
+    "images/pg070_im002.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p070_2.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p070_2.png",
+   "page": 70,
+   "in_adt": [
+    "images/pg070_im001.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p070_2.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p071_1.png",
+   "page": 71,
+   "in_adt": [
+    "images/pg071_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p071_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p072_1.png",
+   "page": 72,
+   "in_adt": [
+    "images/pg072_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p072_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p074_1.png",
+   "page": 74,
+   "in_adt": [],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p075_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p075_1.png",
+   "page": 75,
+   "in_adt": [
+    "images/pg075_im001_crop_v1-reading.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p075_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p076_1.png",
+   "page": 76,
+   "in_adt": [],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p076_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p076_2.png",
+   "page": 76,
+   "in_adt": [],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p075_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p076_3.png",
+   "page": 76,
+   "in_adt": [
+    "images/pg076_im005.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p076_3.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p076_4.png",
+   "page": 76,
+   "in_adt": [
+    "studio/assets/pg076_sec001-sevasti.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p076_3.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p077_1.png",
+   "page": 77,
+   "in_adt": [
+    "images/pg077_im001.jpg"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p077_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p078_1.png",
+   "page": 78,
+   "in_adt": [
+    "images/pg078_im002.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p078_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p078_2.png",
+   "page": 78,
+   "in_adt": [
+    "images/pg078_im001.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p078_2.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p079_1.png",
+   "page": 79,
+   "in_adt": [
+    "studio/assets/pg079_sec001-ymer.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p079_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p079_2.png",
+   "page": 79,
+   "in_adt": [
+    "studio/assets/pg079_sec001-nexhmije.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p079_2.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p079_3.png",
+   "page": 79,
+   "in_adt": [
+    "images/pg079_rita_crop.png",
+    "images/pg079_im002.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p079_3.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p079_4.png",
+   "page": 79,
+   "in_adt": [],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p079_5.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p079_5.png",
+   "page": 79,
+   "in_adt": [
+    "studio/assets/pg079_sec001-bekim.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p079_5.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p080_1.png",
+   "page": 80,
+   "in_adt": [
+    "images/pg080_im001.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p080_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p082_1.png",
+   "page": 82,
+   "in_adt": [],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p083_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p083_1.png",
+   "page": 83,
+   "in_adt": [
+    "images/pg083_im004.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p083_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p083_2.png",
+   "page": 83,
+   "in_adt": [
+    "images/pg083_im005.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p083_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p083_3.png",
+   "page": 83,
+   "in_adt": [
+    "images/pg083_im003.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p083_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p083_4.png",
+   "page": 83,
+   "in_adt": [
+    "images/pg083_im002.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p083_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p084_1.png",
+   "page": 84,
+   "in_adt": [
+    "images/pg084_im001.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p086_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p085_1.png",
+   "page": 85,
+   "in_adt": [
+    "images/pg085_im001.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p087_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p085_2.png",
+   "page": 85,
+   "in_adt": [
+    "images/pg085_im002.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p087_2.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p085_3.png",
+   "page": 85,
+   "in_adt": [
+    "images/pg085_im003.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p087_3.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p086_1.png",
+   "page": 86,
+   "in_adt": [
+    "images/pg086_im001.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p088_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p087_1.png",
+   "page": 87,
+   "in_adt": [
+    "images/pg087_fig1_pdf.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p089_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p087_2.png",
+   "page": 87,
+   "in_adt": [
+    "images/pg087_fig2_pdf.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p089_2.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p087_3.png",
+   "page": 87,
+   "in_adt": [
+    "images/pg087_im008_seg003_crop.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p090_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p087_4.png",
+   "page": 87,
+   "in_adt": [],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p090_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p087_5.png",
+   "page": 87,
+   "in_adt": [
+    "images/pg087_im008_seg004_crop.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p090_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p088_1.png",
+   "page": 88,
+   "in_adt": [
+    "images/pg088_im002.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p089_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p088_2.png",
+   "page": 88,
+   "in_adt": [
+    "images/pg088_im001.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p090_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p090_1.png",
+   "page": 90,
+   "in_adt": [
+    "images/pg090_im003_seg001_v1_crop_v1.png",
+    "images/pg090_im003_seg002_v1_crop_v1.png",
+    "images/pg090_im003_seg003_v1_crop_v1.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p085_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p090_2.png",
+   "page": 90,
+   "in_adt": [
+    "images/pg090_im007_seg001_v1_crop_v1.png",
+    "images/pg090_im007_seg002_v1_crop_v1.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p085_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p090_3.png",
+   "page": 90,
+   "in_adt": [
+    "images/pg090_im002.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p085_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p090_4.png",
+   "page": 90,
+   "in_adt": [
+    "images/pg090_im004.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p085_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p090_5.png",
+   "page": 90,
+   "in_adt": [
+    "images/pg090_im005.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p085_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p090_6.png",
+   "page": 90,
+   "in_adt": [
+    "images/pg090_im006.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p085_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p091_1.png",
+   "page": 91,
+   "in_adt": [
+    "images/pg091_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p085_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p092_1.png",
+   "page": 92,
+   "in_adt": [
+    "images/pg092_im001.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p085_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p092_2.png",
+   "page": 92,
+   "in_adt": [
+    "images/pg092_im002.png"
+   ],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p093_3.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p093_1.png",
+   "page": 93,
+   "in_adt": [
+    "images/pg093_im001.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p093_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p093_2.png",
+   "page": 93,
+   "in_adt": [
+    "images/pg093_im002.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p093_2.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p093_3.png",
+   "page": 93,
+   "in_adt": [
+    "images/pg093_im003.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p093_3.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p093_4.png",
+   "page": 93,
+   "in_adt": [
+    "images/pg093_im004.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p093_4.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p094_1.png",
+   "page": 94,
+   "in_adt": [
+    "images/pg094_im001.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p094_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p095_1.png",
+   "page": 95,
+   "in_adt": [],
+   "in2024": false,
+   "best2024": "tools/image_review/pdf/p095_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p097_1.png",
+   "page": 97,
+   "in_adt": [
+    "images/pg097_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p097_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p099_1.png",
+   "page": 99,
+   "in_adt": [
+    "images/pg099_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p099_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p100_1.png",
+   "page": 100,
+   "in_adt": [],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p100_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p102_1.png",
+   "page": 102,
+   "in_adt": [
+    "images/pg102_im001.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p102_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p103_1.png",
+   "page": 103,
+   "in_adt": [
+    "images/pg103_im001.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p103_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p104_1.png",
+   "page": 104,
+   "in_adt": [
+    "images/pg104_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p104_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p106_1.png",
+   "page": 106,
+   "in_adt": [
+    "images/pg106_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p106_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p110_1.png",
+   "page": 110,
+   "in_adt": [
+    "images/pg110_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p110_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p111_1.png",
+   "page": 111,
+   "in_adt": [
+    "images/pg111_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p111_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p113_1.png",
+   "page": 113,
+   "in_adt": [
+    "images/pg113_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p113_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p114_1.png",
+   "page": 114,
+   "in_adt": [
+    "images/pg114_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p114_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p115_1.png",
+   "page": 115,
+   "in_adt": [
+    "images/pg115_fig1_pdf.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p115_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p116_1.png",
+   "page": 116,
+   "in_adt": [
+    "images/pg116_im001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p116_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p117_1.png",
+   "page": 117,
+   "in_adt": [
+    "images/pg117_fig1_pdf.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p117_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p118_1.png",
+   "page": 118,
+   "in_adt": [
+    "images/pg118_bus_inclusive.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p118_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p119_1.png",
+   "page": 119,
+   "in_adt": [
+    "studio/assets/pg119_sec001-train.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p119_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p121_1.png",
+   "page": 121,
+   "in_adt": [
+    "images/pg121_im001-reading.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p121_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p123_1.png",
+   "page": 123,
+   "in_adt": [
+    "images/pg123_im001_seg001_crop.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p123_1.png"
+  },
+  {
+   "src": "tools/edition_check/pdf2026/p123_2.png",
+   "page": 123,
+   "in_adt": [
+    "images/pg123_im001_seg002_v1.png"
+   ],
+   "in2024": true,
+   "best2024": "tools/image_review/pdf/p123_2.png"
+  }
+ ]
+}
